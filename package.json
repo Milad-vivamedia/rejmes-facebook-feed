@@ -1,0 +1,18 @@
+{
+  "name": "rejmes-bil-facebook-feed",
+  "version": "1.0.0",
+  "description": "Automated Facebook Dynamic Ads feed for Rejmes Bil (vehicles with manufacturer warranty)",
+  "main": "generate-feed.js",
+  "scripts": {
+    "generate": "node generate-feed.js"
+  },
+  "keywords": [
+    "facebook",
+    "dynamic-ads",
+    "automotive",
+    "feed",
+    "rejmes-bil"
+  ],
+  "author": "",
+  "license": "MIT"
+}
