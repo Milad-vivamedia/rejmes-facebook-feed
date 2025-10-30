@@ -7,6 +7,43 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
+    <vehicle_id>71a32918-558c-469a-a045-fbd3721ca8f8</vehicle_id>
+    <vehicle_registration_plate>JBE93W</vehicle_registration_plate>
+    <title>Volvo XC60 T6 Plus Dark Edition</title>
+    <description>T6 Plus Dark Edition. Utrustningsnivå: Plus. Miltal: 1 921 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: JBE93W. Kontakta oss för mer information om detta fordon.</description>
+    <link>https://www.rejmesbil.se/sok/id/71a32918-558c-469a-a045-fbd3721ca8f8</link>
+    <url>https://www.rejmesbil.se/sok/id/71a32918-558c-469a-a045-fbd3721ca8f8</url>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <image>
+      <url>https://cdn.wayke.se/cfit/ca3dd62b-d30c-4ef8-97d4-d7be6c923e98/73caec90-f49d-4aad-8b88-6a264b4c99a1?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC60</model>
+    <year>2025</year>
+    <mileage>
+      <value>19210</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Plug-in Hybrid</fuel_type>
+    <transmission>Automatic</transmission>
+    <price>569500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Falkenberg</component>
+      <component name="city">Falkenberg</component>
+      <component name="region">Falkenberg</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>569500 SEK</sale_price>
+    <availability>in stock</availability>
+    <condition>new</condition>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <dealer_id>a19b2c7e-0d5f-4834-bf2d-a285eff2d725</dealer_id>
+    </item>
+    <item>
+    <google_product_category>916</google_product_category>
+    <fb_product_category>173</fb_product_category>
     <vehicle_id>7e3d38fb-e35f-4b5f-8ab6-7f6cd43f725d</vehicle_id>
     <vehicle_registration_plate>CET86E</vehicle_registration_plate>
     <title>Volvo XC40 B4 FWD Bensin Plus Dark</title>
