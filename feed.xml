@@ -3152,43 +3152,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>61c11743-9d58-43ea-affe-c8dfde958858</vehicle_id>
-    <vehicle_registration_plate>KGW02U</vehicle_registration_plate>
-    <title>Volvo XC60 T6 Plus Dark Edition | 360° | Dragkrok |</title>
-    <description>T6 Plus Dark Edition | 360° | Dragkrok |. Utrustningsnivå: Plus. Miltal: 2 566 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: KGW02U. Kontakta oss för mer information om detta fordon.</description>
-    <link>https://www.rejmesbil.se/sok/id/61c11743-9d58-43ea-affe-c8dfde958858</link>
-    <url>https://www.rejmesbil.se/sok/id/61c11743-9d58-43ea-affe-c8dfde958858</url>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/9da24968-fa0d-4db5-81f9-69cb83b53662/d198efdb-4df6-49d0-8083-2e8c16d4720f?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC60</model>
-    <year>2025</year>
-    <mileage>
-      <value>25660</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Plug-in Hybrid</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>549500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>549500 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>new</condition>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>0ebf8222-4a23-4674-8af1-ca08ac1f66f4</vehicle_id>
     <vehicle_registration_plate>LTX74J</vehicle_registration_plate>
     <title>Volvo V60 T6 Plus Bright Edition</title>
@@ -4100,16 +4063,16 @@
     <transmission>Automatic</transmission>
     <price>369500 SEK</price>
     <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
+      <component name="addr1">Rejmes Halland - Laholm</component>
+      <component name="city">Laholm</component>
+      <component name="region">Laholm</component>
       <component name="country">SE</component>
     </address>
     <sale_price>369500 SEK</sale_price>
     <availability>in stock</availability>
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
+    <dealer_id>cddd81a6-5031-42cd-a468-67eb1f2299c7</dealer_id>
     </item>
     <item>
     <google_product_category>916</google_product_category>
