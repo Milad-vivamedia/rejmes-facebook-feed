@@ -7,6 +7,43 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
+    <vehicle_id>f2189d9e-9946-419b-84c4-bf33af814f11</vehicle_id>
+    <vehicle_registration_plate>RMS77B</vehicle_registration_plate>
+    <title>Volvo V90 T6 Plus Dark Edition</title>
+    <description>T6 Plus Dark Edition. Utrustningsnivå: Plus. Miltal: 971 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: RMS77B. Kontakta oss för mer information om detta fordon.</description>
+    <link>https://www.rejmesbil.se/sok/id/f2189d9e-9946-419b-84c4-bf33af814f11</link>
+    <url>https://www.rejmesbil.se/sok/id/f2189d9e-9946-419b-84c4-bf33af814f11</url>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <image>
+      <url>https://cdn.wayke.se/cfit/06c31341-62bd-42ba-a38d-b9b5004d4e41/7608b732-1313-42e7-8698-679096b94579?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>V90</model>
+    <year>2025</year>
+    <mileage>
+      <value>9710</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Wagon</body_style>
+    <fuel_type>Plug-in Hybrid</fuel_type>
+    <transmission>Automatic</transmission>
+    <price>529500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Halmstad</component>
+      <component name="city">Halmstad</component>
+      <component name="region">Halmstad</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>529500 SEK</sale_price>
+    <availability>in stock</availability>
+    <condition>new</condition>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
+    </item>
+    <item>
+    <google_product_category>916</google_product_category>
+    <fb_product_category>173</fb_product_category>
     <vehicle_id>f0b72c6b-d0eb-46dc-a0b1-af8190381f47</vehicle_id>
     <vehicle_registration_plate>WBC21D</vehicle_registration_plate>
     <title>Volvo EX30 Ultra</title>
