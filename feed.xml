@@ -7,6 +7,43 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
+    <vehicle_id>cc426a34-1dac-4b51-8c63-5cb428ed17dd</vehicle_id>
+    <vehicle_registration_plate>LGL00F</vehicle_registration_plate>
+    <title>Volvo XC60 Recharge T6 II Plus Bright</title>
+    <description>Recharge T6 II Plus Bright. Utrustningsnivå: Plus. Miltal: 3 601 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: LGL00F. Kontakta oss för mer information om detta fordon.</description>
+    <link>https://www.rejmesbil.se/sok/id/cc426a34-1dac-4b51-8c63-5cb428ed17dd</link>
+    <url>https://www.rejmesbil.se/sok/id/cc426a34-1dac-4b51-8c63-5cb428ed17dd</url>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <image>
+      <url>https://cdn.wayke.se/cfit/c6f8b45b-f875-432b-99f2-b74a578ab2f1/ce1b3c07-b6f0-4334-b907-1d00adb108ef?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC60</model>
+    <year>2024</year>
+    <mileage>
+      <value>36010</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Plug-in Hybrid</fuel_type>
+    <transmission>Automatic</transmission>
+    <price>529500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Falkenberg</component>
+      <component name="city">Falkenberg</component>
+      <component name="region">Falkenberg</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>529500 SEK</sale_price>
+    <availability>in stock</availability>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>a19b2c7e-0d5f-4834-bf2d-a285eff2d725</dealer_id>
+    </item>
+    <item>
+    <google_product_category>916</google_product_category>
+    <fb_product_category>173</fb_product_category>
     <vehicle_id>4a67e803-1ea8-4abf-96b7-dfab1a434341</vehicle_id>
     <vehicle_registration_plate>CAT86F</vehicle_registration_plate>
     <title>Volvo XC60 T6 Plus Bright Edition</title>
