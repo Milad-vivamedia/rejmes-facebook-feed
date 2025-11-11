@@ -52,6 +52,10 @@
     <url>https://www.rejmesbil.se/sok/id/dce84d38-08bb-426a-8e6f-ce36dd343586</url>
     <brand>Volvo</brand>
     <make>Volvo</make>
+    <image>
+      <url>https://cdn.wayke.se/cfit/3868954e-ee94-46ad-863b-e50c155987de/6ad2a4c4-495e-4693-8548-c36e4a530607?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
     <model>EC40</model>
     <year>2025</year>
     <mileage>
@@ -85,6 +89,10 @@
     <url>https://www.rejmesbil.se/sok/id/2116e0b4-9a9d-4cca-9ad3-cf7a9d4bcaaf</url>
     <brand>Volvo</brand>
     <make>Volvo</make>
+    <image>
+      <url>https://cdn.wayke.se/cfit/3b1410f5-9e8c-4ddb-8784-9020351d6ffd/d5f9504e-2865-47f4-8bf4-9e58a51ba5eb?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
     <model>XC40</model>
     <year>2020</year>
     <mileage>
@@ -118,6 +126,10 @@
     <url>https://www.rejmesbil.se/sok/id/7a554702-c447-4237-afaf-c2e7b79acdb9</url>
     <brand>Volvo</brand>
     <make>Volvo</make>
+    <image>
+      <url>https://cdn.wayke.se/cfit/4a8293ee-dcc5-4ffc-8940-72721ea2affd/be7b1032-fec0-42d6-bd65-ee6d902c601d?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
     <model>XC90</model>
     <year>2025</year>
     <mileage>
@@ -4105,7 +4117,7 @@
     <vehicle_id>4575fc0f-e584-479c-9460-abd28dd93819</vehicle_id>
     <vehicle_registration_plate>LRA38K</vehicle_registration_plate>
     <title>Volvo C40 Plus</title>
-    <description>Plus. Utrustningsnivå: Plus. Miltal: 2 403 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Registreringsnummer: LRA38K. Kontakta oss för mer information om detta fordon.</description>
+    <description>Plus. Utrustningsnivå: Plus. Miltal: 2 412 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Registreringsnummer: LRA38K. Kontakta oss för mer information om detta fordon.</description>
     <link>https://www.rejmesbil.se/sok/id/4575fc0f-e584-479c-9460-abd28dd93819</link>
     <url>https://www.rejmesbil.se/sok/id/4575fc0f-e584-479c-9460-abd28dd93819</url>
     <brand>Volvo</brand>
@@ -4117,7 +4129,7 @@
     <model>C40</model>
     <year>2024</year>
     <mileage>
-      <value>24030</value>
+      <value>24120</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Sedan</body_style>
