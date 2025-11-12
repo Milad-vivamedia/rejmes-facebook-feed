@@ -7,6 +7,43 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
+    <vehicle_id>3a4cb20a-98c4-4fa1-b9c2-e8284cd7ba53</vehicle_id>
+    <vehicle_registration_plate>DKP34S</vehicle_registration_plate>
+    <title>Volvo XC60 T6 Plus Dark Edition</title>
+    <description>T6 Plus Dark Edition. Utrustningsnivå: Plus. Miltal: 851 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: DKP34S. Kontakta oss för mer information om detta fordon.</description>
+    <link>https://www.rejmesbil.se/sok/id/3a4cb20a-98c4-4fa1-b9c2-e8284cd7ba53</link>
+    <url>https://www.rejmesbil.se/sok/id/3a4cb20a-98c4-4fa1-b9c2-e8284cd7ba53</url>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <image>
+      <url>https://cdn.wayke.se/cfit/10b50523-365a-460d-97ae-41b966dee321/a51e7af0-60d7-48dd-a625-c36ab2e178d7?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC60</model>
+    <year>2025</year>
+    <mileage>
+      <value>8510</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Plug-in Hybrid</fuel_type>
+    <transmission>Automatic</transmission>
+    <price>569500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Halmstad</component>
+      <component name="city">Halmstad</component>
+      <component name="region">Halmstad</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>569500 SEK</sale_price>
+    <availability>in stock</availability>
+    <condition>new</condition>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
+    </item>
+    <item>
+    <google_product_category>916</google_product_category>
+    <fb_product_category>173</fb_product_category>
     <vehicle_id>ee4ec303-ca16-4251-b29c-b2ff1915af22</vehicle_id>
     <vehicle_registration_plate>CZT02X</vehicle_registration_plate>
     <title>Volvo V60 T6 Plus Dark Edition</title>
