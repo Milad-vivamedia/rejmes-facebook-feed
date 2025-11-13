@@ -1487,43 +1487,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>cf3379bd-f8c2-460e-a8d3-3385eb875438</vehicle_id>
-    <vehicle_registration_plate>WAB76S</vehicle_registration_plate>
-    <title>Volvo XC40 Plus</title>
-    <description>Plus. Utrustningsnivå: Plus. Miltal: 3 432 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: WAB76S. Kontakta oss för mer information om detta fordon.</description>
-    <link>https://www.rejmesbil.se/sok/id/cf3379bd-f8c2-460e-a8d3-3385eb875438</link>
-    <url>https://www.rejmesbil.se/sok/id/cf3379bd-f8c2-460e-a8d3-3385eb875438</url>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/816bd143-292a-4dda-9aa2-5398bc3e476b/ec20e7b1-c7f6-4bef-be92-d7d0ec4a24a8?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2023</year>
-    <mileage>
-      <value>34320</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>369500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>369500 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>ce07912d-bb81-4640-a4b2-3269e6d3d48a</vehicle_id>
     <vehicle_registration_plate>RYZ76P</vehicle_registration_plate>
     <title>Volvo V60 T6 Plus Dark Edition</title>
@@ -5442,43 +5405,6 @@
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>6c32d038-2565-4fc0-8d42-f07474778efc</vehicle_id>
-    <vehicle_registration_plate>HGP02T</vehicle_registration_plate>
-    <title>Volvo XC40 Recharge T4 Inscription Expression | Navigation Pro | P-Kamera | Dragkrok |</title>
-    <description>Recharge T4 Inscription Expression | Navigation Pro | P-Kamera | Dragkrok |. Utrustningsnivå: Momentum. Miltal: 10 449 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: HGP02T. Kontakta oss för mer information om detta fordon.</description>
-    <link>https://www.rejmesbil.se/sok/id/6c32d038-2565-4fc0-8d42-f07474778efc</link>
-    <url>https://www.rejmesbil.se/sok/id/6c32d038-2565-4fc0-8d42-f07474778efc</url>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/cfcfdebd-306a-4cf9-a89f-12b45238c6ca/b6606ac9-18d6-4054-8c18-4c786b100194?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2021</year>
-    <mileage>
-      <value>104490</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Plug-in Hybrid</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>284500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Laholm</component>
-      <component name="city">Laholm</component>
-      <component name="region">Laholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>284500 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>cddd81a6-5031-42cd-a468-67eb1f2299c7</dealer_id>
     </item>
     <item>
     <google_product_category>916</google_product_category>
