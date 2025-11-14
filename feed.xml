@@ -599,43 +599,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>3a4cb20a-98c4-4fa1-b9c2-e8284cd7ba53</vehicle_id>
-    <vehicle_registration_plate>DKP34S</vehicle_registration_plate>
-    <title>Volvo XC60 T6 Plus Dark Edition |Drag |360° |Läder |Elstol |Panorama</title>
-    <description>T6 Plus Dark Edition |Drag |360° |Läder |Elstol |Panorama. Utrustningsnivå: Plus. Miltal: 851 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: DKP34S. Kontakta oss för mer information om detta fordon.</description>
-    <link>https://www.rejmesbil.se/sok/id/3a4cb20a-98c4-4fa1-b9c2-e8284cd7ba53</link>
-    <url>https://www.rejmesbil.se/sok/id/3a4cb20a-98c4-4fa1-b9c2-e8284cd7ba53</url>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/10b50523-365a-460d-97ae-41b966dee321/a51e7af0-60d7-48dd-a625-c36ab2e178d7?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC60</model>
-    <year>2025</year>
-    <mileage>
-      <value>8510</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Plug-in Hybrid</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>569500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>569500 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>new</condition>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>ee4ec303-ca16-4251-b29c-b2ff1915af22</vehicle_id>
     <vehicle_registration_plate>CZT02X</vehicle_registration_plate>
     <title>Volvo V60 T6 Plus Dark Edition |Drag |Kamera |Elstol</title>
@@ -4521,43 +4484,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>09050fb5-bda4-4606-a957-44edf0a96597</vehicle_id>
-    <vehicle_registration_plate>LXP02W</vehicle_registration_plate>
-    <title>Volvo XC40 Plus</title>
-    <description>Plus. Utrustningsnivå: Plus. Miltal: 7 537 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: LXP02W. Kontakta oss för mer information om detta fordon.</description>
-    <link>https://www.rejmesbil.se/sok/id/09050fb5-bda4-4606-a957-44edf0a96597</link>
-    <url>https://www.rejmesbil.se/sok/id/09050fb5-bda4-4606-a957-44edf0a96597</url>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/6e091364-8e3a-45bc-8058-e645a1b11556/173d31e2-7558-41ef-9e06-29b6315186fa?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2023</year>
-    <mileage>
-      <value>75370</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>369500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>369500 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>72694cd7-32d7-4db4-986f-531821453788</vehicle_id>
     <vehicle_registration_plate>HZZ78G</vehicle_registration_plate>
     <title>Volvo EX40 M Ultra Black Edt | Pano | 360 | Drag</title>
@@ -5442,43 +5368,6 @@
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>03b86e42-6f22-4a5d-96e9-fc3631e95a71</vehicle_id>
-    <vehicle_registration_plate>EEY44W</vehicle_registration_plate>
-    <title>Volvo XC60 B4 Diesel Momentum Advanced Edt II | 19&quot; | Drag | Lastgaller</title>
-    <description>B4 Diesel Momentum Advanced Edt II | 19&quot; | Drag | Lastgaller. Utrustningsnivå: Momentum. Miltal: 9 171 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: EEY44W. Kontakta oss för mer information om detta fordon.</description>
-    <link>https://www.rejmesbil.se/sok/id/03b86e42-6f22-4a5d-96e9-fc3631e95a71</link>
-    <url>https://www.rejmesbil.se/sok/id/03b86e42-6f22-4a5d-96e9-fc3631e95a71</url>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/532e21eb-0a13-48ed-a682-ba9b180f1f4f/f07c1ffb-bfd0-4779-8c00-2a23111807ce?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC60</model>
-    <year>2022</year>
-    <mileage>
-      <value>91710</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Diesel</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>369500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Laholm</component>
-      <component name="city">Laholm</component>
-      <component name="region">Laholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>369500 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>cddd81a6-5031-42cd-a468-67eb1f2299c7</dealer_id>
     </item>
     <item>
     <google_product_category>916</google_product_category>
