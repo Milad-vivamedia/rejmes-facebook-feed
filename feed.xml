@@ -7,6 +7,43 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
+    <vehicle_id>7b90525b-9be4-43ad-9921-93ff21d3c166</vehicle_id>
+    <vehicle_registration_plate>CNR23C</vehicle_registration_plate>
+    <title>Volvo XC60 T6 Plus Dark Edition</title>
+    <description>T6 Plus Dark Edition. Utrustningsnivå: Plus. Miltal: 2 775 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: CNR23C. Kontakta oss för mer information om detta fordon.</description>
+    <link>https://www.rejmesbil.se/sok/id/7b90525b-9be4-43ad-9921-93ff21d3c166</link>
+    <url>https://www.rejmesbil.se/sok/id/7b90525b-9be4-43ad-9921-93ff21d3c166</url>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <image>
+      <url>https://cdn.wayke.se/cfit/cf5f62e0-0627-456b-bcb2-70081a29b2f5/338b42e0-79e5-4250-b09d-53d08279b388?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC60</model>
+    <year>2025</year>
+    <mileage>
+      <value>27750</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Plug-in Hybrid</fuel_type>
+    <transmission>Automatic</transmission>
+    <price>559500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Halmstad</component>
+      <component name="city">Halmstad</component>
+      <component name="region">Halmstad</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>559500 SEK</sale_price>
+    <availability>in stock</availability>
+    <condition>new</condition>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
+    </item>
+    <item>
+    <google_product_category>916</google_product_category>
+    <fb_product_category>173</fb_product_category>
     <vehicle_id>2b7802b0-bd0c-4a38-8e29-15a0a46914c2</vehicle_id>
     <vehicle_registration_plate>KCR63P</vehicle_registration_plate>
     <title>Volvo XC60 T6 Plus Dark Edition |Drag |360° |Läder |Elstol |Panorama</title>
