@@ -1006,43 +1006,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>2116e0b4-9a9d-4cca-9ad3-cf7a9d4bcaaf</vehicle_id>
-    <vehicle_registration_plate>YYK90K</vehicle_registration_plate>
-    <title>Volvo XC40 T4 FWD Momentum Advanced Edition</title>
-    <description>T4 FWD Momentum Advanced Edition. Utrustningsnivå: Momentum. Miltal: 5 064 mil. Årsmodell: 2020. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: YYK90K. Kontakta oss för mer information om detta fordon.</description>
-    <link>https://www.rejmesbil.se/sok/id/2116e0b4-9a9d-4cca-9ad3-cf7a9d4bcaaf</link>
-    <url>https://www.rejmesbil.se/sok/id/2116e0b4-9a9d-4cca-9ad3-cf7a9d4bcaaf</url>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/3b1410f5-9e8c-4ddb-8784-9020351d6ffd/d5f9504e-2865-47f4-8bf4-9e58a51ba5eb?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2020</year>
-    <mileage>
-      <value>50640</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>343500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Laholm</component>
-      <component name="city">Laholm</component>
-      <component name="region">Laholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>343500 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>cddd81a6-5031-42cd-a468-67eb1f2299c7</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>7a554702-c447-4237-afaf-c2e7b79acdb9</vehicle_id>
     <vehicle_registration_plate>YCK70M</vehicle_registration_plate>
     <title>Volvo XC90 T8 Ultra Dark Edition</title>
@@ -2149,43 +2112,6 @@
     <condition>new</condition>
     <state_of_vehicle>NEW</state_of_vehicle>
     <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
-    <vehicle_id>71a32918-558c-469a-a045-fbd3721ca8f8</vehicle_id>
-    <vehicle_registration_plate>JBE93W</vehicle_registration_plate>
-    <title>Volvo XC60 T6 Plus Dark Edition</title>
-    <description>T6 Plus Dark Edition. Utrustningsnivå: Plus. Miltal: 1 921 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: JBE93W. Kontakta oss för mer information om detta fordon.</description>
-    <link>https://www.rejmesbil.se/sok/id/71a32918-558c-469a-a045-fbd3721ca8f8</link>
-    <url>https://www.rejmesbil.se/sok/id/71a32918-558c-469a-a045-fbd3721ca8f8</url>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/ca3dd62b-d30c-4ef8-97d4-d7be6c923e98/73caec90-f49d-4aad-8b88-6a264b4c99a1?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC60</model>
-    <year>2025</year>
-    <mileage>
-      <value>19210</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Plug-in Hybrid</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>569500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Falkenberg</component>
-      <component name="city">Falkenberg</component>
-      <component name="region">Falkenberg</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>569500 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>new</condition>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <dealer_id>a19b2c7e-0d5f-4834-bf2d-a285eff2d725</dealer_id>
     </item>
     <item>
     <google_product_category>916</google_product_category>
@@ -5060,14 +4986,14 @@
     <body_style>SUV</body_style>
     <fuel_type>Diesel</fuel_type>
     <transmission>Automatic</transmission>
-    <price>649500 SEK</price>
+    <price>639500 SEK</price>
     <address format="simple">
       <component name="addr1">Rejmes Halland - Halmstad</component>
       <component name="city">Halmstad</component>
       <component name="region">Halmstad</component>
       <component name="country">SE</component>
     </address>
-    <sale_price>649500 SEK</sale_price>
+    <sale_price>639500 SEK</sale_price>
     <availability>in stock</availability>
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
@@ -5504,14 +5430,14 @@
     <body_style>SUV</body_style>
     <fuel_type>Plug-in Hybrid</fuel_type>
     <transmission>Automatic</transmission>
-    <price>589500 SEK</price>
+    <price>579500 SEK</price>
     <address format="simple">
       <component name="addr1">Rejmes Halland - Halmstad</component>
       <component name="city">Halmstad</component>
       <component name="region">Halmstad</component>
       <component name="country">SE</component>
     </address>
-    <sale_price>589500 SEK</sale_price>
+    <sale_price>579500 SEK</sale_price>
     <availability>in stock</availability>
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
@@ -5541,14 +5467,14 @@
     <body_style>SUV</body_style>
     <fuel_type>Plug-in Hybrid</fuel_type>
     <transmission>Automatic</transmission>
-    <price>479500 SEK</price>
+    <price>464500 SEK</price>
     <address format="simple">
       <component name="addr1">Rejmes Halland - Laholm</component>
       <component name="city">Laholm</component>
       <component name="region">Laholm</component>
       <component name="country">SE</component>
     </address>
-    <sale_price>479500 SEK</sale_price>
+    <sale_price>464500 SEK</sale_price>
     <availability>in stock</availability>
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
@@ -5578,14 +5504,14 @@
     <body_style>Wagon</body_style>
     <fuel_type>Plug-in Hybrid</fuel_type>
     <transmission>Automatic</transmission>
-    <price>449500 SEK</price>
+    <price>424500 SEK</price>
     <address format="simple">
       <component name="addr1">Rejmes Halland - Halmstad</component>
       <component name="city">Halmstad</component>
       <component name="region">Halmstad</component>
       <component name="country">SE</component>
     </address>
-    <sale_price>449500 SEK</sale_price>
+    <sale_price>424500 SEK</sale_price>
     <availability>in stock</availability>
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
