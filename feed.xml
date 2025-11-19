@@ -7,6 +7,43 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
+    <vehicle_id>1984273f-3b74-49b7-b991-5a85089ff2a2</vehicle_id>
+    <vehicle_registration_plate>BNR12W</vehicle_registration_plate>
+    <title>Volvo XC40 B4 FWD Bensin Plus Dark</title>
+    <description>B4 FWD Bensin Plus Dark. Utrustningsnivå: Plus. Miltal: 1 176 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: BNR12W. Kontakta oss för mer information om detta fordon.</description>
+    <link>https://www.rejmesbil.se/sok/id/1984273f-3b74-49b7-b991-5a85089ff2a2</link>
+    <url>https://www.rejmesbil.se/sok/id/1984273f-3b74-49b7-b991-5a85089ff2a2</url>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <image>
+      <url>https://cdn.wayke.se/cfit/a0d399a9-9a88-4311-8369-d8006c0bc805/61c8633b-ee23-44ff-adea-0ed2d5e27a32?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC40</model>
+    <year>2025</year>
+    <mileage>
+      <value>11760</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Automatic</transmission>
+    <price>389500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Laholm</component>
+      <component name="city">Laholm</component>
+      <component name="region">Laholm</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>389500 SEK</sale_price>
+    <availability>in stock</availability>
+    <condition>new</condition>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <dealer_id>cddd81a6-5031-42cd-a468-67eb1f2299c7</dealer_id>
+    </item>
+    <item>
+    <google_product_category>916</google_product_category>
+    <fb_product_category>173</fb_product_category>
     <vehicle_id>46a4dfdc-6659-462d-ad24-8e71cce3a758</vehicle_id>
     <vehicle_registration_plate>OER43U</vehicle_registration_plate>
     <title>Volvo C40 Plus</title>
