@@ -81,6 +81,191 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
+    <vehicle_id>9157c180-c963-4cfd-9d9b-b32db2a11bc8</vehicle_id>
+    <vehicle_registration_plate>GGT84F</vehicle_registration_plate>
+    <title>Volvo XC60 T6 Plus Bright Edition</title>
+    <description>T6 Plus Bright Edition. Utrustningsnivå: Plus. Miltal: 1 602 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: GGT84F. Kontakta oss för mer information om detta fordon.</description>
+    <link>https://www.rejmesbil.se/sok/id/9157c180-c963-4cfd-9d9b-b32db2a11bc8</link>
+    <url>https://www.rejmesbil.se/sok/id/9157c180-c963-4cfd-9d9b-b32db2a11bc8</url>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <image>
+      <url>https://cdn.wayke.se/cfit/52381bd3-3a97-418b-9d61-150b51d85438/8da74983-57e6-4787-893b-90574190fb27?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC60</model>
+    <year>2025</year>
+    <mileage>
+      <value>16020</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Plug-in Hybrid</fuel_type>
+    <transmission>Automatic</transmission>
+    <price>559500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Halmstad</component>
+      <component name="city">Halmstad</component>
+      <component name="region">Halmstad</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>559500 SEK</sale_price>
+    <availability>in stock</availability>
+    <condition>new</condition>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
+    </item>
+    <item>
+    <google_product_category>916</google_product_category>
+    <fb_product_category>173</fb_product_category>
+    <vehicle_id>b126c83f-dcee-45f2-af29-1baf7d34cbf9</vehicle_id>
+    <vehicle_registration_plate>XEP02H</vehicle_registration_plate>
+    <title>Volvo XC60 T8 TE Inscription</title>
+    <description>T8 TE Inscription. Utrustningsnivå: Inscription. Miltal: 7 636 mil. Årsmodell: 2020. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: XEP02H. Kontakta oss för mer information om detta fordon.</description>
+    <link>https://www.rejmesbil.se/sok/id/b126c83f-dcee-45f2-af29-1baf7d34cbf9</link>
+    <url>https://www.rejmesbil.se/sok/id/b126c83f-dcee-45f2-af29-1baf7d34cbf9</url>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <image>
+      <url>https://cdn.wayke.se/cfit/5f1b9a58-fe86-4c1e-911b-761705a031bf/3a9cbfdc-8a60-4481-a57d-3d8cb8b894a2?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC60</model>
+    <year>2020</year>
+    <mileage>
+      <value>76360</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Plug-in Hybrid</fuel_type>
+    <transmission>Automatic</transmission>
+    <price>414500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Halmstad</component>
+      <component name="city">Halmstad</component>
+      <component name="region">Halmstad</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>414500 SEK</sale_price>
+    <availability>in stock</availability>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
+    </item>
+    <item>
+    <google_product_category>916</google_product_category>
+    <fb_product_category>173</fb_product_category>
+    <vehicle_id>1ba7aaab-40f8-447a-909f-5b7f7eaafe67</vehicle_id>
+    <vehicle_registration_plate>YEN06U</vehicle_registration_plate>
+    <title>Volvo XC60 T6 Plus Dark Edition</title>
+    <description>T6 Plus Dark Edition. Utrustningsnivå: Plus. Miltal: 1 260 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: YEN06U. Kontakta oss för mer information om detta fordon.</description>
+    <link>https://www.rejmesbil.se/sok/id/1ba7aaab-40f8-447a-909f-5b7f7eaafe67</link>
+    <url>https://www.rejmesbil.se/sok/id/1ba7aaab-40f8-447a-909f-5b7f7eaafe67</url>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <image>
+      <url>https://cdn.wayke.se/cfit/dda78061-2f25-45a5-b02d-d8d52e49406e/8082886d-b159-40f5-9ed5-9b42197f4906?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC60</model>
+    <year>2025</year>
+    <mileage>
+      <value>12600</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Plug-in Hybrid</fuel_type>
+    <transmission>Automatic</transmission>
+    <price>569500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Halmstad</component>
+      <component name="city">Halmstad</component>
+      <component name="region">Halmstad</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>569500 SEK</sale_price>
+    <availability>in stock</availability>
+    <condition>new</condition>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
+    </item>
+    <item>
+    <google_product_category>916</google_product_category>
+    <fb_product_category>173</fb_product_category>
+    <vehicle_id>9c1f6aab-1ff1-4efe-a46c-508fd0d610d0</vehicle_id>
+    <vehicle_registration_plate>SEP05U</vehicle_registration_plate>
+    <title>Volvo XC40 B4 FWD Bensin Plus Dark</title>
+    <description>B4 FWD Bensin Plus Dark. Utrustningsnivå: Plus. Miltal: 1 000 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: SEP05U. Kontakta oss för mer information om detta fordon.</description>
+    <link>https://www.rejmesbil.se/sok/id/9c1f6aab-1ff1-4efe-a46c-508fd0d610d0</link>
+    <url>https://www.rejmesbil.se/sok/id/9c1f6aab-1ff1-4efe-a46c-508fd0d610d0</url>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <image>
+      <url>https://cdn.wayke.se/cfit/59809395-537c-41e7-aa95-0016acd75c82/79d2011f-8408-4658-af9a-3859ba6186df?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC40</model>
+    <year>2025</year>
+    <mileage>
+      <value>10000</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Automatic</transmission>
+    <price>389500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Halmstad</component>
+      <component name="city">Halmstad</component>
+      <component name="region">Halmstad</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>389500 SEK</sale_price>
+    <availability>in stock</availability>
+    <condition>new</condition>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
+    </item>
+    <item>
+    <google_product_category>916</google_product_category>
+    <fb_product_category>173</fb_product_category>
+    <vehicle_id>b75d6678-e5b2-46c6-ab6f-450585791832</vehicle_id>
+    <vehicle_registration_plate>LBN81P</vehicle_registration_plate>
+    <title>Volvo XC60 Recharge T6 II Plus Bright</title>
+    <description>Recharge T6 II Plus Bright. Utrustningsnivå: Plus. Miltal: 3 361 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: LBN81P. Kontakta oss för mer information om detta fordon.</description>
+    <link>https://www.rejmesbil.se/sok/id/b75d6678-e5b2-46c6-ab6f-450585791832</link>
+    <url>https://www.rejmesbil.se/sok/id/b75d6678-e5b2-46c6-ab6f-450585791832</url>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <image>
+      <url>https://cdn.wayke.se/cfit/3da30b40-a274-4e95-a254-0a0f731df596/48a4f60e-8ea7-4294-88a6-ba57731ee791?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC60</model>
+    <year>2024</year>
+    <mileage>
+      <value>33610</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Plug-in Hybrid</fuel_type>
+    <transmission>Automatic</transmission>
+    <price>529500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Halmstad</component>
+      <component name="city">Halmstad</component>
+      <component name="region">Halmstad</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>529500 SEK</sale_price>
+    <availability>in stock</availability>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
+    </item>
+    <item>
+    <google_product_category>916</google_product_category>
+    <fb_product_category>173</fb_product_category>
     <vehicle_id>3ccfd45f-6485-43f6-87d5-191ceffc45fd</vehicle_id>
     <vehicle_registration_plate>YJP11R</vehicle_registration_plate>
     <title>Volvo XC40 B4 FWD Bensin Plus Dark</title>
