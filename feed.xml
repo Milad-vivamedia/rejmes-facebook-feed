@@ -821,43 +821,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>2b7802b0-bd0c-4a38-8e29-15a0a46914c2</vehicle_id>
-    <vehicle_registration_plate>KCR63P</vehicle_registration_plate>
-    <title>Volvo XC60 T6 Plus Dark Edition |Drag |360° |Läder |Elstol |Panorama</title>
-    <description>T6 Plus Dark Edition |Drag |360° |Läder |Elstol |Panorama. Utrustningsnivå: Plus. Miltal: 1 367 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: KCR63P. Kontakta oss för mer information om detta fordon.</description>
-    <link>https://www.rejmesbil.se/sok/id/2b7802b0-bd0c-4a38-8e29-15a0a46914c2</link>
-    <url>https://www.rejmesbil.se/sok/id/2b7802b0-bd0c-4a38-8e29-15a0a46914c2</url>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/6fa5ff4d-3da0-4112-99f6-444f2197c843/dbbb4c1c-442b-4801-99ee-4b04d67da867?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC60</model>
-    <year>2025</year>
-    <mileage>
-      <value>13670</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Plug-in Hybrid</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>569500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>569500 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>new</condition>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>4e6292d0-28c2-4412-a8f7-98cc4021c6d8</vehicle_id>
     <vehicle_registration_plate>JBF57Z</vehicle_registration_plate>
     <title>Volvo XC40 B4 FWD Bensin Plus Dark |Drag |Kamera |Elstol</title>
