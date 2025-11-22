@@ -3892,43 +3892,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>aed9a9e1-6cce-40eb-a501-07472821dea7</vehicle_id>
-    <vehicle_registration_plate>HNN59Y</vehicle_registration_plate>
-    <title>Volvo XC60 B5 Bensin R-Design</title>
-    <description>B5 Bensin R-Design. Utrustningsnivå: R-Design. Miltal: 5 695 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: HNN59Y. Kontakta oss för mer information om detta fordon.</description>
-    <link>https://www.rejmesbil.se/sok/id/aed9a9e1-6cce-40eb-a501-07472821dea7</link>
-    <url>https://www.rejmesbil.se/sok/id/aed9a9e1-6cce-40eb-a501-07472821dea7</url>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/8caed469-b935-49ad-b37e-124f305faa48/1ce258e7-6677-4220-906f-fa385f1e32db?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC60</model>
-    <year>2021</year>
-    <mileage>
-      <value>56950</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>409500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>409500 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>89850d2c-f635-413e-9606-f4f0d44c106e</vehicle_id>
     <vehicle_registration_plate>KXN63X</vehicle_registration_plate>
     <title>Volvo XC90 Recharge T8 Plus Bright | Parkeringskamera 360 | Dragkrok |</title>
