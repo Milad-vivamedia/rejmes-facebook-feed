@@ -562,43 +562,6 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
-    <vehicle_id>0a7b24e2-9e5f-4b24-a4d2-c2119078b6b3</vehicle_id>
-    <vehicle_registration_plate>ZFW827</vehicle_registration_plate>
-    <title>Volvo C40 Intro Edition</title>
-    <description>Intro Edition. Miltal: 4 143 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Registreringsnummer: ZFW827. Kontakta oss för mer information om detta fordon.</description>
-    <link>https://www.rejmesbil.se/sok/id/0a7b24e2-9e5f-4b24-a4d2-c2119078b6b3</link>
-    <url>https://www.rejmesbil.se/sok/id/0a7b24e2-9e5f-4b24-a4d2-c2119078b6b3</url>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <image>
-      <url>https://cdn.wayke.se/cfit/8e3b1dc5-76dc-4a6f-9e8d-a4b0642ee93a/c88e9b16-660f-4596-86b7-0aa08a9d08ae?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>C40</model>
-    <year>2022</year>
-    <mileage>
-      <value>41430</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <price>389500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>389500 SEK</sale_price>
-    <availability>in stock</availability>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
-    </item>
-    <item>
-    <google_product_category>916</google_product_category>
-    <fb_product_category>173</fb_product_category>
     <vehicle_id>e8123a8a-02c8-4c62-b7e9-9a3cec53b1ed</vehicle_id>
     <vehicle_registration_plate>RBU29W</vehicle_registration_plate>
     <title>Volvo V60 T6 Plus Dark Edition |Drag |Kamera |Läder |Elstol |Mörkton</title>
