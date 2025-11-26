@@ -7,6 +7,43 @@
     <item>
     <google_product_category>916</google_product_category>
     <fb_product_category>173</fb_product_category>
+    <vehicle_id>569b5ec4-2305-4581-a635-afe125932d6f</vehicle_id>
+    <vehicle_registration_plate>NCT96M</vehicle_registration_plate>
+    <title>Volvo XC60 Recharge T6 Core Edition</title>
+    <description>Recharge T6 Core Edition. Utrustningsnivå: Momentum. Miltal: 10 309 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: NCT96M. Kontakta oss för mer information om detta fordon.</description>
+    <link>https://www.rejmesbil.se/sok/id/569b5ec4-2305-4581-a635-afe125932d6f</link>
+    <url>https://www.rejmesbil.se/sok/id/569b5ec4-2305-4581-a635-afe125932d6f</url>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <image>
+      <url>https://cdn.wayke.se/cfit/54e63808-2271-4f76-8f00-5380ee6a60f6/50d52446-dc37-4707-bf1c-14af31341f73?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC60</model>
+    <year>2023</year>
+    <mileage>
+      <value>103090</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Plug-in Hybrid</fuel_type>
+    <transmission>Automatic</transmission>
+    <price>409500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Halmstad</component>
+      <component name="city">Halmstad</component>
+      <component name="region">Halmstad</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>409500 SEK</sale_price>
+    <availability>in stock</availability>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
+    </item>
+    <item>
+    <google_product_category>916</google_product_category>
+    <fb_product_category>173</fb_product_category>
     <vehicle_id>0814614c-7487-46b4-ba74-d1c0c962929a</vehicle_id>
     <vehicle_registration_plate>JMP16A</vehicle_registration_plate>
     <title>Volvo XC60 T6 Plus Dark Edition |Drag |360° |Läder |Elstol |Panorama</title>
