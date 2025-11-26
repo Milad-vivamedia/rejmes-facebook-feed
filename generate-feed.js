@@ -189,9 +189,10 @@ function generateXMLFeed(vehicles) {
 
     xml += '    <item>\n';
 
-    // Required Facebook fields
-    xml += '    <google_product_category>916</google_product_category>\n';
-    xml += '    <fb_product_category>173</fb_product_category>\n';
+    // Required Facebook fields - g:id is the content ID that Facebook requires
+    xml += `    <g:id>${escapeXml(vehicle.id)}</g:id>\n`;
+    xml += '    <g:google_product_category>916</g:google_product_category>\n';
+    xml += '    <g:fb_product_category>173</g:fb_product_category>\n';
     xml += `    <vehicle_id>${escapeXml(vehicle.id)}</vehicle_id>\n`;
 
     // Registration plate
@@ -199,29 +200,34 @@ function generateXMLFeed(vehicles) {
       xml += `    <vehicle_registration_plate>${escapeXml(vehicle.registrationNumber)}</vehicle_registration_plate>\n`;
     }
 
-    // Title
+    // Title (Facebook requires g:title)
     const titleParts = [vehicle.manufacturer];
     if (vehicle.modelSeries) titleParts.push(vehicle.modelSeries);
     if (vehicle.shortDescription) titleParts.push(vehicle.shortDescription);
     const title = titleParts.join(' ').substring(0, 200);
+    xml += `    <g:title>${escapeXml(title)}</g:title>\n`;
     xml += `    <title>${escapeXml(title)}</title>\n`;
 
-    // Description
+    // Description (Facebook requires g:description)
     const description = formatDescription(vehicle);
+    xml += `    <g:description>${escapeXml(description)}</g:description>\n`;
     xml += `    <description>${escapeXml(description)}</description>\n`;
 
-    // URL / Link (Facebook requires 'link' field)
+    // URL / Link (Facebook requires 'g:link' field)
     const vehicleUrl = `https://www.rejmesbil.se/sok/id/${vehicle.id}`;
+    xml += `    <g:link>${escapeXml(vehicleUrl)}</g:link>\n`;
     xml += `    <link>${escapeXml(vehicleUrl)}</link>\n`;
     xml += `    <url>${escapeXml(vehicleUrl)}</url>\n`;
 
-    // Make / Brand (Facebook requires 'brand' field)
+    // Make / Brand (Facebook requires 'g:brand' field)
+    xml += `    <g:brand>${escapeXml(vehicle.manufacturer)}</g:brand>\n`;
     xml += `    <brand>${escapeXml(vehicle.manufacturer)}</brand>\n`;
     xml += `    <make>${escapeXml(vehicle.manufacturer)}</make>\n`;
 
-    // Image
+    // Image - g:image_link is required by Facebook
     const imageUrl = getImageUrl(vehicle);
     if (imageUrl) {
+      xml += `    <g:image_link>${escapeXml(imageUrl)}</g:image_link>\n`;
       xml += '    <image>\n';
       xml += `      <url>${escapeXml(imageUrl)}</url>\n`;
       xml += '      <tag>Exterior</tag>\n';
@@ -261,8 +267,9 @@ function generateXMLFeed(vehicles) {
       xml += `    <transmission>${transmission}</transmission>\n`;
     }
 
-    // Price
+    // Price (Facebook requires g:price)
     const price = `${vehicle.price} SEK`;
+    xml += `    <g:price>${price}</g:price>\n`;
     xml += `    <price>${price}</price>\n`;
 
     // Address
@@ -283,13 +290,15 @@ function generateXMLFeed(vehicles) {
     // Sale price
     xml += `    <sale_price>${price}</sale_price>\n`;
 
-    // Availability (Facebook standard format)
+    // Availability (Facebook requires g:availability)
     const availability = (vehicle.status === 'Published') ? 'in stock' : 'out of stock';
+    xml += `    <g:availability>${availability}</g:availability>\n`;
     xml += `    <availability>${availability}</availability>\n`;
 
-    // Condition (Facebook requires lowercase: new, used, refurbished)
+    // Condition (Facebook requires g:condition with lowercase: new, used, refurbished)
     const state = getVehicleCondition(vehicle.modelYear || 0);
     const condition = state === 'NEW' ? 'new' : 'used';
+    xml += `    <g:condition>${condition}</g:condition>\n`;
     xml += `    <condition>${condition}</condition>\n`;
     xml += `    <state_of_vehicle>${state}</state_of_vehicle>\n`;
 
