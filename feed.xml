@@ -281,52 +281,6 @@
     <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
     </item>
     <item>
-    <g:id>98ee08ab-603a-4ab4-a31e-a38535975796</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>98ee08ab-603a-4ab4-a31e-a38535975796</vehicle_id>
-    <vehicle_registration_plate>WBM83P</vehicle_registration_plate>
-    <g:title>Volvo V90 T6 Ultra Dark |Drag |360° |20&quot; |B&amp;W |Digital innerbackspegel |HUD |Luftfjädring |Panorama</g:title>
-    <title>Volvo V90 T6 Ultra Dark |Drag |360° |20&quot; |B&amp;W |Digital innerbackspegel |HUD |Luftfjädring |Panorama</title>
-    <g:description>T6 Ultra Dark |Drag |360° |20&quot; |B&amp;W |Digital innerbackspegel |HUD |Luftfjädring |Panorama. Miltal: 2 118 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: WBM83P. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>T6 Ultra Dark |Drag |360° |20&quot; |B&amp;W |Digital innerbackspegel |HUD |Luftfjädring |Panorama. Miltal: 2 118 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: WBM83P. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/98ee08ab-603a-4ab4-a31e-a38535975796</g:link>
-    <link>https://www.rejmesbil.se/sok/id/98ee08ab-603a-4ab4-a31e-a38535975796</link>
-    <url>https://www.rejmesbil.se/sok/id/98ee08ab-603a-4ab4-a31e-a38535975796</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/fdfc58b1-1750-406d-9539-7d0591d181d4/d6566956-8611-49e4-9cb2-f98cc8bcc656?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/fdfc58b1-1750-406d-9539-7d0591d181d4/d6566956-8611-49e4-9cb2-f98cc8bcc656?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>V90</model>
-    <year>2025</year>
-    <mileage>
-      <value>21180</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Wagon</body_style>
-    <fuel_type>Plug-in Hybrid</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>579500 SEK</g:price>
-    <price>579500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>579500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>new</g:condition>
-    <condition>new</condition>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
-    </item>
-    <item>
     <g:id>2a174d00-947c-46ec-9dca-30b82312b3e0</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -2053,52 +2007,6 @@
     <year>2025</year>
     <mileage>
       <value>21350</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Plug-in Hybrid</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>549500 SEK</g:price>
-    <price>549500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Laholm</component>
-      <component name="city">Laholm</component>
-      <component name="region">Laholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>549500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>new</g:condition>
-    <condition>new</condition>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <dealer_id>cddd81a6-5031-42cd-a468-67eb1f2299c7</dealer_id>
-    </item>
-    <item>
-    <g:id>d1e9edb2-4106-4285-acee-34ed12384a72</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>d1e9edb2-4106-4285-acee-34ed12384a72</vehicle_id>
-    <vehicle_registration_plate>BBN39K</vehicle_registration_plate>
-    <g:title>Volvo XC60 T6 Plus Dark Edition</g:title>
-    <title>Volvo XC60 T6 Plus Dark Edition</title>
-    <g:description>T6 Plus Dark Edition. Utrustningsnivå: Plus. Miltal: 2 222 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: BBN39K. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>T6 Plus Dark Edition. Utrustningsnivå: Plus. Miltal: 2 222 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: BBN39K. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/d1e9edb2-4106-4285-acee-34ed12384a72</g:link>
-    <link>https://www.rejmesbil.se/sok/id/d1e9edb2-4106-4285-acee-34ed12384a72</link>
-    <url>https://www.rejmesbil.se/sok/id/d1e9edb2-4106-4285-acee-34ed12384a72</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/c92a3f1f-00b8-4fc1-b3a8-8044a2572d12/a5564493-30aa-49b0-bbf2-acc6e81e20a9?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/c92a3f1f-00b8-4fc1-b3a8-8044a2572d12/a5564493-30aa-49b0-bbf2-acc6e81e20a9?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC60</model>
-    <year>2025</year>
-    <mileage>
-      <value>22220</value>
       <unit>KM</unit>
     </mileage>
     <body_style>SUV</body_style>
@@ -4789,52 +4697,6 @@
     <dealer_id>a19b2c7e-0d5f-4834-bf2d-a285eff2d725</dealer_id>
     </item>
     <item>
-    <g:id>6b02781d-146e-4fbf-8c1e-e9eac51ab301</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>6b02781d-146e-4fbf-8c1e-e9eac51ab301</vehicle_id>
-    <vehicle_registration_plate>HRA85G</vehicle_registration_plate>
-    <g:title>Volvo XC60 T6 Plus Dark Edition |Drag |360° |Läder |Elstol |Panorama</g:title>
-    <title>Volvo XC60 T6 Plus Dark Edition |Drag |360° |Läder |Elstol |Panorama</title>
-    <g:description>T6 Plus Dark Edition |Drag |360° |Läder |Elstol |Panorama. Utrustningsnivå: Plus. Miltal: 2 247 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: HRA85G. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>T6 Plus Dark Edition |Drag |360° |Läder |Elstol |Panorama. Utrustningsnivå: Plus. Miltal: 2 247 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: HRA85G. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/6b02781d-146e-4fbf-8c1e-e9eac51ab301</g:link>
-    <link>https://www.rejmesbil.se/sok/id/6b02781d-146e-4fbf-8c1e-e9eac51ab301</link>
-    <url>https://www.rejmesbil.se/sok/id/6b02781d-146e-4fbf-8c1e-e9eac51ab301</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/cd962544-a2ca-4d0c-9e5b-d8e515ce298b/d86153c4-759d-4ba1-82c3-fbd524952da0?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/cd962544-a2ca-4d0c-9e5b-d8e515ce298b/d86153c4-759d-4ba1-82c3-fbd524952da0?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC60</model>
-    <year>2025</year>
-    <mileage>
-      <value>22470</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Plug-in Hybrid</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>549500 SEK</g:price>
-    <price>549500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>549500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>new</g:condition>
-    <condition>new</condition>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
-    </item>
-    <item>
     <g:id>e23cf89b-b07a-47c1-85c9-080666c939ac</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -7133,52 +6995,6 @@
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
-    </item>
-    <item>
-    <g:id>5c229dd6-8d1a-4a92-9e47-f38889ed9cc9</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>5c229dd6-8d1a-4a92-9e47-f38889ed9cc9</vehicle_id>
-    <vehicle_registration_plate>MFT62X</vehicle_registration_plate>
-    <g:title>Volvo XC60 B4 AWD Diesel Momentum Advanced SE | Läder | Kamera | H&amp;K | Drag |</g:title>
-    <title>Volvo XC60 B4 AWD Diesel Momentum Advanced SE | Läder | Kamera | H&amp;K | Drag |</title>
-    <g:description>B4 AWD Diesel Momentum Advanced SE | Läder | Kamera | H&amp;K | Drag |. Utrustningsnivå: Momentum. Miltal: 8 227 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: MFT62X. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>B4 AWD Diesel Momentum Advanced SE | Läder | Kamera | H&amp;K | Drag |. Utrustningsnivå: Momentum. Miltal: 8 227 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: MFT62X. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/5c229dd6-8d1a-4a92-9e47-f38889ed9cc9</g:link>
-    <link>https://www.rejmesbil.se/sok/id/5c229dd6-8d1a-4a92-9e47-f38889ed9cc9</link>
-    <url>https://www.rejmesbil.se/sok/id/5c229dd6-8d1a-4a92-9e47-f38889ed9cc9</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/8baa67fe-cfe7-439d-8d98-dcb7b66c7408/cee103c8-25de-4835-b225-5fc59317ec8f?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/8baa67fe-cfe7-439d-8d98-dcb7b66c7408/cee103c8-25de-4835-b225-5fc59317ec8f?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC60</model>
-    <year>2021</year>
-    <mileage>
-      <value>82270</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Diesel</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>379500 SEK</g:price>
-    <price>379500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Falkenberg</component>
-      <component name="city">Falkenberg</component>
-      <component name="region">Falkenberg</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>379500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>a19b2c7e-0d5f-4834-bf2d-a285eff2d725</dealer_id>
     </item>
     <item>
     <g:id>23e10d31-a8e9-4efa-8512-11ac6ed602d3</g:id>
