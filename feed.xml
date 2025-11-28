@@ -2765,52 +2765,6 @@
     <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
     </item>
     <item>
-    <g:id>6dd5e5b5-a9fc-4842-bc9e-adefdadebd21</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>6dd5e5b5-a9fc-4842-bc9e-adefdadebd21</vehicle_id>
-    <vehicle_registration_plate>RBZ32P</vehicle_registration_plate>
-    <g:title>Volvo EX40 Plus | Drag |360 | Elstol |Värmepump</g:title>
-    <title>Volvo EX40 Plus | Drag |360 | Elstol |Värmepump</title>
-    <g:description>Plus | Drag |360 | Elstol |Värmepump. Utrustningsnivå: Plus. Miltal: 398 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: RBZ32P. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>Plus | Drag |360 | Elstol |Värmepump. Utrustningsnivå: Plus. Miltal: 398 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: RBZ32P. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/6dd5e5b5-a9fc-4842-bc9e-adefdadebd21</g:link>
-    <link>https://www.rejmesbil.se/sok/id/6dd5e5b5-a9fc-4842-bc9e-adefdadebd21</link>
-    <url>https://www.rejmesbil.se/sok/id/6dd5e5b5-a9fc-4842-bc9e-adefdadebd21</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/9438d053-eda5-4763-9949-0dc3387ef118/f0bd307d-b0e0-4297-851f-ca4393251e04?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/9438d053-eda5-4763-9949-0dc3387ef118/f0bd307d-b0e0-4297-851f-ca4393251e04?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>EX40</model>
-    <year>2025</year>
-    <mileage>
-      <value>3980</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>489500 SEK</g:price>
-    <price>489500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>489500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>new</g:condition>
-    <condition>new</condition>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
-    </item>
-    <item>
     <g:id>7d120050-0819-4665-a7b5-1e850a4a0554</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
