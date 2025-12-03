@@ -4039,9 +4039,9 @@
     <g:price>389500 SEK</g:price>
     <price>389500 SEK</price>
     <address format="simple">
-      <component name="addr1">Rejmes Halland - Laholm</component>
-      <component name="city">Laholm</component>
-      <component name="region">Laholm</component>
+      <component name="addr1">Rejmes Halland - Halmstad</component>
+      <component name="city">Halmstad</component>
+      <component name="region">Halmstad</component>
       <component name="country">SE</component>
     </address>
     <sale_price>389500 SEK</sale_price>
@@ -4050,7 +4050,7 @@
     <g:condition>new</g:condition>
     <condition>new</condition>
     <state_of_vehicle>NEW</state_of_vehicle>
-    <dealer_id>cddd81a6-5031-42cd-a468-67eb1f2299c7</dealer_id>
+    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
     </item>
     <item>
     <g:id>f8c254cb-9b0a-4f36-81e8-6997c97e5ee3</g:id>
@@ -5971,9 +5971,9 @@
     <g:price>719500 SEK</g:price>
     <price>719500 SEK</price>
     <address format="simple">
-      <component name="addr1">Rejmes Halland - Falkenberg</component>
-      <component name="city">Falkenberg</component>
-      <component name="region">Falkenberg</component>
+      <component name="addr1">Rejmes Halland - Halmstad</component>
+      <component name="city">Halmstad</component>
+      <component name="region">Halmstad</component>
       <component name="country">SE</component>
     </address>
     <sale_price>719500 SEK</sale_price>
@@ -5982,7 +5982,7 @@
     <g:condition>used</g:condition>
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>a19b2c7e-0d5f-4834-bf2d-a285eff2d725</dealer_id>
+    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
     </item>
     <item>
     <g:id>c83c4051-1446-4e18-bd35-350b161f86ab</g:id>
