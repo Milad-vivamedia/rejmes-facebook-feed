@@ -2613,9 +2613,9 @@
     <g:price>344500 SEK</g:price>
     <price>344500 SEK</price>
     <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
+      <component name="addr1">Rejmes Halland - Laholm</component>
+      <component name="city">Laholm</component>
+      <component name="region">Laholm</component>
       <component name="country">SE</component>
     </address>
     <sale_price>344500 SEK</sale_price>
@@ -2624,7 +2624,7 @@
     <g:condition>used</g:condition>
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
+    <dealer_id>cddd81a6-5031-42cd-a468-67eb1f2299c7</dealer_id>
     </item>
     <item>
     <g:id>a170358b-54b0-411c-ba8c-53d9ca0d8b1d</g:id>
@@ -5346,10 +5346,10 @@
     <g:fb_product_category>173</g:fb_product_category>
     <vehicle_id>15759967-f453-451d-a2f3-463a892a27e8</vehicle_id>
     <vehicle_registration_plate>RGG83A</vehicle_registration_plate>
-    <g:title>Volvo EX40 Ultra | Drag | 360° |H&amp;K | V��rmepump |  Mörkton | Panorama</g:title>
-    <title>Volvo EX40 Ultra | Drag | 360° |H&amp;K | V��rmepump |  Mörkton | Panorama</title>
-    <g:description>Ultra | Drag | 360° |H&amp;K | V��rmepump |  Mörkton | Panorama. Miltal: 2 309 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: RGG83A. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>Ultra | Drag | 360° |H&amp;K | V��rmepump |  Mörkton | Panorama. Miltal: 2 309 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: RGG83A. Kontakta oss för mer information om detta fordon.</description>
+    <g:title>Volvo EX40 Ultra | Drag | 360° |H&amp;K | Värmepump |  Mörkton | Panorama</g:title>
+    <title>Volvo EX40 Ultra | Drag | 360° |H&amp;K | Värmepump |  Mörkton | Panorama</title>
+    <g:description>Ultra | Drag | 360° |H&amp;K | Värmepump |  Mörkton | Panorama. Miltal: 2 309 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: RGG83A. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>Ultra | Drag | 360° |H&amp;K | Värmepump |  Mörkton | Panorama. Miltal: 2 309 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: RGG83A. Kontakta oss för mer information om detta fordon.</description>
     <g:link>https://www.rejmesbil.se/sok/id/15759967-f453-451d-a2f3-463a892a27e8</g:link>
     <link>https://www.rejmesbil.se/sok/id/15759967-f453-451d-a2f3-463a892a27e8</link>
     <url>https://www.rejmesbil.se/sok/id/15759967-f453-451d-a2f3-463a892a27e8</url>
