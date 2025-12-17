@@ -5,6 +5,52 @@
     <link>https://www.rejmesbil.se</link>
     <description>Rejmes Bil Vehicle Inventory - Manufacturer Warranty</description>
     <item>
+    <g:id>9e36cc1b-15e3-400a-a56b-5d8732729585</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>9e36cc1b-15e3-400a-a56b-5d8732729585</vehicle_id>
+    <vehicle_registration_plate>LXW02E</vehicle_registration_plate>
+    <g:title>Volvo EC40 R Plus Edt</g:title>
+    <title>Volvo EC40 R Plus Edt</title>
+    <g:description>R Plus Edt. Utrustningsnivå: Plus. Miltal: 3 270 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: LXW02E. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>R Plus Edt. Utrustningsnivå: Plus. Miltal: 3 270 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: LXW02E. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/9e36cc1b-15e3-400a-a56b-5d8732729585</g:link>
+    <link>https://www.rejmesbil.se/sok/id/9e36cc1b-15e3-400a-a56b-5d8732729585</link>
+    <url>https://www.rejmesbil.se/sok/id/9e36cc1b-15e3-400a-a56b-5d8732729585</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/4d788223-0762-4e22-a1bc-55779693d122/33d13413-f32e-48ee-bc60-c25af5646cff?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/4d788223-0762-4e22-a1bc-55779693d122/33d13413-f32e-48ee-bc60-c25af5646cff?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>EC40</model>
+    <year>2025</year>
+    <mileage>
+      <value>32700</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>449500 SEK</g:price>
+    <price>449500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Falkenberg</component>
+      <component name="city">Falkenberg</component>
+      <component name="region">Falkenberg</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>449500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>new</g:condition>
+    <condition>new</condition>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <dealer_id>a19b2c7e-0d5f-4834-bf2d-a285eff2d725</dealer_id>
+    </item>
+    <item>
     <g:id>a36b9cc5-f2cb-4fb4-9f46-dacb766bec7b</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
