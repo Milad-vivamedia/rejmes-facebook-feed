@@ -1509,9 +1509,9 @@
     <g:price>479500 SEK</g:price>
     <price>479500 SEK</price>
     <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
+      <component name="addr1">Rejmes Halland - Falkenberg</component>
+      <component name="city">Falkenberg</component>
+      <component name="region">Falkenberg</component>
       <component name="country">SE</component>
     </address>
     <sale_price>479500 SEK</sale_price>
@@ -1520,7 +1520,7 @@
     <g:condition>new</g:condition>
     <condition>new</condition>
     <state_of_vehicle>NEW</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
+    <dealer_id>a19b2c7e-0d5f-4834-bf2d-a285eff2d725</dealer_id>
     </item>
     <item>
     <g:id>23c5651e-82a6-49d6-8114-f6fc2bbbdf3a</g:id>
@@ -3533,9 +3533,9 @@
     <g:price>389500 SEK</g:price>
     <price>389500 SEK</price>
     <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
+      <component name="addr1">Rejmes Halland - Laholm</component>
+      <component name="city">Laholm</component>
+      <component name="region">Laholm</component>
       <component name="country">SE</component>
     </address>
     <sale_price>389500 SEK</sale_price>
@@ -3544,7 +3544,7 @@
     <g:condition>new</g:condition>
     <condition>new</condition>
     <state_of_vehicle>NEW</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
+    <dealer_id>cddd81a6-5031-42cd-a468-67eb1f2299c7</dealer_id>
     </item>
     <item>
     <g:id>15ff2ee0-054d-40e9-acda-ad64b447b788</g:id>
@@ -7547,52 +7547,6 @@
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>cddd81a6-5031-42cd-a468-67eb1f2299c7</dealer_id>
-    </item>
-    <item>
-    <g:id>a5e230a9-501e-46f1-96b2-3f676afbcd11</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>a5e230a9-501e-46f1-96b2-3f676afbcd11</vehicle_id>
-    <vehicle_registration_plate>HBR31D</vehicle_registration_plate>
-    <g:title>Volvo V60 T6 Plus Bright Edition |Drag |Kamera |Läder |Elstol |Mörkton</g:title>
-    <title>Volvo V60 T6 Plus Bright Edition |Drag |Kamera |Läder |Elstol |Mörkton</title>
-    <g:description>T6 Plus Bright Edition |Drag |Kamera |Läder |Elstol |Mörkton. Utrustningsnivå: Plus. Miltal: 2 277 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: HBR31D. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>T6 Plus Bright Edition |Drag |Kamera |Läder |Elstol |Mörkton. Utrustningsnivå: Plus. Miltal: 2 277 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: HBR31D. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/a5e230a9-501e-46f1-96b2-3f676afbcd11</g:link>
-    <link>https://www.rejmesbil.se/sok/id/a5e230a9-501e-46f1-96b2-3f676afbcd11</link>
-    <url>https://www.rejmesbil.se/sok/id/a5e230a9-501e-46f1-96b2-3f676afbcd11</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/a47edfdd-aa29-4eda-9b93-a585d4d21c9d/1eae4be2-527a-4763-80be-86f96c27c224?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/a47edfdd-aa29-4eda-9b93-a585d4d21c9d/1eae4be2-527a-4763-80be-86f96c27c224?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>V60</model>
-    <year>2025</year>
-    <mileage>
-      <value>22770</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Wagon</body_style>
-    <fuel_type>Plug-in Hybrid</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>439500 SEK</g:price>
-    <price>439500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>439500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>new</g:condition>
-    <condition>new</condition>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
     </item>
     <item>
     <g:id>cbd1753e-da99-4676-905c-895905d73147</g:id>
