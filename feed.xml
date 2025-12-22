@@ -5,6 +5,52 @@
     <link>https://www.rejmesbil.se</link>
     <description>Rejmes Bil Vehicle Inventory - Manufacturer Warranty</description>
     <item>
+    <g:id>9fd2d129-3009-4cbf-a62f-81feca50474e</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>9fd2d129-3009-4cbf-a62f-81feca50474e</vehicle_id>
+    <vehicle_registration_plate>KYE53P</vehicle_registration_plate>
+    <g:title>Volvo C40 Core</g:title>
+    <title>Volvo C40 Core</title>
+    <g:description>Core. Utrustningsnivå: Core. Miltal: 5 998 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: KYE53P. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>Core. Utrustningsnivå: Core. Miltal: 5 998 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: KYE53P. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/9fd2d129-3009-4cbf-a62f-81feca50474e</g:link>
+    <link>https://www.rejmesbil.se/sok/id/9fd2d129-3009-4cbf-a62f-81feca50474e</link>
+    <url>https://www.rejmesbil.se/sok/id/9fd2d129-3009-4cbf-a62f-81feca50474e</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/186ac762-e979-4930-9d5c-fc7a36c162fe/97e22d3a-c580-4526-8fdd-4b782e895216?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/186ac762-e979-4930-9d5c-fc7a36c162fe/97e22d3a-c580-4526-8fdd-4b782e895216?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>C40</model>
+    <year>2023</year>
+    <mileage>
+      <value>59980</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>324500 SEK</g:price>
+    <price>324500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Falkenberg</component>
+      <component name="city">Falkenberg</component>
+      <component name="region">Falkenberg</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>324500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>a19b2c7e-0d5f-4834-bf2d-a285eff2d725</dealer_id>
+    </item>
+    <item>
     <g:id>da04c013-6d04-469b-89ed-efbbd0278187</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -4237,52 +4283,6 @@
     <dealer_id>cddd81a6-5031-42cd-a468-67eb1f2299c7</dealer_id>
     </item>
     <item>
-    <g:id>2a6b9a23-a92e-41c1-8893-65eea3db567e</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>2a6b9a23-a92e-41c1-8893-65eea3db567e</vehicle_id>
-    <vehicle_registration_plate>BDT38W</vehicle_registration_plate>
-    <g:title>Volvo XC40 B4 FWD Bensin Plus Dark</g:title>
-    <title>Volvo XC40 B4 FWD Bensin Plus Dark</title>
-    <g:description>B4 FWD Bensin Plus Dark. Utrustningsnivå: Plus. Miltal: 3 547 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: BDT38W. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>B4 FWD Bensin Plus Dark. Utrustningsnivå: Plus. Miltal: 3 547 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: BDT38W. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/2a6b9a23-a92e-41c1-8893-65eea3db567e</g:link>
-    <link>https://www.rejmesbil.se/sok/id/2a6b9a23-a92e-41c1-8893-65eea3db567e</link>
-    <url>https://www.rejmesbil.se/sok/id/2a6b9a23-a92e-41c1-8893-65eea3db567e</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/294964f8-b379-44c6-b9d2-e9bd4cdb8a17/d1df2e40-8fac-4ed4-8494-a7108e9d8f8f?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/294964f8-b379-44c6-b9d2-e9bd4cdb8a17/d1df2e40-8fac-4ed4-8494-a7108e9d8f8f?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2024</year>
-    <mileage>
-      <value>35470</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>359500 SEK</g:price>
-    <price>359500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Laholm</component>
-      <component name="city">Laholm</component>
-      <component name="region">Laholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>359500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>cddd81a6-5031-42cd-a468-67eb1f2299c7</dealer_id>
-    </item>
-    <item>
     <g:id>cc426a34-1dac-4b51-8c63-5cb428ed17dd</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -6443,52 +6443,6 @@
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
-    </item>
-    <item>
-    <g:id>9bbddf45-7854-4bc0-83a9-7355f0083070</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>9bbddf45-7854-4bc0-83a9-7355f0083070</vehicle_id>
-    <vehicle_registration_plate>JKT79P</vehicle_registration_plate>
-    <g:title>Volvo XC40 B4 FWD Bensin Plus Dark | Dragkrok |</g:title>
-    <title>Volvo XC40 B4 FWD Bensin Plus Dark | Dragkrok |</title>
-    <g:description>B4 FWD Bensin Plus Dark | Dragkrok |. Utrustningsnivå: Plus. Miltal: 3 185 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: JKT79P. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>B4 FWD Bensin Plus Dark | Dragkrok |. Utrustningsnivå: Plus. Miltal: 3 185 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: JKT79P. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/9bbddf45-7854-4bc0-83a9-7355f0083070</g:link>
-    <link>https://www.rejmesbil.se/sok/id/9bbddf45-7854-4bc0-83a9-7355f0083070</link>
-    <url>https://www.rejmesbil.se/sok/id/9bbddf45-7854-4bc0-83a9-7355f0083070</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/55b5a4c2-fe15-4404-90b5-5b2d2e537bef/0304bcb9-2cfc-4122-bc47-74d909baaea1?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/55b5a4c2-fe15-4404-90b5-5b2d2e537bef/0304bcb9-2cfc-4122-bc47-74d909baaea1?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2024</year>
-    <mileage>
-      <value>31850</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>359500 SEK</g:price>
-    <price>359500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Falkenberg</component>
-      <component name="city">Falkenberg</component>
-      <component name="region">Falkenberg</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>359500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>a19b2c7e-0d5f-4834-bf2d-a285eff2d725</dealer_id>
     </item>
     <item>
     <g:id>cb625659-eab9-443c-b840-a5a9e9a8c017</g:id>
