@@ -6014,15 +6014,15 @@
     <body_style>Wagon</body_style>
     <fuel_type>Plug-in Hybrid</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>449500 SEK</g:price>
-    <price>449500 SEK</price>
+    <g:price>459500 SEK</g:price>
+    <price>459500 SEK</price>
     <address format="simple">
       <component name="addr1">Rejmes Halland - Halmstad</component>
       <component name="city">Halmstad</component>
       <component name="region">Halmstad</component>
       <component name="country">SE</component>
     </address>
-    <sale_price>449500 SEK</sale_price>
+    <sale_price>459500 SEK</sale_price>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
@@ -8363,9 +8363,9 @@
     <g:price>579500 SEK</g:price>
     <price>579500 SEK</price>
     <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
+      <component name="addr1">Rejmes Halland - Laholm</component>
+      <component name="city">Laholm</component>
+      <component name="region">Laholm</component>
       <component name="country">SE</component>
     </address>
     <sale_price>579500 SEK</sale_price>
@@ -8374,7 +8374,7 @@
     <g:condition>used</g:condition>
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
+    <dealer_id>cddd81a6-5031-42cd-a468-67eb1f2299c7</dealer_id>
     </item>
     <item>
     <g:id>e673e9df-968f-4c80-aacb-5ee9b4b6acdc</g:id>
