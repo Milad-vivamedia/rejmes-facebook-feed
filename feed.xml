@@ -5,6 +5,98 @@
     <link>https://www.rejmesbil.se</link>
     <description>Rejmes Bil Vehicle Inventory - Manufacturer Warranty</description>
     <item>
+    <g:id>fcc34d51-1381-4eb7-a6cb-65e5fff58847</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>fcc34d51-1381-4eb7-a6cb-65e5fff58847</vehicle_id>
+    <vehicle_registration_plate>BBS92K</vehicle_registration_plate>
+    <g:title>Volvo XC60 T6 Ultra Black Edition</g:title>
+    <title>Volvo XC60 T6 Ultra Black Edition</title>
+    <g:description>T6 Ultra Black Edition. Utrustningsnivå: R-Design. Miltal: 4 053 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: BBS92K. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>T6 Ultra Black Edition. Utrustningsnivå: R-Design. Miltal: 4 053 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: BBS92K. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/fcc34d51-1381-4eb7-a6cb-65e5fff58847</g:link>
+    <link>https://www.rejmesbil.se/sok/id/fcc34d51-1381-4eb7-a6cb-65e5fff58847</link>
+    <url>https://www.rejmesbil.se/sok/id/fcc34d51-1381-4eb7-a6cb-65e5fff58847</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/e2d09a93-ca95-470d-ab23-8a1d6e0dc258/0ecb5e76-140f-4ef6-abd9-d2a699061c22?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/e2d09a93-ca95-470d-ab23-8a1d6e0dc258/0ecb5e76-140f-4ef6-abd9-d2a699061c22?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC60</model>
+    <year>2025</year>
+    <mileage>
+      <value>40530</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Plug-in Hybrid</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>599500 SEK</g:price>
+    <price>599500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Falkenberg</component>
+      <component name="city">Falkenberg</component>
+      <component name="region">Falkenberg</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>599500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>a19b2c7e-0d5f-4834-bf2d-a285eff2d725</dealer_id>
+    </item>
+    <item>
+    <g:id>bc72b955-caff-43a3-bc5d-501fdde79767</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>bc72b955-caff-43a3-bc5d-501fdde79767</vehicle_id>
+    <vehicle_registration_plate>AJB07M</vehicle_registration_plate>
+    <g:title>Volvo XC90 T8 Ultra Dark Edition</g:title>
+    <title>Volvo XC90 T8 Ultra Dark Edition</title>
+    <g:description>T8 Ultra Dark Edition. Miltal: 3 083 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: AJB07M. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>T8 Ultra Dark Edition. Miltal: 3 083 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: AJB07M. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/bc72b955-caff-43a3-bc5d-501fdde79767</g:link>
+    <link>https://www.rejmesbil.se/sok/id/bc72b955-caff-43a3-bc5d-501fdde79767</link>
+    <url>https://www.rejmesbil.se/sok/id/bc72b955-caff-43a3-bc5d-501fdde79767</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/3c1a459b-ba3b-4827-b645-66588ba2f187/326032a0-3bce-46d0-a4c1-0ca610a6a801?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/3c1a459b-ba3b-4827-b645-66588ba2f187/326032a0-3bce-46d0-a4c1-0ca610a6a801?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC90</model>
+    <year>2025</year>
+    <mileage>
+      <value>30830</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Plug-in Hybrid</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>799500 SEK</g:price>
+    <price>799500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Falkenberg</component>
+      <component name="city">Falkenberg</component>
+      <component name="region">Falkenberg</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>799500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>a19b2c7e-0d5f-4834-bf2d-a285eff2d725</dealer_id>
+    </item>
+    <item>
     <g:id>c30d8066-f16a-4b4e-824e-5fa30230703e</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
