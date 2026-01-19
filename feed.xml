@@ -5,6 +5,52 @@
     <link>https://www.rejmesbil.se</link>
     <description>Rejmes Bil Vehicle Inventory - Manufacturer Warranty</description>
     <item>
+    <g:id>27a529f2-c580-47fe-90f6-90b2e0b00608</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>27a529f2-c580-47fe-90f6-90b2e0b00608</vehicle_id>
+    <vehicle_registration_plate>EAA98F</vehicle_registration_plate>
+    <g:title>Volvo XC40 Ultimate</g:title>
+    <title>Volvo XC40 Ultimate</title>
+    <g:description>Ultimate. Utrustningsnivå: Ultimate. Miltal: 6 481 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Registreringsnummer: EAA98F. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>Ultimate. Utrustningsnivå: Ultimate. Miltal: 6 481 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Registreringsnummer: EAA98F. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/27a529f2-c580-47fe-90f6-90b2e0b00608</g:link>
+    <link>https://www.rejmesbil.se/sok/id/27a529f2-c580-47fe-90f6-90b2e0b00608</link>
+    <url>https://www.rejmesbil.se/sok/id/27a529f2-c580-47fe-90f6-90b2e0b00608</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/a7a6c6d8-ccbf-4e53-ae8b-2a16ec398261/df87311d-d866-47be-9185-6bdad82bc3da?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/a7a6c6d8-ccbf-4e53-ae8b-2a16ec398261/df87311d-d866-47be-9185-6bdad82bc3da?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC40</model>
+    <year>2024</year>
+    <mileage>
+      <value>64810</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>419500 SEK</g:price>
+    <price>419500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Falkenberg</component>
+      <component name="city">Falkenberg</component>
+      <component name="region">Falkenberg</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>419500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>a19b2c7e-0d5f-4834-bf2d-a285eff2d725</dealer_id>
+    </item>
+    <item>
     <g:id>a254b545-f456-441c-b178-8693a1c1da53</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
