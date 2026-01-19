@@ -1431,52 +1431,6 @@
     <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
     </item>
     <item>
-    <g:id>9fd2d129-3009-4cbf-a62f-81feca50474e</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>9fd2d129-3009-4cbf-a62f-81feca50474e</vehicle_id>
-    <vehicle_registration_plate>KYE53P</vehicle_registration_plate>
-    <g:title>Volvo C40 Core | Google System |</g:title>
-    <title>Volvo C40 Core | Google System |</title>
-    <g:description>Core | Google System |. Utrustningsnivå: Core. Miltal: 5 998 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: KYE53P. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>Core | Google System |. Utrustningsnivå: Core. Miltal: 5 998 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: KYE53P. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/9fd2d129-3009-4cbf-a62f-81feca50474e</g:link>
-    <link>https://www.rejmesbil.se/sok/id/9fd2d129-3009-4cbf-a62f-81feca50474e</link>
-    <url>https://www.rejmesbil.se/sok/id/9fd2d129-3009-4cbf-a62f-81feca50474e</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/186ac762-e979-4930-9d5c-fc7a36c162fe/97e22d3a-c580-4526-8fdd-4b782e895216?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/186ac762-e979-4930-9d5c-fc7a36c162fe/97e22d3a-c580-4526-8fdd-4b782e895216?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>C40</model>
-    <year>2023</year>
-    <mileage>
-      <value>59980</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>324500 SEK</g:price>
-    <price>324500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Falkenberg</component>
-      <component name="city">Falkenberg</component>
-      <component name="region">Falkenberg</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>324500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>a19b2c7e-0d5f-4834-bf2d-a285eff2d725</dealer_id>
-    </item>
-    <item>
     <g:id>da04c013-6d04-469b-89ed-efbbd0278187</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -1705,52 +1659,6 @@
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
-    </item>
-    <item>
-    <g:id>c300812e-5d62-42cf-950e-3a476e0f3a75</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>c300812e-5d62-42cf-950e-3a476e0f3a75</vehicle_id>
-    <vehicle_registration_plate>ZHL541</vehicle_registration_plate>
-    <g:title>Volvo C40 Plus | 20&quot; tums fälgar | Parkeringskamera Bak | Google |</g:title>
-    <title>Volvo C40 Plus | 20&quot; tums fälgar | Parkeringskamera Bak | Google |</title>
-    <g:description>Plus | 20&quot; tums fälgar | Parkeringskamera Bak | Google |. Utrustningsnivå: Plus. Miltal: 1 394 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Registreringsnummer: ZHL541. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>Plus | 20&quot; tums fälgar | Parkeringskamera Bak | Google |. Utrustningsnivå: Plus. Miltal: 1 394 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Registreringsnummer: ZHL541. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/c300812e-5d62-42cf-950e-3a476e0f3a75</g:link>
-    <link>https://www.rejmesbil.se/sok/id/c300812e-5d62-42cf-950e-3a476e0f3a75</link>
-    <url>https://www.rejmesbil.se/sok/id/c300812e-5d62-42cf-950e-3a476e0f3a75</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/545f98b5-c456-40a9-8289-d0f1e2039a02/1b0d9c04-6bec-4610-a481-249522bb4e14?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/545f98b5-c456-40a9-8289-d0f1e2039a02/1b0d9c04-6bec-4610-a481-249522bb4e14?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>C40</model>
-    <year>2024</year>
-    <mileage>
-      <value>13940</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>439500 SEK</g:price>
-    <price>439500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Falkenberg</component>
-      <component name="city">Falkenberg</component>
-      <component name="region">Falkenberg</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>439500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>a19b2c7e-0d5f-4834-bf2d-a285eff2d725</dealer_id>
     </item>
     <item>
     <g:id>8faac901-f5aa-4c7a-b364-978b2a21d6b9</g:id>
@@ -2711,52 +2619,6 @@
       <component name="country">SE</component>
     </address>
     <sale_price>374500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
-    </item>
-    <item>
-    <g:id>7bf376c4-bae0-4db1-a8ea-2fd620c3c470</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>7bf376c4-bae0-4db1-a8ea-2fd620c3c470</vehicle_id>
-    <vehicle_registration_plate>ADU28D</vehicle_registration_plate>
-    <g:title>Volvo XC60 Recharge T6 II Plus Bright</g:title>
-    <title>Volvo XC60 Recharge T6 II Plus Bright</title>
-    <g:description>Recharge T6 II Plus Bright. Utrustningsnivå: Plus. Miltal: 4 336 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: ADU28D. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>Recharge T6 II Plus Bright. Utrustningsnivå: Plus. Miltal: 4 336 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: ADU28D. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/7bf376c4-bae0-4db1-a8ea-2fd620c3c470</g:link>
-    <link>https://www.rejmesbil.se/sok/id/7bf376c4-bae0-4db1-a8ea-2fd620c3c470</link>
-    <url>https://www.rejmesbil.se/sok/id/7bf376c4-bae0-4db1-a8ea-2fd620c3c470</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/5adc9631-1bbd-42f9-9136-8b6ba44b7d61/3e4357c6-909e-4423-a605-597e82a1a48d?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/5adc9631-1bbd-42f9-9136-8b6ba44b7d61/3e4357c6-909e-4423-a605-597e82a1a48d?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC60</model>
-    <year>2024</year>
-    <mileage>
-      <value>43360</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Plug-in Hybrid</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>529500 SEK</g:price>
-    <price>529500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>529500 SEK</sale_price>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
@@ -7164,15 +7026,15 @@
     <body_style>Sedan</body_style>
     <fuel_type>Electric</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>519500 SEK</g:price>
-    <price>519500 SEK</price>
+    <g:price>499500 SEK</g:price>
+    <price>499500 SEK</price>
     <address format="simple">
       <component name="addr1">Rejmes Halland - Laholm</component>
       <component name="city">Laholm</component>
       <component name="region">Laholm</component>
       <component name="country">SE</component>
     </address>
-    <sale_price>519500 SEK</sale_price>
+    <sale_price>499500 SEK</sale_price>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
@@ -7394,15 +7256,15 @@
     <body_style>Sedan</body_style>
     <fuel_type>Electric</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>539500 SEK</g:price>
-    <price>539500 SEK</price>
+    <g:price>529500 SEK</g:price>
+    <price>529500 SEK</price>
     <address format="simple">
       <component name="addr1">Rejmes Halland - Halmstad</component>
       <component name="city">Halmstad</component>
       <component name="region">Halmstad</component>
       <component name="country">SE</component>
     </address>
-    <sale_price>539500 SEK</sale_price>
+    <sale_price>529500 SEK</sale_price>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
@@ -7639,52 +7501,6 @@
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
-    </item>
-    <item>
-    <g:id>d64ec44c-193b-48cc-ad23-14d51addcd89</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>d64ec44c-193b-48cc-ad23-14d51addcd89</vehicle_id>
-    <vehicle_registration_plate>UHX99P</vehicle_registration_plate>
-    <g:title>Volvo V90 B4 AWD Diesel Ultimate |Drag |360° |HUD |H&amp;K |Akustik |Panorama |Mörkton</g:title>
-    <title>Volvo V90 B4 AWD Diesel Ultimate |Drag |360° |HUD |H&amp;K |Akustik |Panorama |Mörkton</title>
-    <g:description>B4 AWD Diesel Ultimate |Drag |360° |HUD |H&amp;K |Akustik |Panorama |Mörkton. Utrustningsnivå: Inscription. Miltal: 7 424 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: UHX99P. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>B4 AWD Diesel Ultimate |Drag |360° |HUD |H&amp;K |Akustik |Panorama |Mörkton. Utrustningsnivå: Inscription. Miltal: 7 424 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: UHX99P. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/d64ec44c-193b-48cc-ad23-14d51addcd89</g:link>
-    <link>https://www.rejmesbil.se/sok/id/d64ec44c-193b-48cc-ad23-14d51addcd89</link>
-    <url>https://www.rejmesbil.se/sok/id/d64ec44c-193b-48cc-ad23-14d51addcd89</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/28b2c85c-83cc-4565-928d-b861c0a3c860/92992b65-89d1-4bc7-9026-0859d0da6155?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/28b2c85c-83cc-4565-928d-b861c0a3c860/92992b65-89d1-4bc7-9026-0859d0da6155?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>V90</model>
-    <year>2023</year>
-    <mileage>
-      <value>74240</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Wagon</body_style>
-    <fuel_type>Diesel</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>459500 SEK</g:price>
-    <price>459500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Laholm</component>
-      <component name="city">Laholm</component>
-      <component name="region">Laholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>459500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>cddd81a6-5031-42cd-a468-67eb1f2299c7</dealer_id>
     </item>
     <item>
     <g:id>cbd1753e-da99-4676-905c-895905d73147</g:id>
@@ -8038,15 +7854,15 @@
     <body_style>Sedan</body_style>
     <fuel_type>Electric</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>509500 SEK</g:price>
-    <price>509500 SEK</price>
+    <g:price>499500 SEK</g:price>
+    <price>499500 SEK</price>
     <address format="simple">
       <component name="addr1">Rejmes Halland - Halmstad</component>
       <component name="city">Halmstad</component>
       <component name="region">Halmstad</component>
       <component name="country">SE</component>
     </address>
-    <sale_price>509500 SEK</sale_price>
+    <sale_price>499500 SEK</sale_price>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
