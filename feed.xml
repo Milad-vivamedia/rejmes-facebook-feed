@@ -58,8 +58,8 @@
     <vehicle_registration_plate>THP98H</vehicle_registration_plate>
     <g:title>Volvo XC40 Ultimate</g:title>
     <title>Volvo XC40 Ultimate</title>
-    <g:description>Ultimate. Miltal: 4 852 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: THP98H. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>Ultimate. Miltal: 4 852 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: THP98H. Kontakta oss för mer information om detta fordon.</description>
+    <g:description>Ultimate. Miltal: 4 853 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: THP98H. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>Ultimate. Miltal: 4 853 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: THP98H. Kontakta oss för mer information om detta fordon.</description>
     <g:link>https://www.rejmesbil.se/sok/id/4c7932d7-cd77-48eb-9b3f-f0c4eee70eb1</g:link>
     <link>https://www.rejmesbil.se/sok/id/4c7932d7-cd77-48eb-9b3f-f0c4eee70eb1</link>
     <url>https://www.rejmesbil.se/sok/id/4c7932d7-cd77-48eb-9b3f-f0c4eee70eb1</url>
@@ -74,7 +74,7 @@
     <model>XC40</model>
     <year>2023</year>
     <mileage>
-      <value>48520</value>
+      <value>48530</value>
       <unit>KM</unit>
     </mileage>
     <body_style>SUV</body_style>
@@ -693,52 +693,6 @@
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
-    </item>
-    <item>
-    <g:id>fcc34d51-1381-4eb7-a6cb-65e5fff58847</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>fcc34d51-1381-4eb7-a6cb-65e5fff58847</vehicle_id>
-    <vehicle_registration_plate>BBS92K</vehicle_registration_plate>
-    <g:title>Volvo XC60 T6 Ultra Black Edition</g:title>
-    <title>Volvo XC60 T6 Ultra Black Edition</title>
-    <g:description>T6 Ultra Black Edition. Utrustningsnivå: R-Design. Miltal: 4 052 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: BBS92K. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>T6 Ultra Black Edition. Utrustningsnivå: R-Design. Miltal: 4 052 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: BBS92K. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/fcc34d51-1381-4eb7-a6cb-65e5fff58847</g:link>
-    <link>https://www.rejmesbil.se/sok/id/fcc34d51-1381-4eb7-a6cb-65e5fff58847</link>
-    <url>https://www.rejmesbil.se/sok/id/fcc34d51-1381-4eb7-a6cb-65e5fff58847</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/e2d09a93-ca95-470d-ab23-8a1d6e0dc258/0ecb5e76-140f-4ef6-abd9-d2a699061c22?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/e2d09a93-ca95-470d-ab23-8a1d6e0dc258/0ecb5e76-140f-4ef6-abd9-d2a699061c22?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC60</model>
-    <year>2025</year>
-    <mileage>
-      <value>40520</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Plug-in Hybrid</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>599500 SEK</g:price>
-    <price>599500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Falkenberg</component>
-      <component name="city">Falkenberg</component>
-      <component name="region">Falkenberg</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>599500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>a19b2c7e-0d5f-4834-bf2d-a285eff2d725</dealer_id>
     </item>
     <item>
     <g:id>bc72b955-caff-43a3-bc5d-501fdde79767</g:id>
