@@ -1017,52 +1017,6 @@
     <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
     </item>
     <item>
-    <g:id>4c4c13f0-eaf6-4330-bfe9-31ccea2516e4</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>4c4c13f0-eaf6-4330-bfe9-31ccea2516e4</vehicle_id>
-    <vehicle_registration_plate>NKE22X</vehicle_registration_plate>
-    <g:title>Volvo V60 Recharge T6 Plus Dark</g:title>
-    <title>Volvo V60 Recharge T6 Plus Dark</title>
-    <g:description>Recharge T6 Plus Dark. Utrustningsnivå: R-Design. Miltal: 6 980 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: NKE22X. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>Recharge T6 Plus Dark. Utrustningsnivå: R-Design. Miltal: 6 980 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: NKE22X. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/4c4c13f0-eaf6-4330-bfe9-31ccea2516e4</g:link>
-    <link>https://www.rejmesbil.se/sok/id/4c4c13f0-eaf6-4330-bfe9-31ccea2516e4</link>
-    <url>https://www.rejmesbil.se/sok/id/4c4c13f0-eaf6-4330-bfe9-31ccea2516e4</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/edb76638-38a8-42cb-bb36-52913476ac86/0e2153ae-b64a-4ad5-a003-3aeafdf385ce?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/edb76638-38a8-42cb-bb36-52913476ac86/0e2153ae-b64a-4ad5-a003-3aeafdf385ce?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>V60</model>
-    <year>2023</year>
-    <mileage>
-      <value>69800</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Wagon</body_style>
-    <fuel_type>Plug-in Hybrid</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>399500 SEK</g:price>
-    <price>399500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Falkenberg</component>
-      <component name="city">Falkenberg</component>
-      <component name="region">Falkenberg</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>399500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>a19b2c7e-0d5f-4834-bf2d-a285eff2d725</dealer_id>
-    </item>
-    <item>
     <g:id>f1f048a2-0b00-4368-9adb-f4a47f42340d</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -6266,10 +6220,10 @@
     <g:fb_product_category>173</g:fb_product_category>
     <vehicle_id>52e995e8-af9a-4a46-8a08-c50cf9d03ae9</vehicle_id>
     <vehicle_registration_plate>DMW02H</vehicle_registration_plate>
-    <g:title>Volvo V60 T6 Plus Bright Edition |Drag |Kamera |L��der |Elstol |Mörkton</g:title>
-    <title>Volvo V60 T6 Plus Bright Edition |Drag |Kamera |L��der |Elstol |Mörkton</title>
-    <g:description>T6 Plus Bright Edition |Drag |Kamera |L��der |Elstol |Mörkton. Utrustningsnivå: Plus. Miltal: 2 996 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: DMW02H. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>T6 Plus Bright Edition |Drag |Kamera |L��der |Elstol |Mörkton. Utrustningsnivå: Plus. Miltal: 2 996 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: DMW02H. Kontakta oss för mer information om detta fordon.</description>
+    <g:title>Volvo V60 T6 Plus Bright Edition |Drag |Kamera |Läder |Elstol |Mörkton</g:title>
+    <title>Volvo V60 T6 Plus Bright Edition |Drag |Kamera |Läder |Elstol |Mörkton</title>
+    <g:description>T6 Plus Bright Edition |Drag |Kamera |Läder |Elstol |Mörkton. Utrustningsnivå: Plus. Miltal: 2 996 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: DMW02H. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>T6 Plus Bright Edition |Drag |Kamera |Läder |Elstol |Mörkton. Utrustningsnivå: Plus. Miltal: 2 996 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: DMW02H. Kontakta oss för mer information om detta fordon.</description>
     <g:link>https://www.rejmesbil.se/sok/id/52e995e8-af9a-4a46-8a08-c50cf9d03ae9</g:link>
     <link>https://www.rejmesbil.se/sok/id/52e995e8-af9a-4a46-8a08-c50cf9d03ae9</link>
     <url>https://www.rejmesbil.se/sok/id/52e995e8-af9a-4a46-8a08-c50cf9d03ae9</url>
@@ -6305,52 +6259,6 @@
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
-    </item>
-    <item>
-    <g:id>7c7a3985-665f-493b-8b22-66e152afbd37</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>7c7a3985-665f-493b-8b22-66e152afbd37</vehicle_id>
-    <vehicle_registration_plate>LXS74T</vehicle_registration_plate>
-    <g:title>Volvo V90 T6 Plus Bright Edition |Drag |360° |Läder |Elstol |Mörkton</g:title>
-    <title>Volvo V90 T6 Plus Bright Edition |Drag |360° |Läder |Elstol |Mörkton</title>
-    <g:description>T6 Plus Bright Edition |Drag |360° |Läder |Elstol |Mörkton. Utrustningsnivå: Plus. Miltal: 2 833 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: LXS74T. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>T6 Plus Bright Edition |Drag |360° |Läder |Elstol |Mörkton. Utrustningsnivå: Plus. Miltal: 2 833 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: LXS74T. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/7c7a3985-665f-493b-8b22-66e152afbd37</g:link>
-    <link>https://www.rejmesbil.se/sok/id/7c7a3985-665f-493b-8b22-66e152afbd37</link>
-    <url>https://www.rejmesbil.se/sok/id/7c7a3985-665f-493b-8b22-66e152afbd37</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/52ee6b3d-e3ce-4ce8-b018-1bdb18109a71/d838fae6-8514-4f0c-98eb-61235719447c?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/52ee6b3d-e3ce-4ce8-b018-1bdb18109a71/d838fae6-8514-4f0c-98eb-61235719447c?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>V90</model>
-    <year>2025</year>
-    <mileage>
-      <value>28330</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Wagon</body_style>
-    <fuel_type>Plug-in Hybrid</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>459500 SEK</g:price>
-    <price>459500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Laholm</component>
-      <component name="city">Laholm</component>
-      <component name="region">Laholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>459500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>cddd81a6-5031-42cd-a468-67eb1f2299c7</dealer_id>
     </item>
     <item>
     <g:id>f382a02f-20ff-4fa3-a795-fa631cf5f7af</g:id>
