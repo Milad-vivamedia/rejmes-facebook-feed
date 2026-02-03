@@ -189,52 +189,6 @@
     <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
     </item>
     <item>
-    <g:id>3cbf22ba-d0e8-485c-ab2b-0afe854c50fe</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>3cbf22ba-d0e8-485c-ab2b-0afe854c50fe</vehicle_id>
-    <vehicle_registration_plate>LCP03X</vehicle_registration_plate>
-    <g:title>Volvo XC40 Core</g:title>
-    <title>Volvo XC40 Core</title>
-    <g:description>Core. Utrustningsnivå: Core. Miltal: 4 149 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: LCP03X. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>Core. Utrustningsnivå: Core. Miltal: 4 149 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: LCP03X. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/3cbf22ba-d0e8-485c-ab2b-0afe854c50fe</g:link>
-    <link>https://www.rejmesbil.se/sok/id/3cbf22ba-d0e8-485c-ab2b-0afe854c50fe</link>
-    <url>https://www.rejmesbil.se/sok/id/3cbf22ba-d0e8-485c-ab2b-0afe854c50fe</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/9f035296-8b39-40f7-ba1c-811bef941a15/32e1aa23-b7a2-4aaf-9f7b-6c7c2001c4ef?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/9f035296-8b39-40f7-ba1c-811bef941a15/32e1aa23-b7a2-4aaf-9f7b-6c7c2001c4ef?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2023</year>
-    <mileage>
-      <value>41490</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>319500 SEK</g:price>
-    <price>319500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>319500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
-    </item>
-    <item>
     <g:id>35f083d4-5a67-4afd-8a33-7e2bf8811ae1</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -7225,52 +7179,6 @@
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
-    </item>
-    <item>
-    <g:id>23e10d31-a8e9-4efa-8512-11ac6ed602d3</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>23e10d31-a8e9-4efa-8512-11ac6ed602d3</vehicle_id>
-    <vehicle_registration_plate>WRA86L</vehicle_registration_plate>
-    <g:title>Volvo V90 T6 Plus Bright Edition |Drag |360° |Läder |Elstol |Mörkton</g:title>
-    <title>Volvo V90 T6 Plus Bright Edition |Drag |360° |Läder |Elstol |Mörkton</title>
-    <g:description>T6 Plus Bright Edition |Drag |360° |Läder |Elstol |Mörkton. Utrustningsnivå: Plus. Miltal: 1 550 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: WRA86L. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>T6 Plus Bright Edition |Drag |360° |Läder |Elstol |Mörkton. Utrustningsnivå: Plus. Miltal: 1 550 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: WRA86L. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/23e10d31-a8e9-4efa-8512-11ac6ed602d3</g:link>
-    <link>https://www.rejmesbil.se/sok/id/23e10d31-a8e9-4efa-8512-11ac6ed602d3</link>
-    <url>https://www.rejmesbil.se/sok/id/23e10d31-a8e9-4efa-8512-11ac6ed602d3</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/cf0e6d28-7baa-48c2-b764-b4789cfb12ee/dab51d70-453d-49cf-80da-dcb3a8ba5d14?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/cf0e6d28-7baa-48c2-b764-b4789cfb12ee/dab51d70-453d-49cf-80da-dcb3a8ba5d14?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>V90</model>
-    <year>2025</year>
-    <mileage>
-      <value>15500</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Wagon</body_style>
-    <fuel_type>Plug-in Hybrid</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>479500 SEK</g:price>
-    <price>479500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Laholm</component>
-      <component name="city">Laholm</component>
-      <component name="region">Laholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>479500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>cddd81a6-5031-42cd-a468-67eb1f2299c7</dealer_id>
     </item>
     <item>
     <g:id>2676092c-8398-4609-a785-9421ec768be2</g:id>
