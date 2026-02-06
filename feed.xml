@@ -112,6 +112,11 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/b0b4e44b-2c06-4f61-822a-ce2ec521d8fa/a66ef771-cb73-41c1-9b85-15aff0079432?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/b0b4e44b-2c06-4f61-822a-ce2ec521d8fa/a66ef771-cb73-41c1-9b85-15aff0079432?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
     <model>XC40</model>
     <year>2023</year>
     <mileage>
@@ -199,6 +204,11 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/3d44485f-30c7-4105-998a-61ebdbe02443/b1e4e327-ca4d-4615-9891-5d8ba46edcfd?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/3d44485f-30c7-4105-998a-61ebdbe02443/b1e4e327-ca4d-4615-9891-5d8ba46edcfd?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
     <model>XC60</model>
     <year>2021</year>
     <mileage>
@@ -240,6 +250,11 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/01e71292-40d9-477a-9db4-ebf354145308/223aa7c4-883f-43c9-9ece-c9129f442082?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/01e71292-40d9-477a-9db4-ebf354145308/223aa7c4-883f-43c9-9ece-c9129f442082?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
     <model>XC40</model>
     <year>2023</year>
     <mileage>
