@@ -5,6 +5,98 @@
     <link>https://www.rejmesbil.se</link>
     <description>Rejmes Bil Vehicle Inventory - Manufacturer Warranty</description>
     <item>
+    <g:id>56a8d369-1fda-4e3d-a9af-3c88b219c046</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>56a8d369-1fda-4e3d-a9af-3c88b219c046</vehicle_id>
+    <vehicle_registration_plate>RCA28B</vehicle_registration_plate>
+    <g:title>Volvo XC90 T8 Ultra Dark</g:title>
+    <title>Volvo XC90 T8 Ultra Dark</title>
+    <g:description>T8 Ultra Dark. Utrustningsnivå: Ultra Dark. Miltal: 1 340 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: RCA28B. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>T8 Ultra Dark. Utrustningsnivå: Ultra Dark. Miltal: 1 340 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: RCA28B. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/56a8d369-1fda-4e3d-a9af-3c88b219c046</g:link>
+    <link>https://www.rejmesbil.se/sok/id/56a8d369-1fda-4e3d-a9af-3c88b219c046</link>
+    <url>https://www.rejmesbil.se/sok/id/56a8d369-1fda-4e3d-a9af-3c88b219c046</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/6da80743-bca8-481b-bf2b-2aaacc31ee36/6249efda-c26a-4d18-a0e3-456e0ab25a9f?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/6da80743-bca8-481b-bf2b-2aaacc31ee36/6249efda-c26a-4d18-a0e3-456e0ab25a9f?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC90</model>
+    <year>2026</year>
+    <mileage>
+      <value>13400</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Plug-in Hybrid</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>879500 SEK</g:price>
+    <price>879500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Halmstad</component>
+      <component name="city">Halmstad</component>
+      <component name="region">Halmstad</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>879500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>new</g:condition>
+    <condition>new</condition>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
+    </item>
+    <item>
+    <g:id>fbf29cd4-b19f-4a55-8ab9-0848e587fbac</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>fbf29cd4-b19f-4a55-8ab9-0848e587fbac</vehicle_id>
+    <vehicle_registration_plate>MFL39B</vehicle_registration_plate>
+    <g:title>Volvo XC90 T8 Ultra Dark</g:title>
+    <title>Volvo XC90 T8 Ultra Dark</title>
+    <g:description>T8 Ultra Dark. Utrustningsnivå: Ultra Dark. Miltal: 2 569 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: MFL39B. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>T8 Ultra Dark. Utrustningsnivå: Ultra Dark. Miltal: 2 569 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: MFL39B. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/fbf29cd4-b19f-4a55-8ab9-0848e587fbac</g:link>
+    <link>https://www.rejmesbil.se/sok/id/fbf29cd4-b19f-4a55-8ab9-0848e587fbac</link>
+    <url>https://www.rejmesbil.se/sok/id/fbf29cd4-b19f-4a55-8ab9-0848e587fbac</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/a5d309c9-98c6-42a8-b936-ff49b970660c/603e50fb-00e9-4eb7-a907-1fce670f9199?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/a5d309c9-98c6-42a8-b936-ff49b970660c/603e50fb-00e9-4eb7-a907-1fce670f9199?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC90</model>
+    <year>2026</year>
+    <mileage>
+      <value>25690</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Plug-in Hybrid</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>859500 SEK</g:price>
+    <price>859500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Halmstad</component>
+      <component name="city">Halmstad</component>
+      <component name="region">Halmstad</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>859500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>new</g:condition>
+    <condition>new</condition>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
+    </item>
+    <item>
     <g:id>fb1a8f8b-de59-460b-8a97-5d15af3b3dc4</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
