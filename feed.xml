@@ -5,6 +5,98 @@
     <link>https://www.rejmesbil.se</link>
     <description>Rejmes Bil Vehicle Inventory - Manufacturer Warranty</description>
     <item>
+    <g:id>2237aa94-d3fe-416f-b049-213c6d0db0f0</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>2237aa94-d3fe-416f-b049-213c6d0db0f0</vehicle_id>
+    <vehicle_registration_plate>CDB76A</vehicle_registration_plate>
+    <g:title>Volvo XC40 Ultimate</g:title>
+    <title>Volvo XC40 Ultimate</title>
+    <g:description>Ultimate. Utrustningsnivå: Ultimate. Miltal: 5 644 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elektrisk. Registreringsnummer: CDB76A. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>Ultimate. Utrustningsnivå: Ultimate. Miltal: 5 644 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elektrisk. Registreringsnummer: CDB76A. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/2237aa94-d3fe-416f-b049-213c6d0db0f0</g:link>
+    <link>https://www.rejmesbil.se/sok/id/2237aa94-d3fe-416f-b049-213c6d0db0f0</link>
+    <url>https://www.rejmesbil.se/sok/id/2237aa94-d3fe-416f-b049-213c6d0db0f0</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/1924d15b-3c0d-4edd-9ed7-96c5dbd8d7a5/9cb43541-3761-4438-80aa-fbab4b40c419?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/1924d15b-3c0d-4edd-9ed7-96c5dbd8d7a5/9cb43541-3761-4438-80aa-fbab4b40c419?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC40</model>
+    <year>2023</year>
+    <mileage>
+      <value>56440</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>359500 SEK</g:price>
+    <price>359500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Halmstad</component>
+      <component name="city">Halmstad</component>
+      <component name="region">Halmstad</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>359500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
+    </item>
+    <item>
+    <g:id>7e2b1937-53a2-4d24-9a8d-8bed48f1e5d3</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>7e2b1937-53a2-4d24-9a8d-8bed48f1e5d3</vehicle_id>
+    <vehicle_registration_plate>HCL31J</vehicle_registration_plate>
+    <g:title>Volvo EX30 Plus</g:title>
+    <title>Volvo EX30 Plus</title>
+    <g:description>Plus. Utrustningsnivå: Plus. Miltal: 3 349 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Elektrisk. Registreringsnummer: HCL31J. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>Plus. Utrustningsnivå: Plus. Miltal: 3 349 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Elektrisk. Registreringsnummer: HCL31J. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/7e2b1937-53a2-4d24-9a8d-8bed48f1e5d3</g:link>
+    <link>https://www.rejmesbil.se/sok/id/7e2b1937-53a2-4d24-9a8d-8bed48f1e5d3</link>
+    <url>https://www.rejmesbil.se/sok/id/7e2b1937-53a2-4d24-9a8d-8bed48f1e5d3</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/9fce1259-a751-4fe7-ab8e-b110f243b815/b45d64ee-50a9-47bf-bbdc-338a57f53e21?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/9fce1259-a751-4fe7-ab8e-b110f243b815/b45d64ee-50a9-47bf-bbdc-338a57f53e21?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>EX30</model>
+    <year>2024</year>
+    <mileage>
+      <value>33490</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>359500 SEK</g:price>
+    <price>359500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Halmstad</component>
+      <component name="city">Halmstad</component>
+      <component name="region">Halmstad</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>359500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
+    </item>
+    <item>
     <g:id>63ee4fa0-9e76-44d5-bf73-e83fcc84c57c</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
