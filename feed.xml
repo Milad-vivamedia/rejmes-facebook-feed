@@ -5,6 +5,52 @@
     <link>https://www.rejmesbil.se</link>
     <description>Rejmes Bil Vehicle Inventory - Manufacturer Warranty</description>
     <item>
+    <g:id>cf897659-e31b-4f34-8b92-2fd85ce8f087</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>cf897659-e31b-4f34-8b92-2fd85ce8f087</vehicle_id>
+    <vehicle_registration_plate>JAH91U</vehicle_registration_plate>
+    <g:title>Volvo C40 Plus</g:title>
+    <title>Volvo C40 Plus</title>
+    <g:description>Plus. Utrustningsnivå: Plus. Miltal: 3 896 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elektrisk. Registreringsnummer: JAH91U. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>Plus. Utrustningsnivå: Plus. Miltal: 3 896 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elektrisk. Registreringsnummer: JAH91U. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/cf897659-e31b-4f34-8b92-2fd85ce8f087</g:link>
+    <link>https://www.rejmesbil.se/sok/id/cf897659-e31b-4f34-8b92-2fd85ce8f087</link>
+    <url>https://www.rejmesbil.se/sok/id/cf897659-e31b-4f34-8b92-2fd85ce8f087</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/dc1bbb43-d816-41fa-8591-cf8351687980/5e713d75-3111-4acb-bfad-61fc75a868c4?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/dc1bbb43-d816-41fa-8591-cf8351687980/5e713d75-3111-4acb-bfad-61fc75a868c4?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>C40</model>
+    <year>2023</year>
+    <mileage>
+      <value>38960</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>339500 SEK</g:price>
+    <price>339500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Laholm</component>
+      <component name="city">Laholm</component>
+      <component name="region">Laholm</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>339500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>cddd81a6-5031-42cd-a468-67eb1f2299c7</dealer_id>
+    </item>
+    <item>
     <g:id>eefc2582-68d1-4d7b-b67c-ca6af149cebd</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -1482,10 +1528,10 @@
     <g:fb_product_category>173</g:fb_product_category>
     <vehicle_id>f1f048a2-0b00-4368-9adb-f4a47f42340d</vehicle_id>
     <vehicle_registration_plate>TJA09N</vehicle_registration_plate>
-    <g:title>Volvo XC40 Plus</g:title>
-    <title>Volvo XC40 Plus</title>
-    <g:description>Plus. Utrustningsnivå: Plus. Miltal: 7 344 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: TJA09N. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>Plus. Utrustningsnivå: Plus. Miltal: 7 344 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: TJA09N. Kontakta oss för mer information om detta fordon.</description>
+    <g:title>Volvo XC40 Plus | Parkeringskamera Bak | Google System |</g:title>
+    <title>Volvo XC40 Plus | Parkeringskamera Bak | Google System |</title>
+    <g:description>Plus | Parkeringskamera Bak | Google System |. Utrustningsnivå: Plus. Miltal: 7 344 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: TJA09N. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>Plus | Parkeringskamera Bak | Google System |. Utrustningsnivå: Plus. Miltal: 7 344 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: TJA09N. Kontakta oss för mer information om detta fordon.</description>
     <g:link>https://www.rejmesbil.se/sok/id/f1f048a2-0b00-4368-9adb-f4a47f42340d</g:link>
     <link>https://www.rejmesbil.se/sok/id/f1f048a2-0b00-4368-9adb-f4a47f42340d</link>
     <url>https://www.rejmesbil.se/sok/id/f1f048a2-0b00-4368-9adb-f4a47f42340d</url>
