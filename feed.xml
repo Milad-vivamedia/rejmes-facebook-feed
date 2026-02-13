@@ -5,6 +5,52 @@
     <link>https://www.rejmesbil.se</link>
     <description>Rejmes Bil Vehicle Inventory - Manufacturer Warranty</description>
     <item>
+    <g:id>f42f639b-44a3-42b5-af7a-57e9a5867d08</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>f42f639b-44a3-42b5-af7a-57e9a5867d08</vehicle_id>
+    <vehicle_registration_plate>WSJ74D</vehicle_registration_plate>
+    <g:title>Volvo XC90 T8 Ultra Dark</g:title>
+    <title>Volvo XC90 T8 Ultra Dark</title>
+    <g:description>T8 Ultra Dark. Utrustningsnivå: Ultra. Miltal: 19 698 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: WSJ74D. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>T8 Ultra Dark. Utrustningsnivå: Ultra. Miltal: 19 698 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: WSJ74D. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/f42f639b-44a3-42b5-af7a-57e9a5867d08</g:link>
+    <link>https://www.rejmesbil.se/sok/id/f42f639b-44a3-42b5-af7a-57e9a5867d08</link>
+    <url>https://www.rejmesbil.se/sok/id/f42f639b-44a3-42b5-af7a-57e9a5867d08</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/ba2a189b-ef37-43e3-b395-b156c135637f/68d05577-d512-4380-9fc9-ec2fe5999f68?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/ba2a189b-ef37-43e3-b395-b156c135637f/68d05577-d512-4380-9fc9-ec2fe5999f68?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC90</model>
+    <year>2026</year>
+    <mileage>
+      <value>196980</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Plug-in Hybrid</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>879500 SEK</g:price>
+    <price>879500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Halmstad</component>
+      <component name="city">Halmstad</component>
+      <component name="region">Halmstad</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>879500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>new</g:condition>
+    <condition>new</condition>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
+    </item>
+    <item>
     <g:id>9f7394f3-4553-43de-8f16-80c79655d24c</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
