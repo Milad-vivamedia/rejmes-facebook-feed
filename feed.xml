@@ -5,15 +5,61 @@
     <link>https://www.rejmesbil.se</link>
     <description>Rejmes Bil Vehicle Inventory - Manufacturer Warranty</description>
     <item>
+    <g:id>8fe6c415-9fec-4752-b868-6ececff3a66c</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>8fe6c415-9fec-4752-b868-6ececff3a66c</vehicle_id>
+    <vehicle_registration_plate>WAF63T</vehicle_registration_plate>
+    <g:title>Volvo XC40 Core</g:title>
+    <title>Volvo XC40 Core</title>
+    <g:description>Core. Utrustningsnivå: Core. Miltal: 8 262 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: WAF63T. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>Core. Utrustningsnivå: Core. Miltal: 8 262 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: WAF63T. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/8fe6c415-9fec-4752-b868-6ececff3a66c</g:link>
+    <link>https://www.rejmesbil.se/sok/id/8fe6c415-9fec-4752-b868-6ececff3a66c</link>
+    <url>https://www.rejmesbil.se/sok/id/8fe6c415-9fec-4752-b868-6ececff3a66c</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/9f1943bd-c058-46e0-a0f2-2c21388c7fb8/661f37b9-8c36-4090-90d0-1d71d484904d?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/9f1943bd-c058-46e0-a0f2-2c21388c7fb8/661f37b9-8c36-4090-90d0-1d71d484904d?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC40</model>
+    <year>2023</year>
+    <mileage>
+      <value>82620</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>289500 SEK</g:price>
+    <price>289500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Halmstad</component>
+      <component name="city">Halmstad</component>
+      <component name="region">Halmstad</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>289500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
+    </item>
+    <item>
     <g:id>f62a78e9-f374-479b-afac-0a087a8afca9</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
     <vehicle_id>f62a78e9-f374-479b-afac-0a087a8afca9</vehicle_id>
     <vehicle_registration_plate>RBR93Y</vehicle_registration_plate>
-    <g:title>Volvo V60 Recharge T6 Core Edition</g:title>
-    <title>Volvo V60 Recharge T6 Core Edition</title>
-    <g:description>Recharge T6 Core Edition. Utrustningsnivå: Core. Miltal: 10 591 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: RBR93Y. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>Recharge T6 Core Edition. Utrustningsnivå: Core. Miltal: 10 591 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: RBR93Y. Kontakta oss för mer information om detta fordon.</description>
+    <g:title>Volvo V60 Recharge T6 Core Edition | Drag | Ljuspaket | Nya sommardäck |</g:title>
+    <title>Volvo V60 Recharge T6 Core Edition | Drag | Ljuspaket | Nya sommardäck |</title>
+    <g:description>Recharge T6 Core Edition | Drag | Ljuspaket | Nya sommardäck |. Utrustningsnivå: Core. Miltal: 10 591 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: RBR93Y. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>Recharge T6 Core Edition | Drag | Ljuspaket | Nya sommardäck |. Utrustningsnivå: Core. Miltal: 10 591 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: RBR93Y. Kontakta oss för mer information om detta fordon.</description>
     <g:link>https://www.rejmesbil.se/sok/id/f62a78e9-f374-479b-afac-0a087a8afca9</g:link>
     <link>https://www.rejmesbil.se/sok/id/f62a78e9-f374-479b-afac-0a087a8afca9</link>
     <url>https://www.rejmesbil.se/sok/id/f62a78e9-f374-479b-afac-0a087a8afca9</url>
@@ -56,10 +102,10 @@
     <g:fb_product_category>173</g:fb_product_category>
     <vehicle_id>88830985-fced-42bb-8a78-00c160c959ff</vehicle_id>
     <vehicle_registration_plate>WBX06T</vehicle_registration_plate>
-    <g:title>Volvo EX40 R Plus Edt</g:title>
-    <title>Volvo EX40 R Plus Edt</title>
-    <g:description>R Plus Edt. Utrustningsnivå: Plus Edition. Miltal: 2 544 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: WBX06T. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>R Plus Edt. Utrustningsnivå: Plus Edition. Miltal: 2 544 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: WBX06T. Kontakta oss för mer information om detta fordon.</description>
+    <g:title>Volvo EX40 R Plus Edt | Drag | 360° kamera | Pixel |</g:title>
+    <title>Volvo EX40 R Plus Edt | Drag | 360° kamera | Pixel |</title>
+    <g:description>R Plus Edt | Drag | 360° kamera | Pixel |. Utrustningsnivå: Plus Edition. Miltal: 2 544 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: WBX06T. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>R Plus Edt | Drag | 360° kamera | Pixel |. Utrustningsnivå: Plus Edition. Miltal: 2 544 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: WBX06T. Kontakta oss för mer information om detta fordon.</description>
     <g:link>https://www.rejmesbil.se/sok/id/88830985-fced-42bb-8a78-00c160c959ff</g:link>
     <link>https://www.rejmesbil.se/sok/id/88830985-fced-42bb-8a78-00c160c959ff</link>
     <url>https://www.rejmesbil.se/sok/id/88830985-fced-42bb-8a78-00c160c959ff</url>
@@ -332,10 +378,10 @@
     <g:fb_product_category>173</g:fb_product_category>
     <vehicle_id>7c4e8547-341a-42d3-add7-8b7fdab827b3</vehicle_id>
     <vehicle_registration_plate>KFB43W</vehicle_registration_plate>
-    <g:title>Volvo C40 Plus</g:title>
-    <title>Volvo C40 Plus</title>
-    <g:description>Plus. Utrustningsnivå: Plus. Miltal: 2 044 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Registreringsnummer: KFB43W. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>Plus. Utrustningsnivå: Plus. Miltal: 2 044 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Registreringsnummer: KFB43W. Kontakta oss för mer information om detta fordon.</description>
+    <g:title>Volvo C40 Plus | Dragkrok | B-kamera | Klimatpaket |</g:title>
+    <title>Volvo C40 Plus | Dragkrok | B-kamera | Klimatpaket |</title>
+    <g:description>Plus | Dragkrok | B-kamera | Klimatpaket |. Utrustningsnivå: Plus. Miltal: 2 044 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Registreringsnummer: KFB43W. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>Plus | Dragkrok | B-kamera | Klimatpaket |. Utrustningsnivå: Plus. Miltal: 2 044 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Registreringsnummer: KFB43W. Kontakta oss för mer information om detta fordon.</description>
     <g:link>https://www.rejmesbil.se/sok/id/7c4e8547-341a-42d3-add7-8b7fdab827b3</g:link>
     <link>https://www.rejmesbil.se/sok/id/7c4e8547-341a-42d3-add7-8b7fdab827b3</link>
     <url>https://www.rejmesbil.se/sok/id/7c4e8547-341a-42d3-add7-8b7fdab827b3</url>
@@ -378,10 +424,10 @@
     <g:fb_product_category>173</g:fb_product_category>
     <vehicle_id>84dd5f0c-6e39-4742-af62-a0fd1f05d7ac</vehicle_id>
     <vehicle_registration_plate>LHC74F</vehicle_registration_plate>
-    <g:title>Volvo V60 Recharge T6 Core Edition</g:title>
-    <title>Volvo V60 Recharge T6 Core Edition</title>
-    <g:description>Recharge T6 Core Edition. Utrustningsnivå: Core. Miltal: 5 224 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: LHC74F. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>Recharge T6 Core Edition. Utrustningsnivå: Core. Miltal: 5 224 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: LHC74F. Kontakta oss för mer information om detta fordon.</description>
+    <g:title>Volvo V60 Recharge T6 Core Edition | Läder | Drag | Motorstol | Ljuspaket |</g:title>
+    <title>Volvo V60 Recharge T6 Core Edition | Läder | Drag | Motorstol | Ljuspaket |</title>
+    <g:description>Recharge T6 Core Edition | Läder | Drag | Motorstol | Ljuspaket |. Utrustningsnivå: Core. Miltal: 5 224 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: LHC74F. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>Recharge T6 Core Edition | Läder | Drag | Motorstol | Ljuspaket |. Utrustningsnivå: Core. Miltal: 5 224 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: LHC74F. Kontakta oss för mer information om detta fordon.</description>
     <g:link>https://www.rejmesbil.se/sok/id/84dd5f0c-6e39-4742-af62-a0fd1f05d7ac</g:link>
     <link>https://www.rejmesbil.se/sok/id/84dd5f0c-6e39-4742-af62-a0fd1f05d7ac</link>
     <url>https://www.rejmesbil.se/sok/id/84dd5f0c-6e39-4742-af62-a0fd1f05d7ac</url>
@@ -424,10 +470,10 @@
     <g:fb_product_category>173</g:fb_product_category>
     <vehicle_id>873e79f0-15e8-4398-bb2a-9535be8df27a</vehicle_id>
     <vehicle_registration_plate>DCE46W</vehicle_registration_plate>
-    <g:title>Volvo XC40 Core</g:title>
-    <title>Volvo XC40 Core</title>
-    <g:description>Core. Utrustningsnivå: Core. Miltal: 7 148 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Registreringsnummer: DCE46W. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>Core. Utrustningsnivå: Core. Miltal: 7 148 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Registreringsnummer: DCE46W. Kontakta oss för mer information om detta fordon.</description>
+    <g:title>Volvo XC40 Core | Dragkrok | Kamera |</g:title>
+    <title>Volvo XC40 Core | Dragkrok | Kamera |</title>
+    <g:description>Core | Dragkrok | Kamera |. Utrustningsnivå: Core. Miltal: 7 148 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Registreringsnummer: DCE46W. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>Core | Dragkrok | Kamera |. Utrustningsnivå: Core. Miltal: 7 148 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Registreringsnummer: DCE46W. Kontakta oss för mer information om detta fordon.</description>
     <g:link>https://www.rejmesbil.se/sok/id/873e79f0-15e8-4398-bb2a-9535be8df27a</g:link>
     <link>https://www.rejmesbil.se/sok/id/873e79f0-15e8-4398-bb2a-9535be8df27a</link>
     <url>https://www.rejmesbil.se/sok/id/873e79f0-15e8-4398-bb2a-9535be8df27a</url>
@@ -608,10 +654,10 @@
     <g:fb_product_category>173</g:fb_product_category>
     <vehicle_id>f42f639b-44a3-42b5-af7a-57e9a5867d08</vehicle_id>
     <vehicle_registration_plate>WSJ74D</vehicle_registration_plate>
-    <g:title>Volvo XC90 T8 Ultra Dark</g:title>
-    <title>Volvo XC90 T8 Ultra Dark</title>
-    <g:description>T8 Ultra Dark. Utrustningsnivå: Ultra. Miltal: 1 969 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: WSJ74D. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>T8 Ultra Dark. Utrustningsnivå: Ultra. Miltal: 1 969 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: WSJ74D. Kontakta oss för mer information om detta fordon.</description>
+    <g:title>Volvo XC90 T8 Ultra Dark | Drag | H/K | 360° | Massage |</g:title>
+    <title>Volvo XC90 T8 Ultra Dark | Drag | H/K | 360° | Massage |</title>
+    <g:description>T8 Ultra Dark | Drag | H/K | 360° | Massage |. Utrustningsnivå: Ultra. Miltal: 1 969 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: WSJ74D. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>T8 Ultra Dark | Drag | H/K | 360° | Massage |. Utrustningsnivå: Ultra. Miltal: 1 969 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: WSJ74D. Kontakta oss för mer information om detta fordon.</description>
     <g:link>https://www.rejmesbil.se/sok/id/f42f639b-44a3-42b5-af7a-57e9a5867d08</g:link>
     <link>https://www.rejmesbil.se/sok/id/f42f639b-44a3-42b5-af7a-57e9a5867d08</link>
     <url>https://www.rejmesbil.se/sok/id/f42f639b-44a3-42b5-af7a-57e9a5867d08</url>
