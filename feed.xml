@@ -5157,52 +5157,6 @@
     <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
     </item>
     <item>
-    <g:id>3a5f0113-a2e7-4e2d-8ee4-3b439c3209df</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>3a5f0113-a2e7-4e2d-8ee4-3b439c3209df</vehicle_id>
-    <vehicle_registration_plate>PKN34R</vehicle_registration_plate>
-    <g:title>Volvo XC60 T6 Plus Bright Edition |Drag |360° |Läder |Elstol |Panorama</g:title>
-    <title>Volvo XC60 T6 Plus Bright Edition |Drag |360° |Läder |Elstol |Panorama</title>
-    <g:description>T6 Plus Bright Edition |Drag |360° |Läder |Elstol |Panorama. Utrustningsnivå: Plus. Miltal: 2 050 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: PKN34R. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>T6 Plus Bright Edition |Drag |360° |Läder |Elstol |Panorama. Utrustningsnivå: Plus. Miltal: 2 050 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: PKN34R. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/3a5f0113-a2e7-4e2d-8ee4-3b439c3209df</g:link>
-    <link>https://www.rejmesbil.se/sok/id/3a5f0113-a2e7-4e2d-8ee4-3b439c3209df</link>
-    <url>https://www.rejmesbil.se/sok/id/3a5f0113-a2e7-4e2d-8ee4-3b439c3209df</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/6b0627d9-9a3b-4d54-9635-a3929f2d4b88/d9f34e46-4ec5-43f6-a27e-7000a0368dfc?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/6b0627d9-9a3b-4d54-9635-a3929f2d4b88/d9f34e46-4ec5-43f6-a27e-7000a0368dfc?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC60</model>
-    <year>2025</year>
-    <mileage>
-      <value>20500</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Plug-in Hybrid</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>559500 SEK</g:price>
-    <price>559500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>559500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
-    </item>
-    <item>
     <g:id>fc855513-198f-4684-bbd6-59157fe67d73</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
