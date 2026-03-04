@@ -4421,52 +4421,6 @@
     <dealer_id>cddd81a6-5031-42cd-a468-67eb1f2299c7</dealer_id>
     </item>
     <item>
-    <g:id>b27f9259-f206-44ea-9dec-56700155ff7d</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>b27f9259-f206-44ea-9dec-56700155ff7d</vehicle_id>
-    <vehicle_registration_plate>BJM12W</vehicle_registration_plate>
-    <g:title>Volvo XC60 T6 Plus Dark Edition | 360° | Dragkrok | Panorama |</g:title>
-    <title>Volvo XC60 T6 Plus Dark Edition | 360° | Dragkrok | Panorama |</title>
-    <g:description>T6 Plus Dark Edition | 360° | Dragkrok | Panorama |. Utrustningsnivå: Plus. Miltal: 3 029 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: BJM12W. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>T6 Plus Dark Edition | 360° | Dragkrok | Panorama |. Utrustningsnivå: Plus. Miltal: 3 029 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: BJM12W. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/b27f9259-f206-44ea-9dec-56700155ff7d</g:link>
-    <link>https://www.rejmesbil.se/sok/id/b27f9259-f206-44ea-9dec-56700155ff7d</link>
-    <url>https://www.rejmesbil.se/sok/id/b27f9259-f206-44ea-9dec-56700155ff7d</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/9f52f515-3e84-46e4-9528-9483af345a5d/4714edc4-ab3b-4fab-8535-714b5f8c3426?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/9f52f515-3e84-46e4-9528-9483af345a5d/4714edc4-ab3b-4fab-8535-714b5f8c3426?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC60</model>
-    <year>2025</year>
-    <mileage>
-      <value>30290</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Plug-in Hybrid</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>569500 SEK</g:price>
-    <price>569500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Laholm</component>
-      <component name="city">Laholm</component>
-      <component name="region">Laholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>569500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>cddd81a6-5031-42cd-a468-67eb1f2299c7</dealer_id>
-    </item>
-    <item>
     <g:id>8ee3ad3e-1919-4f5e-8ed8-8ff6eef74b97</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -4704,8 +4658,8 @@
     <vehicle_registration_plate>SYU03N</vehicle_registration_plate>
     <g:title>Volvo XC40 B4 FWD Bensin Plus Dark</g:title>
     <title>Volvo XC40 B4 FWD Bensin Plus Dark</title>
-    <g:description>B4 FWD Bensin Plus Dark. Utrustningsnivå: Plus. Miltal: 3 080 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: SYU03N. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>B4 FWD Bensin Plus Dark. Utrustningsnivå: Plus. Miltal: 3 080 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: SYU03N. Kontakta oss för mer information om detta fordon.</description>
+    <g:description>B4 FWD Bensin Plus Dark. Utrustningsnivå: Plus. Miltal: 0 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: SYU03N. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>B4 FWD Bensin Plus Dark. Utrustningsnivå: Plus. Miltal: 0 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: SYU03N. Kontakta oss för mer information om detta fordon.</description>
     <g:link>https://www.rejmesbil.se/sok/id/f8c254cb-9b0a-4f36-81e8-6997c97e5ee3</g:link>
     <link>https://www.rejmesbil.se/sok/id/f8c254cb-9b0a-4f36-81e8-6997c97e5ee3</link>
     <url>https://www.rejmesbil.se/sok/id/f8c254cb-9b0a-4f36-81e8-6997c97e5ee3</url>
@@ -4719,10 +4673,6 @@
     </image>
     <model>XC40</model>
     <year>2024</year>
-    <mileage>
-      <value>30800</value>
-      <unit>KM</unit>
-    </mileage>
     <body_style>SUV</body_style>
     <fuel_type>Gasoline</fuel_type>
     <transmission>Automatic</transmission>
