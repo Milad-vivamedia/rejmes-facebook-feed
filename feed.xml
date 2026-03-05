@@ -5,6 +5,52 @@
     <link>https://www.rejmesbil.se</link>
     <description>Rejmes Bil Vehicle Inventory - Manufacturer Warranty</description>
     <item>
+    <g:id>fc4ae067-12ff-4f9e-9655-270f278c891e</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>fc4ae067-12ff-4f9e-9655-270f278c891e</vehicle_id>
+    <vehicle_registration_plate>ZAW00G</vehicle_registration_plate>
+    <g:title>Volvo C40 Ultimate</g:title>
+    <title>Volvo C40 Ultimate</title>
+    <g:description>Ultimate. Utrustningsnivå: Ultimate. Miltal: 5 358 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: ZAW00G. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>Ultimate. Utrustningsnivå: Ultimate. Miltal: 5 358 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: ZAW00G. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/fc4ae067-12ff-4f9e-9655-270f278c891e</g:link>
+    <link>https://www.rejmesbil.se/sok/id/fc4ae067-12ff-4f9e-9655-270f278c891e</link>
+    <url>https://www.rejmesbil.se/sok/id/fc4ae067-12ff-4f9e-9655-270f278c891e</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/45d0a611-970f-45e9-8a5c-12b8a981e3fa/f8c2f49e-4dc1-490a-9543-a83cbecfd708?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/45d0a611-970f-45e9-8a5c-12b8a981e3fa/f8c2f49e-4dc1-490a-9543-a83cbecfd708?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>C40</model>
+    <year>2023</year>
+    <mileage>
+      <value>53580</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>354500 SEK</g:price>
+    <price>354500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Halmstad</component>
+      <component name="city">Halmstad</component>
+      <component name="region">Halmstad</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>354500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
+    </item>
+    <item>
     <g:id>00243673-12e2-4c0e-9df5-a20a2cde8c74</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
