@@ -143,52 +143,6 @@
     <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
     </item>
     <item>
-    <g:id>ed950378-fc2a-44aa-b1e2-0b6d1e2d3eeb</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>ed950378-fc2a-44aa-b1e2-0b6d1e2d3eeb</vehicle_id>
-    <vehicle_registration_plate>WCG84L</vehicle_registration_plate>
-    <g:title>Volvo V60 Recharge T6 Core Edition</g:title>
-    <title>Volvo V60 Recharge T6 Core Edition</title>
-    <g:description>Recharge T6 Core Edition. Utrustningsnivå: Core. Miltal: 8 164 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: WCG84L. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>Recharge T6 Core Edition. Utrustningsnivå: Core. Miltal: 8 164 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: WCG84L. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/ed950378-fc2a-44aa-b1e2-0b6d1e2d3eeb</g:link>
-    <link>https://www.rejmesbil.se/sok/id/ed950378-fc2a-44aa-b1e2-0b6d1e2d3eeb</link>
-    <url>https://www.rejmesbil.se/sok/id/ed950378-fc2a-44aa-b1e2-0b6d1e2d3eeb</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/428f0b64-3e48-491d-9c0b-5c15b421f0e6/b9cc7f12-4dbe-4992-b225-ea2b7978f089?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/428f0b64-3e48-491d-9c0b-5c15b421f0e6/b9cc7f12-4dbe-4992-b225-ea2b7978f089?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>V60</model>
-    <year>2023</year>
-    <mileage>
-      <value>81640</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Wagon</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>319500 SEK</g:price>
-    <price>319500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>319500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
-    </item>
-    <item>
     <g:id>bbf370a3-e56f-4177-8699-e694e2fa1d82</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -5471,52 +5425,6 @@
       <component name="country">SE</component>
     </address>
     <sale_price>469500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
-    </item>
-    <item>
-    <g:id>6ef3a209-9cb1-4e69-938f-4c3f880d8659</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>6ef3a209-9cb1-4e69-938f-4c3f880d8659</vehicle_id>
-    <vehicle_registration_plate>JAR80Y</vehicle_registration_plate>
-    <g:title>Volvo C40 Plus |Dragkrok | Backkamera |</g:title>
-    <title>Volvo C40 Plus |Dragkrok | Backkamera |</title>
-    <g:description>Plus |Dragkrok | Backkamera |. Utrustningsnivå: Plus. Miltal: 3 384 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Registreringsnummer: JAR80Y. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>Plus |Dragkrok | Backkamera |. Utrustningsnivå: Plus. Miltal: 3 384 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Registreringsnummer: JAR80Y. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/6ef3a209-9cb1-4e69-938f-4c3f880d8659</g:link>
-    <link>https://www.rejmesbil.se/sok/id/6ef3a209-9cb1-4e69-938f-4c3f880d8659</link>
-    <url>https://www.rejmesbil.se/sok/id/6ef3a209-9cb1-4e69-938f-4c3f880d8659</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/d6e83ff6-a5d8-492b-877f-545b7830ac86/18174569-2811-4129-9eb3-dfee847540b9?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/d6e83ff6-a5d8-492b-877f-545b7830ac86/18174569-2811-4129-9eb3-dfee847540b9?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>C40</model>
-    <year>2024</year>
-    <mileage>
-      <value>33840</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>429500 SEK</g:price>
-    <price>429500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>429500 SEK</sale_price>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
