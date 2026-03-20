@@ -5,6 +5,144 @@
     <link>https://www.rejmesbil.se</link>
     <description>Rejmes Bil Vehicle Inventory - Manufacturer Warranty</description>
     <item>
+    <g:id>3b0b217b-a987-4d2c-aa77-54116f405344</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>3b0b217b-a987-4d2c-aa77-54116f405344</vehicle_id>
+    <vehicle_registration_plate>TER03P</vehicle_registration_plate>
+    <g:title>Volvo XC60 T6 Plus Dark Nordic Edition</g:title>
+    <title>Volvo XC60 T6 Plus Dark Nordic Edition</title>
+    <g:description>T6 Plus Dark Nordic Edition. Utrustningsnivå: Plus Nordic Edition. Miltal: 3 476 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: TER03P. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>T6 Plus Dark Nordic Edition. Utrustningsnivå: Plus Nordic Edition. Miltal: 3 476 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: TER03P. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/3b0b217b-a987-4d2c-aa77-54116f405344</g:link>
+    <link>https://www.rejmesbil.se/sok/id/3b0b217b-a987-4d2c-aa77-54116f405344</link>
+    <url>https://www.rejmesbil.se/sok/id/3b0b217b-a987-4d2c-aa77-54116f405344</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/73d369ec-b545-414f-a33a-bcddadfa24c5/3afbd112-9dc7-4996-af1c-e0ba9ad4eb1c?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/73d369ec-b545-414f-a33a-bcddadfa24c5/3afbd112-9dc7-4996-af1c-e0ba9ad4eb1c?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC60</model>
+    <year>2025</year>
+    <mileage>
+      <value>34760</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>579500 SEK</g:price>
+    <price>579500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Halmstad</component>
+      <component name="city">Halmstad</component>
+      <component name="region">Halmstad</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>579500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
+    </item>
+    <item>
+    <g:id>988f7056-07bf-4fc1-b9e7-382463ffcab0</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>988f7056-07bf-4fc1-b9e7-382463ffcab0</vehicle_id>
+    <vehicle_registration_plate>UWB04F</vehicle_registration_plate>
+    <g:title>Volvo EX90 Twin Motor Performance Ultra 7sätes</g:title>
+    <title>Volvo EX90 Twin Motor Performance Ultra 7sätes</title>
+    <g:description>Twin Motor Performance Ultra 7sätes. Utrustningsnivå: Ultra. Miltal: 1 063 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: UWB04F. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>Twin Motor Performance Ultra 7sätes. Utrustningsnivå: Ultra. Miltal: 1 063 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: UWB04F. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/988f7056-07bf-4fc1-b9e7-382463ffcab0</g:link>
+    <link>https://www.rejmesbil.se/sok/id/988f7056-07bf-4fc1-b9e7-382463ffcab0</link>
+    <url>https://www.rejmesbil.se/sok/id/988f7056-07bf-4fc1-b9e7-382463ffcab0</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/1a59c08c-e3eb-493e-a2b6-712ee2cd68c7/4d81c5ee-8ca8-44f0-8be9-1a07825854f8?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/1a59c08c-e3eb-493e-a2b6-712ee2cd68c7/4d81c5ee-8ca8-44f0-8be9-1a07825854f8?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>EX90</model>
+    <year>2025</year>
+    <mileage>
+      <value>10630</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>859500 SEK</g:price>
+    <price>859500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Halmstad</component>
+      <component name="city">Halmstad</component>
+      <component name="region">Halmstad</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>859500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
+    </item>
+    <item>
+    <g:id>da8c495b-689c-493e-b98e-29c92b2088da</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>da8c495b-689c-493e-b98e-29c92b2088da</vehicle_id>
+    <vehicle_registration_plate>BPA953</vehicle_registration_plate>
+    <g:title>Volvo XC90 B5 AWD Diesel Inscription 7-säten</g:title>
+    <title>Volvo XC90 B5 AWD Diesel Inscription 7-säten</title>
+    <g:description>B5 AWD Diesel Inscription 7-säten. Utrustningsnivå: Inscription. Miltal: 8 895 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: BPA953. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>B5 AWD Diesel Inscription 7-säten. Utrustningsnivå: Inscription. Miltal: 8 895 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: BPA953. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/da8c495b-689c-493e-b98e-29c92b2088da</g:link>
+    <link>https://www.rejmesbil.se/sok/id/da8c495b-689c-493e-b98e-29c92b2088da</link>
+    <url>https://www.rejmesbil.se/sok/id/da8c495b-689c-493e-b98e-29c92b2088da</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/55d94b35-db7d-4ed4-ba5c-773bfafd9393/005f0d88-00a1-4b0f-8d97-e0d95bfc1729?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/55d94b35-db7d-4ed4-ba5c-773bfafd9393/005f0d88-00a1-4b0f-8d97-e0d95bfc1729?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC90</model>
+    <year>2022</year>
+    <mileage>
+      <value>88950</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Diesel</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>529500 SEK</g:price>
+    <price>529500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Halmstad</component>
+      <component name="city">Halmstad</component>
+      <component name="region">Halmstad</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>529500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
+    </item>
+    <item>
     <g:id>c38e74b5-78f9-4489-80c3-5d8bca1ba7d6</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
