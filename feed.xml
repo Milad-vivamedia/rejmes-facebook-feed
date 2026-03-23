@@ -5,6 +5,52 @@
     <link>https://www.rejmesbil.se</link>
     <description>Rejmes Bil Vehicle Inventory - Manufacturer Warranty</description>
     <item>
+    <g:id>dbfc2e58-25e6-46a7-9f02-3bf531dcb890</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>dbfc2e58-25e6-46a7-9f02-3bf531dcb890</vehicle_id>
+    <vehicle_registration_plate>NBZ59A</vehicle_registration_plate>
+    <g:title>Volvo XC40 Core</g:title>
+    <title>Volvo XC40 Core</title>
+    <g:description>Core. Utrustningsnivå: Core. Miltal: 4 699 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: NBZ59A. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>Core. Utrustningsnivå: Core. Miltal: 4 699 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: NBZ59A. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/dbfc2e58-25e6-46a7-9f02-3bf531dcb890</g:link>
+    <link>https://www.rejmesbil.se/sok/id/dbfc2e58-25e6-46a7-9f02-3bf531dcb890</link>
+    <url>https://www.rejmesbil.se/sok/id/dbfc2e58-25e6-46a7-9f02-3bf531dcb890</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/513b6f2d-8880-4172-9455-6abc43baa0ca/7585ba5a-7e2f-4f22-a98a-1c950074ec48?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/513b6f2d-8880-4172-9455-6abc43baa0ca/7585ba5a-7e2f-4f22-a98a-1c950074ec48?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC40</model>
+    <year>2023</year>
+    <mileage>
+      <value>46990</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>309500 SEK</g:price>
+    <price>309500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Laholm</component>
+      <component name="city">Laholm</component>
+      <component name="region">Laholm</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>309500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>cddd81a6-5031-42cd-a468-67eb1f2299c7</dealer_id>
+    </item>
+    <item>
     <g:id>3b0b217b-a987-4d2c-aa77-54116f405344</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -288,8 +334,8 @@
     <vehicle_registration_plate>EXD34L</vehicle_registration_plate>
     <g:title>Volvo XC40 Core</g:title>
     <title>Volvo XC40 Core</title>
-    <g:description>Core. Utrustningsnivå: Core. Miltal: 3 188 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: EXD34L. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>Core. Utrustningsnivå: Core. Miltal: 3 188 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: EXD34L. Kontakta oss för mer information om detta fordon.</description>
+    <g:description>Core. Utrustningsnivå: Core. Miltal: 31 880 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: EXD34L. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>Core. Utrustningsnivå: Core. Miltal: 31 880 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: EXD34L. Kontakta oss för mer information om detta fordon.</description>
     <g:link>https://www.rejmesbil.se/sok/id/88605934-eb8e-4077-be04-15f50cfc45ef</g:link>
     <link>https://www.rejmesbil.se/sok/id/88605934-eb8e-4077-be04-15f50cfc45ef</link>
     <url>https://www.rejmesbil.se/sok/id/88605934-eb8e-4077-be04-15f50cfc45ef</url>
@@ -304,7 +350,7 @@
     <model>XC40</model>
     <year>2023</year>
     <mileage>
-      <value>31880</value>
+      <value>318800</value>
       <unit>KM</unit>
     </mileage>
     <body_style>SUV</body_style>
