@@ -322,52 +322,6 @@
     <dealer_id>cddd81a6-5031-42cd-a468-67eb1f2299c7</dealer_id>
     </item>
     <item>
-    <g:id>3b0b217b-a987-4d2c-aa77-54116f405344</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>3b0b217b-a987-4d2c-aa77-54116f405344</vehicle_id>
-    <vehicle_registration_plate>TER03P</vehicle_registration_plate>
-    <g:title>Volvo XC60 T6 Plus Dark Nordic Edition | Harman Kardon | 360 Kamera | Tonade rutor</g:title>
-    <title>Volvo XC60 T6 Plus Dark Nordic Edition | Harman Kardon | 360 Kamera | Tonade rutor</title>
-    <g:description>T6 Plus Dark Nordic Edition | Harman Kardon | 360 Kamera | Tonade rutor. Utrustningsnivå: Plus Nordic Edition. Miltal: 3 476 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: TER03P. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>T6 Plus Dark Nordic Edition | Harman Kardon | 360 Kamera | Tonade rutor. Utrustningsnivå: Plus Nordic Edition. Miltal: 3 476 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: TER03P. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/3b0b217b-a987-4d2c-aa77-54116f405344</g:link>
-    <link>https://www.rejmesbil.se/sok/id/3b0b217b-a987-4d2c-aa77-54116f405344</link>
-    <url>https://www.rejmesbil.se/sok/id/3b0b217b-a987-4d2c-aa77-54116f405344</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/73d369ec-b545-414f-a33a-bcddadfa24c5/3afbd112-9dc7-4996-af1c-e0ba9ad4eb1c?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/73d369ec-b545-414f-a33a-bcddadfa24c5/3afbd112-9dc7-4996-af1c-e0ba9ad4eb1c?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC60</model>
-    <year>2025</year>
-    <mileage>
-      <value>34760</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>579500 SEK</g:price>
-    <price>579500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>579500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
-    </item>
-    <item>
     <g:id>988f7056-07bf-4fc1-b9e7-382463ffcab0</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -3198,52 +3152,6 @@
     <year>2023</year>
     <mileage>
       <value>46130</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Wagon</body_style>
-    <fuel_type>Plug-in Hybrid</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>489500 SEK</g:price>
-    <price>489500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>489500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
-    </item>
-    <item>
-    <g:id>e32739d9-34e0-43c1-babb-66879a326878</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>e32739d9-34e0-43c1-babb-66879a326878</vehicle_id>
-    <vehicle_registration_plate>BMP08T</vehicle_registration_plate>
-    <g:title>Volvo V90 T6 Plus Dark Edition | Dragkrok | 360° kamera | Läder |</g:title>
-    <title>Volvo V90 T6 Plus Dark Edition | Dragkrok | 360° kamera | Läder |</title>
-    <g:description>T6 Plus Dark Edition | Dragkrok | 360° kamera | Läder |. Utrustningsnivå: Plus. Miltal: 2 265 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: BMP08T. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>T6 Plus Dark Edition | Dragkrok | 360° kamera | Läder |. Utrustningsnivå: Plus. Miltal: 2 265 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: BMP08T. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/e32739d9-34e0-43c1-babb-66879a326878</g:link>
-    <link>https://www.rejmesbil.se/sok/id/e32739d9-34e0-43c1-babb-66879a326878</link>
-    <url>https://www.rejmesbil.se/sok/id/e32739d9-34e0-43c1-babb-66879a326878</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/5c1ba11f-a1bb-48cb-82e6-6aabf096ec35/028a560e-34ff-438f-a205-03b11ab1c213?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/5c1ba11f-a1bb-48cb-82e6-6aabf096ec35/028a560e-34ff-438f-a205-03b11ab1c213?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>V90</model>
-    <year>2025</year>
-    <mileage>
-      <value>22650</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Wagon</body_style>
