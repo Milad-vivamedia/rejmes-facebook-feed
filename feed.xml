@@ -12,8 +12,8 @@
     <vehicle_registration_plate>ZMW01U</vehicle_registration_plate>
     <g:title>Volvo EX30 Ultra | 20&quot; | 360° | Tonade Rutor |</g:title>
     <title>Volvo EX30 Ultra | 20&quot; | 360° | Tonade Rutor |</title>
-    <g:description>Ultra | 20&quot; | 360° | Tonade Rutor |. Utrustningsnivå: Ultra. Miltal: 4 629 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: ZMW01U. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>Ultra | 20&quot; | 360° | Tonade Rutor |. Utrustningsnivå: Ultra. Miltal: 4 629 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: ZMW01U. Kontakta oss för mer information om detta fordon.</description>
+    <g:description>Ultra | 20&quot; | 360° | Tonade Rutor |. Utrustningsnivå: Ultra. Miltal: 4 638 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: ZMW01U. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>Ultra | 20&quot; | 360° | Tonade Rutor |. Utrustningsnivå: Ultra. Miltal: 4 638 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: ZMW01U. Kontakta oss för mer information om detta fordon.</description>
     <g:link>https://www.rejmesbil.se/sok/id/c02ba70b-7311-4fdf-bb2f-3be1b06d46a5</g:link>
     <link>https://www.rejmesbil.se/sok/id/c02ba70b-7311-4fdf-bb2f-3be1b06d46a5</link>
     <url>https://www.rejmesbil.se/sok/id/c02ba70b-7311-4fdf-bb2f-3be1b06d46a5</url>
@@ -28,7 +28,7 @@
     <model>EX30</model>
     <year>2025</year>
     <mileage>
-      <value>46290</value>
+      <value>46380</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Sedan</body_style>
@@ -3125,52 +3125,6 @@
       <component name="country">SE</component>
     </address>
     <sale_price>469500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
-    </item>
-    <item>
-    <g:id>29ece7a3-eb66-46cf-8c39-96c695e0f480</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>29ece7a3-eb66-46cf-8c39-96c695e0f480</vehicle_id>
-    <vehicle_registration_plate>YOP03M</vehicle_registration_plate>
-    <g:title>Volvo V90 T6 Plus Dark Edition | Dragkrok | 360° kamera | Läder |</g:title>
-    <title>Volvo V90 T6 Plus Dark Edition | Dragkrok | 360° kamera | Läder |</title>
-    <g:description>T6 Plus Dark Edition | Dragkrok | 360° kamera | Läder |. Utrustningsnivå: Plus. Miltal: 2 965 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: YOP03M. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>T6 Plus Dark Edition | Dragkrok | 360° kamera | Läder |. Utrustningsnivå: Plus. Miltal: 2 965 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: YOP03M. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/29ece7a3-eb66-46cf-8c39-96c695e0f480</g:link>
-    <link>https://www.rejmesbil.se/sok/id/29ece7a3-eb66-46cf-8c39-96c695e0f480</link>
-    <url>https://www.rejmesbil.se/sok/id/29ece7a3-eb66-46cf-8c39-96c695e0f480</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/41a18e6c-fddc-4e0b-ba05-3b3ad0536810/ba5b1547-4f3e-4620-b131-f8f3fb02aee6?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/41a18e6c-fddc-4e0b-ba05-3b3ad0536810/ba5b1547-4f3e-4620-b131-f8f3fb02aee6?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>V90</model>
-    <year>2025</year>
-    <mileage>
-      <value>29650</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Wagon</body_style>
-    <fuel_type>Plug-in Hybrid</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>479500 SEK</g:price>
-    <price>479500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>479500 SEK</sale_price>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
