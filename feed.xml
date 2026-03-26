@@ -5,6 +5,52 @@
     <link>https://www.rejmesbil.se</link>
     <description>Rejmes Bil Vehicle Inventory - Manufacturer Warranty</description>
     <item>
+    <g:id>32e89ce0-2d4d-4f1d-8f5a-3a6504af1f78</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>32e89ce0-2d4d-4f1d-8f5a-3a6504af1f78</vehicle_id>
+    <vehicle_registration_plate>ZZR17C</vehicle_registration_plate>
+    <g:title>Volvo EC40 R Plus Edt</g:title>
+    <title>Volvo EC40 R Plus Edt</title>
+    <g:description>R Plus Edt. Utrustningsnivå: Plus Edition. Miltal: 1 465 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: ZZR17C. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>R Plus Edt. Utrustningsnivå: Plus Edition. Miltal: 1 465 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: ZZR17C. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/32e89ce0-2d4d-4f1d-8f5a-3a6504af1f78</g:link>
+    <link>https://www.rejmesbil.se/sok/id/32e89ce0-2d4d-4f1d-8f5a-3a6504af1f78</link>
+    <url>https://www.rejmesbil.se/sok/id/32e89ce0-2d4d-4f1d-8f5a-3a6504af1f78</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/ebe66fdb-ed17-48dc-bc38-0f7ebc46d5b3/25d80518-ccd4-41c2-bf1a-2f5fb2f7e669?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/ebe66fdb-ed17-48dc-bc38-0f7ebc46d5b3/25d80518-ccd4-41c2-bf1a-2f5fb2f7e669?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>EC40</model>
+    <year>2025</year>
+    <mileage>
+      <value>14650</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>459500 SEK</g:price>
+    <price>459500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Laholm</component>
+      <component name="city">Laholm</component>
+      <component name="region">Laholm</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>459500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>cddd81a6-5031-42cd-a468-67eb1f2299c7</dealer_id>
+    </item>
+    <item>
     <g:id>e4dada71-48d8-4539-902e-e5bffbb9463f</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
