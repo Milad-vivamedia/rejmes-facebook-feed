@@ -5,6 +5,52 @@
     <link>https://www.rejmesbil.se</link>
     <description>Rejmes Bil Vehicle Inventory - Manufacturer Warranty</description>
     <item>
+    <g:id>cf714065-1ea7-40df-963a-e103255eb071</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>cf714065-1ea7-40df-963a-e103255eb071</vehicle_id>
+    <vehicle_registration_plate>WAF00J</vehicle_registration_plate>
+    <g:title>Volvo XC40 Ultimate | Dragkrok | Tonade rutor | Parkeringskamera 360 |</g:title>
+    <title>Volvo XC40 Ultimate | Dragkrok | Tonade rutor | Parkeringskamera 360 |</title>
+    <g:description>Ultimate | Dragkrok | Tonade rutor | Parkeringskamera 360 |. Utrustningsnivå: Ultimate. Miltal: 4 224 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: WAF00J. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>Ultimate | Dragkrok | Tonade rutor | Parkeringskamera 360 |. Utrustningsnivå: Ultimate. Miltal: 4 224 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: WAF00J. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/cf714065-1ea7-40df-963a-e103255eb071</g:link>
+    <link>https://www.rejmesbil.se/sok/id/cf714065-1ea7-40df-963a-e103255eb071</link>
+    <url>https://www.rejmesbil.se/sok/id/cf714065-1ea7-40df-963a-e103255eb071</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/c9048fea-ee29-4500-97f8-3a9d8314c504/b912b63e-9ae7-4e9c-986e-ff01000f360d?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/c9048fea-ee29-4500-97f8-3a9d8314c504/b912b63e-9ae7-4e9c-986e-ff01000f360d?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC40</model>
+    <year>2023</year>
+    <mileage>
+      <value>42240</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>359500 SEK</g:price>
+    <price>359500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Laholm</component>
+      <component name="city">Laholm</component>
+      <component name="region">Laholm</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>359500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>cddd81a6-5031-42cd-a468-67eb1f2299c7</dealer_id>
+    </item>
+    <item>
     <g:id>7fe9da97-e78a-47ae-9419-cef0c8924bec</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -692,8 +738,8 @@
     <vehicle_registration_plate>EXD34L</vehicle_registration_plate>
     <g:title>Volvo XC40 Core</g:title>
     <title>Volvo XC40 Core</title>
-    <g:description>Core. Utrustningsnivå: Core. Miltal: 31 875 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: EXD34L. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>Core. Utrustningsnivå: Core. Miltal: 31 875 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: EXD34L. Kontakta oss för mer information om detta fordon.</description>
+    <g:description>Core. Utrustningsnivå: Core. Miltal: 3 187 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: EXD34L. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>Core. Utrustningsnivå: Core. Miltal: 3 187 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: EXD34L. Kontakta oss för mer information om detta fordon.</description>
     <g:link>https://www.rejmesbil.se/sok/id/88605934-eb8e-4077-be04-15f50cfc45ef</g:link>
     <link>https://www.rejmesbil.se/sok/id/88605934-eb8e-4077-be04-15f50cfc45ef</link>
     <url>https://www.rejmesbil.se/sok/id/88605934-eb8e-4077-be04-15f50cfc45ef</url>
@@ -708,7 +754,7 @@
     <model>XC40</model>
     <year>2023</year>
     <mileage>
-      <value>318750</value>
+      <value>31870</value>
       <unit>KM</unit>
     </mileage>
     <body_style>SUV</body_style>
@@ -4225,52 +4271,6 @@
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>a19b2c7e-0d5f-4834-bf2d-a285eff2d725</dealer_id>
-    </item>
-    <item>
-    <g:id>9637e8d6-ae66-44b1-88fd-8eccec72550b</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>9637e8d6-ae66-44b1-88fd-8eccec72550b</vehicle_id>
-    <vehicle_registration_plate>BBD63Z</vehicle_registration_plate>
-    <g:title>Volvo V90 B4 Bensin Momentum Adv Edt | P-kamera | Drag | Navigation |</g:title>
-    <title>Volvo V90 B4 Bensin Momentum Adv Edt | P-kamera | Drag | Navigation |</title>
-    <g:description>B4 Bensin Momentum Adv Edt | P-kamera | Drag | Navigation |. Utrustningsnivå: Momentum. Miltal: 9 324 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: BBD63Z. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>B4 Bensin Momentum Adv Edt | P-kamera | Drag | Navigation |. Utrustningsnivå: Momentum. Miltal: 9 324 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: BBD63Z. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/9637e8d6-ae66-44b1-88fd-8eccec72550b</g:link>
-    <link>https://www.rejmesbil.se/sok/id/9637e8d6-ae66-44b1-88fd-8eccec72550b</link>
-    <url>https://www.rejmesbil.se/sok/id/9637e8d6-ae66-44b1-88fd-8eccec72550b</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/a512ff1d-52f9-49c9-88a4-65af684b6ad8/9700891e-5268-40ee-b736-8854015c10a5?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/a512ff1d-52f9-49c9-88a4-65af684b6ad8/9700891e-5268-40ee-b736-8854015c10a5?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>V90</model>
-    <year>2021</year>
-    <mileage>
-      <value>93240</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Wagon</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>309500 SEK</g:price>
-    <price>309500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>309500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
     </item>
     <item>
     <g:id>d57a2381-e111-431c-8c97-b0f395f0a353</g:id>
