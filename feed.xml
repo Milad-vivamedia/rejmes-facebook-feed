@@ -363,52 +363,6 @@
     <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
     </item>
     <item>
-    <g:id>ff108683-f232-44cb-89ad-2afb2518eb2e</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>ff108683-f232-44cb-89ad-2afb2518eb2e</vehicle_id>
-    <vehicle_registration_plate>ANP65Z</vehicle_registration_plate>
-    <g:title>Volvo EC40 M Ultra Black Edt | Dragkrok | Mörktonade rutor |</g:title>
-    <title>Volvo EC40 M Ultra Black Edt | Dragkrok | Mörktonade rutor |</title>
-    <g:description>M Ultra Black Edt | Dragkrok | Mörktonade rutor |. Utrustningsnivå: Ultra. Miltal: 2 499 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: ANP65Z. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>M Ultra Black Edt | Dragkrok | Mörktonade rutor |. Utrustningsnivå: Ultra. Miltal: 2 499 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: ANP65Z. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/ff108683-f232-44cb-89ad-2afb2518eb2e</g:link>
-    <link>https://www.rejmesbil.se/sok/id/ff108683-f232-44cb-89ad-2afb2518eb2e</link>
-    <url>https://www.rejmesbil.se/sok/id/ff108683-f232-44cb-89ad-2afb2518eb2e</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/b8a6fa7d-d1c6-47ec-83bd-61bda0425237/e274dd13-62a4-4dd8-9634-31061dcde43e?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/b8a6fa7d-d1c6-47ec-83bd-61bda0425237/e274dd13-62a4-4dd8-9634-31061dcde43e?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>EC40</model>
-    <year>2025</year>
-    <mileage>
-      <value>24990</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>509500 SEK</g:price>
-    <price>509500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>509500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
-    </item>
-    <item>
     <g:id>dd6ea490-a055-4d28-8d26-560cac496a52</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
