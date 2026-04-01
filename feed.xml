@@ -5,6 +5,52 @@
     <link>https://www.rejmesbil.se</link>
     <description>Rejmes Bil Vehicle Inventory - Manufacturer Warranty</description>
     <item>
+    <g:id>10f88a82-ff81-4bc2-a232-ab6100399f66</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>10f88a82-ff81-4bc2-a232-ab6100399f66</vehicle_id>
+    <vehicle_registration_plate>WAH93E</vehicle_registration_plate>
+    <g:title>Volvo S60 Recharge T8 Plus Dark</g:title>
+    <title>Volvo S60 Recharge T8 Plus Dark</title>
+    <g:description>Recharge T8 Plus Dark. Utrustningsnivå: Plus. Miltal: 6 784 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: WAH93E. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>Recharge T8 Plus Dark. Utrustningsnivå: Plus. Miltal: 6 784 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: WAH93E. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/10f88a82-ff81-4bc2-a232-ab6100399f66</g:link>
+    <link>https://www.rejmesbil.se/sok/id/10f88a82-ff81-4bc2-a232-ab6100399f66</link>
+    <url>https://www.rejmesbil.se/sok/id/10f88a82-ff81-4bc2-a232-ab6100399f66</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/26bf1ae8-fff2-4b21-8284-b1334d84a5b4/4512d399-e555-4b5a-92c6-0233bf242ca9?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/26bf1ae8-fff2-4b21-8284-b1334d84a5b4/4512d399-e555-4b5a-92c6-0233bf242ca9?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>S60</model>
+    <year>2023</year>
+    <mileage>
+      <value>67840</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>449500 SEK</g:price>
+    <price>449500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Halmstad</component>
+      <component name="city">Halmstad</component>
+      <component name="region">Halmstad</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>449500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
+    </item>
+    <item>
     <g:id>efaa19e0-2b6c-4ab4-a2bc-67b8f55aeafe</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -1119,9 +1165,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/267d455f-6553-4460-bcd9-585314e4d69b/3303d03f-5353-48c6-9486-4bb0b98ff777?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/95eac870-8602-4e07-bc06-e24efd9da1c2/1324b34b-0409-4b02-a9bc-ad8fa49f58a5?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/267d455f-6553-4460-bcd9-585314e4d69b/3303d03f-5353-48c6-9486-4bb0b98ff777?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/95eac870-8602-4e07-bc06-e24efd9da1c2/1324b34b-0409-4b02-a9bc-ad8fa49f58a5?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>C40</model>
