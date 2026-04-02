@@ -20,9 +20,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/ef608690-1eb5-4dfb-be91-e211f85b1365/686948ca-2ad0-4f52-9f3d-1715d1937d35?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/4cd50a95-31e4-45a7-ac24-79ef908428a5/b6afb402-a224-43c6-8565-0a0fea3a8b1b?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/ef608690-1eb5-4dfb-be91-e211f85b1365/686948ca-2ad0-4f52-9f3d-1715d1937d35?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/4cd50a95-31e4-45a7-ac24-79ef908428a5/b6afb402-a224-43c6-8565-0a0fea3a8b1b?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>XC60</model>
@@ -733,52 +733,6 @@
       <component name="country">SE</component>
     </address>
     <sale_price>859500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
-    </item>
-    <item>
-    <g:id>da8c495b-689c-493e-b98e-29c92b2088da</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>da8c495b-689c-493e-b98e-29c92b2088da</vehicle_id>
-    <vehicle_registration_plate>BPA953</vehicle_registration_plate>
-    <g:title>Volvo XC90 B5 AWD Diesel Inscription 7-säten | Drag | 360° kamera | Klimatpaket |</g:title>
-    <title>Volvo XC90 B5 AWD Diesel Inscription 7-säten | Drag | 360° kamera | Klimatpaket |</title>
-    <g:description>B5 AWD Diesel Inscription 7-säten | Drag | 360° kamera | Klimatpaket |. Utrustningsnivå: Inscription. Miltal: 8 895 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: BPA953. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>B5 AWD Diesel Inscription 7-säten | Drag | 360° kamera | Klimatpaket |. Utrustningsnivå: Inscription. Miltal: 8 895 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: BPA953. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/da8c495b-689c-493e-b98e-29c92b2088da</g:link>
-    <link>https://www.rejmesbil.se/sok/id/da8c495b-689c-493e-b98e-29c92b2088da</link>
-    <url>https://www.rejmesbil.se/sok/id/da8c495b-689c-493e-b98e-29c92b2088da</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/55d94b35-db7d-4ed4-ba5c-773bfafd9393/005f0d88-00a1-4b0f-8d97-e0d95bfc1729?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/55d94b35-db7d-4ed4-ba5c-773bfafd9393/005f0d88-00a1-4b0f-8d97-e0d95bfc1729?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC90</model>
-    <year>2022</year>
-    <mileage>
-      <value>88950</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Diesel</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>529500 SEK</g:price>
-    <price>529500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>529500 SEK</sale_price>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
@@ -1745,52 +1699,6 @@
       <component name="country">SE</component>
     </address>
     <sale_price>354500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
-    </item>
-    <item>
-    <g:id>5aa6be53-7f32-44d1-9bdb-bfbb6cffa9b6</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>5aa6be53-7f32-44d1-9bdb-bfbb6cffa9b6</vehicle_id>
-    <vehicle_registration_plate>MPY01L</vehicle_registration_plate>
-    <g:title>Volvo C40 Core SE | Kamera | Drag | Tonade rutor |</g:title>
-    <title>Volvo C40 Core SE | Kamera | Drag | Tonade rutor |</title>
-    <g:description>Core SE | Kamera | Drag | Tonade rutor |. Utrustningsnivå: Core. Miltal: 3 785 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Registreringsnummer: MPY01L. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>Core SE | Kamera | Drag | Tonade rutor |. Utrustningsnivå: Core. Miltal: 3 785 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Registreringsnummer: MPY01L. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/5aa6be53-7f32-44d1-9bdb-bfbb6cffa9b6</g:link>
-    <link>https://www.rejmesbil.se/sok/id/5aa6be53-7f32-44d1-9bdb-bfbb6cffa9b6</link>
-    <url>https://www.rejmesbil.se/sok/id/5aa6be53-7f32-44d1-9bdb-bfbb6cffa9b6</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/67da6465-b456-44bc-a279-ba58298bd182/c0a557dd-2a72-46cd-8592-86cfcd468e65?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/67da6465-b456-44bc-a279-ba58298bd182/c0a557dd-2a72-46cd-8592-86cfcd468e65?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>C40</model>
-    <year>2024</year>
-    <mileage>
-      <value>37850</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>389500 SEK</g:price>
-    <price>389500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>389500 SEK</sale_price>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
