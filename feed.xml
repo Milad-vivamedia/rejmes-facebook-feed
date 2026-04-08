@@ -2029,52 +2029,6 @@
     <dealer_id>cddd81a6-5031-42cd-a468-67eb1f2299c7</dealer_id>
     </item>
     <item>
-    <g:id>7c4e8547-341a-42d3-add7-8b7fdab827b3</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>7c4e8547-341a-42d3-add7-8b7fdab827b3</vehicle_id>
-    <vehicle_registration_plate>KFB43W</vehicle_registration_plate>
-    <g:title>Volvo C40 Plus | Dragkrok | B-kamera | Klimatpaket |</g:title>
-    <title>Volvo C40 Plus | Dragkrok | B-kamera | Klimatpaket |</title>
-    <g:description>Plus | Dragkrok | B-kamera | Klimatpaket |. Utrustningsnivå: Plus. Miltal: 2 044 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Registreringsnummer: KFB43W. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>Plus | Dragkrok | B-kamera | Klimatpaket |. Utrustningsnivå: Plus. Miltal: 2 044 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Registreringsnummer: KFB43W. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/7c4e8547-341a-42d3-add7-8b7fdab827b3</g:link>
-    <link>https://www.rejmesbil.se/sok/id/7c4e8547-341a-42d3-add7-8b7fdab827b3</link>
-    <url>https://www.rejmesbil.se/sok/id/7c4e8547-341a-42d3-add7-8b7fdab827b3</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/41d48330-975b-439e-b6b3-693989365cc2/d20f8aa6-f1ae-4172-ad99-7beadceba2f0?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/41d48330-975b-439e-b6b3-693989365cc2/d20f8aa6-f1ae-4172-ad99-7beadceba2f0?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>C40</model>
-    <year>2024</year>
-    <mileage>
-      <value>20440</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>419500 SEK</g:price>
-    <price>419500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>419500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
-    </item>
-    <item>
     <g:id>e2592e8a-f6d0-4d97-b538-9071ac0a455f</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -2394,52 +2348,6 @@
     <g:condition>new</g:condition>
     <condition>new</condition>
     <state_of_vehicle>NEW</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
-    </item>
-    <item>
-    <g:id>9b0e4b11-0e1c-42b3-8ab9-d15c469d5034</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>9b0e4b11-0e1c-42b3-8ab9-d15c469d5034</vehicle_id>
-    <vehicle_registration_plate>UFL63C</vehicle_registration_plate>
-    <g:title>Volvo EX30 Ultra | Dragkrok | 360° | 20&quot; |</g:title>
-    <title>Volvo EX30 Ultra | Dragkrok | 360° | 20&quot; |</title>
-    <g:description>Ultra | Dragkrok | 360° | 20&quot; |. Utrustningsnivå: Ultra. Miltal: 2 103 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: UFL63C. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>Ultra | Dragkrok | 360° | 20&quot; |. Utrustningsnivå: Ultra. Miltal: 2 103 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: UFL63C. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/9b0e4b11-0e1c-42b3-8ab9-d15c469d5034</g:link>
-    <link>https://www.rejmesbil.se/sok/id/9b0e4b11-0e1c-42b3-8ab9-d15c469d5034</link>
-    <url>https://www.rejmesbil.se/sok/id/9b0e4b11-0e1c-42b3-8ab9-d15c469d5034</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/1aa1ee81-dc84-40b8-b19a-e58cde15f6ea/f8651cd5-ae84-4e37-b9cf-b310969ffcfa?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/1aa1ee81-dc84-40b8-b19a-e58cde15f6ea/f8651cd5-ae84-4e37-b9cf-b310969ffcfa?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>EX30</model>
-    <year>2025</year>
-    <mileage>
-      <value>21030</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>429500 SEK</g:price>
-    <price>429500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>429500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
     </item>
     <item>
@@ -3447,52 +3355,6 @@
       <component name="country">SE</component>
     </address>
     <sale_price>479500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>cddd81a6-5031-42cd-a468-67eb1f2299c7</dealer_id>
-    </item>
-    <item>
-    <g:id>8f8687f7-7e3f-4125-b909-d477cd70a42e</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>8f8687f7-7e3f-4125-b909-d477cd70a42e</vehicle_id>
-    <vehicle_registration_plate>XYL95K</vehicle_registration_plate>
-    <g:title>Volvo C40 Plus</g:title>
-    <title>Volvo C40 Plus</title>
-    <g:description>Plus. Utrustningsnivå: Plus. Miltal: 2 893 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Registreringsnummer: XYL95K. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>Plus. Utrustningsnivå: Plus. Miltal: 2 893 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Registreringsnummer: XYL95K. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/8f8687f7-7e3f-4125-b909-d477cd70a42e</g:link>
-    <link>https://www.rejmesbil.se/sok/id/8f8687f7-7e3f-4125-b909-d477cd70a42e</link>
-    <url>https://www.rejmesbil.se/sok/id/8f8687f7-7e3f-4125-b909-d477cd70a42e</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/db725478-a63c-40e1-977d-54b5ffa9ae49/d3dbccd7-be0f-420d-989f-f742349b4c16?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/db725478-a63c-40e1-977d-54b5ffa9ae49/d3dbccd7-be0f-420d-989f-f742349b4c16?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>C40</model>
-    <year>2024</year>
-    <mileage>
-      <value>28930</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>429500 SEK</g:price>
-    <price>429500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Laholm</component>
-      <component name="city">Laholm</component>
-      <component name="region">Laholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>429500 SEK</sale_price>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
