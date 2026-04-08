@@ -2121,52 +2121,6 @@
     <dealer_id>a19b2c7e-0d5f-4834-bf2d-a285eff2d725</dealer_id>
     </item>
     <item>
-    <g:id>416fbf55-b5ac-4fc6-94c6-203f84968681</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>416fbf55-b5ac-4fc6-94c6-203f84968681</vehicle_id>
-    <vehicle_registration_plate>TON98Y</vehicle_registration_plate>
-    <g:title>Volvo XC40 B4 FWD Bensin Plus Dark</g:title>
-    <title>Volvo XC40 B4 FWD Bensin Plus Dark</title>
-    <g:description>B4 FWD Bensin Plus Dark. Utrustningsnivå: Plus. Miltal: 3 429 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: TON98Y. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>B4 FWD Bensin Plus Dark. Utrustningsnivå: Plus. Miltal: 3 429 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: TON98Y. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/416fbf55-b5ac-4fc6-94c6-203f84968681</g:link>
-    <link>https://www.rejmesbil.se/sok/id/416fbf55-b5ac-4fc6-94c6-203f84968681</link>
-    <url>https://www.rejmesbil.se/sok/id/416fbf55-b5ac-4fc6-94c6-203f84968681</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/f5919d4e-81e9-4604-8584-9b2d54e1ccfe/ea60e5bc-fcdf-4b9d-9019-7c47dc7e0df3?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/f5919d4e-81e9-4604-8584-9b2d54e1ccfe/ea60e5bc-fcdf-4b9d-9019-7c47dc7e0df3?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2024</year>
-    <mileage>
-      <value>34290</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>384500 SEK</g:price>
-    <price>384500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Laholm</component>
-      <component name="city">Laholm</component>
-      <component name="region">Laholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>384500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>cddd81a6-5031-42cd-a468-67eb1f2299c7</dealer_id>
-    </item>
-    <item>
     <g:id>706fc479-ede3-4f8b-9ee0-a5abdbe2a5d0</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
