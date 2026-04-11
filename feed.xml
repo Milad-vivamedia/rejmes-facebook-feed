@@ -1937,52 +1937,6 @@
     <dealer_id>a19b2c7e-0d5f-4834-bf2d-a285eff2d725</dealer_id>
     </item>
     <item>
-    <g:id>8fe6c415-9fec-4752-b868-6ececff3a66c</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>8fe6c415-9fec-4752-b868-6ececff3a66c</vehicle_id>
-    <vehicle_registration_plate>WAF63T</vehicle_registration_plate>
-    <g:title>Volvo XC40 Core | Backkamera | Klimatpaket |</g:title>
-    <title>Volvo XC40 Core | Backkamera | Klimatpaket |</title>
-    <g:description>Core | Backkamera | Klimatpaket |. Utrustningsnivå: Core. Miltal: 8 263 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: WAF63T. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>Core | Backkamera | Klimatpaket |. Utrustningsnivå: Core. Miltal: 8 263 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: WAF63T. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/8fe6c415-9fec-4752-b868-6ececff3a66c</g:link>
-    <link>https://www.rejmesbil.se/sok/id/8fe6c415-9fec-4752-b868-6ececff3a66c</link>
-    <url>https://www.rejmesbil.se/sok/id/8fe6c415-9fec-4752-b868-6ececff3a66c</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/9f1943bd-c058-46e0-a0f2-2c21388c7fb8/661f37b9-8c36-4090-90d0-1d71d484904d?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/9f1943bd-c058-46e0-a0f2-2c21388c7fb8/661f37b9-8c36-4090-90d0-1d71d484904d?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2023</year>
-    <mileage>
-      <value>82630</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>279500 SEK</g:price>
-    <price>279500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>279500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
-    </item>
-    <item>
     <g:id>414416e2-960e-4602-862f-ed9e9dec1955</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
