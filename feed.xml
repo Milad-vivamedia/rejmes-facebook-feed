@@ -51,52 +51,6 @@
     <dealer_id>a19b2c7e-0d5f-4834-bf2d-a285eff2d725</dealer_id>
     </item>
     <item>
-    <g:id>7645258e-bc7a-4d79-a30d-cff3b3ce475f</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>7645258e-bc7a-4d79-a30d-cff3b3ce475f</vehicle_id>
-    <vehicle_registration_plate>WAF46Z</vehicle_registration_plate>
-    <g:title>Volvo V60 Recharge T6 Core Edition</g:title>
-    <title>Volvo V60 Recharge T6 Core Edition</title>
-    <g:description>Recharge T6 Core Edition. Utrustningsnivå: Core. Miltal: 10 020 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: WAF46Z. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>Recharge T6 Core Edition. Utrustningsnivå: Core. Miltal: 10 020 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: WAF46Z. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/7645258e-bc7a-4d79-a30d-cff3b3ce475f</g:link>
-    <link>https://www.rejmesbil.se/sok/id/7645258e-bc7a-4d79-a30d-cff3b3ce475f</link>
-    <url>https://www.rejmesbil.se/sok/id/7645258e-bc7a-4d79-a30d-cff3b3ce475f</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/34df8f8c-212e-4a82-887c-044f94d4212e/46c9623e-67a8-42a1-9afe-b26a5f01093d?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/34df8f8c-212e-4a82-887c-044f94d4212e/46c9623e-67a8-42a1-9afe-b26a5f01093d?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>V60</model>
-    <year>2023</year>
-    <mileage>
-      <value>100200</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Wagon</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>309500 SEK</g:price>
-    <price>309500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>309500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
-    </item>
-    <item>
     <g:id>68fa8630-2aff-46b2-b7fa-76e001fbe235</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
