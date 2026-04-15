@@ -2259,52 +2259,6 @@
     <dealer_id>cddd81a6-5031-42cd-a468-67eb1f2299c7</dealer_id>
     </item>
     <item>
-    <g:id>f3965628-54f8-42db-972e-89d1c6e2b730</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>f3965628-54f8-42db-972e-89d1c6e2b730</vehicle_id>
-    <vehicle_registration_plate>DXF03D</vehicle_registration_plate>
-    <g:title>Volvo EX40 ExtendedRange Plus SE | 360 Kamera | Google |</g:title>
-    <title>Volvo EX40 ExtendedRange Plus SE | 360 Kamera | Google |</title>
-    <g:description>ExtendedRange Plus SE | 360 Kamera | Google |. Utrustningsnivå: Plus Special Edition. Miltal: 1 097 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Registreringsnummer: DXF03D. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>ExtendedRange Plus SE | 360 Kamera | Google |. Utrustningsnivå: Plus Special Edition. Miltal: 1 097 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Registreringsnummer: DXF03D. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/f3965628-54f8-42db-972e-89d1c6e2b730</g:link>
-    <link>https://www.rejmesbil.se/sok/id/f3965628-54f8-42db-972e-89d1c6e2b730</link>
-    <url>https://www.rejmesbil.se/sok/id/f3965628-54f8-42db-972e-89d1c6e2b730</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/8613e03a-b13b-4a25-a0e8-9983b22864c8/d1b9426c-9647-4020-960d-aa917b8cfa39?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/8613e03a-b13b-4a25-a0e8-9983b22864c8/d1b9426c-9647-4020-960d-aa917b8cfa39?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>EX40</model>
-    <year>2026</year>
-    <mileage>
-      <value>10970</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>519500 SEK</g:price>
-    <price>519500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>519500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>new</g:condition>
-    <condition>new</condition>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
-    </item>
-    <item>
     <g:id>120ff7c5-0469-428e-972b-2ef3d355f958</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
