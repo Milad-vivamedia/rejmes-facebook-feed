@@ -5,6 +5,52 @@
     <link>https://www.rejmesbil.se</link>
     <description>Rejmes Bil Vehicle Inventory - Manufacturer Warranty</description>
     <item>
+    <g:id>74b6b18f-27dd-459e-9262-a7527fac95e6</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>74b6b18f-27dd-459e-9262-a7527fac95e6</vehicle_id>
+    <vehicle_registration_plate>RCA66N</vehicle_registration_plate>
+    <g:title>Volvo C40 Recharge Extended Range Ultimate</g:title>
+    <title>Volvo C40 Recharge Extended Range Ultimate</title>
+    <g:description>Recharge Extended Range Ultimate. Utrustningsnivå: Ultimate. Miltal: 6 795 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Registreringsnummer: RCA66N. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>Recharge Extended Range Ultimate. Utrustningsnivå: Ultimate. Miltal: 6 795 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Registreringsnummer: RCA66N. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/74b6b18f-27dd-459e-9262-a7527fac95e6</g:link>
+    <link>https://www.rejmesbil.se/sok/id/74b6b18f-27dd-459e-9262-a7527fac95e6</link>
+    <url>https://www.rejmesbil.se/sok/id/74b6b18f-27dd-459e-9262-a7527fac95e6</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/3bd0c10b-5815-48a6-b34a-bbb35ffa30f1/d9cf118a-dc92-4078-a885-1c65db98dcd2?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/3bd0c10b-5815-48a6-b34a-bbb35ffa30f1/d9cf118a-dc92-4078-a885-1c65db98dcd2?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>C40</model>
+    <year>2024</year>
+    <mileage>
+      <value>67950</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>399500 SEK</g:price>
+    <price>399500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Falkenberg</component>
+      <component name="city">Falkenberg</component>
+      <component name="region">Falkenberg</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>399500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>a19b2c7e-0d5f-4834-bf2d-a285eff2d725</dealer_id>
+    </item>
+    <item>
     <g:id>f0869bfc-6a2d-478b-b72f-74449daa834b</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -112,9 +158,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/425b82cf-045d-4bd5-8bee-be20605f3633/0b02ed04-0b54-46d5-84c6-7e62ba660976?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/a2a1e4fc-efcd-4c56-93bb-0b10f7d1093c/6f9a3d81-245c-4227-9ab7-583aae57d057?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/425b82cf-045d-4bd5-8bee-be20605f3633/0b02ed04-0b54-46d5-84c6-7e62ba660976?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/a2a1e4fc-efcd-4c56-93bb-0b10f7d1093c/6f9a3d81-245c-4227-9ab7-583aae57d057?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>V60</model>
@@ -158,9 +204,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/78a1acfe-2b71-416b-b556-2e796ab79c6a/ac8f8798-b002-4deb-9c90-05c525828cf3?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/f15645a3-42f4-42dc-a5a4-51112f179358/4962af2f-00fc-4a0a-a677-e6a991bed399?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/78a1acfe-2b71-416b-b556-2e796ab79c6a/ac8f8798-b002-4deb-9c90-05c525828cf3?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/f15645a3-42f4-42dc-a5a4-51112f179358/4962af2f-00fc-4a0a-a677-e6a991bed399?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>XC60</model>
@@ -204,9 +250,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/31fe7b23-3fad-4a67-91e1-cb0401d67a19/1335fb3d-9347-48aa-903f-c18c7b8bd81c?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/0fc830e2-94ce-4639-8b38-2b2d66ccd3d7/e79c49b5-1d7c-4a74-b188-b6497aab933f?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/31fe7b23-3fad-4a67-91e1-cb0401d67a19/1335fb3d-9347-48aa-903f-c18c7b8bd81c?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/0fc830e2-94ce-4639-8b38-2b2d66ccd3d7/e79c49b5-1d7c-4a74-b188-b6497aab933f?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>EX40</model>
@@ -250,9 +296,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/6bd64d81-3d97-4cc3-8ef8-5f74b7f45b96/b9670af8-4a42-4553-aa1a-f264335bab0c?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/397ac7d4-3b44-40f8-8abd-21624ac28a04/878f0b26-3a76-45df-a12b-6c7ccc1cb1bf?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/6bd64d81-3d97-4cc3-8ef8-5f74b7f45b96/b9670af8-4a42-4553-aa1a-f264335bab0c?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/397ac7d4-3b44-40f8-8abd-21624ac28a04/878f0b26-3a76-45df-a12b-6c7ccc1cb1bf?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>EX40</model>
@@ -296,9 +342,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/99b01e86-e4e0-4cf7-bdad-f714f5636ba5/cae3ea0e-d21f-49e9-a5bd-6973771a4594?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/178996df-797a-4d30-b4d6-6c1d0986dcc4/21df3a59-6e16-423e-a9df-0b08869adcf1?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/99b01e86-e4e0-4cf7-bdad-f714f5636ba5/cae3ea0e-d21f-49e9-a5bd-6973771a4594?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/178996df-797a-4d30-b4d6-6c1d0986dcc4/21df3a59-6e16-423e-a9df-0b08869adcf1?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>XC60</model>
