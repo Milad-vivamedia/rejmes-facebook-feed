@@ -5,6 +5,98 @@
     <link>https://www.rejmesbil.se</link>
     <description>Rejmes Bil Vehicle Inventory - Manufacturer Warranty</description>
     <item>
+    <g:id>c3bac5f7-03ba-4310-afbc-c8da1ec0725f</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>c3bac5f7-03ba-4310-afbc-c8da1ec0725f</vehicle_id>
+    <vehicle_registration_plate>WMU20R</vehicle_registration_plate>
+    <g:title>Volvo XC40 Core</g:title>
+    <title>Volvo XC40 Core</title>
+    <g:description>Core. Utrustningsnivå: Core. Miltal: 6 952 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: WMU20R. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>Core. Utrustningsnivå: Core. Miltal: 6 952 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: WMU20R. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/c3bac5f7-03ba-4310-afbc-c8da1ec0725f</g:link>
+    <link>https://www.rejmesbil.se/sok/id/c3bac5f7-03ba-4310-afbc-c8da1ec0725f</link>
+    <url>https://www.rejmesbil.se/sok/id/c3bac5f7-03ba-4310-afbc-c8da1ec0725f</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/a49762ad-e9c9-4ac6-abeb-50ad58428e43/24e02ec8-ac75-42cc-b2e4-091798584d78?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/a49762ad-e9c9-4ac6-abeb-50ad58428e43/24e02ec8-ac75-42cc-b2e4-091798584d78?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC40</model>
+    <year>2023</year>
+    <mileage>
+      <value>69520</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>289500 SEK</g:price>
+    <price>289500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Halmstad</component>
+      <component name="city">Halmstad</component>
+      <component name="region">Halmstad</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>289500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
+    </item>
+    <item>
+    <g:id>31ad4b62-434f-4d1b-ae1a-82f9832028cc</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>31ad4b62-434f-4d1b-ae1a-82f9832028cc</vehicle_id>
+    <vehicle_registration_plate>LHP38A</vehicle_registration_plate>
+    <g:title>Volvo EC40 R Plus Edt | Dragkrok | 360 Kamera |</g:title>
+    <title>Volvo EC40 R Plus Edt | Dragkrok | 360 Kamera |</title>
+    <g:description>R Plus Edt | Dragkrok | 360 Kamera |. Utrustningsnivå: Plus Edition. Miltal: 1 551 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: LHP38A. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>R Plus Edt | Dragkrok | 360 Kamera |. Utrustningsnivå: Plus Edition. Miltal: 1 551 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: LHP38A. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/31ad4b62-434f-4d1b-ae1a-82f9832028cc</g:link>
+    <link>https://www.rejmesbil.se/sok/id/31ad4b62-434f-4d1b-ae1a-82f9832028cc</link>
+    <url>https://www.rejmesbil.se/sok/id/31ad4b62-434f-4d1b-ae1a-82f9832028cc</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/fa7b51cf-eec5-4d2f-abf3-6b539153041f/b9794479-2b96-43d5-b48c-1b16dde78357?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/fa7b51cf-eec5-4d2f-abf3-6b539153041f/b9794479-2b96-43d5-b48c-1b16dde78357?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>EC40</model>
+    <year>2025</year>
+    <mileage>
+      <value>15510</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>459500 SEK</g:price>
+    <price>459500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Falkenberg</component>
+      <component name="city">Falkenberg</component>
+      <component name="region">Falkenberg</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>459500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>a19b2c7e-0d5f-4834-bf2d-a285eff2d725</dealer_id>
+    </item>
+    <item>
     <g:id>939a61bc-81b5-4a9d-8503-25ed6208d6ed</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -4603,52 +4695,6 @@
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>a19b2c7e-0d5f-4834-bf2d-a285eff2d725</dealer_id>
-    </item>
-    <item>
-    <g:id>6201c6a1-d369-4505-adf8-fb8716536ff8</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>6201c6a1-d369-4505-adf8-fb8716536ff8</vehicle_id>
-    <vehicle_registration_plate>BPA55M</vehicle_registration_plate>
-    <g:title>Volvo XC40 Plus | Pixel Tech | Dragkrok |</g:title>
-    <title>Volvo XC40 Plus | Pixel Tech | Dragkrok |</title>
-    <g:description>Plus | Pixel Tech | Dragkrok |. Utrustningsnivå: Plus. Miltal: 6 478 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: BPA55M. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>Plus | Pixel Tech | Dragkrok |. Utrustningsnivå: Plus. Miltal: 6 478 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: BPA55M. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/6201c6a1-d369-4505-adf8-fb8716536ff8</g:link>
-    <link>https://www.rejmesbil.se/sok/id/6201c6a1-d369-4505-adf8-fb8716536ff8</link>
-    <url>https://www.rejmesbil.se/sok/id/6201c6a1-d369-4505-adf8-fb8716536ff8</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/cbd1dc97-ecfe-4874-bee5-f8d01635f94d/e565b37c-ee5a-4b2e-89e0-4930a5fdf328?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/cbd1dc97-ecfe-4874-bee5-f8d01635f94d/e565b37c-ee5a-4b2e-89e0-4930a5fdf328?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2023</year>
-    <mileage>
-      <value>64780</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>324500 SEK</g:price>
-    <price>324500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Laholm</component>
-      <component name="city">Laholm</component>
-      <component name="region">Laholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>324500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>cddd81a6-5031-42cd-a468-67eb1f2299c7</dealer_id>
     </item>
     <item>
     <g:id>a4748c14-c188-4506-b0ca-31f352a102d2</g:id>
