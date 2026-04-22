@@ -603,52 +603,6 @@
     <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
     </item>
     <item>
-    <g:id>29afeaf9-9294-4282-8340-80e45d59ceb3</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>29afeaf9-9294-4282-8340-80e45d59ceb3</vehicle_id>
-    <vehicle_registration_plate>TRU14A</vehicle_registration_plate>
-    <g:title>Volvo XC40 Ultimate</g:title>
-    <title>Volvo XC40 Ultimate</title>
-    <g:description>Ultimate. Utrustningsnivå: Ultimate. Miltal: 3 014 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: TRU14A. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>Ultimate. Utrustningsnivå: Ultimate. Miltal: 3 014 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: TRU14A. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/29afeaf9-9294-4282-8340-80e45d59ceb3</g:link>
-    <link>https://www.rejmesbil.se/sok/id/29afeaf9-9294-4282-8340-80e45d59ceb3</link>
-    <url>https://www.rejmesbil.se/sok/id/29afeaf9-9294-4282-8340-80e45d59ceb3</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/7d1e0b36-cca0-4f6f-90fc-d43f9317dfb6/91ea9dd8-63d7-4002-80df-1b48d9a5a1e4?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/7d1e0b36-cca0-4f6f-90fc-d43f9317dfb6/91ea9dd8-63d7-4002-80df-1b48d9a5a1e4?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2023</year>
-    <mileage>
-      <value>30140</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>369500 SEK</g:price>
-    <price>369500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>369500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
-    </item>
-    <item>
     <g:id>7b4979ee-5ca0-4085-8246-710a1db3f20a</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -5900,8 +5854,8 @@
     <vehicle_registration_plate>URA11R</vehicle_registration_plate>
     <g:title>Volvo XC40 Recharge T5 Plus Bright | 360 Kamera | Harman Kardon | Dragkrok |</g:title>
     <title>Volvo XC40 Recharge T5 Plus Bright | 360 Kamera | Harman Kardon | Dragkrok |</title>
-    <g:description>Recharge T5 Plus Bright | 360 Kamera | Harman Kardon | Dragkrok |. Utrustningsnivå: Inscription. Miltal: 4 175 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: URA11R. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>Recharge T5 Plus Bright | 360 Kamera | Harman Kardon | Dragkrok |. Utrustningsnivå: Inscription. Miltal: 4 175 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Laddhybrid. Registreringsnummer: URA11R. Kontakta oss för mer information om detta fordon.</description>
+    <g:description>Recharge T5 Plus Bright | 360 Kamera | Harman Kardon | Dragkrok |. Utrustningsnivå: Plus. Miltal: 4 175 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: URA11R. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>Recharge T5 Plus Bright | 360 Kamera | Harman Kardon | Dragkrok |. Utrustningsnivå: Plus. Miltal: 4 175 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: URA11R. Kontakta oss för mer information om detta fordon.</description>
     <g:link>https://www.rejmesbil.se/sok/id/743ab4ac-d412-4213-8e48-41dd92249058</g:link>
     <link>https://www.rejmesbil.se/sok/id/743ab4ac-d412-4213-8e48-41dd92249058</link>
     <url>https://www.rejmesbil.se/sok/id/743ab4ac-d412-4213-8e48-41dd92249058</url>
@@ -5920,7 +5874,7 @@
       <unit>KM</unit>
     </mileage>
     <body_style>SUV</body_style>
-    <fuel_type>Plug-in Hybrid</fuel_type>
+    <fuel_type>Bensin+El</fuel_type>
     <transmission>Automatic</transmission>
     <g:price>394500 SEK</g:price>
     <price>394500 SEK</price>
