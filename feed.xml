@@ -4467,52 +4467,6 @@
     <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
     </item>
     <item>
-    <g:id>0566a9ff-e010-4051-9dfc-2c5bfe7c93fc</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>0566a9ff-e010-4051-9dfc-2c5bfe7c93fc</vehicle_id>
-    <vehicle_registration_plate>PFC33M</vehicle_registration_plate>
-    <g:title>Volvo XC40 T3 FWD aut Momentum Advanced Edt | Klimatpaket |</g:title>
-    <title>Volvo XC40 T3 FWD aut Momentum Advanced Edt | Klimatpaket |</title>
-    <g:description>T3 FWD aut Momentum Advanced Edt | Klimatpaket |. Utrustningsnivå: Momentum Advanced. Miltal: 7 436 mil. Årsmodell: 2020. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: PFC33M. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>T3 FWD aut Momentum Advanced Edt | Klimatpaket |. Utrustningsnivå: Momentum Advanced. Miltal: 7 436 mil. Årsmodell: 2020. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: PFC33M. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/0566a9ff-e010-4051-9dfc-2c5bfe7c93fc</g:link>
-    <link>https://www.rejmesbil.se/sok/id/0566a9ff-e010-4051-9dfc-2c5bfe7c93fc</link>
-    <url>https://www.rejmesbil.se/sok/id/0566a9ff-e010-4051-9dfc-2c5bfe7c93fc</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/2f29bebe-937f-4da4-ad1e-a0d49e6b4f6c/24a2b001-6956-42d7-b9ce-d63a8c00d92f?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/2f29bebe-937f-4da4-ad1e-a0d49e6b4f6c/24a2b001-6956-42d7-b9ce-d63a8c00d92f?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2020</year>
-    <mileage>
-      <value>74360</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>289500 SEK</g:price>
-    <price>289500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Laholm</component>
-      <component name="city">Laholm</component>
-      <component name="region">Laholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>289500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>cddd81a6-5031-42cd-a468-67eb1f2299c7</dealer_id>
-    </item>
-    <item>
     <g:id>fb4b616f-6cb0-48f1-97e8-f240cddc14f0</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
