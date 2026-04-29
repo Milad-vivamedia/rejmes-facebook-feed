@@ -5,6 +5,52 @@
     <link>https://www.rejmesbil.se</link>
     <description>Rejmes Bil Vehicle Inventory - Manufacturer Warranty</description>
     <item>
+    <g:id>b1170dfb-f99e-47fe-bbdd-edf68810b8fe</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>b1170dfb-f99e-47fe-bbdd-edf68810b8fe</vehicle_id>
+    <vehicle_registration_plate>NAP12F</vehicle_registration_plate>
+    <g:title>Volvo XC60 T6 Core Special Edition</g:title>
+    <title>Volvo XC60 T6 Core Special Edition</title>
+    <g:description>T6 Core Special Edition. Utrustningsnivå: Core. Miltal: 5 255 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: NAP12F. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>T6 Core Special Edition. Utrustningsnivå: Core. Miltal: 5 255 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: NAP12F. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/b1170dfb-f99e-47fe-bbdd-edf68810b8fe</g:link>
+    <link>https://www.rejmesbil.se/sok/id/b1170dfb-f99e-47fe-bbdd-edf68810b8fe</link>
+    <url>https://www.rejmesbil.se/sok/id/b1170dfb-f99e-47fe-bbdd-edf68810b8fe</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/fd22f292-fe90-4f53-bc7e-09929d196e62/e8d50f19-8db0-4aea-8057-6a7ad8ea38af?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/fd22f292-fe90-4f53-bc7e-09929d196e62/e8d50f19-8db0-4aea-8057-6a7ad8ea38af?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC60</model>
+    <year>2025</year>
+    <mileage>
+      <value>52550</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>499500 SEK</g:price>
+    <price>499500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Falkenberg</component>
+      <component name="city">Falkenberg</component>
+      <component name="region">Falkenberg</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>499500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>a19b2c7e-0d5f-4834-bf2d-a285eff2d725</dealer_id>
+    </item>
+    <item>
     <g:id>f3b6c33a-8d23-41a7-a63b-2d96756bcc86</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
