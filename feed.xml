@@ -104,8 +104,8 @@
     <vehicle_registration_plate>RBJ51F</vehicle_registration_plate>
     <g:title>Volvo EX40 R Core SE</g:title>
     <title>Volvo EX40 R Core SE</title>
-    <g:description>R Core SE. Utrustningsnivå: Core Special Edition. Miltal: 4 192 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: RBJ51F. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>R Core SE. Utrustningsnivå: Core Special Edition. Miltal: 4 192 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: RBJ51F. Kontakta oss för mer information om detta fordon.</description>
+    <g:description>R Core SE. Utrustningsnivå: Core Special Edition. Miltal: 4 193 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: RBJ51F. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>R Core SE. Utrustningsnivå: Core Special Edition. Miltal: 4 193 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: RBJ51F. Kontakta oss för mer information om detta fordon.</description>
     <g:link>https://www.rejmesbil.se/sok/id/cd986096-f85e-45b9-9b5d-252c0098d3e3</g:link>
     <link>https://www.rejmesbil.se/sok/id/cd986096-f85e-45b9-9b5d-252c0098d3e3</link>
     <url>https://www.rejmesbil.se/sok/id/cd986096-f85e-45b9-9b5d-252c0098d3e3</url>
@@ -120,7 +120,7 @@
     <model>EX40</model>
     <year>2025</year>
     <mileage>
-      <value>41920</value>
+      <value>41930</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Sedan</body_style>
@@ -932,8 +932,8 @@
     <vehicle_registration_plate>RGU39H</vehicle_registration_plate>
     <g:title>Volvo EC40 R Plus Edt</g:title>
     <title>Volvo EC40 R Plus Edt</title>
-    <g:description>R Plus Edt. Utrustningsnivå: Plus Edition. Miltal: 1 025 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: RGU39H. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>R Plus Edt. Utrustningsnivå: Plus Edition. Miltal: 1 025 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: RGU39H. Kontakta oss för mer information om detta fordon.</description>
+    <g:description>R Plus Edt. Utrustningsnivå: Plus Edition. Miltal: 2 566 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: RGU39H. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>R Plus Edt. Utrustningsnivå: Plus Edition. Miltal: 2 566 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: RGU39H. Kontakta oss för mer information om detta fordon.</description>
     <g:link>https://www.rejmesbil.se/sok/id/bb6a91f6-416c-45c0-ac52-517b06aa7c7e</g:link>
     <link>https://www.rejmesbil.se/sok/id/bb6a91f6-416c-45c0-ac52-517b06aa7c7e</link>
     <url>https://www.rejmesbil.se/sok/id/bb6a91f6-416c-45c0-ac52-517b06aa7c7e</url>
@@ -948,7 +948,7 @@
     <model>EC40</model>
     <year>2025</year>
     <mileage>
-      <value>10250</value>
+      <value>25660</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Sedan</body_style>
