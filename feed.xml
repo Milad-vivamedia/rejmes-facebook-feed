@@ -5,6 +5,52 @@
     <link>https://www.rejmesbil.se</link>
     <description>Rejmes Bil Vehicle Inventory - Manufacturer Warranty</description>
     <item>
+    <g:id>1e2232ed-271c-4502-933d-9da538a7c7a5</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>1e2232ed-271c-4502-933d-9da538a7c7a5</vehicle_id>
+    <vehicle_registration_plate>HHP95L</vehicle_registration_plate>
+    <g:title>Volvo XC60 T6 Plus Dark Edition</g:title>
+    <title>Volvo XC60 T6 Plus Dark Edition</title>
+    <g:description>T6 Plus Dark Edition. Utrustningsnivå: Plus Edition. Miltal: 2 335 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: HHP95L. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>T6 Plus Dark Edition. Utrustningsnivå: Plus Edition. Miltal: 2 335 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: HHP95L. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/1e2232ed-271c-4502-933d-9da538a7c7a5</g:link>
+    <link>https://www.rejmesbil.se/sok/id/1e2232ed-271c-4502-933d-9da538a7c7a5</link>
+    <url>https://www.rejmesbil.se/sok/id/1e2232ed-271c-4502-933d-9da538a7c7a5</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/63584b9b-615d-43d6-b3a1-de80bb02672f/37ca542b-babf-4eea-93b2-6bc35ad52337?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/63584b9b-615d-43d6-b3a1-de80bb02672f/37ca542b-babf-4eea-93b2-6bc35ad52337?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC60</model>
+    <year>2025</year>
+    <mileage>
+      <value>23350</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>589500 SEK</g:price>
+    <price>589500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Halmstad</component>
+      <component name="city">Halmstad</component>
+      <component name="region">Halmstad</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>589500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
+    </item>
+    <item>
     <g:id>f8c08397-9454-4612-bf16-24854554d240</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -601,52 +647,6 @@
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
-    </item>
-    <item>
-    <g:id>1f2b2a55-6f22-4552-8d97-90b8b5639c70</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>1f2b2a55-6f22-4552-8d97-90b8b5639c70</vehicle_id>
-    <vehicle_registration_plate>RBY59A</vehicle_registration_plate>
-    <g:title>Volvo XC60 T6 Plus Dark Nordic Edition</g:title>
-    <title>Volvo XC60 T6 Plus Dark Nordic Edition</title>
-    <g:description>T6 Plus Dark Nordic Edition. Utrustningsnivå: Plus Nordic Edition. Miltal: 1 540 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: RBY59A. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>T6 Plus Dark Nordic Edition. Utrustningsnivå: Plus Nordic Edition. Miltal: 1 540 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: RBY59A. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/1f2b2a55-6f22-4552-8d97-90b8b5639c70</g:link>
-    <link>https://www.rejmesbil.se/sok/id/1f2b2a55-6f22-4552-8d97-90b8b5639c70</link>
-    <url>https://www.rejmesbil.se/sok/id/1f2b2a55-6f22-4552-8d97-90b8b5639c70</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/2eb97108-d874-4beb-929e-74366308fd7a/e77600ee-1efe-411f-88d5-f9105c94df3b?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/2eb97108-d874-4beb-929e-74366308fd7a/e77600ee-1efe-411f-88d5-f9105c94df3b?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC60</model>
-    <year>2026</year>
-    <mileage>
-      <value>15400</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>629500 SEK</g:price>
-    <price>629500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Laholm</component>
-      <component name="city">Laholm</component>
-      <component name="region">Laholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>629500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>new</g:condition>
-    <condition>new</condition>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <dealer_id>cddd81a6-5031-42cd-a468-67eb1f2299c7</dealer_id>
     </item>
     <item>
     <g:id>ce4b608f-faca-415e-b12f-fff60341a7d5</g:id>
@@ -1644,15 +1644,15 @@
     <body_style>Wagon</body_style>
     <fuel_type>Diesel</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>349500 SEK</g:price>
-    <price>349500 SEK</price>
+    <g:price>339500 SEK</g:price>
+    <price>339500 SEK</price>
     <address format="simple">
       <component name="addr1">Rejmes Halland - Halmstad</component>
       <component name="city">Halmstad</component>
       <component name="region">Halmstad</component>
       <component name="country">SE</component>
     </address>
-    <sale_price>349500 SEK</sale_price>
+    <sale_price>339500 SEK</sale_price>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
@@ -4864,15 +4864,15 @@
     <body_style>SUV</body_style>
     <fuel_type>Bensin+El</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>829500 SEK</g:price>
-    <price>829500 SEK</price>
+    <g:price>824500 SEK</g:price>
+    <price>824500 SEK</price>
     <address format="simple">
       <component name="addr1">Rejmes Halland - Laholm</component>
       <component name="city">Laholm</component>
       <component name="region">Laholm</component>
       <component name="country">SE</component>
     </address>
-    <sale_price>829500 SEK</sale_price>
+    <sale_price>824500 SEK</sale_price>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>new</g:condition>
@@ -5186,15 +5186,15 @@
     <body_style>SUV</body_style>
     <fuel_type>Bensin+El</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>849500 SEK</g:price>
-    <price>849500 SEK</price>
+    <g:price>844500 SEK</g:price>
+    <price>844500 SEK</price>
     <address format="simple">
       <component name="addr1">Rejmes Halland - Halmstad</component>
       <component name="city">Halmstad</component>
       <component name="region">Halmstad</component>
       <component name="country">SE</component>
     </address>
-    <sale_price>849500 SEK</sale_price>
+    <sale_price>844500 SEK</sale_price>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>new</g:condition>
