@@ -5,6 +5,52 @@
     <link>https://www.rejmesbil.se</link>
     <description>Rejmes Bil Vehicle Inventory - Manufacturer Warranty</description>
     <item>
+    <g:id>f8c08397-9454-4612-bf16-24854554d240</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>f8c08397-9454-4612-bf16-24854554d240</vehicle_id>
+    <vehicle_registration_plate>DFS33L</vehicle_registration_plate>
+    <g:title>Volvo C40 Core SE | Dragkrok |</g:title>
+    <title>Volvo C40 Core SE | Dragkrok |</title>
+    <g:description>Core SE | Dragkrok |. Utrustningsnivå: Core. Miltal: 5 096 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Registreringsnummer: DFS33L. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>Core SE | Dragkrok |. Utrustningsnivå: Core. Miltal: 5 096 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Registreringsnummer: DFS33L. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/f8c08397-9454-4612-bf16-24854554d240</g:link>
+    <link>https://www.rejmesbil.se/sok/id/f8c08397-9454-4612-bf16-24854554d240</link>
+    <url>https://www.rejmesbil.se/sok/id/f8c08397-9454-4612-bf16-24854554d240</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/2956a36c-dcab-4457-90db-561afbf16f4f/fa45159b-93d1-4695-adf3-7d9f4e38ae84?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/2956a36c-dcab-4457-90db-561afbf16f4f/fa45159b-93d1-4695-adf3-7d9f4e38ae84?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>C40</model>
+    <year>2024</year>
+    <mileage>
+      <value>50960</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>384500 SEK</g:price>
+    <price>384500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Falkenberg</component>
+      <component name="city">Falkenberg</component>
+      <component name="region">Falkenberg</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>384500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>a19b2c7e-0d5f-4834-bf2d-a285eff2d725</dealer_id>
+    </item>
+    <item>
     <g:id>7e7d34bd-ecbf-4ec1-81b2-af4b12f4760c</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
