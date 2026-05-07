@@ -112,9 +112,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/54493f9a-0b87-405f-bb80-67b28c347f4f/87e057cb-e4f2-406f-ba22-14fe926f12f3?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/2712132b-014c-4b20-95ee-d3e038c1a607/2c7937d6-a400-44ea-ba3e-0ddf237990fd?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/54493f9a-0b87-405f-bb80-67b28c347f4f/87e057cb-e4f2-406f-ba22-14fe926f12f3?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/2712132b-014c-4b20-95ee-d3e038c1a607/2c7937d6-a400-44ea-ba3e-0ddf237990fd?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>XC60</model>
@@ -158,9 +158,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/789712c4-3a6c-4c9e-9b21-5d86af5127fb/72f5737a-270f-4cf4-9cd5-002d4bf0957b?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/1aa3f6c6-038d-4c6c-9470-59809ca0821d/f4785a02-85cc-4398-85ac-89ab495d6c9f?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/789712c4-3a6c-4c9e-9b21-5d86af5127fb/72f5737a-270f-4cf4-9cd5-002d4bf0957b?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/1aa3f6c6-038d-4c6c-9470-59809ca0821d/f4785a02-85cc-4398-85ac-89ab495d6c9f?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>EX40</model>
@@ -1561,52 +1561,6 @@
       <component name="country">SE</component>
     </address>
     <sale_price>449500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
-    </item>
-    <item>
-    <g:id>5496b3bf-8232-4adb-b49b-8ae03f9bfaeb</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>5496b3bf-8232-4adb-b49b-8ae03f9bfaeb</vehicle_id>
-    <vehicle_registration_plate>GKH18C</vehicle_registration_plate>
-    <g:title>Volvo V60 B4 Diesel Plus Dark</g:title>
-    <title>Volvo V60 B4 Diesel Plus Dark</title>
-    <g:description>B4 Diesel Plus Dark. Utrustningsnivå: Plus. Miltal: 11 756 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: GKH18C. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>B4 Diesel Plus Dark. Utrustningsnivå: Plus. Miltal: 11 756 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: GKH18C. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/5496b3bf-8232-4adb-b49b-8ae03f9bfaeb</g:link>
-    <link>https://www.rejmesbil.se/sok/id/5496b3bf-8232-4adb-b49b-8ae03f9bfaeb</link>
-    <url>https://www.rejmesbil.se/sok/id/5496b3bf-8232-4adb-b49b-8ae03f9bfaeb</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/c2d08eb4-95bc-4375-919a-b116ff5ecefd/05e1ae74-09da-4e45-bb0c-6a280f5084e7?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/c2d08eb4-95bc-4375-919a-b116ff5ecefd/05e1ae74-09da-4e45-bb0c-6a280f5084e7?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>V60</model>
-    <year>2023</year>
-    <mileage>
-      <value>117560</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Wagon</body_style>
-    <fuel_type>Diesel</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>319500 SEK</g:price>
-    <price>319500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>319500 SEK</sale_price>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
