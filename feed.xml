@@ -3961,52 +3961,6 @@
     <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
     </item>
     <item>
-    <g:id>396fb9c4-a8e1-4216-a142-4a6aa6783bb0</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>396fb9c4-a8e1-4216-a142-4a6aa6783bb0</vehicle_id>
-    <vehicle_registration_plate>KEJ26E</vehicle_registration_plate>
-    <g:title>Volvo C40 Plus | Dragkrok |</g:title>
-    <title>Volvo C40 Plus | Dragkrok |</title>
-    <g:description>Plus | Dragkrok |. Utrustningsnivå: Plus. Miltal: 10 050 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: KEJ26E. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>Plus | Dragkrok |. Utrustningsnivå: Plus. Miltal: 10 050 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: KEJ26E. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/396fb9c4-a8e1-4216-a142-4a6aa6783bb0</g:link>
-    <link>https://www.rejmesbil.se/sok/id/396fb9c4-a8e1-4216-a142-4a6aa6783bb0</link>
-    <url>https://www.rejmesbil.se/sok/id/396fb9c4-a8e1-4216-a142-4a6aa6783bb0</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/9ae1ec76-4872-4667-9652-e74b4519c7dc/3790cf75-5310-4121-a078-f5cf054afd82?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/9ae1ec76-4872-4667-9652-e74b4519c7dc/3790cf75-5310-4121-a078-f5cf054afd82?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>C40</model>
-    <year>2023</year>
-    <mileage>
-      <value>100500</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>314500 SEK</g:price>
-    <price>314500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>314500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
-    </item>
-    <item>
     <g:id>f591bd51-ea6f-452c-8985-202dc997de9e</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -5186,15 +5140,15 @@
     <body_style>SUV</body_style>
     <fuel_type>Bensin+El</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>844500 SEK</g:price>
-    <price>844500 SEK</price>
+    <g:price>839500 SEK</g:price>
+    <price>839500 SEK</price>
     <address format="simple">
       <component name="addr1">Rejmes Halland - Halmstad</component>
       <component name="city">Halmstad</component>
       <component name="region">Halmstad</component>
       <component name="country">SE</component>
     </address>
-    <sale_price>844500 SEK</sale_price>
+    <sale_price>839500 SEK</sale_price>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>new</g:condition>
@@ -6290,15 +6244,15 @@
     <body_style>SUV</body_style>
     <fuel_type>Bensin+El</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>749500 SEK</g:price>
-    <price>749500 SEK</price>
+    <g:price>739500 SEK</g:price>
+    <price>739500 SEK</price>
     <address format="simple">
       <component name="addr1">Rejmes Halland - Halmstad</component>
       <component name="city">Halmstad</component>
       <component name="region">Halmstad</component>
       <component name="country">SE</component>
     </address>
-    <sale_price>749500 SEK</sale_price>
+    <sale_price>739500 SEK</sale_price>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
@@ -6796,15 +6750,15 @@
     <body_style>Sedan</body_style>
     <fuel_type>Electric</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>839500 SEK</g:price>
-    <price>839500 SEK</price>
+    <g:price>829500 SEK</g:price>
+    <price>829500 SEK</price>
     <address format="simple">
       <component name="addr1">Rejmes Halland - Halmstad</component>
       <component name="city">Halmstad</component>
       <component name="region">Halmstad</component>
       <component name="country">SE</component>
     </address>
-    <sale_price>839500 SEK</sale_price>
+    <sale_price>829500 SEK</sale_price>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
