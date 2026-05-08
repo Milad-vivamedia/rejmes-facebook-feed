@@ -5,6 +5,88 @@
     <link>https://www.rejmesbil.se</link>
     <description>Rejmes Bil Vehicle Inventory - Manufacturer Warranty</description>
     <item>
+    <g:id>cf8e23a5-5746-4307-ad50-b4f3f6b094d4</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>cf8e23a5-5746-4307-ad50-b4f3f6b094d4</vehicle_id>
+    <vehicle_registration_plate>REL40G</vehicle_registration_plate>
+    <g:title>Volvo EX40 R Core SE</g:title>
+    <title>Volvo EX40 R Core SE</title>
+    <g:description>R Core SE. Utrustningsnivå: Core Special Edition. Miltal: 1 989 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: REL40G. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>R Core SE. Utrustningsnivå: Core Special Edition. Miltal: 1 989 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: REL40G. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/cf8e23a5-5746-4307-ad50-b4f3f6b094d4</g:link>
+    <link>https://www.rejmesbil.se/sok/id/cf8e23a5-5746-4307-ad50-b4f3f6b094d4</link>
+    <url>https://www.rejmesbil.se/sok/id/cf8e23a5-5746-4307-ad50-b4f3f6b094d4</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <model>EX40</model>
+    <year>2025</year>
+    <mileage>
+      <value>19890</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>434500 SEK</g:price>
+    <price>434500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Halmstad</component>
+      <component name="city">Halmstad</component>
+      <component name="region">Halmstad</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>434500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
+    </item>
+    <item>
+    <g:id>79092f01-3b5b-41a9-a642-c773747f7525</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>79092f01-3b5b-41a9-a642-c773747f7525</vehicle_id>
+    <vehicle_registration_plate>EXE96U</vehicle_registration_plate>
+    <g:title>Volvo XC40 T3 FWD aut Momentum Advanced</g:title>
+    <title>Volvo XC40 T3 FWD aut Momentum Advanced</title>
+    <g:description>T3 FWD aut Momentum Advanced. Utrustningsnivå: Momentum Advanced. Miltal: 7 094 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: EXE96U. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>T3 FWD aut Momentum Advanced. Utrustningsnivå: Momentum Advanced. Miltal: 7 094 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: EXE96U. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/79092f01-3b5b-41a9-a642-c773747f7525</g:link>
+    <link>https://www.rejmesbil.se/sok/id/79092f01-3b5b-41a9-a642-c773747f7525</link>
+    <url>https://www.rejmesbil.se/sok/id/79092f01-3b5b-41a9-a642-c773747f7525</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <model>XC40</model>
+    <year>2022</year>
+    <mileage>
+      <value>70940</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>309500 SEK</g:price>
+    <price>309500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Halmstad</component>
+      <component name="city">Halmstad</component>
+      <component name="region">Halmstad</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>309500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
+    </item>
+    <item>
     <g:id>1a3188c8-8081-41ed-b772-3ddc1650c24c</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
