@@ -5,6 +5,52 @@
     <link>https://www.rejmesbil.se</link>
     <description>Rejmes Bil Vehicle Inventory - Manufacturer Warranty</description>
     <item>
+    <g:id>7004bc6a-bc78-42be-80a5-5e7fdb374d99</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>7004bc6a-bc78-42be-80a5-5e7fdb374d99</vehicle_id>
+    <vehicle_registration_plate>PBN55H</vehicle_registration_plate>
+    <g:title>Volvo XC60 T6 Plus Dark Edition</g:title>
+    <title>Volvo XC60 T6 Plus Dark Edition</title>
+    <g:description>T6 Plus Dark Edition. Utrustningsnivå: Plus Edition. Miltal: 2 700 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: PBN55H. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>T6 Plus Dark Edition. Utrustningsnivå: Plus Edition. Miltal: 2 700 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: PBN55H. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/7004bc6a-bc78-42be-80a5-5e7fdb374d99</g:link>
+    <link>https://www.rejmesbil.se/sok/id/7004bc6a-bc78-42be-80a5-5e7fdb374d99</link>
+    <url>https://www.rejmesbil.se/sok/id/7004bc6a-bc78-42be-80a5-5e7fdb374d99</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/8d154bf5-263c-4c5f-9306-c1ad38b126fc/82bb5d27-728f-441d-895f-76d3dd767cda?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/8d154bf5-263c-4c5f-9306-c1ad38b126fc/82bb5d27-728f-441d-895f-76d3dd767cda?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC60</model>
+    <year>2025</year>
+    <mileage>
+      <value>27000</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>584500 SEK</g:price>
+    <price>584500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Laholm</component>
+      <component name="city">Laholm</component>
+      <component name="region">Laholm</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>584500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>cddd81a6-5031-42cd-a468-67eb1f2299c7</dealer_id>
+    </item>
+    <item>
     <g:id>6a9343c5-3cf7-4d1e-a36b-0fc274b6062e</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -242,8 +288,8 @@
     <vehicle_registration_plate>LBW37L</vehicle_registration_plate>
     <g:title>Volvo XC60 T6 Plus Dark Nordic Edition</g:title>
     <title>Volvo XC60 T6 Plus Dark Nordic Edition</title>
-    <g:description>T6 Plus Dark Nordic Edition. Utrustningsnivå: Plus Nordic Edition. Miltal: 1 208 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: LBW37L. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>T6 Plus Dark Nordic Edition. Utrustningsnivå: Plus Nordic Edition. Miltal: 1 208 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: LBW37L. Kontakta oss för mer information om detta fordon.</description>
+    <g:description>T6 Plus Dark Nordic Edition. Utrustningsnivå: Plus Nordic Edition. Miltal: 1 209 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: LBW37L. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>T6 Plus Dark Nordic Edition. Utrustningsnivå: Plus Nordic Edition. Miltal: 1 209 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: LBW37L. Kontakta oss för mer information om detta fordon.</description>
     <g:link>https://www.rejmesbil.se/sok/id/da08b87e-81d9-4196-b74a-0cf943140a5b</g:link>
     <link>https://www.rejmesbil.se/sok/id/da08b87e-81d9-4196-b74a-0cf943140a5b</link>
     <url>https://www.rejmesbil.se/sok/id/da08b87e-81d9-4196-b74a-0cf943140a5b</url>
@@ -258,7 +304,7 @@
     <model>XC60</model>
     <year>2026</year>
     <mileage>
-      <value>12080</value>
+      <value>12090</value>
       <unit>KM</unit>
     </mileage>
     <body_style>SUV</body_style>
@@ -472,8 +518,8 @@
     <vehicle_registration_plate>OLP44D</vehicle_registration_plate>
     <g:title>Volvo EX40 UltraBlackSE</g:title>
     <title>Volvo EX40 UltraBlackSE</title>
-    <g:description>UltraBlackSE. Utrustningsnivå: Ultra Special Edition. Miltal: 2 755 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: OLP44D. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>UltraBlackSE. Utrustningsnivå: Ultra Special Edition. Miltal: 2 755 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: OLP44D. Kontakta oss för mer information om detta fordon.</description>
+    <g:description>UltraBlackSE. Utrustningsnivå: Ultra Special Edition. Miltal: 2 758 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: OLP44D. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>UltraBlackSE. Utrustningsnivå: Ultra Special Edition. Miltal: 2 758 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: OLP44D. Kontakta oss för mer information om detta fordon.</description>
     <g:link>https://www.rejmesbil.se/sok/id/1e2a0444-4494-4051-a1e9-b081c7f86f5d</g:link>
     <link>https://www.rejmesbil.se/sok/id/1e2a0444-4494-4051-a1e9-b081c7f86f5d</link>
     <url>https://www.rejmesbil.se/sok/id/1e2a0444-4494-4051-a1e9-b081c7f86f5d</url>
@@ -488,7 +534,7 @@
     <model>EX40</model>
     <year>2025</year>
     <mileage>
-      <value>27550</value>
+      <value>27580</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Sedan</body_style>
