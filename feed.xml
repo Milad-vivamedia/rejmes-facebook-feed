@@ -20,9 +20,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/e2add044ed57491d9eea6be42ba72c15/b63c7838e3034fd89eb9dcb4e40a66ac?format=jpeg&amp;w=770&amp;h=514</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/9ab26333-de4a-4c2d-a066-3bdf60bfd6be/848d9dd1-87f7-45d7-8917-0f15c9bcae0c?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/v3/e2add044ed57491d9eea6be42ba72c15/b63c7838e3034fd89eb9dcb4e40a66ac?format=jpeg&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/9ab26333-de4a-4c2d-a066-3bdf60bfd6be/848d9dd1-87f7-45d7-8917-0f15c9bcae0c?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>XC60</model>
@@ -2027,52 +2027,6 @@
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>a19b2c7e-0d5f-4834-bf2d-a285eff2d725</dealer_id>
-    </item>
-    <item>
-    <g:id>f8e9423e-502f-4b33-969f-1b38f11b481a</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>f8e9423e-502f-4b33-969f-1b38f11b481a</vehicle_id>
-    <vehicle_registration_plate>HMS94Y</vehicle_registration_plate>
-    <g:title>Volvo EX40 R Plus Edt</g:title>
-    <title>Volvo EX40 R Plus Edt</title>
-    <g:description>R Plus Edt. Utrustningsnivå: Plus Edition. Miltal: 2 159 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: HMS94Y. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>R Plus Edt. Utrustningsnivå: Plus Edition. Miltal: 2 159 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: HMS94Y. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/f8e9423e-502f-4b33-969f-1b38f11b481a</g:link>
-    <link>https://www.rejmesbil.se/sok/id/f8e9423e-502f-4b33-969f-1b38f11b481a</link>
-    <url>https://www.rejmesbil.se/sok/id/f8e9423e-502f-4b33-969f-1b38f11b481a</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/9875c35f-bf6e-47b4-ba4d-0e0a00a5ce97/eedcc1a2-3a25-496c-9a78-9cf25e60110f?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/9875c35f-bf6e-47b4-ba4d-0e0a00a5ce97/eedcc1a2-3a25-496c-9a78-9cf25e60110f?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>EX40</model>
-    <year>2025</year>
-    <mileage>
-      <value>21590</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>449500 SEK</g:price>
-    <price>449500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>449500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
     </item>
     <item>
     <g:id>5cf2b7e0-d811-425b-b32c-382ca5e456ed</g:id>
@@ -6437,52 +6391,6 @@
       <component name="country">SE</component>
     </address>
     <sale_price>479500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>cddd81a6-5031-42cd-a468-67eb1f2299c7</dealer_id>
-    </item>
-    <item>
-    <g:id>65a12c10-38eb-471e-b55c-c6434e6591f5</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>65a12c10-38eb-471e-b55c-c6434e6591f5</vehicle_id>
-    <vehicle_registration_plate>TGU51S</vehicle_registration_plate>
-    <g:title>Volvo C40 Plus |Drag |Värmepump |Kamera |Elstol |Mörkton</g:title>
-    <title>Volvo C40 Plus |Drag |Värmepump |Kamera |Elstol |Mörkton</title>
-    <g:description>Plus |Drag |Värmepump |Kamera |Elstol |Mörkton. Utrustningsnivå: Plus. Miltal: 1 692 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Registreringsnummer: TGU51S. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>Plus |Drag |Värmepump |Kamera |Elstol |Mörkton. Utrustningsnivå: Plus. Miltal: 1 692 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Registreringsnummer: TGU51S. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/65a12c10-38eb-471e-b55c-c6434e6591f5</g:link>
-    <link>https://www.rejmesbil.se/sok/id/65a12c10-38eb-471e-b55c-c6434e6591f5</link>
-    <url>https://www.rejmesbil.se/sok/id/65a12c10-38eb-471e-b55c-c6434e6591f5</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/7d012f46-4095-470b-bb25-0da140071f0a/8f6a79a3-4ad2-44c2-8179-2839080fda81?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/7d012f46-4095-470b-bb25-0da140071f0a/8f6a79a3-4ad2-44c2-8179-2839080fda81?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>C40</model>
-    <year>2024</year>
-    <mileage>
-      <value>16920</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>409500 SEK</g:price>
-    <price>409500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Laholm</component>
-      <component name="city">Laholm</component>
-      <component name="region">Laholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>409500 SEK</sale_price>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
