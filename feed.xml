@@ -5,6 +5,52 @@
     <link>https://www.rejmesbil.se</link>
     <description>Rejmes Bil Vehicle Inventory - Manufacturer Warranty</description>
     <item>
+    <g:id>9aa42b52-a698-40e3-ad54-78ca093b945e</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>9aa42b52-a698-40e3-ad54-78ca093b945e</vehicle_id>
+    <vehicle_registration_plate>WCJ14T</vehicle_registration_plate>
+    <g:title>Volvo V90 T6 Plus Dark Nordic Edition</g:title>
+    <title>Volvo V90 T6 Plus Dark Nordic Edition</title>
+    <g:description>T6 Plus Dark Nordic Edition. Utrustningsnivå: Plus Nordic Edition. Miltal: 3 201 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: WCJ14T. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>T6 Plus Dark Nordic Edition. Utrustningsnivå: Plus Nordic Edition. Miltal: 3 201 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: WCJ14T. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/9aa42b52-a698-40e3-ad54-78ca093b945e</g:link>
+    <link>https://www.rejmesbil.se/sok/id/9aa42b52-a698-40e3-ad54-78ca093b945e</link>
+    <url>https://www.rejmesbil.se/sok/id/9aa42b52-a698-40e3-ad54-78ca093b945e</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/86eefe45-2c54-4465-8898-28ff493af959/50d16dbe-ccfe-468e-8dbc-c0b3b9ada5db?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/86eefe45-2c54-4465-8898-28ff493af959/50d16dbe-ccfe-468e-8dbc-c0b3b9ada5db?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>V90</model>
+    <year>2026</year>
+    <mileage>
+      <value>32010</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Wagon</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>539500 SEK</g:price>
+    <price>539500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Halmstad</component>
+      <component name="city">Halmstad</component>
+      <component name="region">Halmstad</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>539500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>new</g:condition>
+    <condition>new</condition>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
+    </item>
+    <item>
     <g:id>be54553a-9ab1-44cd-a37f-a43ec9fd379a</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -20,9 +66,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/93aea4fd-6ee5-4918-a859-9fcf24c6e150/cd050a65-ca89-465c-9d02-bf301f0faf89?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/5b657290-1f9d-46d2-84f5-64c0752b8c34/e107ee44-0a47-48ba-b837-37b70569d232?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/93aea4fd-6ee5-4918-a859-9fcf24c6e150/cd050a65-ca89-465c-9d02-bf301f0faf89?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/5b657290-1f9d-46d2-84f5-64c0752b8c34/e107ee44-0a47-48ba-b837-37b70569d232?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>V60</model>
