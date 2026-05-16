@@ -158,9 +158,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/832c8353-1903-4dd2-a943-5eaf02d428e4/f96cba9c-7199-47b5-baf4-c0f4d453be7e?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/e172dd8e-0e0b-4739-94ea-97a9190f9f60/8bf4209b-00a5-445e-9178-f1b4c02b6900?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/832c8353-1903-4dd2-a943-5eaf02d428e4/f96cba9c-7199-47b5-baf4-c0f4d453be7e?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/e172dd8e-0e0b-4739-94ea-97a9190f9f60/8bf4209b-00a5-445e-9178-f1b4c02b6900?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>EX40</model>
@@ -250,9 +250,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/7ef7605b-a20f-45df-9c26-8b8fbfcc8f0e/09b8fe77-30e1-46ea-ad1c-dc474bb09599?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/56131d44-8fb1-47b7-aaf1-9ae2e65a2a39/dfcd607a-47f1-4aea-a9c4-4cae0559de47?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/7ef7605b-a20f-45df-9c26-8b8fbfcc8f0e/09b8fe77-30e1-46ea-ad1c-dc474bb09599?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/56131d44-8fb1-47b7-aaf1-9ae2e65a2a39/dfcd607a-47f1-4aea-a9c4-4cae0559de47?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>XC60</model>
@@ -4551,52 +4551,6 @@
       <component name="country">SE</component>
     </address>
     <sale_price>324500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
-    </item>
-    <item>
-    <g:id>dda7f825-f85a-41ac-8d99-e9dc8ea81864</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>dda7f825-f85a-41ac-8d99-e9dc8ea81864</vehicle_id>
-    <vehicle_registration_plate>FTP68Y</vehicle_registration_plate>
-    <g:title>Volvo XC40 Recharge T4 Inscription | Navi | Dragkrok | Läder |</g:title>
-    <title>Volvo XC40 Recharge T4 Inscription | Navi | Dragkrok | Läder |</title>
-    <g:description>Recharge T4 Inscription | Navi | Dragkrok | Läder |. Utrustningsnivå: Inscription. Miltal: 5 464 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: FTP68Y. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>Recharge T4 Inscription | Navi | Dragkrok | Läder |. Utrustningsnivå: Inscription. Miltal: 5 464 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: FTP68Y. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/dda7f825-f85a-41ac-8d99-e9dc8ea81864</g:link>
-    <link>https://www.rejmesbil.se/sok/id/dda7f825-f85a-41ac-8d99-e9dc8ea81864</link>
-    <url>https://www.rejmesbil.se/sok/id/dda7f825-f85a-41ac-8d99-e9dc8ea81864</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/5c2c8785-f571-4555-911c-9fc1375094a3/53686841-5e6c-43e1-8760-5da860b299da?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/5c2c8785-f571-4555-911c-9fc1375094a3/53686841-5e6c-43e1-8760-5da860b299da?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2022</year>
-    <mileage>
-      <value>54640</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>359500 SEK</g:price>
-    <price>359500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>359500 SEK</sale_price>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
