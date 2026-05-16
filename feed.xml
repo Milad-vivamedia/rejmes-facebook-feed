@@ -5,6 +5,52 @@
     <link>https://www.rejmesbil.se</link>
     <description>Rejmes Bil Vehicle Inventory - Manufacturer Warranty</description>
     <item>
+    <g:id>4020c491-ddfc-4e69-81f6-f5ff32c131fa</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>4020c491-ddfc-4e69-81f6-f5ff32c131fa</vehicle_id>
+    <vehicle_registration_plate>FJU36B</vehicle_registration_plate>
+    <g:title>Volvo V60 T6 Plus Bright Edition |Drag |Kamera |Läder |Elstol |Mörkton</g:title>
+    <title>Volvo V60 T6 Plus Bright Edition |Drag |Kamera |Läder |Elstol |Mörkton</title>
+    <g:description>T6 Plus Bright Edition |Drag |Kamera |Läder |Elstol |Mörkton. Utrustningsnivå: Plus. Miltal: 2 897 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: FJU36B. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>T6 Plus Bright Edition |Drag |Kamera |Läder |Elstol |Mörkton. Utrustningsnivå: Plus. Miltal: 2 897 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: FJU36B. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/4020c491-ddfc-4e69-81f6-f5ff32c131fa</g:link>
+    <link>https://www.rejmesbil.se/sok/id/4020c491-ddfc-4e69-81f6-f5ff32c131fa</link>
+    <url>https://www.rejmesbil.se/sok/id/4020c491-ddfc-4e69-81f6-f5ff32c131fa</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/21ed8f9d931a42a28989977d1ecc4899/6daf25871f5442eeb749e9d63e303479?format=jpeg&amp;w=770&amp;h=514</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/21ed8f9d931a42a28989977d1ecc4899/6daf25871f5442eeb749e9d63e303479?format=jpeg&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>V60</model>
+    <year>2025</year>
+    <mileage>
+      <value>28970</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Wagon</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>439500 SEK</g:price>
+    <price>439500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Halmstad</component>
+      <component name="city">Halmstad</component>
+      <component name="region">Halmstad</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>439500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
+    </item>
+    <item>
     <g:id>742bed6c-c051-4103-98b4-71eebe5bce6f</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
