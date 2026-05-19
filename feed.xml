@@ -20,9 +20,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/14266649-1908-405a-a87a-78c4b6cecaca/da2bba03-cc64-46f6-8579-33682dec5974?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/8773f62c-636d-4342-8970-8c2aa5e8852c/d9018f56-86b5-4461-9713-4e4ac81d97de?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/14266649-1908-405a-a87a-78c4b6cecaca/da2bba03-cc64-46f6-8579-33682dec5974?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/8773f62c-636d-4342-8970-8c2aa5e8852c/d9018f56-86b5-4461-9713-4e4ac81d97de?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>XC60</model>
@@ -4881,52 +4881,6 @@
     <dealer_id>a19b2c7e-0d5f-4834-bf2d-a285eff2d725</dealer_id>
     </item>
     <item>
-    <g:id>414416e2-960e-4602-862f-ed9e9dec1955</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>414416e2-960e-4602-862f-ed9e9dec1955</vehicle_id>
-    <vehicle_registration_plate>WAE51D</vehicle_registration_plate>
-    <g:title>Volvo XC90 Recharge T8 Ultimate Dark | Ryggmassage | Aktiv Luftfjädring | 360 Kamera |</g:title>
-    <title>Volvo XC90 Recharge T8 Ultimate Dark | Ryggmassage | Aktiv Luftfjädring | 360 Kamera |</title>
-    <g:description>Recharge T8 Ultimate Dark | Ryggmassage | Aktiv Luftfjädring | 360 Kamera |. Utrustningsnivå: Ultimate. Miltal: 3 804 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: WAE51D. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>Recharge T8 Ultimate Dark | Ryggmassage | Aktiv Luftfjädring | 360 Kamera |. Utrustningsnivå: Ultimate. Miltal: 3 804 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: WAE51D. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/414416e2-960e-4602-862f-ed9e9dec1955</g:link>
-    <link>https://www.rejmesbil.se/sok/id/414416e2-960e-4602-862f-ed9e9dec1955</link>
-    <url>https://www.rejmesbil.se/sok/id/414416e2-960e-4602-862f-ed9e9dec1955</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/f2f9b9bc-f095-493b-88d4-38edb32fde7f/9acfc5be-7ae7-47da-95a9-ec66911c384f?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/f2f9b9bc-f095-493b-88d4-38edb32fde7f/9acfc5be-7ae7-47da-95a9-ec66911c384f?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC90</model>
-    <year>2023</year>
-    <mileage>
-      <value>38040</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>674500 SEK</g:price>
-    <price>674500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Falkenberg</component>
-      <component name="city">Falkenberg</component>
-      <component name="region">Falkenberg</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>674500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>a19b2c7e-0d5f-4834-bf2d-a285eff2d725</dealer_id>
-    </item>
-    <item>
     <g:id>16858dab-9295-48a1-8f20-aa25c52f41bd</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -5615,52 +5569,6 @@
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>cddd81a6-5031-42cd-a468-67eb1f2299c7</dealer_id>
-    </item>
-    <item>
-    <g:id>5d2a3377-4cc9-47db-8f73-07049dd7aa19</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>5d2a3377-4cc9-47db-8f73-07049dd7aa19</vehicle_id>
-    <vehicle_registration_plate>MFY22B</vehicle_registration_plate>
-    <g:title>Volvo EX40 Plus | Drag | Värmepump | Kamera |</g:title>
-    <title>Volvo EX40 Plus | Drag | Värmepump | Kamera |</title>
-    <g:description>Plus | Drag | Värmepump | Kamera |. Utrustningsnivå: Plus. Miltal: 982 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: MFY22B. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>Plus | Drag | Värmepump | Kamera |. Utrustningsnivå: Plus. Miltal: 982 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: MFY22B. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/5d2a3377-4cc9-47db-8f73-07049dd7aa19</g:link>
-    <link>https://www.rejmesbil.se/sok/id/5d2a3377-4cc9-47db-8f73-07049dd7aa19</link>
-    <url>https://www.rejmesbil.se/sok/id/5d2a3377-4cc9-47db-8f73-07049dd7aa19</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/f095f216-29d2-4a25-a7b7-2b14c07eee53/63552ae3-1fda-4408-9cf9-f7fdc62e00a1?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/f095f216-29d2-4a25-a7b7-2b14c07eee53/63552ae3-1fda-4408-9cf9-f7fdc62e00a1?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>EX40</model>
-    <year>2025</year>
-    <mileage>
-      <value>9820</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>459500 SEK</g:price>
-    <price>459500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>459500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
     </item>
     <item>
     <g:id>a7a3c48c-e15d-4bc6-813d-4171efc7d035</g:id>
