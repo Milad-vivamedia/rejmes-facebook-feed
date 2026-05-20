@@ -5,6 +5,52 @@
     <link>https://www.rejmesbil.se</link>
     <description>Rejmes Bil Vehicle Inventory - Manufacturer Warranty</description>
     <item>
+    <g:id>d75533b9-7702-46dd-98e3-58c517145e15</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>d75533b9-7702-46dd-98e3-58c517145e15</vehicle_id>
+    <vehicle_registration_plate>HEU78K</vehicle_registration_plate>
+    <g:title>Volvo V60 T6 Plus Dark Nordic Edition</g:title>
+    <title>Volvo V60 T6 Plus Dark Nordic Edition</title>
+    <g:description>T6 Plus Dark Nordic Edition. Utrustningsnivå: Plus Nordic Edition. Miltal: 1 381 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: HEU78K. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>T6 Plus Dark Nordic Edition. Utrustningsnivå: Plus Nordic Edition. Miltal: 1 381 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: HEU78K. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/d75533b9-7702-46dd-98e3-58c517145e15</g:link>
+    <link>https://www.rejmesbil.se/sok/id/d75533b9-7702-46dd-98e3-58c517145e15</link>
+    <url>https://www.rejmesbil.se/sok/id/d75533b9-7702-46dd-98e3-58c517145e15</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/b1c978a5-4994-4c7f-88f7-df6c05c91d68/a4f503fe-a1d1-4050-91f1-2c053f9bf03a?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/b1c978a5-4994-4c7f-88f7-df6c05c91d68/a4f503fe-a1d1-4050-91f1-2c053f9bf03a?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>V60</model>
+    <year>2026</year>
+    <mileage>
+      <value>13810</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Wagon</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>519500 SEK</g:price>
+    <price>519500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Halmstad</component>
+      <component name="city">Halmstad</component>
+      <component name="region">Halmstad</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>519500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>new</g:condition>
+    <condition>new</condition>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
+    </item>
+    <item>
     <g:id>406ed204-dd41-4d3b-b62e-f021d7ee5566</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -20,9 +66,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/8773f62c-636d-4342-8970-8c2aa5e8852c/d9018f56-86b5-4461-9713-4e4ac81d97de?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/8773f62c636d434289708c2aa5e8852c/d9018f5686b5446197134e4ac81d97de?format=jpeg&amp;w=770&amp;h=514</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/8773f62c-636d-4342-8970-8c2aa5e8852c/d9018f56-86b5-4461-9713-4e4ac81d97de?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/8773f62c636d434289708c2aa5e8852c/d9018f5686b5446197134e4ac81d97de?format=jpeg&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>XC60</model>
@@ -43,6 +89,98 @@
       <component name="country">SE</component>
     </address>
     <sale_price>509500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>a19b2c7e-0d5f-4834-bf2d-a285eff2d725</dealer_id>
+    </item>
+    <item>
+    <g:id>3691b060-0906-40c1-b433-57123a4b25e5</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>3691b060-0906-40c1-b433-57123a4b25e5</vehicle_id>
+    <vehicle_registration_plate>FFN36N</vehicle_registration_plate>
+    <g:title>Volvo XC60 T6 Plus Black Nordic Edition | Drag | Luftfjädring | 360 | H/K | HUD |</g:title>
+    <title>Volvo XC60 T6 Plus Black Nordic Edition | Drag | Luftfjädring | 360 | H/K | HUD |</title>
+    <g:description>T6 Plus Black Nordic Edition | Drag | Luftfjädring | 360 | H/K | HUD |. Utrustningsnivå: Plus Nordic Edition. Miltal: 2 459 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: FFN36N. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>T6 Plus Black Nordic Edition | Drag | Luftfjädring | 360 | H/K | HUD |. Utrustningsnivå: Plus Nordic Edition. Miltal: 2 459 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: FFN36N. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/3691b060-0906-40c1-b433-57123a4b25e5</g:link>
+    <link>https://www.rejmesbil.se/sok/id/3691b060-0906-40c1-b433-57123a4b25e5</link>
+    <url>https://www.rejmesbil.se/sok/id/3691b060-0906-40c1-b433-57123a4b25e5</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/868c4970cd774b1f91d0a4cd60cbe1d4/c7bce6d9ea7741468d63c6cefeebc088?format=jpeg&amp;w=770&amp;h=514</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/868c4970cd774b1f91d0a4cd60cbe1d4/c7bce6d9ea7741468d63c6cefeebc088?format=jpeg&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC60</model>
+    <year>2026</year>
+    <mileage>
+      <value>24590</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>639500 SEK</g:price>
+    <price>639500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Halmstad</component>
+      <component name="city">Halmstad</component>
+      <component name="region">Halmstad</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>639500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>new</g:condition>
+    <condition>new</condition>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
+    </item>
+    <item>
+    <g:id>ae104d8b-35e9-4578-b6aa-84fc1c4738e5</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>ae104d8b-35e9-4578-b6aa-84fc1c4738e5</vehicle_id>
+    <vehicle_registration_plate>DCL34Z</vehicle_registration_plate>
+    <g:title>Volvo C40 Plus | Dragkrok |</g:title>
+    <title>Volvo C40 Plus | Dragkrok |</title>
+    <g:description>Plus | Dragkrok |. Utrustningsnivå: Plus. Miltal: 2 914 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Registreringsnummer: DCL34Z. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>Plus | Dragkrok |. Utrustningsnivå: Plus. Miltal: 2 914 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Registreringsnummer: DCL34Z. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/ae104d8b-35e9-4578-b6aa-84fc1c4738e5</g:link>
+    <link>https://www.rejmesbil.se/sok/id/ae104d8b-35e9-4578-b6aa-84fc1c4738e5</link>
+    <url>https://www.rejmesbil.se/sok/id/ae104d8b-35e9-4578-b6aa-84fc1c4738e5</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/84f91c373afa4a4cbd2bd8ca2d00e0b6/5bc3cbf42b6445c5b3cec940f734c605?format=jpeg&amp;w=770&amp;h=514</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/84f91c373afa4a4cbd2bd8ca2d00e0b6/5bc3cbf42b6445c5b3cec940f734c605?format=jpeg&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>C40</model>
+    <year>2024</year>
+    <mileage>
+      <value>29140</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>419500 SEK</g:price>
+    <price>419500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Falkenberg</component>
+      <component name="city">Falkenberg</component>
+      <component name="region">Falkenberg</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>419500 SEK</sale_price>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
