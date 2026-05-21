@@ -5,6 +5,52 @@
     <link>https://www.rejmesbil.se</link>
     <description>Rejmes Bil Vehicle Inventory - Manufacturer Warranty</description>
     <item>
+    <g:id>c89d30eb-bf0f-41ad-8f40-39b36e92f1a6</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>c89d30eb-bf0f-41ad-8f40-39b36e92f1a6</vehicle_id>
+    <vehicle_registration_plate>JCR80J</vehicle_registration_plate>
+    <g:title>Volvo EX40 R Core SE</g:title>
+    <title>Volvo EX40 R Core SE</title>
+    <g:description>R Core SE. Utrustningsnivå: Core Special Edition. Miltal: 3 589 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: JCR80J. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>R Core SE. Utrustningsnivå: Core Special Edition. Miltal: 3 589 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: JCR80J. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/c89d30eb-bf0f-41ad-8f40-39b36e92f1a6</g:link>
+    <link>https://www.rejmesbil.se/sok/id/c89d30eb-bf0f-41ad-8f40-39b36e92f1a6</link>
+    <url>https://www.rejmesbil.se/sok/id/c89d30eb-bf0f-41ad-8f40-39b36e92f1a6</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/707e16db-aa38-44aa-b008-f164f27a83fe/ce647b09-6e1e-489e-a045-a353be184719?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/707e16db-aa38-44aa-b008-f164f27a83fe/ce647b09-6e1e-489e-a045-a353be184719?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>EX40</model>
+    <year>2025</year>
+    <mileage>
+      <value>35890</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>439500 SEK</g:price>
+    <price>439500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Halmstad</component>
+      <component name="city">Halmstad</component>
+      <component name="region">Halmstad</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>439500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
+    </item>
+    <item>
     <g:id>e0f21c32-0886-4b43-a5de-9275486b41a7</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -20,9 +66,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/d428e8a4-8aa0-4467-9f23-66e6cce1ec5b/11ca963a-60f7-45bb-8394-dc87d546156c?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/b451885948a141c482c8a807efdfb769/36aeb6e012ac46c6b23d3e99d7362459?format=jpeg&amp;w=770&amp;h=514</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/d428e8a4-8aa0-4467-9f23-66e6cce1ec5b/11ca963a-60f7-45bb-8394-dc87d546156c?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/b451885948a141c482c8a807efdfb769/36aeb6e012ac46c6b23d3e99d7362459?format=jpeg&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>EX40</model>
@@ -112,9 +158,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/1405ce3b-d814-4907-9658-0b90a5b44fc0/e9d6fe53-2eb9-45b8-9780-681ec42eba2d?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/1405ce3bd814490796580b90a5b44fc0/e9d6fe532eb945b89780681ec42eba2d?format=jpeg&amp;w=770&amp;h=514</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/1405ce3b-d814-4907-9658-0b90a5b44fc0/e9d6fe53-2eb9-45b8-9780-681ec42eba2d?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/v3/1405ce3bd814490796580b90a5b44fc0/e9d6fe532eb945b89780681ec42eba2d?format=jpeg&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>V90</model>
@@ -250,9 +296,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/7215fb5c649f4ae7aa8515da12cb77cf/cb726f6ff4314eddb54b6ed05f1002f0?format=jpeg&amp;w=770&amp;h=514</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/60b4af36279840ca8744512e12bbdcc6/f047e49fa3ec4cbb836f14cc549e4fc0?format=jpeg&amp;w=770&amp;h=514</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/v3/7215fb5c649f4ae7aa8515da12cb77cf/cb726f6ff4314eddb54b6ed05f1002f0?format=jpeg&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/v3/60b4af36279840ca8744512e12bbdcc6/f047e49fa3ec4cbb836f14cc549e4fc0?format=jpeg&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>V60</model>
@@ -1492,9 +1538,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/417f2806-c8d8-4315-bb68-a6494c59733e/7723bedd-3ab3-4798-a932-e0fe6d8d2d38?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/417f2806c8d84315bb68a6494c59733e/7723bedd3ab34798a932e0fe6d8d2d38?format=jpeg&amp;w=770&amp;h=514</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/417f2806-c8d8-4315-bb68-a6494c59733e/7723bedd-3ab3-4798-a932-e0fe6d8d2d38?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/v3/417f2806c8d84315bb68a6494c59733e/7723bedd3ab34798a932e0fe6d8d2d38?format=jpeg&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>EX40</model>
