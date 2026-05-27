@@ -20,9 +20,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/d047305b-cef1-4010-9b1b-9232ca80dd7b/f740e121-97e5-4aa5-b9eb-8e1870c29ed5?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/cb5b03e8-85c1-4b21-9047-5d9c3c3b6cff/350139b7-e009-4d3f-b3c6-da23820e0038?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/d047305b-cef1-4010-9b1b-9232ca80dd7b/f740e121-97e5-4aa5-b9eb-8e1870c29ed5?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/cb5b03e8-85c1-4b21-9047-5d9c3c3b6cff/350139b7-e009-4d3f-b3c6-da23820e0038?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>V90</model>
@@ -66,9 +66,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/8ce9e997-8e5b-43fe-8b0a-845c98a13320/844c5149-881c-4cc0-85f9-738abfe506cc?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/7780530f3f1f479aa80d70d5e8cf26ca/a5467bcaff2a4f8c8bcf46747d80444a?format=jpeg&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/8ce9e997-8e5b-43fe-8b0a-845c98a13320/844c5149-881c-4cc0-85f9-738abfe506cc?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/7780530f3f1f479aa80d70d5e8cf26ca/a5467bcaff2a4f8c8bcf46747d80444a?format=jpeg&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>V60</model>
@@ -2487,52 +2487,6 @@
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>a19b2c7e-0d5f-4834-bf2d-a285eff2d725</dealer_id>
-    </item>
-    <item>
-    <g:id>2a41c4ec-3534-4169-81f1-4bd3bc320a86</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>2a41c4ec-3534-4169-81f1-4bd3bc320a86</vehicle_id>
-    <vehicle_registration_plate>TXT99A</vehicle_registration_plate>
-    <g:title>Volvo XC60 T6 Plus Dark Nordic Edition</g:title>
-    <title>Volvo XC60 T6 Plus Dark Nordic Edition</title>
-    <g:description>T6 Plus Dark Nordic Edition. Utrustningsnivå: Plus Nordic Edition. Miltal: 908 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: TXT99A. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>T6 Plus Dark Nordic Edition. Utrustningsnivå: Plus Nordic Edition. Miltal: 908 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: TXT99A. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/2a41c4ec-3534-4169-81f1-4bd3bc320a86</g:link>
-    <link>https://www.rejmesbil.se/sok/id/2a41c4ec-3534-4169-81f1-4bd3bc320a86</link>
-    <url>https://www.rejmesbil.se/sok/id/2a41c4ec-3534-4169-81f1-4bd3bc320a86</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/829ac471-8798-4e5c-a3e1-7f46cb98d0da/f0f21f97-3466-4f57-a61b-310c28ef5485?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/829ac471-8798-4e5c-a3e1-7f46cb98d0da/f0f21f97-3466-4f57-a61b-310c28ef5485?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC60</model>
-    <year>2026</year>
-    <mileage>
-      <value>9080</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>619500 SEK</g:price>
-    <price>619500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>619500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>new</g:condition>
-    <condition>new</condition>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
     </item>
     <item>
     <g:id>5ea65480-b530-46b0-89c8-e564eeb4a02c</g:id>
