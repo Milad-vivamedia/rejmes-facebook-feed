@@ -20,9 +20,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/afb94fa0-7187-45a2-8258-50cde264782b/e1e3d005-c445-43be-bcea-eed8708cb028?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/bf36deeb-58b0-4934-ac58-c14683d14cbd/3a5cc833-9b5e-4ca6-85b2-ceab79d0f876?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/afb94fa0-7187-45a2-8258-50cde264782b/e1e3d005-c445-43be-bcea-eed8708cb028?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/bf36deeb-58b0-4934-ac58-c14683d14cbd/3a5cc833-9b5e-4ca6-85b2-ceab79d0f876?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>XC40</model>
@@ -104,8 +104,8 @@
     <vehicle_registration_plate>BXP07M</vehicle_registration_plate>
     <g:title>Volvo XC60 T6 Plus Dark Nordic Edition</g:title>
     <title>Volvo XC60 T6 Plus Dark Nordic Edition</title>
-    <g:description>T6 Plus Dark Nordic Edition. Utrustningsnivå: Plus Nordic Edition. Miltal: 1 183 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: BXP07M. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>T6 Plus Dark Nordic Edition. Utrustningsnivå: Plus Nordic Edition. Miltal: 1 183 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: BXP07M. Kontakta oss för mer information om detta fordon.</description>
+    <g:description>T6 Plus Dark Nordic Edition. Utrustningsnivå: Plus Nordic Edition. Miltal: 4 484 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: BXP07M. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>T6 Plus Dark Nordic Edition. Utrustningsnivå: Plus Nordic Edition. Miltal: 4 484 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: BXP07M. Kontakta oss för mer information om detta fordon.</description>
     <g:link>https://www.rejmesbil.se/sok/id/b052c764-2e62-4375-85ba-608602316a79</g:link>
     <link>https://www.rejmesbil.se/sok/id/b052c764-2e62-4375-85ba-608602316a79</link>
     <url>https://www.rejmesbil.se/sok/id/b052c764-2e62-4375-85ba-608602316a79</url>
@@ -120,7 +120,7 @@
     <model>XC60</model>
     <year>2025</year>
     <mileage>
-      <value>11830</value>
+      <value>44840</value>
       <unit>KM</unit>
     </mileage>
     <body_style>SUV</body_style>
@@ -150,8 +150,8 @@
     <vehicle_registration_plate>JBF75G</vehicle_registration_plate>
     <g:title>Volvo EX40 R Plus Edt</g:title>
     <title>Volvo EX40 R Plus Edt</title>
-    <g:description>R Plus Edt. Utrustningsnivå: Plus Edition. Miltal: 3 320 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: JBF75G. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>R Plus Edt. Utrustningsnivå: Plus Edition. Miltal: 3 320 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: JBF75G. Kontakta oss för mer information om detta fordon.</description>
+    <g:description>R Plus Edt. Utrustningsnivå: Plus Edition. Miltal: 3 321 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: JBF75G. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>R Plus Edt. Utrustningsnivå: Plus Edition. Miltal: 3 321 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: JBF75G. Kontakta oss för mer information om detta fordon.</description>
     <g:link>https://www.rejmesbil.se/sok/id/4f33e277-2b54-47e4-b6aa-df03bbe51d9d</g:link>
     <link>https://www.rejmesbil.se/sok/id/4f33e277-2b54-47e4-b6aa-df03bbe51d9d</link>
     <url>https://www.rejmesbil.se/sok/id/4f33e277-2b54-47e4-b6aa-df03bbe51d9d</url>
@@ -166,7 +166,7 @@
     <model>EX40</model>
     <year>2025</year>
     <mileage>
-      <value>33200</value>
+      <value>33210</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Sedan</body_style>
