@@ -20,6 +20,11 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/2e1c620d-3765-4592-b00b-7a1197ce520a/b1d65c7f-0491-4224-a0a9-44ed723d8321?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/2e1c620d-3765-4592-b00b-7a1197ce520a/b1d65c7f-0491-4224-a0a9-44ed723d8321?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
     <model>XC40</model>
     <year>2023</year>
     <mileage>
@@ -61,9 +66,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/36086e819efc4b1a82f6ee6a0ab51dc2/535d252f59714f5c880f2bf6a9f412d8?format=jpeg&amp;w=770&amp;h=514</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/9fc36d76-56b4-476d-b2d5-c13aa9443099/8e5f6981-102a-4078-ad5f-a96288e049c9?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/v3/36086e819efc4b1a82f6ee6a0ab51dc2/535d252f59714f5c880f2bf6a9f412d8?format=jpeg&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/9fc36d76-56b4-476d-b2d5-c13aa9443099/8e5f6981-102a-4078-ad5f-a96288e049c9?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>XC60</model>
@@ -107,9 +112,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/da5f5ae9a87f4ae3a276ae94e7b4c5ff/24fb504f5e21490c92c88522882d1e19?format=jpeg&amp;w=770&amp;h=514</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/4fef859f06e14a4ba7ff0f3351736292/f9b4dbf7b5894e01bb12ab05d00dbdd7?format=jpeg&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/v3/da5f5ae9a87f4ae3a276ae94e7b4c5ff/24fb504f5e21490c92c88522882d1e19?format=jpeg&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/v3/4fef859f06e14a4ba7ff0f3351736292/f9b4dbf7b5894e01bb12ab05d00dbdd7?format=jpeg&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>XC40</model>
