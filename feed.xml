@@ -5,6 +5,190 @@
     <link>https://www.rejmesbil.se</link>
     <description>Rejmes Bil Vehicle Inventory - Manufacturer Warranty</description>
     <item>
+    <g:id>67310331-aab9-4f7c-8cac-428d0a64e087</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>67310331-aab9-4f7c-8cac-428d0a64e087</vehicle_id>
+    <vehicle_registration_plate>SCS87U</vehicle_registration_plate>
+    <g:title>Volvo XC60 Recharge T6 Core Edition</g:title>
+    <title>Volvo XC60 Recharge T6 Core Edition</title>
+    <g:description>Recharge T6 Core Edition. Utrustningsnivå: Core. Miltal: 4 779 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: SCS87U. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>Recharge T6 Core Edition. Utrustningsnivå: Core. Miltal: 4 779 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: SCS87U. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/67310331-aab9-4f7c-8cac-428d0a64e087</g:link>
+    <link>https://www.rejmesbil.se/sok/id/67310331-aab9-4f7c-8cac-428d0a64e087</link>
+    <url>https://www.rejmesbil.se/sok/id/67310331-aab9-4f7c-8cac-428d0a64e087</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/a6caf817cd674ff79a73d17112e5942d/06677face1354339849a5f4c982be0b9?format=jpeg&amp;w=770&amp;h=514</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/a6caf817cd674ff79a73d17112e5942d/06677face1354339849a5f4c982be0b9?format=jpeg&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC60</model>
+    <year>2023</year>
+    <mileage>
+      <value>47790</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>449500 SEK</g:price>
+    <price>449500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Halmstad</component>
+      <component name="city">Halmstad</component>
+      <component name="region">Halmstad</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>449500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
+    </item>
+    <item>
+    <g:id>6dfb43f1-a251-4d8d-96dd-21105d1677a3</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>6dfb43f1-a251-4d8d-96dd-21105d1677a3</vehicle_id>
+    <vehicle_registration_plate>UCS261</vehicle_registration_plate>
+    <g:title>Volvo C40 Ultimate</g:title>
+    <title>Volvo C40 Ultimate</title>
+    <g:description>Ultimate. Utrustningsnivå: Ultimate. Miltal: 5 179 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Registreringsnummer: UCS261. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>Ultimate. Utrustningsnivå: Ultimate. Miltal: 5 179 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Registreringsnummer: UCS261. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/6dfb43f1-a251-4d8d-96dd-21105d1677a3</g:link>
+    <link>https://www.rejmesbil.se/sok/id/6dfb43f1-a251-4d8d-96dd-21105d1677a3</link>
+    <url>https://www.rejmesbil.se/sok/id/6dfb43f1-a251-4d8d-96dd-21105d1677a3</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/bd47f3af52804f639dc891a3b1e3e3ad/aa9ff52e8c814ede8a42fa8985efc542?format=jpeg&amp;w=770&amp;h=514</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/bd47f3af52804f639dc891a3b1e3e3ad/aa9ff52e8c814ede8a42fa8985efc542?format=jpeg&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>C40</model>
+    <year>2024</year>
+    <mileage>
+      <value>51790</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>424500 SEK</g:price>
+    <price>424500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Halmstad</component>
+      <component name="city">Halmstad</component>
+      <component name="region">Halmstad</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>424500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
+    </item>
+    <item>
+    <g:id>32a02061-a561-47c4-a77c-b2279609f7e9</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>32a02061-a561-47c4-a77c-b2279609f7e9</vehicle_id>
+    <vehicle_registration_plate>MYS01N</vehicle_registration_plate>
+    <g:title>Volvo V90 T6 Core Edition</g:title>
+    <title>Volvo V90 T6 Core Edition</title>
+    <g:description>T6 Core Edition. Utrustningsnivå: Core. Miltal: 11 871 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: MYS01N. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>T6 Core Edition. Utrustningsnivå: Core. Miltal: 11 871 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: MYS01N. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/32a02061-a561-47c4-a77c-b2279609f7e9</g:link>
+    <link>https://www.rejmesbil.se/sok/id/32a02061-a561-47c4-a77c-b2279609f7e9</link>
+    <url>https://www.rejmesbil.se/sok/id/32a02061-a561-47c4-a77c-b2279609f7e9</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/d5d96b62-d8c7-4dd2-b5d4-d209aa6b8161/1f6efb4e-858c-4835-9c1b-b3ee582c4b5a?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/d5d96b62-d8c7-4dd2-b5d4-d209aa6b8161/1f6efb4e-858c-4835-9c1b-b3ee582c4b5a?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>V90</model>
+    <year>2025</year>
+    <mileage>
+      <value>118710</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Wagon</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>409500 SEK</g:price>
+    <price>409500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Halmstad</component>
+      <component name="city">Halmstad</component>
+      <component name="region">Halmstad</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>409500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
+    </item>
+    <item>
+    <g:id>6a923574-34f5-4251-bebf-74a6ae17a9df</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>6a923574-34f5-4251-bebf-74a6ae17a9df</vehicle_id>
+    <vehicle_registration_plate>TGU51S</vehicle_registration_plate>
+    <g:title>Volvo C40 Plus |Drag |Värmepump |Kamera |Elstol |Mörkton</g:title>
+    <title>Volvo C40 Plus |Drag |Värmepump |Kamera |Elstol |Mörkton</title>
+    <g:description>Plus |Drag |Värmepump |Kamera |Elstol |Mörkton. Utrustningsnivå: Plus. Miltal: 1 692 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Registreringsnummer: TGU51S. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>Plus |Drag |Värmepump |Kamera |Elstol |Mörkton. Utrustningsnivå: Plus. Miltal: 1 692 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Registreringsnummer: TGU51S. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/6a923574-34f5-4251-bebf-74a6ae17a9df</g:link>
+    <link>https://www.rejmesbil.se/sok/id/6a923574-34f5-4251-bebf-74a6ae17a9df</link>
+    <url>https://www.rejmesbil.se/sok/id/6a923574-34f5-4251-bebf-74a6ae17a9df</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/2f6996077ce54cacac69115ad51024ca/73fa78e2d65b4949a34e5aa3cd503ff7?format=jpeg&amp;w=770&amp;h=514</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/2f6996077ce54cacac69115ad51024ca/73fa78e2d65b4949a34e5aa3cd503ff7?format=jpeg&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>C40</model>
+    <year>2024</year>
+    <mileage>
+      <value>16920</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>409500 SEK</g:price>
+    <price>409500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Falkenberg</component>
+      <component name="city">Falkenberg</component>
+      <component name="region">Falkenberg</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>409500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>a19b2c7e-0d5f-4834-bf2d-a285eff2d725</dealer_id>
+    </item>
+    <item>
     <g:id>d6d32f30-9f32-4eb3-97c7-ed0b0f686caa</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -12,8 +196,8 @@
     <vehicle_registration_plate>CJA24E</vehicle_registration_plate>
     <g:title>Volvo XC40 Recharge T4 Plus Bright</g:title>
     <title>Volvo XC40 Recharge T4 Plus Bright</title>
-    <g:description>Recharge T4 Plus Bright. Utrustningsnivå: Plus. Miltal: 6 265 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: CJA24E. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>Recharge T4 Plus Bright. Utrustningsnivå: Plus. Miltal: 6 265 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: CJA24E. Kontakta oss för mer information om detta fordon.</description>
+    <g:description>Recharge T4 Plus Bright. Utrustningsnivå: Plus. Miltal: 6 266 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: CJA24E. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>Recharge T4 Plus Bright. Utrustningsnivå: Plus. Miltal: 6 266 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: CJA24E. Kontakta oss för mer information om detta fordon.</description>
     <g:link>https://www.rejmesbil.se/sok/id/d6d32f30-9f32-4eb3-97c7-ed0b0f686caa</g:link>
     <link>https://www.rejmesbil.se/sok/id/d6d32f30-9f32-4eb3-97c7-ed0b0f686caa</link>
     <url>https://www.rejmesbil.se/sok/id/d6d32f30-9f32-4eb3-97c7-ed0b0f686caa</url>
@@ -28,7 +212,7 @@
     <model>XC40</model>
     <year>2023</year>
     <mileage>
-      <value>62650</value>
+      <value>62660</value>
       <unit>KM</unit>
     </mileage>
     <body_style>SUV</body_style>
