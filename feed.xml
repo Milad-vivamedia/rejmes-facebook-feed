@@ -20,9 +20,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/8687ace4-1b34-47c2-a878-9bf12e99957b/3db083b7-6f9a-43bc-848a-072c835b486b?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/1c4192db-6fe9-44a7-849d-ad8df8091c5e/09490454-05b6-42f7-bddc-0d742d0f715c?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/8687ace4-1b34-47c2-a878-9bf12e99957b/3db083b7-6f9a-43bc-848a-072c835b486b?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/1c4192db-6fe9-44a7-849d-ad8df8091c5e/09490454-05b6-42f7-bddc-0d742d0f715c?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>EX40</model>
@@ -4743,52 +4743,6 @@
     <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
     </item>
     <item>
-    <g:id>bbf43a84-456a-416d-b9b5-cec131891852</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>bbf43a84-456a-416d-b9b5-cec131891852</vehicle_id>
-    <vehicle_registration_plate>RBU13C</vehicle_registration_plate>
-    <g:title>Volvo EX40 R Plus Edt | Drag | 360° |</g:title>
-    <title>Volvo EX40 R Plus Edt | Drag | 360° |</title>
-    <g:description>R Plus Edt | Drag | 360° |. Utrustningsnivå: Plus Edition. Miltal: 3 346 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: RBU13C. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>R Plus Edt | Drag | 360° |. Utrustningsnivå: Plus Edition. Miltal: 3 346 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: RBU13C. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/bbf43a84-456a-416d-b9b5-cec131891852</g:link>
-    <link>https://www.rejmesbil.se/sok/id/bbf43a84-456a-416d-b9b5-cec131891852</link>
-    <url>https://www.rejmesbil.se/sok/id/bbf43a84-456a-416d-b9b5-cec131891852</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/1c47eb1e-c152-4f6c-9c9f-71926176e20a/cf54efeb-1ee4-43f3-ba5c-948235dda60c?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/1c47eb1e-c152-4f6c-9c9f-71926176e20a/cf54efeb-1ee4-43f3-ba5c-948235dda60c?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>EX40</model>
-    <year>2025</year>
-    <mileage>
-      <value>33460</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>439500 SEK</g:price>
-    <price>439500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>439500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
-    </item>
-    <item>
     <g:id>3140f17c-95fb-4532-807c-fc623fe10af6</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -6443,52 +6397,6 @@
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
-    </item>
-    <item>
-    <g:id>427feafa-7465-4bbd-9c87-3f22d0e90614</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>427feafa-7465-4bbd-9c87-3f22d0e90614</vehicle_id>
-    <vehicle_registration_plate>JRJ42N</vehicle_registration_plate>
-    <g:title>Volvo XC90 T8 Ultra Dark | Dragkrok | H/K | 360° |</g:title>
-    <title>Volvo XC90 T8 Ultra Dark | Dragkrok | H/K | 360° |</title>
-    <g:description>T8 Ultra Dark | Dragkrok | H/K | 360° |. Utrustningsnivå: Ultra. Miltal: 2 865 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: JRJ42N. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>T8 Ultra Dark | Dragkrok | H/K | 360° |. Utrustningsnivå: Ultra. Miltal: 2 865 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: JRJ42N. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/427feafa-7465-4bbd-9c87-3f22d0e90614</g:link>
-    <link>https://www.rejmesbil.se/sok/id/427feafa-7465-4bbd-9c87-3f22d0e90614</link>
-    <url>https://www.rejmesbil.se/sok/id/427feafa-7465-4bbd-9c87-3f22d0e90614</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/6a24459e-a314-492d-84ba-b066c2cebb07/a5ecee29-a1d5-45e7-b71b-4e0a13366414?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/6a24459e-a314-492d-84ba-b066c2cebb07/a5ecee29-a1d5-45e7-b71b-4e0a13366414?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC90</model>
-    <year>2026</year>
-    <mileage>
-      <value>28650</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>819500 SEK</g:price>
-    <price>819500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Laholm</component>
-      <component name="city">Laholm</component>
-      <component name="region">Laholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>819500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>new</g:condition>
-    <condition>new</condition>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <dealer_id>cddd81a6-5031-42cd-a468-67eb1f2299c7</dealer_id>
     </item>
     <item>
     <g:id>fb4b616f-6cb0-48f1-97e8-f240cddc14f0</g:id>
