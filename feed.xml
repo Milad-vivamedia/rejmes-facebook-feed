@@ -5,6 +5,144 @@
     <link>https://www.rejmesbil.se</link>
     <description>Rejmes Bil Vehicle Inventory - Manufacturer Warranty</description>
     <item>
+    <g:id>32ab1899-924e-45f5-a6fb-567fd5db40a4</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>32ab1899-924e-45f5-a6fb-567fd5db40a4</vehicle_id>
+    <vehicle_registration_plate>FWA68E</vehicle_registration_plate>
+    <g:title>Volvo EX40 M Ultra Black Edt</g:title>
+    <title>Volvo EX40 M Ultra Black Edt</title>
+    <g:description>M Ultra Black Edt. Utrustningsnivå: Ultra. Miltal: 2 082 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: FWA68E. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>M Ultra Black Edt. Utrustningsnivå: Ultra. Miltal: 2 082 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: FWA68E. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/32ab1899-924e-45f5-a6fb-567fd5db40a4</g:link>
+    <link>https://www.rejmesbil.se/sok/id/32ab1899-924e-45f5-a6fb-567fd5db40a4</link>
+    <url>https://www.rejmesbil.se/sok/id/32ab1899-924e-45f5-a6fb-567fd5db40a4</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/8687ace4-1b34-47c2-a878-9bf12e99957b/3db083b7-6f9a-43bc-848a-072c835b486b?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/8687ace4-1b34-47c2-a878-9bf12e99957b/3db083b7-6f9a-43bc-848a-072c835b486b?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>EX40</model>
+    <year>2025</year>
+    <mileage>
+      <value>20820</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>529500 SEK</g:price>
+    <price>529500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Halmstad</component>
+      <component name="city">Halmstad</component>
+      <component name="region">Halmstad</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>529500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
+    </item>
+    <item>
+    <g:id>94eda80f-5882-4e61-a4aa-a23d537c1458</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>94eda80f-5882-4e61-a4aa-a23d537c1458</vehicle_id>
+    <vehicle_registration_plate>TDW01J</vehicle_registration_plate>
+    <g:title>Volvo XC40 Core</g:title>
+    <title>Volvo XC40 Core</title>
+    <g:description>Core. Utrustningsnivå: Core. Miltal: 5 041 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: TDW01J. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>Core. Utrustningsnivå: Core. Miltal: 5 041 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: TDW01J. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/94eda80f-5882-4e61-a4aa-a23d537c1458</g:link>
+    <link>https://www.rejmesbil.se/sok/id/94eda80f-5882-4e61-a4aa-a23d537c1458</link>
+    <url>https://www.rejmesbil.se/sok/id/94eda80f-5882-4e61-a4aa-a23d537c1458</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/93f3a908-05d2-49b0-a104-f4751d49fa1d/c109bfa1-2476-4e74-8461-e0d731859d6a?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/93f3a908-05d2-49b0-a104-f4751d49fa1d/c109bfa1-2476-4e74-8461-e0d731859d6a?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC40</model>
+    <year>2023</year>
+    <mileage>
+      <value>50410</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>329500 SEK</g:price>
+    <price>329500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Halmstad</component>
+      <component name="city">Halmstad</component>
+      <component name="region">Halmstad</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>329500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
+    </item>
+    <item>
+    <g:id>caac6a11-8154-48c0-8fa7-d9873313c1bf</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>caac6a11-8154-48c0-8fa7-d9873313c1bf</vehicle_id>
+    <vehicle_registration_plate>ELL46H</vehicle_registration_plate>
+    <g:title>Volvo XC90 T8 Ultra Dark Edition</g:title>
+    <title>Volvo XC90 T8 Ultra Dark Edition</title>
+    <g:description>T8 Ultra Dark Edition. Utrustningsnivå: Ultra. Miltal: 2 970 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: ELL46H. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>T8 Ultra Dark Edition. Utrustningsnivå: Ultra. Miltal: 2 970 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: ELL46H. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/caac6a11-8154-48c0-8fa7-d9873313c1bf</g:link>
+    <link>https://www.rejmesbil.se/sok/id/caac6a11-8154-48c0-8fa7-d9873313c1bf</link>
+    <url>https://www.rejmesbil.se/sok/id/caac6a11-8154-48c0-8fa7-d9873313c1bf</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/7ebd611b39074fc1b0805e00d94dec83/7b6579f6f028446d997831df1387c367?format=jpeg&amp;w=770&amp;h=514</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/7ebd611b39074fc1b0805e00d94dec83/7b6579f6f028446d997831df1387c367?format=jpeg&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC90</model>
+    <year>2025</year>
+    <mileage>
+      <value>29700</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>749500 SEK</g:price>
+    <price>749500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Halmstad</component>
+      <component name="city">Halmstad</component>
+      <component name="region">Halmstad</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>749500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
+    </item>
+    <item>
     <g:id>8a94f04a-e82e-4685-974c-8a28f11d3203</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
