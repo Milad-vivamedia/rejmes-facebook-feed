@@ -286,10 +286,10 @@
     <g:fb_product_category>173</g:fb_product_category>
     <vehicle_id>83fc080b-e802-40aa-b355-293d2d66c3df</vehicle_id>
     <vehicle_registration_plate>PXR02H</vehicle_registration_plate>
-    <g:title>Volvo XC60 T6 Plus Dark Nordic Edition</g:title>
-    <title>Volvo XC60 T6 Plus Dark Nordic Edition</title>
-    <g:description>T6 Plus Dark Nordic Edition. Utrustningsnivå: Plus Nordic Edition. Miltal: 3 143 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: PXR02H. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>T6 Plus Dark Nordic Edition. Utrustningsnivå: Plus Nordic Edition. Miltal: 3 143 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: PXR02H. Kontakta oss för mer information om detta fordon.</description>
+    <g:title>Volvo XC60 T6 Plus Dark Nordic Edition | Bowers&amp;Wilkins | Aktiv Chassi luftfjädring | Dragkrok</g:title>
+    <title>Volvo XC60 T6 Plus Dark Nordic Edition | Bowers&amp;Wilkins | Aktiv Chassi luftfjädring | Dragkrok</title>
+    <g:description>T6 Plus Dark Nordic Edition | Bowers&amp;Wilkins | Aktiv Chassi luftfjädring | Dragkrok. Utrustningsnivå: Plus Nordic Edition. Miltal: 3 143 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: PXR02H. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>T6 Plus Dark Nordic Edition | Bowers&amp;Wilkins | Aktiv Chassi luftfjädring | Dragkrok. Utrustningsnivå: Plus Nordic Edition. Miltal: 3 143 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: PXR02H. Kontakta oss för mer information om detta fordon.</description>
     <g:link>https://www.rejmesbil.se/sok/id/83fc080b-e802-40aa-b355-293d2d66c3df</g:link>
     <link>https://www.rejmesbil.se/sok/id/83fc080b-e802-40aa-b355-293d2d66c3df</link>
     <url>https://www.rejmesbil.se/sok/id/83fc080b-e802-40aa-b355-293d2d66c3df</url>
@@ -2765,52 +2765,6 @@
     <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
     </item>
     <item>
-    <g:id>1b6cad09-2e50-438d-afe9-9db3eb076f94</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>1b6cad09-2e50-438d-afe9-9db3eb076f94</vehicle_id>
-    <vehicle_registration_plate>WBK56E</vehicle_registration_plate>
-    <g:title>Volvo EC40 Core SE</g:title>
-    <title>Volvo EC40 Core SE</title>
-    <g:description>Core SE. Utrustningsnivå: Core Special Edition. Miltal: 3 978 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: WBK56E. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>Core SE. Utrustningsnivå: Core Special Edition. Miltal: 3 978 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: WBK56E. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/1b6cad09-2e50-438d-afe9-9db3eb076f94</g:link>
-    <link>https://www.rejmesbil.se/sok/id/1b6cad09-2e50-438d-afe9-9db3eb076f94</link>
-    <url>https://www.rejmesbil.se/sok/id/1b6cad09-2e50-438d-afe9-9db3eb076f94</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/e338895101e64aa88baad3ee532aab32/8cbf71a00237432eaa05f431666ea035?format=jpeg&amp;w=770&amp;h=514</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/e338895101e64aa88baad3ee532aab32/8cbf71a00237432eaa05f431666ea035?format=jpeg&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>EC40</model>
-    <year>2025</year>
-    <mileage>
-      <value>39780</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>429500 SEK</g:price>
-    <price>429500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>429500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
-    </item>
-    <item>
     <g:id>1b9ecfb5-f4f9-48b3-8500-3542c36036b8</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -3460,10 +3414,10 @@
     <g:fb_product_category>173</g:fb_product_category>
     <vehicle_id>be54553a-9ab1-44cd-a37f-a43ec9fd379a</vehicle_id>
     <vehicle_registration_plate>PEB61L</vehicle_registration_plate>
-    <g:title>Volvo V60 T6 Plus Dark Nordic Edition</g:title>
-    <title>Volvo V60 T6 Plus Dark Nordic Edition</title>
-    <g:description>T6 Plus Dark Nordic Edition. Utrustningsnivå: Plus Nordic Edition. Miltal: 1 470 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: PEB61L. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>T6 Plus Dark Nordic Edition. Utrustningsnivå: Plus Nordic Edition. Miltal: 1 470 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: PEB61L. Kontakta oss för mer information om detta fordon.</description>
+    <g:title>Volvo V60 T6 Plus Dark Nordic Edition | Dragkrok | 360-kamera | H/K</g:title>
+    <title>Volvo V60 T6 Plus Dark Nordic Edition | Dragkrok | 360-kamera | H/K</title>
+    <g:description>T6 Plus Dark Nordic Edition | Dragkrok | 360-kamera | H/K. Utrustningsnivå: Plus Nordic Edition. Miltal: 1 470 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: PEB61L. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>T6 Plus Dark Nordic Edition | Dragkrok | 360-kamera | H/K. Utrustningsnivå: Plus Nordic Edition. Miltal: 1 470 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: PEB61L. Kontakta oss för mer information om detta fordon.</description>
     <g:link>https://www.rejmesbil.se/sok/id/be54553a-9ab1-44cd-a37f-a43ec9fd379a</g:link>
     <link>https://www.rejmesbil.se/sok/id/be54553a-9ab1-44cd-a37f-a43ec9fd379a</link>
     <url>https://www.rejmesbil.se/sok/id/be54553a-9ab1-44cd-a37f-a43ec9fd379a</url>
