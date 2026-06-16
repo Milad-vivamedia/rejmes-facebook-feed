@@ -148,6 +148,11 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/979cae39-c712-436f-ad81-e6077d358b24/9f082955-d3ba-4e7d-84d2-8f4038afdec9?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/979cae39-c712-436f-ad81-e6077d358b24/9f082955-d3ba-4e7d-84d2-8f4038afdec9?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
     <model>V60</model>
     <year>2026</year>
     <mileage>
@@ -2190,52 +2195,6 @@
       <component name="country">SE</component>
     </address>
     <sale_price>809500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
-    </item>
-    <item>
-    <g:id>6060036d-cbd0-4e37-beda-41148235d3fd</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>6060036d-cbd0-4e37-beda-41148235d3fd</vehicle_id>
-    <vehicle_registration_plate>TLT51A</vehicle_registration_plate>
-    <g:title>Volvo C40 Core | Dragkrok | Parkeringskamera bak | Rattvärme</g:title>
-    <title>Volvo C40 Core | Dragkrok | Parkeringskamera bak | Rattvärme</title>
-    <g:description>Core | Dragkrok | Parkeringskamera bak | Rattvärme. Utrustningsnivå: Core. Miltal: 4 311 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: TLT51A. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>Core | Dragkrok | Parkeringskamera bak | Rattvärme. Utrustningsnivå: Core. Miltal: 4 311 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: TLT51A. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/6060036d-cbd0-4e37-beda-41148235d3fd</g:link>
-    <link>https://www.rejmesbil.se/sok/id/6060036d-cbd0-4e37-beda-41148235d3fd</link>
-    <url>https://www.rejmesbil.se/sok/id/6060036d-cbd0-4e37-beda-41148235d3fd</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/3c96bb19-9609-4205-b40b-ab2b75c44a43/7e89dcb6-5a19-4100-9882-5044ed40be9d?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/3c96bb19-9609-4205-b40b-ab2b75c44a43/7e89dcb6-5a19-4100-9882-5044ed40be9d?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>C40</model>
-    <year>2023</year>
-    <mileage>
-      <value>43110</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>329500 SEK</g:price>
-    <price>329500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>329500 SEK</sale_price>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
