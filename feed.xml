@@ -20,9 +20,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/a8dd1e5b027a488480d2a88a5df5a7b2/4bf2af3b57614bd39d9d9571c2c14c88?format=jpeg&amp;w=770&amp;h=514</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/e47b662bab73493ea43de7e26adf4586/75bf2224901c4fb9b394c5616d7e0fed?format=jpeg&amp;w=770&amp;h=514</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/v3/a8dd1e5b027a488480d2a88a5df5a7b2/4bf2af3b57614bd39d9d9571c2c14c88?format=jpeg&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/v3/e47b662bab73493ea43de7e26adf4586/75bf2224901c4fb9b394c5616d7e0fed?format=jpeg&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>XC90</model>
@@ -1275,52 +1275,6 @@
       <component name="country">SE</component>
     </address>
     <sale_price>529500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
-    </item>
-    <item>
-    <g:id>94eda80f-5882-4e61-a4aa-a23d537c1458</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>94eda80f-5882-4e61-a4aa-a23d537c1458</vehicle_id>
-    <vehicle_registration_plate>TDW01J</vehicle_registration_plate>
-    <g:title>Volvo XC40 Core | Dragkrok | Parkeringskamera bak | Rattvärme</g:title>
-    <title>Volvo XC40 Core | Dragkrok | Parkeringskamera bak | Rattvärme</title>
-    <g:description>Core | Dragkrok | Parkeringskamera bak | Rattvärme. Utrustningsnivå: Core. Miltal: 5 041 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: TDW01J. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>Core | Dragkrok | Parkeringskamera bak | Rattvärme. Utrustningsnivå: Core. Miltal: 5 041 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: TDW01J. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/94eda80f-5882-4e61-a4aa-a23d537c1458</g:link>
-    <link>https://www.rejmesbil.se/sok/id/94eda80f-5882-4e61-a4aa-a23d537c1458</link>
-    <url>https://www.rejmesbil.se/sok/id/94eda80f-5882-4e61-a4aa-a23d537c1458</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/e7980be8-fc41-486b-b0d3-0e623763d264/7dba31f8-3df5-4e49-a5ed-d537663117d5?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/e7980be8-fc41-486b-b0d3-0e623763d264/7dba31f8-3df5-4e49-a5ed-d537663117d5?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2023</year>
-    <mileage>
-      <value>50410</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>329500 SEK</g:price>
-    <price>329500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>329500 SEK</sale_price>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
@@ -5047,52 +5001,6 @@
       <component name="country">SE</component>
     </address>
     <sale_price>584500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>a19b2c7e-0d5f-4834-bf2d-a285eff2d725</dealer_id>
-    </item>
-    <item>
-    <g:id>6a9e5329-4ab1-4bc2-8b9e-fa1407da9ea2</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>6a9e5329-4ab1-4bc2-8b9e-fa1407da9ea2</vehicle_id>
-    <vehicle_registration_plate>RLU39Y</vehicle_registration_plate>
-    <g:title>Volvo XC60 T6 Plus Dark Nordic Edition | H/K | 360 Kamera | Dragkrok</g:title>
-    <title>Volvo XC60 T6 Plus Dark Nordic Edition | H/K | 360 Kamera | Dragkrok</title>
-    <g:description>T6 Plus Dark Nordic Edition | H/K | 360 Kamera | Dragkrok. Utrustningsnivå: Plus Nordic Edition. Miltal: 2 287 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: RLU39Y. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>T6 Plus Dark Nordic Edition | H/K | 360 Kamera | Dragkrok. Utrustningsnivå: Plus Nordic Edition. Miltal: 2 287 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: RLU39Y. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/6a9e5329-4ab1-4bc2-8b9e-fa1407da9ea2</g:link>
-    <link>https://www.rejmesbil.se/sok/id/6a9e5329-4ab1-4bc2-8b9e-fa1407da9ea2</link>
-    <url>https://www.rejmesbil.se/sok/id/6a9e5329-4ab1-4bc2-8b9e-fa1407da9ea2</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/6a1af20f-095c-445e-9c03-1437c7ae7e8b/c9def3a3-ce44-44de-ac64-ffd44f52ade4?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/6a1af20f-095c-445e-9c03-1437c7ae7e8b/c9def3a3-ce44-44de-ac64-ffd44f52ade4?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC60</model>
-    <year>2025</year>
-    <mileage>
-      <value>22870</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>579500 SEK</g:price>
-    <price>579500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Falkenberg</component>
-      <component name="city">Falkenberg</component>
-      <component name="region">Falkenberg</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>579500 SEK</sale_price>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
