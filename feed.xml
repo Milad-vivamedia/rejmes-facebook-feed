@@ -20,9 +20,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/e8d18ee9-8176-41f9-897c-c655f8f3af8e/92b44625-f8b7-407e-babb-c5bf1d038f65?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/e8d18ee9817641f9897cc655f8f3af8e/92b44625f8b7407ebabbc5bf1d038f65?format=jpeg&amp;w=770&amp;h=514</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/e8d18ee9-8176-41f9-897c-c655f8f3af8e/92b44625-f8b7-407e-babb-c5bf1d038f65?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/v3/e8d18ee9817641f9897cc655f8f3af8e/92b44625f8b7407ebabbc5bf1d038f65?format=jpeg&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>XC40</model>
@@ -66,9 +66,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/5cb6936b-46e1-4faa-8495-726f690c1f32/3246043d-ba9f-4b35-9254-d073f729a1f4?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/5cb6936b46e14faa8495726f690c1f32/3246043dba9f4b359254d073f729a1f4?format=jpeg&amp;w=770&amp;h=514</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/5cb6936b-46e1-4faa-8495-726f690c1f32/3246043d-ba9f-4b35-9254-d073f729a1f4?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/v3/5cb6936b46e14faa8495726f690c1f32/3246043dba9f4b359254d073f729a1f4?format=jpeg&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>V90</model>
@@ -388,6 +388,11 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/9ac736dbbf5b45fbaca01d22e5112a6a/08a2d6112ce14a0f942dcd2c2cf49c96?format=jpeg&amp;w=770&amp;h=514</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/9ac736dbbf5b45fbaca01d22e5112a6a/08a2d6112ce14a0f942dcd2c2cf49c96?format=jpeg&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
     <model>XC40</model>
     <year>2023</year>
     <mileage>
@@ -429,9 +434,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/6b6449fd-f6ee-4c6b-8d0d-9b7e429b57be/fb035736-3599-494b-a810-358bf19f88d7?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/6b6449fdf6ee4c6b8d0d9b7e429b57be/fb0357363599494ba810358bf19f88d7?format=jpeg&amp;w=770&amp;h=514</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/6b6449fd-f6ee-4c6b-8d0d-9b7e429b57be/fb035736-3599-494b-a810-358bf19f88d7?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/6b6449fdf6ee4c6b8d0d9b7e429b57be/fb0357363599494ba810358bf19f88d7?format=jpeg&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>EX30</model>
@@ -521,9 +526,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/979cae39-c712-436f-ad81-e6077d358b24/9f082955-d3ba-4e7d-84d2-8f4038afdec9?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/979cae39c712436fad81e6077d358b24/9f082955d3ba4e7d84d28f4038afdec9?format=jpeg&amp;w=770&amp;h=514</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/979cae39-c712-436f-ad81-e6077d358b24/9f082955-d3ba-4e7d-84d2-8f4038afdec9?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/979cae39c712436fad81e6077d358b24/9f082955d3ba4e7d84d28f4038afdec9?format=jpeg&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>V60</model>
@@ -659,9 +664,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/db10488c-a6a1-4c97-ac28-b7e2c4a83aa7/80ad9358-5295-4e76-a92d-fd7bc25b2e1a?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/db10488ca6a14c97ac28b7e2c4a83aa7/80ad935852954e76a92dfd7bc25b2e1a?format=jpeg&amp;w=770&amp;h=514</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/db10488c-a6a1-4c97-ac28-b7e2c4a83aa7/80ad9358-5295-4e76-a92d-fd7bc25b2e1a?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/v3/db10488ca6a14c97ac28b7e2c4a83aa7/80ad935852954e76a92dfd7bc25b2e1a?format=jpeg&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>XC60</model>
@@ -705,9 +710,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/62b4d606-afd9-4449-9370-4c33926b197c/6ff78227-de8d-4e91-9efb-86d11d5aaa4d?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/62b4d606afd9444993704c33926b197c/6ff78227de8d4e919efb86d11d5aaa4d?format=jpeg&amp;w=770&amp;h=514</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/62b4d606-afd9-4449-9370-4c33926b197c/6ff78227-de8d-4e91-9efb-86d11d5aaa4d?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/62b4d606afd9444993704c33926b197c/6ff78227de8d4e919efb86d11d5aaa4d?format=jpeg&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>C40</model>
@@ -751,9 +756,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/5a9b2ed1-312d-41b7-8340-23f1f4e49208/cf7ed16e-fa48-45d7-880f-281eceaa5303?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/5a9b2ed1312d41b7834023f1f4e49208/cf7ed16efa4845d7880f281eceaa5303?format=jpeg&amp;w=770&amp;h=514</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/5a9b2ed1-312d-41b7-8340-23f1f4e49208/cf7ed16e-fa48-45d7-880f-281eceaa5303?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/v3/5a9b2ed1312d41b7834023f1f4e49208/cf7ed16efa4845d7880f281eceaa5303?format=jpeg&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>XC40</model>
@@ -843,9 +848,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/2f7f6230-318e-4c95-b920-2d1b60bb2de4/f8c2b27e-628f-4b4a-a194-431ac525fd60?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/2f7f6230318e4c95b9202d1b60bb2de4/f8c2b27e628f4b4aa194431ac525fd60?format=jpeg&amp;w=770&amp;h=514</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/2f7f6230-318e-4c95-b920-2d1b60bb2de4/f8c2b27e-628f-4b4a-a194-431ac525fd60?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/v3/2f7f6230318e4c95b9202d1b60bb2de4/f8c2b27e628f4b4aa194431ac525fd60?format=jpeg&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>XC90</model>
@@ -889,9 +894,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/babd4404-2aa2-4b99-92ff-644de2ca8029/302dcc30-ddff-4d15-a7c4-2899ada010f8?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/babd44042aa24b9992ff644de2ca8029/302dcc30ddff4d15a7c42899ada010f8?format=jpeg&amp;w=770&amp;h=514</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/babd4404-2aa2-4b99-92ff-644de2ca8029/302dcc30-ddff-4d15-a7c4-2899ada010f8?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/babd44042aa24b9992ff644de2ca8029/302dcc30ddff4d15a7c42899ada010f8?format=jpeg&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>XC40</model>
@@ -935,9 +940,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/dfb6da91-2a75-46a9-8673-ac6c27fe2664/e62cd276-2b49-4482-b0d9-402e8c5e669b?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/dfb6da912a7546a98673ac6c27fe2664/e62cd2762b494482b0d9402e8c5e669b?format=jpeg&amp;w=770&amp;h=514</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/dfb6da91-2a75-46a9-8673-ac6c27fe2664/e62cd276-2b49-4482-b0d9-402e8c5e669b?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/v3/dfb6da912a7546a98673ac6c27fe2664/e62cd2762b494482b0d9402e8c5e669b?format=jpeg&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>V60</model>
@@ -1211,9 +1216,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/e64ae28d-044d-475a-ab13-9c4542f2dd5e/5e21dcf1-fb22-4074-b020-a45c4ea90fca?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/e64ae28d044d475aab139c4542f2dd5e/5e21dcf1fb224074b020a45c4ea90fca?format=jpeg&amp;w=770&amp;h=514</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/e64ae28d-044d-475a-ab13-9c4542f2dd5e/5e21dcf1-fb22-4074-b020-a45c4ea90fca?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/e64ae28d044d475aab139c4542f2dd5e/5e21dcf1fb224074b020a45c4ea90fca?format=jpeg&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>EX40</model>
@@ -1257,9 +1262,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/68c397ed-2c8d-4c06-ad22-d5f7d516105a/e68d34f0-2520-4202-8d8f-c6682ad57965?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/68c397ed2c8d4c06ad22d5f7d516105a/e68d34f0252042028d8fc6682ad57965?format=jpeg&amp;w=770&amp;h=514</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/68c397ed-2c8d-4c06-ad22-d5f7d516105a/e68d34f0-2520-4202-8d8f-c6682ad57965?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/68c397ed2c8d4c06ad22d5f7d516105a/e68d34f0252042028d8fc6682ad57965?format=jpeg&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>XC40</model>
@@ -2407,9 +2412,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/a6c7496f-dd4d-4e90-8cb1-f0d9157004f0/e31cc516-b016-431d-8ec4-cd4543321847?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/a6c7496fdd4d4e908cb1f0d9157004f0/e31cc516b016431d8ec4cd4543321847?format=jpeg&amp;w=770&amp;h=514</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/a6c7496f-dd4d-4e90-8cb1-f0d9157004f0/e31cc516-b016-431d-8ec4-cd4543321847?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/a6c7496fdd4d4e908cb1f0d9157004f0/e31cc516b016431d8ec4cd4543321847?format=jpeg&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>XC60</model>
