@@ -5,6 +5,98 @@
     <link>https://www.rejmesbil.se</link>
     <description>Rejmes Bil Vehicle Inventory - Manufacturer Warranty</description>
     <item>
+    <g:id>e5e9910f-d281-4b8c-ae7d-9219beb076dd</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>e5e9910f-d281-4b8c-ae7d-9219beb076dd</vehicle_id>
+    <vehicle_registration_plate>NXZ59U</vehicle_registration_plate>
+    <g:title>Volvo EC40 Ultra</g:title>
+    <title>Volvo EC40 Ultra</title>
+    <g:description>Ultra. Utrustningsnivå: Ultra. Miltal: 3 051 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: NXZ59U. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>Ultra. Utrustningsnivå: Ultra. Miltal: 3 051 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: NXZ59U. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/e5e9910f-d281-4b8c-ae7d-9219beb076dd</g:link>
+    <link>https://www.rejmesbil.se/sok/id/e5e9910f-d281-4b8c-ae7d-9219beb076dd</link>
+    <url>https://www.rejmesbil.se/sok/id/e5e9910f-d281-4b8c-ae7d-9219beb076dd</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/33146b99aa2c426b86fb4fffb071b8b1/c9b1a22ad6564e4485dd1000ba97e3a2?format=jpeg&amp;w=770&amp;h=514</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/33146b99aa2c426b86fb4fffb071b8b1/c9b1a22ad6564e4485dd1000ba97e3a2?format=jpeg&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>EC40</model>
+    <year>2025</year>
+    <mileage>
+      <value>30510</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>509500 SEK</g:price>
+    <price>509500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Halmstad</component>
+      <component name="city">Halmstad</component>
+      <component name="region">Halmstad</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>509500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
+    </item>
+    <item>
+    <g:id>3703be5b-4694-4312-b219-db57d7940ab5</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>3703be5b-4694-4312-b219-db57d7940ab5</vehicle_id>
+    <vehicle_registration_plate>RAG32G</vehicle_registration_plate>
+    <g:title>Volvo XC40 Core</g:title>
+    <title>Volvo XC40 Core</title>
+    <g:description>Core. Utrustningsnivå: Core. Miltal: 5 760 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: RAG32G. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>Core. Utrustningsnivå: Core. Miltal: 5 760 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: RAG32G. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/3703be5b-4694-4312-b219-db57d7940ab5</g:link>
+    <link>https://www.rejmesbil.se/sok/id/3703be5b-4694-4312-b219-db57d7940ab5</link>
+    <url>https://www.rejmesbil.se/sok/id/3703be5b-4694-4312-b219-db57d7940ab5</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/0e559fd1-ac0b-4fa2-9363-dcb2572c2bca/c29e5f0a-111f-4a38-b38a-77c32a9aadb0?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/0e559fd1-ac0b-4fa2-9363-dcb2572c2bca/c29e5f0a-111f-4a38-b38a-77c32a9aadb0?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC40</model>
+    <year>2023</year>
+    <mileage>
+      <value>57600</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>324500 SEK</g:price>
+    <price>324500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Halmstad</component>
+      <component name="city">Halmstad</component>
+      <component name="region">Halmstad</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>324500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
+    </item>
+    <item>
     <g:id>6e9b8263-8407-4f01-9b62-dcb0f99119ba</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -4329,52 +4421,6 @@
     <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
     </item>
     <item>
-    <g:id>cf8e23a5-5746-4307-ad50-b4f3f6b094d4</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>cf8e23a5-5746-4307-ad50-b4f3f6b094d4</vehicle_id>
-    <vehicle_registration_plate>REL40G</vehicle_registration_plate>
-    <g:title>Volvo EX40 R Core SE</g:title>
-    <title>Volvo EX40 R Core SE</title>
-    <g:description>R Core SE. Utrustningsnivå: Core Special Edition. Miltal: 1 989 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: REL40G. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>R Core SE. Utrustningsnivå: Core Special Edition. Miltal: 1 989 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: REL40G. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/cf8e23a5-5746-4307-ad50-b4f3f6b094d4</g:link>
-    <link>https://www.rejmesbil.se/sok/id/cf8e23a5-5746-4307-ad50-b4f3f6b094d4</link>
-    <url>https://www.rejmesbil.se/sok/id/cf8e23a5-5746-4307-ad50-b4f3f6b094d4</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/4246303e9c704d68a382fc88f6e5fdb5/3a1a7f5dbe3e486ebca3b3623219099c?format=jpeg&amp;w=770&amp;h=514</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/4246303e9c704d68a382fc88f6e5fdb5/3a1a7f5dbe3e486ebca3b3623219099c?format=jpeg&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>EX40</model>
-    <year>2025</year>
-    <mileage>
-      <value>19890</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>434500 SEK</g:price>
-    <price>434500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>434500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
-    </item>
-    <item>
     <g:id>861bde85-9667-4077-8d6c-d9256d50ef68</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -5844,52 +5890,6 @@
     <g:condition>new</g:condition>
     <condition>new</condition>
     <state_of_vehicle>NEW</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
-    </item>
-    <item>
-    <g:id>7b7b7ced-77c6-4c25-8ca4-29ebf7342e6d</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>7b7b7ced-77c6-4c25-8ca4-29ebf7342e6d</vehicle_id>
-    <vehicle_registration_plate>XEW03P</vehicle_registration_plate>
-    <g:title>Volvo EX40 R Plus Edt | Drag | 360° |</g:title>
-    <title>Volvo EX40 R Plus Edt | Drag | 360° |</title>
-    <g:description>R Plus Edt | Drag | 360° |. Utrustningsnivå: Plus Edition. Miltal: 3 379 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: XEW03P. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>R Plus Edt | Drag | 360° |. Utrustningsnivå: Plus Edition. Miltal: 3 379 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: XEW03P. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/7b7b7ced-77c6-4c25-8ca4-29ebf7342e6d</g:link>
-    <link>https://www.rejmesbil.se/sok/id/7b7b7ced-77c6-4c25-8ca4-29ebf7342e6d</link>
-    <url>https://www.rejmesbil.se/sok/id/7b7b7ced-77c6-4c25-8ca4-29ebf7342e6d</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/646f28d7-c77e-4552-b87d-1fa360931dc5/b8e98bb6-7b9b-4cea-8011-2a4488c55759?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/646f28d7-c77e-4552-b87d-1fa360931dc5/b8e98bb6-7b9b-4cea-8011-2a4488c55759?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>EX40</model>
-    <year>2025</year>
-    <mileage>
-      <value>33790</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>439500 SEK</g:price>
-    <price>439500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>439500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
     </item>
     <item>
