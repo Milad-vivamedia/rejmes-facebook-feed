@@ -20,9 +20,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/305976ab-38bc-4181-9fe0-44b5cf975905/f96ddbda-f272-4e22-99c1-2dbc30ad8103?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/305976ab38bc41819fe044b5cf975905/f96ddbdaf2724e2299c12dbc30ad8103?format=jpeg&amp;w=770&amp;h=514</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/305976ab-38bc-4181-9fe0-44b5cf975905/f96ddbda-f272-4e22-99c1-2dbc30ad8103?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/305976ab38bc41819fe044b5cf975905/f96ddbdaf2724e2299c12dbc30ad8103?format=jpeg&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>V90</model>
@@ -66,9 +66,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/2cb347b6e738439cab50837bbf7c3b28/758707b71d614c98ac74b53228a84151?format=jpeg&amp;w=770&amp;h=514</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/3f48694604f043d8af450ee26243a201/c489f0875cc843e7a41d1856ac44d5af?format=jpeg&amp;w=770&amp;h=514</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/v3/2cb347b6e738439cab50837bbf7c3b28/758707b71d614c98ac74b53228a84151?format=jpeg&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/v3/3f48694604f043d8af450ee26243a201/c489f0875cc843e7a41d1856ac44d5af?format=jpeg&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>EC40</model>
@@ -112,9 +112,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/61031df0-da65-46af-b6d1-9c76e694311d/a278b836-0530-44af-af56-7ee507525f2e?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/61031df0da6546afb6d19c76e694311d/a278b836053044afaf567ee507525f2e?format=jpeg&amp;w=770&amp;h=514</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/61031df0-da65-46af-b6d1-9c76e694311d/a278b836-0530-44af-af56-7ee507525f2e?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/61031df0da6546afb6d19c76e694311d/a278b836053044afaf567ee507525f2e?format=jpeg&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>XC40</model>
@@ -6750,15 +6750,15 @@
     <body_style>SUV</body_style>
     <fuel_type>Bensin+El</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>374500 SEK</g:price>
-    <price>374500 SEK</price>
+    <g:price>369500 SEK</g:price>
+    <price>369500 SEK</price>
     <address format="simple">
       <component name="addr1">Rejmes Halland - Laholm</component>
       <component name="city">Laholm</component>
       <component name="region">Laholm</component>
       <component name="country">SE</component>
     </address>
-    <sale_price>374500 SEK</sale_price>
+    <sale_price>369500 SEK</sale_price>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
