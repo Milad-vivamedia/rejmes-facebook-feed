@@ -5,6 +5,98 @@
     <link>https://www.rejmesbil.se</link>
     <description>Rejmes Bil Vehicle Inventory - Manufacturer Warranty</description>
     <item>
+    <g:id>0d044846-8e6f-4a5c-b024-3ce0d39b7b71</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>0d044846-8e6f-4a5c-b024-3ce0d39b7b71</vehicle_id>
+    <vehicle_registration_plate>PFR005</vehicle_registration_plate>
+    <g:title>Volvo XC60 Recharge T6 Core Edition</g:title>
+    <title>Volvo XC60 Recharge T6 Core Edition</title>
+    <g:description>Recharge T6 Core Edition. Utrustningsnivå: Core. Miltal: 7 691 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: PFR005. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>Recharge T6 Core Edition. Utrustningsnivå: Core. Miltal: 7 691 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: PFR005. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/0d044846-8e6f-4a5c-b024-3ce0d39b7b71</g:link>
+    <link>https://www.rejmesbil.se/sok/id/0d044846-8e6f-4a5c-b024-3ce0d39b7b71</link>
+    <url>https://www.rejmesbil.se/sok/id/0d044846-8e6f-4a5c-b024-3ce0d39b7b71</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/662a4ed8-55ac-4b9f-9f0c-6cfc11cd1736/1137d442-e606-4665-86f2-2463a18888d6?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/662a4ed8-55ac-4b9f-9f0c-6cfc11cd1736/1137d442-e606-4665-86f2-2463a18888d6?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC60</model>
+    <year>2023</year>
+    <mileage>
+      <value>76910</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>429500 SEK</g:price>
+    <price>429500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Halmstad</component>
+      <component name="city">Halmstad</component>
+      <component name="region">Halmstad</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>429500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
+    </item>
+    <item>
+    <g:id>d31db99c-1116-42a6-a772-3b9a4ea556f4</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>d31db99c-1116-42a6-a772-3b9a4ea556f4</vehicle_id>
+    <vehicle_registration_plate>ZFR00M</vehicle_registration_plate>
+    <g:title>Volvo XC40 Ultimate</g:title>
+    <title>Volvo XC40 Ultimate</title>
+    <g:description>Ultimate. Utrustningsnivå: Ultimate. Miltal: 4 176 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: ZFR00M. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>Ultimate. Utrustningsnivå: Ultimate. Miltal: 4 176 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: ZFR00M. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/d31db99c-1116-42a6-a772-3b9a4ea556f4</g:link>
+    <link>https://www.rejmesbil.se/sok/id/d31db99c-1116-42a6-a772-3b9a4ea556f4</link>
+    <url>https://www.rejmesbil.se/sok/id/d31db99c-1116-42a6-a772-3b9a4ea556f4</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/83c303e8-1b70-477e-ba6d-23ce5413a60d/9fac8edd-87a3-475c-aba5-8910ffa73d60?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/83c303e8-1b70-477e-ba6d-23ce5413a60d/9fac8edd-87a3-475c-aba5-8910ffa73d60?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC40</model>
+    <year>2023</year>
+    <mileage>
+      <value>41760</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>379500 SEK</g:price>
+    <price>379500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Halmstad</component>
+      <component name="city">Halmstad</component>
+      <component name="region">Halmstad</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>379500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
+    </item>
+    <item>
     <g:id>43a71326-1dce-4f53-90cb-c555aede9c9e</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
