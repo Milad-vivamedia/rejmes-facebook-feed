@@ -833,52 +833,6 @@
     <dealer_id>cddd81a6-5031-42cd-a468-67eb1f2299c7</dealer_id>
     </item>
     <item>
-    <g:id>5e17073a-4d17-4bb8-8200-b53b9bbf2e66</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>5e17073a-4d17-4bb8-8200-b53b9bbf2e66</vehicle_id>
-    <vehicle_registration_plate>ONT23R</vehicle_registration_plate>
-    <g:title>Volvo XC60 Recharge T6 Core Edition | Drag | Kamera | H/K | Panorama</g:title>
-    <title>Volvo XC60 Recharge T6 Core Edition | Drag | Kamera | H/K | Panorama</title>
-    <g:description>Recharge T6 Core Edition | Drag | Kamera | H/K | Panorama. Utrustningsnivå: Core. Miltal: 10 070 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: ONT23R. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>Recharge T6 Core Edition | Drag | Kamera | H/K | Panorama. Utrustningsnivå: Core. Miltal: 10 070 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: ONT23R. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/5e17073a-4d17-4bb8-8200-b53b9bbf2e66</g:link>
-    <link>https://www.rejmesbil.se/sok/id/5e17073a-4d17-4bb8-8200-b53b9bbf2e66</link>
-    <url>https://www.rejmesbil.se/sok/id/5e17073a-4d17-4bb8-8200-b53b9bbf2e66</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/e9978c71fb3c4262babf40129c603fc1/4b664abc49e046ad8916d19b6fea05b5?format=jpeg&amp;w=770&amp;h=514</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/e9978c71fb3c4262babf40129c603fc1/4b664abc49e046ad8916d19b6fea05b5?format=jpeg&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC60</model>
-    <year>2024</year>
-    <mileage>
-      <value>100700</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>399500 SEK</g:price>
-    <price>399500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>399500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
-    </item>
-    <item>
     <g:id>8ba4cf67-5d2c-42e3-b89d-b9b928a123a2</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
