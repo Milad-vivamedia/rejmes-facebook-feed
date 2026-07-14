@@ -5,6 +5,52 @@
     <link>https://www.rejmesbil.se</link>
     <description>Rejmes Bil Vehicle Inventory - Manufacturer Warranty</description>
     <item>
+    <g:id>b9348dec-6e63-4f99-99ce-a1f8c95c3ae1</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>b9348dec-6e63-4f99-99ce-a1f8c95c3ae1</vehicle_id>
+    <vehicle_registration_plate>PSA25T</vehicle_registration_plate>
+    <g:title>Volvo XC60 Recharge T6 Plus Dark</g:title>
+    <title>Volvo XC60 Recharge T6 Plus Dark</title>
+    <g:description>Recharge T6 Plus Dark. Utrustningsnivå: Plus. Miltal: 11 880 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: PSA25T. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>Recharge T6 Plus Dark. Utrustningsnivå: Plus. Miltal: 11 880 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: PSA25T. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/b9348dec-6e63-4f99-99ce-a1f8c95c3ae1</g:link>
+    <link>https://www.rejmesbil.se/sok/id/b9348dec-6e63-4f99-99ce-a1f8c95c3ae1</link>
+    <url>https://www.rejmesbil.se/sok/id/b9348dec-6e63-4f99-99ce-a1f8c95c3ae1</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/63294a01-8039-4a46-859c-11ad66bed083/5114ce46-99e6-49f8-b057-aff5e06feaff?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/63294a01-8039-4a46-859c-11ad66bed083/5114ce46-99e6-49f8-b057-aff5e06feaff?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC60</model>
+    <year>2023</year>
+    <mileage>
+      <value>118800</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>439500 SEK</g:price>
+    <price>439500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Halmstad</component>
+      <component name="city">Halmstad</component>
+      <component name="region">Halmstad</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>439500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
+    </item>
+    <item>
     <g:id>7985fb1c-06b2-4e64-9c32-80aed5374dff</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -1699,52 +1745,6 @@
       <component name="country">SE</component>
     </address>
     <sale_price>474500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>a19b2c7e-0d5f-4834-bf2d-a285eff2d725</dealer_id>
-    </item>
-    <item>
-    <g:id>9d08fbfa-59d5-4aaa-839b-1ba85da46c94</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>9d08fbfa-59d5-4aaa-839b-1ba85da46c94</vehicle_id>
-    <vehicle_registration_plate>LJA99H</vehicle_registration_plate>
-    <g:title>Volvo XC40 B3 FWD Bensin Plus Dark | 360-kamera | Dragkrok</g:title>
-    <title>Volvo XC40 B3 FWD Bensin Plus Dark | 360-kamera | Dragkrok</title>
-    <g:description>B3 FWD Bensin Plus Dark | 360-kamera | Dragkrok. Utrustningsnivå: Plus. Miltal: 4 110 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: LJA99H. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>B3 FWD Bensin Plus Dark | 360-kamera | Dragkrok. Utrustningsnivå: Plus. Miltal: 4 110 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: LJA99H. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/9d08fbfa-59d5-4aaa-839b-1ba85da46c94</g:link>
-    <link>https://www.rejmesbil.se/sok/id/9d08fbfa-59d5-4aaa-839b-1ba85da46c94</link>
-    <url>https://www.rejmesbil.se/sok/id/9d08fbfa-59d5-4aaa-839b-1ba85da46c94</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/ba6b88ea8ae44a5eb93361e89246aa3d/7a64391cbd3842a39452904557c1b347?format=jpeg&amp;w=770&amp;h=514</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/ba6b88ea8ae44a5eb93361e89246aa3d/7a64391cbd3842a39452904557c1b347?format=jpeg&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2025</year>
-    <mileage>
-      <value>41100</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>399500 SEK</g:price>
-    <price>399500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Falkenberg</component>
-      <component name="city">Falkenberg</component>
-      <component name="region">Falkenberg</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>399500 SEK</sale_price>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
