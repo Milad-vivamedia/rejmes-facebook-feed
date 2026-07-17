@@ -5157,52 +5157,6 @@
     <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
     </item>
     <item>
-    <g:id>feb254dd-6566-47b3-ad0a-0a33d9b98516</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>feb254dd-6566-47b3-ad0a-0a33d9b98516</vehicle_id>
-    <vehicle_registration_plate>JLP16B</vehicle_registration_plate>
-    <g:title>Volvo EC40 Core SE</g:title>
-    <title>Volvo EC40 Core SE</title>
-    <g:description>Core SE. Utrustningsnivå: Core Special Edition. Miltal: 5 019 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: JLP16B. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>Core SE. Utrustningsnivå: Core Special Edition. Miltal: 5 019 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: JLP16B. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/feb254dd-6566-47b3-ad0a-0a33d9b98516</g:link>
-    <link>https://www.rejmesbil.se/sok/id/feb254dd-6566-47b3-ad0a-0a33d9b98516</link>
-    <url>https://www.rejmesbil.se/sok/id/feb254dd-6566-47b3-ad0a-0a33d9b98516</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/c68cf9b8-a4b8-4cea-bf5e-3f9c5d85a45d/fdef3e3b-c246-4e42-9b54-a52e863566fd?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/c68cf9b8-a4b8-4cea-bf5e-3f9c5d85a45d/fdef3e3b-c246-4e42-9b54-a52e863566fd?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>EC40</model>
-    <year>2025</year>
-    <mileage>
-      <value>50190</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>409500 SEK</g:price>
-    <price>409500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>409500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
-    </item>
-    <item>
     <g:id>80131c52-09c9-4a34-bc81-2494d2758093</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
