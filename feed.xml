@@ -143,52 +143,6 @@
     <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
     </item>
     <item>
-    <g:id>5eba3a5e-4be4-476d-96bb-71fb59bb2e9b</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>5eba3a5e-4be4-476d-96bb-71fb59bb2e9b</vehicle_id>
-    <vehicle_registration_plate>CHD13E</vehicle_registration_plate>
-    <g:title>Volvo EX40 ExtendedRange Plus SE</g:title>
-    <title>Volvo EX40 ExtendedRange Plus SE</title>
-    <g:description>ExtendedRange Plus SE. Utrustningsnivå: Plus Special Edition. Miltal: 1 238 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Registreringsnummer: CHD13E. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>ExtendedRange Plus SE. Utrustningsnivå: Plus Special Edition. Miltal: 1 238 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Registreringsnummer: CHD13E. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/5eba3a5e-4be4-476d-96bb-71fb59bb2e9b</g:link>
-    <link>https://www.rejmesbil.se/sok/id/5eba3a5e-4be4-476d-96bb-71fb59bb2e9b</link>
-    <url>https://www.rejmesbil.se/sok/id/5eba3a5e-4be4-476d-96bb-71fb59bb2e9b</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/25ee7a56084a40a0a4a5a74d0ba5668e/1b190097e624468fb30aac811bdf8dec?format=jpeg&amp;w=770&amp;h=514</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/25ee7a56084a40a0a4a5a74d0ba5668e/1b190097e624468fb30aac811bdf8dec?format=jpeg&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>EX40</model>
-    <year>2026</year>
-    <mileage>
-      <value>12380</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>489500 SEK</g:price>
-    <price>489500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>489500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>new</g:condition>
-    <condition>new</condition>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
-    </item>
-    <item>
     <g:id>e62e70da-df64-422b-bccd-d0a4f09d4e7c</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -3033,52 +2987,6 @@
       <component name="country">SE</component>
     </address>
     <sale_price>369500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
-    </item>
-    <item>
-    <g:id>665f19ea-e2ad-4b65-b81c-2e2cd579c212</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>665f19ea-e2ad-4b65-b81c-2e2cd579c212</vehicle_id>
-    <vehicle_registration_plate>PAK22S</vehicle_registration_plate>
-    <g:title>Volvo XC40 B3 FWD Bensin Plus Dark | 360-kamera | Dragkrok</g:title>
-    <title>Volvo XC40 B3 FWD Bensin Plus Dark | 360-kamera | Dragkrok</title>
-    <g:description>B3 FWD Bensin Plus Dark | 360-kamera | Dragkrok. Utrustningsnivå: Plus. Miltal: 5 155 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: PAK22S. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>B3 FWD Bensin Plus Dark | 360-kamera | Dragkrok. Utrustningsnivå: Plus. Miltal: 5 155 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: PAK22S. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/665f19ea-e2ad-4b65-b81c-2e2cd579c212</g:link>
-    <link>https://www.rejmesbil.se/sok/id/665f19ea-e2ad-4b65-b81c-2e2cd579c212</link>
-    <url>https://www.rejmesbil.se/sok/id/665f19ea-e2ad-4b65-b81c-2e2cd579c212</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/9035c40e-2122-4391-8618-58b0a473e9fa/8c8f4a74-6512-44da-9818-fdfd8a514563?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/9035c40e-2122-4391-8618-58b0a473e9fa/8c8f4a74-6512-44da-9818-fdfd8a514563?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2025</year>
-    <mileage>
-      <value>51550</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>399500 SEK</g:price>
-    <price>399500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>399500 SEK</sale_price>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
