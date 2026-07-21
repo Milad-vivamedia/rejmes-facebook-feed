@@ -66,9 +66,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/e4d0b8e3-a60c-4219-9488-7f623cd572d3/bdb77549-ad15-4026-bbfd-d804aaf04ba0?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/e4d0b8e3a60c421994887f623cd572d3/bdb77549ad154026bbfdd804aaf04ba0?format=jpeg&amp;w=770&amp;h=514</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/e4d0b8e3-a60c-4219-9488-7f623cd572d3/bdb77549-ad15-4026-bbfd-d804aaf04ba0?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/e4d0b8e3a60c421994887f623cd572d3/bdb77549ad154026bbfdd804aaf04ba0?format=jpeg&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>XC40</model>
@@ -5103,52 +5103,6 @@
       <component name="country">SE</component>
     </address>
     <sale_price>339500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
-    </item>
-    <item>
-    <g:id>bb6a91f6-416c-45c0-ac52-517b06aa7c7e</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>bb6a91f6-416c-45c0-ac52-517b06aa7c7e</vehicle_id>
-    <vehicle_registration_plate>RGU39H</vehicle_registration_plate>
-    <g:title>Volvo EC40 R Plus Edt | 360-kamera | Parkeringskamera bak | Tonade rutor</g:title>
-    <title>Volvo EC40 R Plus Edt | 360-kamera | Parkeringskamera bak | Tonade rutor</title>
-    <g:description>R Plus Edt | 360-kamera | Parkeringskamera bak | Tonade rutor. Utrustningsnivå: Plus Edition. Miltal: 1 025 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: RGU39H. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>R Plus Edt | 360-kamera | Parkeringskamera bak | Tonade rutor. Utrustningsnivå: Plus Edition. Miltal: 1 025 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: RGU39H. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/bb6a91f6-416c-45c0-ac52-517b06aa7c7e</g:link>
-    <link>https://www.rejmesbil.se/sok/id/bb6a91f6-416c-45c0-ac52-517b06aa7c7e</link>
-    <url>https://www.rejmesbil.se/sok/id/bb6a91f6-416c-45c0-ac52-517b06aa7c7e</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/1d9eda66593f478399c28ec5e4ece402/2c4984998d5f4b27a9cf170674f1a1ce?format=jpeg&amp;w=770&amp;h=514</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/1d9eda66593f478399c28ec5e4ece402/2c4984998d5f4b27a9cf170674f1a1ce?format=jpeg&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>EC40</model>
-    <year>2025</year>
-    <mileage>
-      <value>10250</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>444500 SEK</g:price>
-    <price>444500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>444500 SEK</sale_price>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
