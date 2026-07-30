@@ -741,52 +741,6 @@
     <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
     </item>
     <item>
-    <g:id>462909ec-07cc-41b5-9f1e-d6b6af556b29</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>462909ec-07cc-41b5-9f1e-d6b6af556b29</vehicle_id>
-    <vehicle_registration_plate>WAJ44Z</vehicle_registration_plate>
-    <g:title>Volvo XC40 Core Edition</g:title>
-    <title>Volvo XC40 Core Edition</title>
-    <g:description>Core Edition. Utrustningsnivå: Core. Miltal: 6 146 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: WAJ44Z. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>Core Edition. Utrustningsnivå: Core. Miltal: 6 146 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: WAJ44Z. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/462909ec-07cc-41b5-9f1e-d6b6af556b29</g:link>
-    <link>https://www.rejmesbil.se/sok/id/462909ec-07cc-41b5-9f1e-d6b6af556b29</link>
-    <url>https://www.rejmesbil.se/sok/id/462909ec-07cc-41b5-9f1e-d6b6af556b29</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/e4d0b8e3a60c421994887f623cd572d3/bdb77549ad154026bbfdd804aaf04ba0?format=jpeg&amp;w=770&amp;h=514</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/e4d0b8e3a60c421994887f623cd572d3/bdb77549ad154026bbfdd804aaf04ba0?format=jpeg&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2023</year>
-    <mileage>
-      <value>61460</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>319500 SEK</g:price>
-    <price>319500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>319500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
-    </item>
-    <item>
     <g:id>f3dc4f1b-6854-405c-9fdd-82ea67e8c621</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -1712,10 +1666,10 @@
     <g:fb_product_category>173</g:fb_product_category>
     <vehicle_id>976d2c79-395a-4011-9603-dfe187e7c991</vehicle_id>
     <vehicle_registration_plate>OBB40F</vehicle_registration_plate>
-    <g:title>Volvo C40 Plus Edition | Parkeringskamera bak |  Förarstol elman��vrerad</g:title>
-    <title>Volvo C40 Plus Edition | Parkeringskamera bak |  Förarstol elman��vrerad</title>
-    <g:description>Plus Edition | Parkeringskamera bak |  Förarstol elman��vrerad. Utrustningsnivå: Plus. Miltal: 5 087 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: OBB40F. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>Plus Edition | Parkeringskamera bak |  Förarstol elman��vrerad. Utrustningsnivå: Plus. Miltal: 5 087 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: OBB40F. Kontakta oss för mer information om detta fordon.</description>
+    <g:title>Volvo C40 Plus Edition | Parkeringskamera bak |  Förarstol elmanövrerad</g:title>
+    <title>Volvo C40 Plus Edition | Parkeringskamera bak |  Förarstol elmanövrerad</title>
+    <g:description>Plus Edition | Parkeringskamera bak |  Förarstol elmanövrerad. Utrustningsnivå: Plus. Miltal: 5 087 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: OBB40F. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>Plus Edition | Parkeringskamera bak |  Förarstol elmanövrerad. Utrustningsnivå: Plus. Miltal: 5 087 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: OBB40F. Kontakta oss för mer information om detta fordon.</description>
     <g:link>https://www.rejmesbil.se/sok/id/976d2c79-395a-4011-9603-dfe187e7c991</g:link>
     <link>https://www.rejmesbil.se/sok/id/976d2c79-395a-4011-9603-dfe187e7c991</link>
     <url>https://www.rejmesbil.se/sok/id/976d2c79-395a-4011-9603-dfe187e7c991</url>
@@ -1935,52 +1889,6 @@
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>a19b2c7e-0d5f-4834-bf2d-a285eff2d725</dealer_id>
-    </item>
-    <item>
-    <g:id>91486e26-17b9-4708-880e-d4e213052393</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>91486e26-17b9-4708-880e-d4e213052393</vehicle_id>
-    <vehicle_registration_plate>WBN77X</vehicle_registration_plate>
-    <g:title>Volvo EC40 Ultra | Drag | 360° | H/K |</g:title>
-    <title>Volvo EC40 Ultra | Drag | 360° | H/K |</title>
-    <g:description>Ultra | Drag | 360° | H/K |. Utrustningsnivå: Ultra. Miltal: 5 032 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: WBN77X. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>Ultra | Drag | 360° | H/K |. Utrustningsnivå: Ultra. Miltal: 5 032 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: WBN77X. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/91486e26-17b9-4708-880e-d4e213052393</g:link>
-    <link>https://www.rejmesbil.se/sok/id/91486e26-17b9-4708-880e-d4e213052393</link>
-    <url>https://www.rejmesbil.se/sok/id/91486e26-17b9-4708-880e-d4e213052393</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/8fc131ee622b4a409d2226d54b051f5f/2560e82877de48e893e1565ab6344ce8?format=jpeg&amp;w=770&amp;h=514</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/8fc131ee622b4a409d2226d54b051f5f/2560e82877de48e893e1565ab6344ce8?format=jpeg&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>EC40</model>
-    <year>2025</year>
-    <mileage>
-      <value>50320</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>489500 SEK</g:price>
-    <price>489500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>489500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
     </item>
     <item>
     <g:id>0e5bc91f-25fe-41e3-8ecd-f8ac8129f1d4</g:id>
@@ -5891,52 +5799,6 @@
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>cddd81a6-5031-42cd-a468-67eb1f2299c7</dealer_id>
-    </item>
-    <item>
-    <g:id>cf3ad136-5ee2-4f0f-af4e-0ff82d8afef5</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>cf3ad136-5ee2-4f0f-af4e-0ff82d8afef5</vehicle_id>
-    <vehicle_registration_plate>WBR21Z</vehicle_registration_plate>
-    <g:title>Volvo XC90 T8 Ultra Dark Edition |Drag |B&amp;W |HUD |360° |Luftfjädring</g:title>
-    <title>Volvo XC90 T8 Ultra Dark Edition |Drag |B&amp;W |HUD |360° |Luftfjädring</title>
-    <g:description>T8 Ultra Dark Edition |Drag |B&amp;W |HUD |360° |Luftfjädring. Utrustningsnivå: Ultra. Miltal: 3 946 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: WBR21Z. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>T8 Ultra Dark Edition |Drag |B&amp;W |HUD |360° |Luftfjädring. Utrustningsnivå: Ultra. Miltal: 3 946 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: WBR21Z. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/cf3ad136-5ee2-4f0f-af4e-0ff82d8afef5</g:link>
-    <link>https://www.rejmesbil.se/sok/id/cf3ad136-5ee2-4f0f-af4e-0ff82d8afef5</link>
-    <url>https://www.rejmesbil.se/sok/id/cf3ad136-5ee2-4f0f-af4e-0ff82d8afef5</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/831c4751-563c-4b21-a996-28120e8bc7da/d17325f2-518c-486c-9e74-4583ab1dd9ab?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/831c4751-563c-4b21-a996-28120e8bc7da/d17325f2-518c-486c-9e74-4583ab1dd9ab?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC90</model>
-    <year>2025</year>
-    <mileage>
-      <value>39460</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>739500 SEK</g:price>
-    <price>739500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>739500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
     </item>
     <item>
     <g:id>a6b165c5-dc89-4371-ba21-f834da6aa0db</g:id>
