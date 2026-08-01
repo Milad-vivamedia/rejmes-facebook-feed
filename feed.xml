@@ -2075,52 +2075,6 @@
     <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
     </item>
     <item>
-    <g:id>3703be5b-4694-4312-b219-db57d7940ab5</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>3703be5b-4694-4312-b219-db57d7940ab5</vehicle_id>
-    <vehicle_registration_plate>RAG32G</vehicle_registration_plate>
-    <g:title>Volvo XC40 Core</g:title>
-    <title>Volvo XC40 Core</title>
-    <g:description>Core. Utrustningsnivå: Core. Miltal: 5 761 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: RAG32G. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>Core. Utrustningsnivå: Core. Miltal: 5 761 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: RAG32G. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/3703be5b-4694-4312-b219-db57d7940ab5</g:link>
-    <link>https://www.rejmesbil.se/sok/id/3703be5b-4694-4312-b219-db57d7940ab5</link>
-    <url>https://www.rejmesbil.se/sok/id/3703be5b-4694-4312-b219-db57d7940ab5</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/61031df0da6546afb6d19c76e694311d/a278b836053044afaf567ee507525f2e?format=jpeg&amp;w=770&amp;h=514</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/61031df0da6546afb6d19c76e694311d/a278b836053044afaf567ee507525f2e?format=jpeg&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2023</year>
-    <mileage>
-      <value>57610</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>324500 SEK</g:price>
-    <price>324500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>324500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
-    </item>
-    <item>
     <g:id>6e9b8263-8407-4f01-9b62-dcb0f99119ba</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
