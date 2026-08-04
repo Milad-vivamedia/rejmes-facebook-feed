@@ -5,6 +5,52 @@
     <link>https://www.rejmesbil.se</link>
     <description>Rejmes Bil Vehicle Inventory - Manufacturer Warranty</description>
     <item>
+    <g:id>32037882-0c54-4fe5-a633-5fbdebbbe467</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>32037882-0c54-4fe5-a633-5fbdebbbe467</vehicle_id>
+    <vehicle_registration_plate>LXZ91F</vehicle_registration_plate>
+    <g:title>Volvo XC40 Plus</g:title>
+    <title>Volvo XC40 Plus</title>
+    <g:description>Plus. Utrustningsnivå: Plus. Miltal: 6 386 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: LXZ91F. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>Plus. Utrustningsnivå: Plus. Miltal: 6 386 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: LXZ91F. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/32037882-0c54-4fe5-a633-5fbdebbbe467</g:link>
+    <link>https://www.rejmesbil.se/sok/id/32037882-0c54-4fe5-a633-5fbdebbbe467</link>
+    <url>https://www.rejmesbil.se/sok/id/32037882-0c54-4fe5-a633-5fbdebbbe467</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/37685057722e476fadb6b1fafc44f912/43dc8b9eb33d4bc9ae54f71c1a3331e1?format=jpeg&amp;w=770&amp;h=514</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/37685057722e476fadb6b1fafc44f912/43dc8b9eb33d4bc9ae54f71c1a3331e1?format=jpeg&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC40</model>
+    <year>2023</year>
+    <mileage>
+      <value>63860</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>384500 SEK</g:price>
+    <price>384500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Laholm</component>
+      <component name="city">Laholm</component>
+      <component name="region">Laholm</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>384500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>cddd81a6-5031-42cd-a468-67eb1f2299c7</dealer_id>
+    </item>
+    <item>
     <g:id>0dd62e4e-a3c6-41ba-8f2f-e8cf9b39809f</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
