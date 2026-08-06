@@ -511,52 +511,6 @@
     <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
     </item>
     <item>
-    <g:id>0c716d0e-5286-46bf-b9ca-afe644ff5a7e</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>0c716d0e-5286-46bf-b9ca-afe644ff5a7e</vehicle_id>
-    <vehicle_registration_plate>JHR52T</vehicle_registration_plate>
-    <g:title>Volvo EX40 ExtendedRange Plus SE</g:title>
-    <title>Volvo EX40 ExtendedRange Plus SE</title>
-    <g:description>ExtendedRange Plus SE. Utrustningsnivå: Plus Special Edition. Miltal: 722 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Registreringsnummer: JHR52T. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>ExtendedRange Plus SE. Utrustningsnivå: Plus Special Edition. Miltal: 722 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Registreringsnummer: JHR52T. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/0c716d0e-5286-46bf-b9ca-afe644ff5a7e</g:link>
-    <link>https://www.rejmesbil.se/sok/id/0c716d0e-5286-46bf-b9ca-afe644ff5a7e</link>
-    <url>https://www.rejmesbil.se/sok/id/0c716d0e-5286-46bf-b9ca-afe644ff5a7e</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/86e0b13c7aa34684a67bb250c4cedfa9/4ca53abc02ca4a099fac51eb55333608?format=jpeg&amp;w=770&amp;h=514</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/86e0b13c7aa34684a67bb250c4cedfa9/4ca53abc02ca4a099fac51eb55333608?format=jpeg&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>EX40</model>
-    <year>2026</year>
-    <mileage>
-      <value>7220</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>489500 SEK</g:price>
-    <price>489500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>489500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>new</g:condition>
-    <condition>new</condition>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
-    </item>
-    <item>
     <g:id>76a905c4-82cd-4d8e-abc6-734b48b09e85</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
