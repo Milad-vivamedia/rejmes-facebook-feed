@@ -66,9 +66,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/bb9b51f9ac8a4c888b535b6f44d1817e/38154938554146cbb54a68cb6c6d68f1?format=jpeg&amp;w=770&amp;h=514</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/4405d791426b430aaf8658bef1abcf3a/af2fa7f919504f31a49785edbf70bd34?format=jpeg&amp;w=770&amp;h=514</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/v3/bb9b51f9ac8a4c888b535b6f44d1817e/38154938554146cbb54a68cb6c6d68f1?format=jpeg&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/v3/4405d791426b430aaf8658bef1abcf3a/af2fa7f919504f31a49785edbf70bd34?format=jpeg&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>V90</model>
@@ -3438,15 +3438,15 @@
     <body_style>Wagon</body_style>
     <fuel_type>Bensin+El</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>539500 SEK</g:price>
-    <price>539500 SEK</price>
+    <g:price>524500 SEK</g:price>
+    <price>524500 SEK</price>
     <address format="simple">
       <component name="addr1">Rejmes Halland - Laholm</component>
       <component name="city">Laholm</component>
       <component name="region">Laholm</component>
       <component name="country">SE</component>
     </address>
-    <sale_price>539500 SEK</sale_price>
+    <sale_price>524500 SEK</sale_price>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>new</g:condition>
@@ -3806,15 +3806,15 @@
     <body_style>Wagon</body_style>
     <fuel_type>Bensin+El</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>529500 SEK</g:price>
-    <price>529500 SEK</price>
+    <g:price>524500 SEK</g:price>
+    <price>524500 SEK</price>
     <address format="simple">
       <component name="addr1">Rejmes Halland - Halmstad</component>
       <component name="city">Halmstad</component>
       <component name="region">Halmstad</component>
       <component name="country">SE</component>
     </address>
-    <sale_price>529500 SEK</sale_price>
+    <sale_price>524500 SEK</sale_price>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>new</g:condition>
@@ -4588,15 +4588,15 @@
     <body_style>Wagon</body_style>
     <fuel_type>Bensin+El</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>529500 SEK</g:price>
-    <price>529500 SEK</price>
+    <g:price>524500 SEK</g:price>
+    <price>524500 SEK</price>
     <address format="simple">
       <component name="addr1">Rejmes Halland - Halmstad</component>
       <component name="city">Halmstad</component>
       <component name="region">Halmstad</component>
       <component name="country">SE</component>
     </address>
-    <sale_price>529500 SEK</sale_price>
+    <sale_price>524500 SEK</sale_price>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>new</g:condition>
