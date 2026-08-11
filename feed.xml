@@ -5,6 +5,231 @@
     <link>https://www.rejmesbil.se</link>
     <description>Rejmes Bil Vehicle Inventory - Manufacturer Warranty</description>
     <item>
+    <g:id>86bce77c-97ab-48d5-8752-7cd1eb2e39bb</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>86bce77c-97ab-48d5-8752-7cd1eb2e39bb</vehicle_id>
+    <vehicle_registration_plate>JBS86F</vehicle_registration_plate>
+    <g:title>Volvo XC90 T8 Ultra Dark</g:title>
+    <title>Volvo XC90 T8 Ultra Dark</title>
+    <g:description>T8 Ultra Dark. Utrustningsnivå: Ultra. Miltal: 909 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: JBS86F. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>T8 Ultra Dark. Utrustningsnivå: Ultra. Miltal: 909 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: JBS86F. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/86bce77c-97ab-48d5-8752-7cd1eb2e39bb</g:link>
+    <link>https://www.rejmesbil.se/sok/id/86bce77c-97ab-48d5-8752-7cd1eb2e39bb</link>
+    <url>https://www.rejmesbil.se/sok/id/86bce77c-97ab-48d5-8752-7cd1eb2e39bb</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/c52b4cbb6a544a5ba2e76807f410686b/ea13f23d1fee4d5a870c60bb05285ca5?format=jpeg&amp;w=770&amp;h=514</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/c52b4cbb6a544a5ba2e76807f410686b/ea13f23d1fee4d5a870c60bb05285ca5?format=jpeg&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC90</model>
+    <year>2026</year>
+    <mileage>
+      <value>9090</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>829500 SEK</g:price>
+    <price>829500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Halmstad</component>
+      <component name="city">Halmstad</component>
+      <component name="region">Halmstad</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>829500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>new</g:condition>
+    <condition>new</condition>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
+    </item>
+    <item>
+    <g:id>b1ee46d7-d6f3-4774-9a12-a3cf711bb9b2</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>b1ee46d7-d6f3-4774-9a12-a3cf711bb9b2</vehicle_id>
+    <vehicle_registration_plate>XJW31L</vehicle_registration_plate>
+    <g:title>Volvo XC90 T8 Ultra Dark</g:title>
+    <title>Volvo XC90 T8 Ultra Dark</title>
+    <g:description>T8 Ultra Dark. Utrustningsnivå: Ultra. Miltal: 1 263 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: XJW31L. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>T8 Ultra Dark. Utrustningsnivå: Ultra. Miltal: 1 263 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: XJW31L. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/b1ee46d7-d6f3-4774-9a12-a3cf711bb9b2</g:link>
+    <link>https://www.rejmesbil.se/sok/id/b1ee46d7-d6f3-4774-9a12-a3cf711bb9b2</link>
+    <url>https://www.rejmesbil.se/sok/id/b1ee46d7-d6f3-4774-9a12-a3cf711bb9b2</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/adcd976e6dca4eeaa4bf9af890de55d2/9bfbebcccb6940329a75eed78541a590?format=jpeg&amp;w=770&amp;h=514</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/adcd976e6dca4eeaa4bf9af890de55d2/9bfbebcccb6940329a75eed78541a590?format=jpeg&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC90</model>
+    <year>2026</year>
+    <mileage>
+      <value>12630</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>829500 SEK</g:price>
+    <price>829500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Halmstad</component>
+      <component name="city">Halmstad</component>
+      <component name="region">Halmstad</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>829500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>new</g:condition>
+    <condition>new</condition>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
+    </item>
+    <item>
+    <g:id>a49a1bf4-13df-4b89-a623-e58540f2663a</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>a49a1bf4-13df-4b89-a623-e58540f2663a</vehicle_id>
+    <vehicle_registration_plate>CYT23E</vehicle_registration_plate>
+    <g:title>Volvo XC60 T6 Plus Dark Nordic Edition</g:title>
+    <title>Volvo XC60 T6 Plus Dark Nordic Edition</title>
+    <g:description>T6 Plus Dark Nordic Edition. Utrustningsnivå: Plus Nordic Edition. Miltal: 1 651 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: CYT23E. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>T6 Plus Dark Nordic Edition. Utrustningsnivå: Plus Nordic Edition. Miltal: 1 651 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: CYT23E. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/a49a1bf4-13df-4b89-a623-e58540f2663a</g:link>
+    <link>https://www.rejmesbil.se/sok/id/a49a1bf4-13df-4b89-a623-e58540f2663a</link>
+    <url>https://www.rejmesbil.se/sok/id/a49a1bf4-13df-4b89-a623-e58540f2663a</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <model>XC60</model>
+    <year>2025</year>
+    <mileage>
+      <value>16510</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>574500 SEK</g:price>
+    <price>574500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Falkenberg</component>
+      <component name="city">Falkenberg</component>
+      <component name="region">Falkenberg</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>574500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>a19b2c7e-0d5f-4834-bf2d-a285eff2d725</dealer_id>
+    </item>
+    <item>
+    <g:id>6a3c77f4-0549-4118-99f1-981c1a0e8067</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>6a3c77f4-0549-4118-99f1-981c1a0e8067</vehicle_id>
+    <vehicle_registration_plate>BHT92G</vehicle_registration_plate>
+    <g:title>Volvo XC60 T6 Plus Dark Nordic Edition</g:title>
+    <title>Volvo XC60 T6 Plus Dark Nordic Edition</title>
+    <g:description>T6 Plus Dark Nordic Edition. Utrustningsnivå: Plus Nordic Edition. Miltal: 2 447 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: BHT92G. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>T6 Plus Dark Nordic Edition. Utrustningsnivå: Plus Nordic Edition. Miltal: 2 447 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: BHT92G. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/6a3c77f4-0549-4118-99f1-981c1a0e8067</g:link>
+    <link>https://www.rejmesbil.se/sok/id/6a3c77f4-0549-4118-99f1-981c1a0e8067</link>
+    <url>https://www.rejmesbil.se/sok/id/6a3c77f4-0549-4118-99f1-981c1a0e8067</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/e63d1d32cfa8407697d7d070065adbe3/526acfdde25e4747bd7b7f3cd1cf909e?format=jpeg&amp;w=770&amp;h=514</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/e63d1d32cfa8407697d7d070065adbe3/526acfdde25e4747bd7b7f3cd1cf909e?format=jpeg&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC60</model>
+    <year>2026</year>
+    <mileage>
+      <value>24470</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>599500 SEK</g:price>
+    <price>599500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Halmstad</component>
+      <component name="city">Halmstad</component>
+      <component name="region">Halmstad</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>599500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>new</g:condition>
+    <condition>new</condition>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
+    </item>
+    <item>
+    <g:id>7f44483f-452f-4407-8d89-2f180993a345</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>7f44483f-452f-4407-8d89-2f180993a345</vehicle_id>
+    <vehicle_registration_plate>OUM07C</vehicle_registration_plate>
+    <g:title>Volvo XC90 T8 Ultra Dark</g:title>
+    <title>Volvo XC90 T8 Ultra Dark</title>
+    <g:description>T8 Ultra Dark. Utrustningsnivå: Ultra. Miltal: 1 270 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: OUM07C. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>T8 Ultra Dark. Utrustningsnivå: Ultra. Miltal: 1 270 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: OUM07C. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/7f44483f-452f-4407-8d89-2f180993a345</g:link>
+    <link>https://www.rejmesbil.se/sok/id/7f44483f-452f-4407-8d89-2f180993a345</link>
+    <url>https://www.rejmesbil.se/sok/id/7f44483f-452f-4407-8d89-2f180993a345</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/a0a6657a-d92b-42c2-bc19-1e15dc624b05/bc81b7b3-6bb7-4934-ac3b-a3c2b3b06ff4?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/a0a6657a-d92b-42c2-bc19-1e15dc624b05/bc81b7b3-6bb7-4934-ac3b-a3c2b3b06ff4?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC90</model>
+    <year>2026</year>
+    <mileage>
+      <value>12700</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>829500 SEK</g:price>
+    <price>829500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Halmstad</component>
+      <component name="city">Halmstad</component>
+      <component name="region">Halmstad</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>829500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>new</g:condition>
+    <condition>new</condition>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
+    </item>
+    <item>
     <g:id>e63f3c1e-1d5e-41f4-846c-8e2ee7b42deb</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
