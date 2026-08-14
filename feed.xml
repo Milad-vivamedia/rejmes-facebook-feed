@@ -5,6 +5,98 @@
     <link>https://www.rejmesbil.se</link>
     <description>Rejmes Bil Vehicle Inventory - Manufacturer Warranty</description>
     <item>
+    <g:id>1800d65f-0c2e-4ba9-b0ac-6ba525a2041c</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>1800d65f-0c2e-4ba9-b0ac-6ba525a2041c</vehicle_id>
+    <vehicle_registration_plate>FNJ76C</vehicle_registration_plate>
+    <g:title>Volvo V60 B4 Bensin Momentum Advanced Edition</g:title>
+    <title>Volvo V60 B4 Bensin Momentum Advanced Edition</title>
+    <g:description>B4 Bensin Momentum Advanced Edition. Utrustningsnivå: Momentum Advanced. Miltal: 10 078 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: FNJ76C. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>B4 Bensin Momentum Advanced Edition. Utrustningsnivå: Momentum Advanced. Miltal: 10 078 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: FNJ76C. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/1800d65f-0c2e-4ba9-b0ac-6ba525a2041c</g:link>
+    <link>https://www.rejmesbil.se/sok/id/1800d65f-0c2e-4ba9-b0ac-6ba525a2041c</link>
+    <url>https://www.rejmesbil.se/sok/id/1800d65f-0c2e-4ba9-b0ac-6ba525a2041c</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/d8f45ae4612c4cf6bcedf13f9d214986/0ed3d5cc75474b078a39d5138f4bb701?format=jpeg&amp;w=770&amp;h=514</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/d8f45ae4612c4cf6bcedf13f9d214986/0ed3d5cc75474b078a39d5138f4bb701?format=jpeg&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>V60</model>
+    <year>2021</year>
+    <mileage>
+      <value>100780</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Wagon</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>299500 SEK</g:price>
+    <price>299500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Halmstad</component>
+      <component name="city">Halmstad</component>
+      <component name="region">Halmstad</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>299500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
+    </item>
+    <item>
+    <g:id>21be8766-9c52-472b-bfbb-f8f84118e16a</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>21be8766-9c52-472b-bfbb-f8f84118e16a</vehicle_id>
+    <vehicle_registration_plate>RBZ33K</vehicle_registration_plate>
+    <g:title>Volvo V60 T6 Plus Dark Nordic Edition</g:title>
+    <title>Volvo V60 T6 Plus Dark Nordic Edition</title>
+    <g:description>T6 Plus Dark Nordic Edition. Utrustningsnivå: Plus Nordic Edition. Miltal: 3 527 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: RBZ33K. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>T6 Plus Dark Nordic Edition. Utrustningsnivå: Plus Nordic Edition. Miltal: 3 527 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: RBZ33K. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/21be8766-9c52-472b-bfbb-f8f84118e16a</g:link>
+    <link>https://www.rejmesbil.se/sok/id/21be8766-9c52-472b-bfbb-f8f84118e16a</link>
+    <url>https://www.rejmesbil.se/sok/id/21be8766-9c52-472b-bfbb-f8f84118e16a</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/ca626782-6455-4bc8-a302-19337dd31f27/0d285d9c-6a8a-4aa9-8fa1-803dd9efef43?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/ca626782-6455-4bc8-a302-19337dd31f27/0d285d9c-6a8a-4aa9-8fa1-803dd9efef43?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>V60</model>
+    <year>2026</year>
+    <mileage>
+      <value>35270</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Wagon</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>514500 SEK</g:price>
+    <price>514500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Laholm</component>
+      <component name="city">Laholm</component>
+      <component name="region">Laholm</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>514500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>new</g:condition>
+    <condition>new</condition>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <dealer_id>cddd81a6-5031-42cd-a468-67eb1f2299c7</dealer_id>
+    </item>
+    <item>
     <g:id>41cbdc06-12f4-40d4-a1aa-6e60ec97e285</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
