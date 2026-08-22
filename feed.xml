@@ -5,6 +5,52 @@
     <link>https://www.rejmesbil.se</link>
     <description>Rejmes Bil Vehicle Inventory - Manufacturer Warranty</description>
     <item>
+    <g:id>0011c1c1-1344-4d80-8c34-220998e24989</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>0011c1c1-1344-4d80-8c34-220998e24989</vehicle_id>
+    <vehicle_registration_plate>CSW22Z</vehicle_registration_plate>
+    <g:title>Volvo XC60 T6 Plus Dark Nordic Edition</g:title>
+    <title>Volvo XC60 T6 Plus Dark Nordic Edition</title>
+    <g:description>T6 Plus Dark Nordic Edition. Utrustningsnivå: Plus Nordic Edition. Miltal: 2 151 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: CSW22Z. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>T6 Plus Dark Nordic Edition. Utrustningsnivå: Plus Nordic Edition. Miltal: 2 151 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: CSW22Z. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/0011c1c1-1344-4d80-8c34-220998e24989</g:link>
+    <link>https://www.rejmesbil.se/sok/id/0011c1c1-1344-4d80-8c34-220998e24989</link>
+    <url>https://www.rejmesbil.se/sok/id/0011c1c1-1344-4d80-8c34-220998e24989</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/4db3dbbc-7a9d-4c0f-80df-dd2ad8467209/ba60c964-a940-4c88-8393-fb2faf84c244?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/4db3dbbc-7a9d-4c0f-80df-dd2ad8467209/ba60c964-a940-4c88-8393-fb2faf84c244?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC60</model>
+    <year>2026</year>
+    <mileage>
+      <value>21510</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>599500 SEK</g:price>
+    <price>599500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Laholm</component>
+      <component name="city">Laholm</component>
+      <component name="region">Laholm</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>599500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>new</g:condition>
+    <condition>new</condition>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <dealer_id>cddd81a6-5031-42cd-a468-67eb1f2299c7</dealer_id>
+    </item>
+    <item>
     <g:id>14a55e05-635f-4b26-b709-d7dd114d3331</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -20,11 +66,6 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/981c2828-5e34-431d-b546-f331e4cc4cf2/d0c785d6-a487-4b7c-8812-1d5e76377301?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/981c2828-5e34-431d-b546-f331e4cc4cf2/d0c785d6-a487-4b7c-8812-1d5e76377301?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
     <model>XC40</model>
     <year>2023</year>
     <mileage>
@@ -66,9 +107,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/76e33d4b-9475-4a9f-86cc-bd51e1bd86d9/a00e6c9f-0d97-48b8-b664-20a3c7509c32?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/7817c4a0-94a7-4e58-9095-8cd7a8fdd2ac/8de520a9-6e56-4ee1-a505-8fcf018dc72a?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/76e33d4b-9475-4a9f-86cc-bd51e1bd86d9/a00e6c9f-0d97-48b8-b664-20a3c7509c32?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/7817c4a0-94a7-4e58-9095-8cd7a8fdd2ac/8de520a9-6e56-4ee1-a505-8fcf018dc72a?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>XC60</model>
@@ -112,9 +153,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/d6ac6971-e928-4f59-a500-69bcbc8dad0f/47cde926-1520-4a7f-90ce-92d621b77b6e?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/5f59bf5bd3c0460bbc80c6bdb2300e41/032a215eaf124a3dbe65a2d746192965?format=jpeg&amp;w=770&amp;h=514</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/d6ac6971-e928-4f59-a500-69bcbc8dad0f/47cde926-1520-4a7f-90ce-92d621b77b6e?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/v3/5f59bf5bd3c0460bbc80c6bdb2300e41/032a215eaf124a3dbe65a2d746192965?format=jpeg&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>XC60</model>
@@ -204,11 +245,6 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/7a35ad065d32470cbb1fd9891966e83f/684e649c689849adaccc22543be7bcd2?format=jpeg&amp;w=770&amp;h=514</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/7a35ad065d32470cbb1fd9891966e83f/684e649c689849adaccc22543be7bcd2?format=jpeg&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
     <model>V60</model>
     <year>2020</year>
     <mileage>
