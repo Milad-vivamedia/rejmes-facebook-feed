@@ -4324,52 +4324,6 @@
     <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
     </item>
     <item>
-    <g:id>80131c52-09c9-4a34-bc81-2494d2758093</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>80131c52-09c9-4a34-bc81-2494d2758093</vehicle_id>
-    <vehicle_registration_plate>SRA91W</vehicle_registration_plate>
-    <g:title>Volvo EC40 Core SE | 360° kamera |</g:title>
-    <title>Volvo EC40 Core SE | 360° kamera |</title>
-    <g:description>Core SE | 360° kamera |. Utrustningsnivå: Core Special Edition. Miltal: 3 385 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: SRA91W. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>Core SE | 360° kamera |. Utrustningsnivå: Core Special Edition. Miltal: 3 385 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: SRA91W. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/80131c52-09c9-4a34-bc81-2494d2758093</g:link>
-    <link>https://www.rejmesbil.se/sok/id/80131c52-09c9-4a34-bc81-2494d2758093</link>
-    <url>https://www.rejmesbil.se/sok/id/80131c52-09c9-4a34-bc81-2494d2758093</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/261f25a9-c669-45f5-bd12-cba88682379e/add56ebf-c3f0-4321-abf3-aca574e79c5f?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/261f25a9-c669-45f5-bd12-cba88682379e/add56ebf-c3f0-4321-abf3-aca574e79c5f?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>EC40</model>
-    <year>2025</year>
-    <mileage>
-      <value>33850</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>409500 SEK</g:price>
-    <price>409500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>409500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
-    </item>
-    <item>
     <g:id>bc7a06bc-3b04-4d45-8061-4bd58b4f782c</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
