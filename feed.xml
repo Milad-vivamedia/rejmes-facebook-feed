@@ -3479,15 +3479,15 @@
     <body_style>Sedan</body_style>
     <fuel_type>Electric</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>769500 SEK</g:price>
-    <price>769500 SEK</price>
+    <g:price>759500 SEK</g:price>
+    <price>759500 SEK</price>
     <address format="simple">
       <component name="addr1">Rejmes Halland - Halmstad</component>
       <component name="city">Halmstad</component>
       <component name="region">Halmstad</component>
       <component name="country">SE</component>
     </address>
-    <sale_price>769500 SEK</sale_price>
+    <sale_price>759500 SEK</sale_price>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
@@ -3801,15 +3801,15 @@
     <body_style>Sedan</body_style>
     <fuel_type>Electric</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>748500 SEK</g:price>
-    <price>748500 SEK</price>
+    <g:price>738500 SEK</g:price>
+    <price>738500 SEK</price>
     <address format="simple">
       <component name="addr1">Rejmes Halland - Falkenberg</component>
       <component name="city">Falkenberg</component>
       <component name="region">Falkenberg</component>
       <component name="country">SE</component>
     </address>
-    <sale_price>748500 SEK</sale_price>
+    <sale_price>738500 SEK</sale_price>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
@@ -4031,15 +4031,15 @@
     <body_style>Sedan</body_style>
     <fuel_type>Electric</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>769500 SEK</g:price>
-    <price>769500 SEK</price>
+    <g:price>759500 SEK</g:price>
+    <price>759500 SEK</price>
     <address format="simple">
       <component name="addr1">Rejmes Halland - Halmstad</component>
       <component name="city">Halmstad</component>
       <component name="region">Halmstad</component>
       <component name="country">SE</component>
     </address>
-    <sale_price>769500 SEK</sale_price>
+    <sale_price>759500 SEK</sale_price>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
