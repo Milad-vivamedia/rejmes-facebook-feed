@@ -196,8 +196,8 @@
     <vehicle_registration_plate>MWZ48R</vehicle_registration_plate>
     <g:title>Volvo C40 Plus Edition</g:title>
     <title>Volvo C40 Plus Edition</title>
-    <g:description>Plus Edition. Utrustningsnivå: Plus. Miltal: 3 000 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: MWZ48R. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>Plus Edition. Utrustningsnivå: Plus. Miltal: 3 000 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: MWZ48R. Kontakta oss för mer information om detta fordon.</description>
+    <g:description>Plus Edition. Utrustningsnivå: Plus. Miltal: 3 166 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: MWZ48R. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>Plus Edition. Utrustningsnivå: Plus. Miltal: 3 166 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: MWZ48R. Kontakta oss för mer information om detta fordon.</description>
     <g:link>https://www.rejmesbil.se/sok/id/3d9fa2ac-02ae-4ec0-acf7-32a72aae128c</g:link>
     <link>https://www.rejmesbil.se/sok/id/3d9fa2ac-02ae-4ec0-acf7-32a72aae128c</link>
     <url>https://www.rejmesbil.se/sok/id/3d9fa2ac-02ae-4ec0-acf7-32a72aae128c</url>
@@ -212,7 +212,7 @@
     <model>C40</model>
     <year>2023</year>
     <mileage>
-      <value>30000</value>
+      <value>31660</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Sedan</body_style>
@@ -325,52 +325,6 @@
     <condition>new</condition>
     <state_of_vehicle>NEW</state_of_vehicle>
     <dealer_id>cddd81a6-5031-42cd-a468-67eb1f2299c7</dealer_id>
-    </item>
-    <item>
-    <g:id>14a55e05-635f-4b26-b709-d7dd114d3331</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>14a55e05-635f-4b26-b709-d7dd114d3331</vehicle_id>
-    <vehicle_registration_plate>GZX737</vehicle_registration_plate>
-    <g:title>Volvo XC40 Core Edition</g:title>
-    <title>Volvo XC40 Core Edition</title>
-    <g:description>Core Edition. Utrustningsnivå: Core. Miltal: 12 248 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: GZX737. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>Core Edition. Utrustningsnivå: Core. Miltal: 12 248 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: GZX737. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/14a55e05-635f-4b26-b709-d7dd114d3331</g:link>
-    <link>https://www.rejmesbil.se/sok/id/14a55e05-635f-4b26-b709-d7dd114d3331</link>
-    <url>https://www.rejmesbil.se/sok/id/14a55e05-635f-4b26-b709-d7dd114d3331</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/1f76f0ff047b464ca3cdf7cbd5df8e5e/5026659bc68843f7a4f6affe3d78b270?format=jpeg&amp;w=770&amp;h=514</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/1f76f0ff047b464ca3cdf7cbd5df8e5e/5026659bc68843f7a4f6affe3d78b270?format=jpeg&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2023</year>
-    <mileage>
-      <value>122480</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>289500 SEK</g:price>
-    <price>289500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Falkenberg</component>
-      <component name="city">Falkenberg</component>
-      <component name="region">Falkenberg</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>289500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>a19b2c7e-0d5f-4834-bf2d-a285eff2d725</dealer_id>
     </item>
     <item>
     <g:id>1af5173d-4b3f-4764-a223-e02b3d24f8ac</g:id>
@@ -690,52 +644,6 @@
     <dealer_id>cddd81a6-5031-42cd-a468-67eb1f2299c7</dealer_id>
     </item>
     <item>
-    <g:id>f8772716-6fbf-41a0-8cc3-530ef5f96f44</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>f8772716-6fbf-41a0-8cc3-530ef5f96f44</vehicle_id>
-    <vehicle_registration_plate>MDS31J</vehicle_registration_plate>
-    <g:title>Volvo V60 B5 AWD Bensin Advanced | H/K | 360° | HUD | se spec |</g:title>
-    <title>Volvo V60 B5 AWD Bensin Advanced | H/K | 360° | HUD | se spec |</title>
-    <g:description>B5 AWD Bensin Advanced | H/K | 360° | HUD | se spec |. Utrustningsnivå: Cross Country Advanced. Miltal: 6 089 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: MDS31J. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>B5 AWD Bensin Advanced | H/K | 360° | HUD | se spec |. Utrustningsnivå: Cross Country Advanced. Miltal: 6 089 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: MDS31J. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/f8772716-6fbf-41a0-8cc3-530ef5f96f44</g:link>
-    <link>https://www.rejmesbil.se/sok/id/f8772716-6fbf-41a0-8cc3-530ef5f96f44</link>
-    <url>https://www.rejmesbil.se/sok/id/f8772716-6fbf-41a0-8cc3-530ef5f96f44</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/553e948b01104a7c88822fd1263f4142/bdfba2596e334bf6a6fc3a3f76960551?format=jpeg&amp;w=770&amp;h=514</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/553e948b01104a7c88822fd1263f4142/bdfba2596e334bf6a6fc3a3f76960551?format=jpeg&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>V60</model>
-    <year>2021</year>
-    <mileage>
-      <value>60890</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Wagon</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>369500 SEK</g:price>
-    <price>369500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>369500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
-    </item>
-    <item>
     <g:id>188c0134-5ed7-4e8c-bddc-50cda9c2edc0</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -743,8 +651,8 @@
     <vehicle_registration_plate>JFR01A</vehicle_registration_plate>
     <g:title>Volvo XC40 Plus</g:title>
     <title>Volvo XC40 Plus</title>
-    <g:description>Plus. Utrustningsnivå: Plus. Miltal: 6 599 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: JFR01A. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>Plus. Utrustningsnivå: Plus. Miltal: 6 599 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: JFR01A. Kontakta oss för mer information om detta fordon.</description>
+    <g:description>Plus. Utrustningsnivå: Plus. Miltal: 6 600 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: JFR01A. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>Plus. Utrustningsnivå: Plus. Miltal: 6 600 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: JFR01A. Kontakta oss för mer information om detta fordon.</description>
     <g:link>https://www.rejmesbil.se/sok/id/188c0134-5ed7-4e8c-bddc-50cda9c2edc0</g:link>
     <link>https://www.rejmesbil.se/sok/id/188c0134-5ed7-4e8c-bddc-50cda9c2edc0</link>
     <url>https://www.rejmesbil.se/sok/id/188c0134-5ed7-4e8c-bddc-50cda9c2edc0</url>
@@ -759,7 +667,7 @@
     <model>XC40</model>
     <year>2023</year>
     <mileage>
-      <value>65990</value>
+      <value>66000</value>
       <unit>KM</unit>
     </mileage>
     <body_style>SUV</body_style>
@@ -1019,8 +927,8 @@
     <vehicle_registration_plate>UBF69H</vehicle_registration_plate>
     <g:title>Volvo XC60 Recharge T6 Core Edition | Parkeringskamera bak | Panoramaglastak</g:title>
     <title>Volvo XC60 Recharge T6 Core Edition | Parkeringskamera bak | Panoramaglastak</title>
-    <g:description>Recharge T6 Core Edition | Parkeringskamera bak | Panoramaglastak. Utrustningsnivå: Core. Miltal: 7 614 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: UBF69H. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>Recharge T6 Core Edition | Parkeringskamera bak | Panoramaglastak. Utrustningsnivå: Core. Miltal: 7 614 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: UBF69H. Kontakta oss för mer information om detta fordon.</description>
+    <g:description>Recharge T6 Core Edition | Parkeringskamera bak | Panoramaglastak. Utrustningsnivå: Core. Miltal: 7 615 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: UBF69H. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>Recharge T6 Core Edition | Parkeringskamera bak | Panoramaglastak. Utrustningsnivå: Core. Miltal: 7 615 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: UBF69H. Kontakta oss för mer information om detta fordon.</description>
     <g:link>https://www.rejmesbil.se/sok/id/d78c9363-758d-4df1-85dc-f99b3ef1a79c</g:link>
     <link>https://www.rejmesbil.se/sok/id/d78c9363-758d-4df1-85dc-f99b3ef1a79c</link>
     <url>https://www.rejmesbil.se/sok/id/d78c9363-758d-4df1-85dc-f99b3ef1a79c</url>
@@ -1035,7 +943,7 @@
     <model>XC60</model>
     <year>2023</year>
     <mileage>
-      <value>76140</value>
+      <value>76150</value>
       <unit>KM</unit>
     </mileage>
     <body_style>SUV</body_style>
@@ -1755,8 +1663,8 @@
     <vehicle_registration_plate>EGF88A</vehicle_registration_plate>
     <g:title>Volvo C40 Ultimate</g:title>
     <title>Volvo C40 Ultimate</title>
-    <g:description>Ultimate. Utrustningsnivå: Ultimate. Miltal: 4 934 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: EGF88A. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>Ultimate. Utrustningsnivå: Ultimate. Miltal: 4 934 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: EGF88A. Kontakta oss för mer information om detta fordon.</description>
+    <g:description>Ultimate. Utrustningsnivå: Ultimate. Miltal: 4 947 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: EGF88A. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>Ultimate. Utrustningsnivå: Ultimate. Miltal: 4 947 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: EGF88A. Kontakta oss för mer information om detta fordon.</description>
     <g:link>https://www.rejmesbil.se/sok/id/debed8b4-3ee5-40b1-ad71-2b3be01fe3eb</g:link>
     <link>https://www.rejmesbil.se/sok/id/debed8b4-3ee5-40b1-ad71-2b3be01fe3eb</link>
     <url>https://www.rejmesbil.se/sok/id/debed8b4-3ee5-40b1-ad71-2b3be01fe3eb</url>
@@ -1771,7 +1679,7 @@
     <model>C40</model>
     <year>2023</year>
     <mileage>
-      <value>49340</value>
+      <value>49470</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Sedan</body_style>
