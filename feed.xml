@@ -66,9 +66,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/ace0e2abb47a4bfa824e0c2f559b7b5e/812cabf49d794662b5adc39c652bd038?format=jpeg&amp;w=770&amp;h=514</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/7c85cbdd23234957a264c9a4d9485785/2560c25ea0de4f4fa1f6eeaf927142bb?format=jpeg&amp;w=770&amp;h=514</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/v3/ace0e2abb47a4bfa824e0c2f559b7b5e/812cabf49d794662b5adc39c652bd038?format=jpeg&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/v3/7c85cbdd23234957a264c9a4d9485785/2560c25ea0de4f4fa1f6eeaf927142bb?format=jpeg&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>V60</model>
@@ -112,9 +112,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/c165e97bb60c404fb573cfcf35f4b2e8/2536e0aa57884742a229823ac9300ffc?format=jpeg&amp;w=770&amp;h=514</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/d6e0aeca6e9a4e96aeabc8c927c60bdd/8075a9e25e9b41909918fe734d39c27e?format=jpeg&amp;w=770&amp;h=514</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/v3/c165e97bb60c404fb573cfcf35f4b2e8/2536e0aa57884742a229823ac9300ffc?format=jpeg&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/v3/d6e0aeca6e9a4e96aeabc8c927c60bdd/8075a9e25e9b41909918fe734d39c27e?format=jpeg&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>XC60</model>
@@ -4046,52 +4046,6 @@
     <condition>new</condition>
     <state_of_vehicle>NEW</state_of_vehicle>
     <dealer_id>cddd81a6-5031-42cd-a468-67eb1f2299c7</dealer_id>
-    </item>
-    <item>
-    <g:id>90d19da5-bd40-453e-9732-ddf113136c6c</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>90d19da5-bd40-453e-9732-ddf113136c6c</vehicle_id>
-    <vehicle_registration_plate>MHW03C</vehicle_registration_plate>
-    <g:title>Volvo EX90 Ultra 7sätes | Pilot Assist | Dragkrok | Bose |</g:title>
-    <title>Volvo EX90 Ultra 7sätes | Pilot Assist | Dragkrok | Bose |</title>
-    <g:description>Ultra 7sätes | Pilot Assist | Dragkrok | Bose |. Utrustningsnivå: Ultra. Miltal: 1 919 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: MHW03C. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>Ultra 7sätes | Pilot Assist | Dragkrok | Bose |. Utrustningsnivå: Ultra. Miltal: 1 919 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: MHW03C. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/90d19da5-bd40-453e-9732-ddf113136c6c</g:link>
-    <link>https://www.rejmesbil.se/sok/id/90d19da5-bd40-453e-9732-ddf113136c6c</link>
-    <url>https://www.rejmesbil.se/sok/id/90d19da5-bd40-453e-9732-ddf113136c6c</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/8767f4ac92614da8b42206dac0bbe24f/a107007bd6dc4097b887bd19f844eff2?format=jpeg&amp;w=770&amp;h=514</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/8767f4ac92614da8b42206dac0bbe24f/a107007bd6dc4097b887bd19f844eff2?format=jpeg&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>EX90</model>
-    <year>2025</year>
-    <mileage>
-      <value>19190</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>759500 SEK</g:price>
-    <price>759500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>759500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
     </item>
     <item>
     <g:id>7004bc6a-bc78-42be-80a5-5e7fdb374d99</g:id>
