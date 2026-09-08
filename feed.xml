@@ -5,6 +5,52 @@
     <link>https://www.rejmesbil.se</link>
     <description>Rejmes Bil Vehicle Inventory - Manufacturer Warranty</description>
     <item>
+    <g:id>32f89c98-4a95-4111-959c-2c331e0983a8</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>32f89c98-4a95-4111-959c-2c331e0983a8</vehicle_id>
+    <vehicle_registration_plate>YRC59X</vehicle_registration_plate>
+    <g:title>Volvo XC40 Plus</g:title>
+    <title>Volvo XC40 Plus</title>
+    <g:description>Plus. Utrustningsnivå: Plus. Miltal: 2 121 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: YRC59X. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>Plus. Utrustningsnivå: Plus. Miltal: 2 121 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: YRC59X. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/32f89c98-4a95-4111-959c-2c331e0983a8</g:link>
+    <link>https://www.rejmesbil.se/sok/id/32f89c98-4a95-4111-959c-2c331e0983a8</link>
+    <url>https://www.rejmesbil.se/sok/id/32f89c98-4a95-4111-959c-2c331e0983a8</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/10839e52db6546cd9af09faf14d23936/69a1189debae46a6a9d15fed3086b465?format=jpeg&amp;w=770&amp;h=514</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/10839e52db6546cd9af09faf14d23936/69a1189debae46a6a9d15fed3086b465?format=jpeg&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC40</model>
+    <year>2023</year>
+    <mileage>
+      <value>21210</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>369500 SEK</g:price>
+    <price>369500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Falkenberg</component>
+      <component name="city">Falkenberg</component>
+      <component name="region">Falkenberg</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>369500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>a19b2c7e-0d5f-4834-bf2d-a285eff2d725</dealer_id>
+    </item>
+    <item>
     <g:id>3abd76bd-28c2-4e29-a430-e255ba471ceb</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -20,9 +66,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/420b4f35-ae0b-4be6-8615-d78564fa4e26/b97ebcf7-c45a-4bbf-8b1e-bf018325ba0e?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/1f63ac1f-821a-4794-bb54-06f1724f1dc2/002552bf-6e69-46a9-b173-7889cfb664a8?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/420b4f35-ae0b-4be6-8615-d78564fa4e26/b97ebcf7-c45a-4bbf-8b1e-bf018325ba0e?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/1f63ac1f-821a-4794-bb54-06f1724f1dc2/002552bf-6e69-46a9-b173-7889cfb664a8?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>V60</model>
@@ -158,9 +204,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/e2844dd1-4ca7-4e17-b912-3172ea387e8e/191c5db4-8a50-4a3f-b1cc-dab21011aded?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/e2844dd14ca74e17b9123172ea387e8e/191c5db48a504a3fb1ccdab21011aded?format=jpeg&amp;w=770&amp;h=514</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/e2844dd1-4ca7-4e17-b912-3172ea387e8e/191c5db4-8a50-4a3f-b1cc-dab21011aded?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/e2844dd14ca74e17b9123172ea387e8e/191c5db48a504a3fb1ccdab21011aded?format=jpeg&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>EC40</model>
@@ -4971,52 +5017,6 @@
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>cddd81a6-5031-42cd-a468-67eb1f2299c7</dealer_id>
-    </item>
-    <item>
-    <g:id>c83c4051-1446-4e18-bd35-350b161f86ab</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>c83c4051-1446-4e18-bd35-350b161f86ab</vehicle_id>
-    <vehicle_registration_plate>ZFN712</vehicle_registration_plate>
-    <g:title>Volvo XC90 Recharge T8 Plus Bright | Drag | 360° kamera | H/K |</g:title>
-    <title>Volvo XC90 Recharge T8 Plus Bright | Drag | 360° kamera | H/K |</title>
-    <g:description>Recharge T8 Plus Bright | Drag | 360° kamera | H/K |. Utrustningsnivå: Plus. Miltal: 3 528 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: ZFN712. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>Recharge T8 Plus Bright | Drag | 360° kamera | H/K |. Utrustningsnivå: Plus. Miltal: 3 528 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: ZFN712. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/c83c4051-1446-4e18-bd35-350b161f86ab</g:link>
-    <link>https://www.rejmesbil.se/sok/id/c83c4051-1446-4e18-bd35-350b161f86ab</link>
-    <url>https://www.rejmesbil.se/sok/id/c83c4051-1446-4e18-bd35-350b161f86ab</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/e59063be-e9e9-4530-bc8b-4aa0c46675d2/f63b469b-5533-45a8-ab76-74166a3ef53d?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/e59063be-e9e9-4530-bc8b-4aa0c46675d2/f63b469b-5533-45a8-ab76-74166a3ef53d?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC90</model>
-    <year>2024</year>
-    <mileage>
-      <value>35280</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>669500 SEK</g:price>
-    <price>669500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>669500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
     </item>
   </channel>
 </rss>
