@@ -194,9 +194,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/e767ef7b-007b-40c2-bb2b-6428a87d545d/050895d2-c68f-4694-9adb-c33f05e3de1a?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/78f5402b4fea4da88cb01ca2504304c1/5fb173a480d640dc923155107a6606f8?format=jpeg&amp;w=770&amp;h=514</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/e767ef7b-007b-40c2-bb2b-6428a87d545d/050895d2-c68f-4694-9adb-c33f05e3de1a?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/78f5402b4fea4da88cb01ca2504304c1/5fb173a480d640dc923155107a6606f8?format=jpeg&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>XC40</model>
@@ -1189,52 +1189,6 @@
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
-    </item>
-    <item>
-    <g:id>aac7c9c0-c289-4469-938e-27ba2835d6e2</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>aac7c9c0-c289-4469-938e-27ba2835d6e2</vehicle_id>
-    <vehicle_registration_plate>PYP71X</vehicle_registration_plate>
-    <g:title>Volvo XC40 Core SE</g:title>
-    <title>Volvo XC40 Core SE</title>
-    <g:description>Core SE. Utrustningsnivå: Core. Miltal: 4 732 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Registreringsnummer: PYP71X. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>Core SE. Utrustningsnivå: Core. Miltal: 4 732 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Registreringsnummer: PYP71X. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/aac7c9c0-c289-4469-938e-27ba2835d6e2</g:link>
-    <link>https://www.rejmesbil.se/sok/id/aac7c9c0-c289-4469-938e-27ba2835d6e2</link>
-    <url>https://www.rejmesbil.se/sok/id/aac7c9c0-c289-4469-938e-27ba2835d6e2</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/b58cecdf83b44289a650e67be5581ddf/35eb11a87cf941fabd649de5ab68b5ed?format=jpeg&amp;w=770&amp;h=514</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/b58cecdf83b44289a650e67be5581ddf/35eb11a87cf941fabd649de5ab68b5ed?format=jpeg&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2024</year>
-    <mileage>
-      <value>47320</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>414500 SEK</g:price>
-    <price>414500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Laholm</component>
-      <component name="city">Laholm</component>
-      <component name="region">Laholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>414500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>cddd81a6-5031-42cd-a468-67eb1f2299c7</dealer_id>
     </item>
     <item>
     <g:id>ac34fd47-2f13-4b63-ba30-b7a6db3f71bc</g:id>
