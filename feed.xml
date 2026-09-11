@@ -158,9 +158,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/c569245d29874f9c9079a993b95daa7b/8b2e1d9a12f046fdacf17c8eeaef2895?format=jpeg&amp;w=770&amp;h=514</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/9053517d2a3e4a7eb3c84c24571708a8/1fda1f0eebe4434da7e11780575a18e1?format=jpeg&amp;w=770&amp;h=514</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/v3/c569245d29874f9c9079a993b95daa7b/8b2e1d9a12f046fdacf17c8eeaef2895?format=jpeg&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/v3/9053517d2a3e4a7eb3c84c24571708a8/1fda1f0eebe4434da7e11780575a18e1?format=jpeg&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>XC60</model>
@@ -857,15 +857,15 @@
     <body_style>Sedan</body_style>
     <fuel_type>Electric</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>474500 SEK</g:price>
-    <price>474500 SEK</price>
+    <g:price>469500 SEK</g:price>
+    <price>469500 SEK</price>
     <address format="simple">
       <component name="addr1">Rejmes Halland - Halmstad</component>
       <component name="city">Halmstad</component>
       <component name="region">Halmstad</component>
       <component name="country">SE</component>
     </address>
-    <sale_price>474500 SEK</sale_price>
+    <sale_price>469500 SEK</sale_price>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
@@ -1510,52 +1510,6 @@
       <component name="country">SE</component>
     </address>
     <sale_price>489500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>a19b2c7e-0d5f-4834-bf2d-a285eff2d725</dealer_id>
-    </item>
-    <item>
-    <g:id>9e5b7e13-d545-43f7-ae3c-a1794d755e4f</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>9e5b7e13-d545-43f7-ae3c-a1794d755e4f</vehicle_id>
-    <vehicle_registration_plate>CZW49J</vehicle_registration_plate>
-    <g:title>Volvo C40 Ultimate | 20&quot; Fälgar | 360-Kamera | H/K</g:title>
-    <title>Volvo C40 Ultimate | 20&quot; Fälgar | 360-Kamera | H/K</title>
-    <g:description>Ultimate | 20&quot; Fälgar | 360-Kamera | H/K. Utrustningsnivå: Ultimate. Miltal: 5 490 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Registreringsnummer: CZW49J. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>Ultimate | 20&quot; Fälgar | 360-Kamera | H/K. Utrustningsnivå: Ultimate. Miltal: 5 490 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Registreringsnummer: CZW49J. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/9e5b7e13-d545-43f7-ae3c-a1794d755e4f</g:link>
-    <link>https://www.rejmesbil.se/sok/id/9e5b7e13-d545-43f7-ae3c-a1794d755e4f</link>
-    <url>https://www.rejmesbil.se/sok/id/9e5b7e13-d545-43f7-ae3c-a1794d755e4f</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/80009ba1-0125-46be-ae02-2ffbf87f79b9/9affe2f6-5611-470c-b3cc-c9697fa136ac?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/80009ba1-0125-46be-ae02-2ffbf87f79b9/9affe2f6-5611-470c-b3cc-c9697fa136ac?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>C40</model>
-    <year>2024</year>
-    <mileage>
-      <value>54900</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>404500 SEK</g:price>
-    <price>404500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Falkenberg</component>
-      <component name="city">Falkenberg</component>
-      <component name="region">Falkenberg</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>404500 SEK</sale_price>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
@@ -2835,15 +2789,15 @@
     <body_style>SUV</body_style>
     <fuel_type>Bensin+El</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>419500 SEK</g:price>
-    <price>419500 SEK</price>
+    <g:price>409500 SEK</g:price>
+    <price>409500 SEK</price>
     <address format="simple">
       <component name="addr1">Rejmes Halland - Halmstad</component>
       <component name="city">Halmstad</component>
       <component name="region">Halmstad</component>
       <component name="country">SE</component>
     </address>
-    <sale_price>419500 SEK</sale_price>
+    <sale_price>409500 SEK</sale_price>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
@@ -3157,15 +3111,15 @@
     <body_style>SUV</body_style>
     <fuel_type>Bensin+El</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>429500 SEK</g:price>
-    <price>429500 SEK</price>
+    <g:price>419500 SEK</g:price>
+    <price>419500 SEK</price>
     <address format="simple">
       <component name="addr1">Rejmes Halland - Halmstad</component>
       <component name="city">Halmstad</component>
       <component name="region">Halmstad</component>
       <component name="country">SE</component>
     </address>
-    <sale_price>429500 SEK</sale_price>
+    <sale_price>419500 SEK</sale_price>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
@@ -3571,15 +3525,15 @@
     <body_style>SUV</body_style>
     <fuel_type>Bensin+El</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>859000 SEK</g:price>
-    <price>859000 SEK</price>
+    <g:price>839000 SEK</g:price>
+    <price>839000 SEK</price>
     <address format="simple">
       <component name="addr1">Rejmes Halland - Falkenberg</component>
       <component name="city">Falkenberg</component>
       <component name="region">Falkenberg</component>
       <component name="country">SE</component>
     </address>
-    <sale_price>859000 SEK</sale_price>
+    <sale_price>839000 SEK</sale_price>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>new</g:condition>
@@ -4215,15 +4169,15 @@
     <body_style>SUV</body_style>
     <fuel_type>Bensin+El</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>799500 SEK</g:price>
-    <price>799500 SEK</price>
+    <g:price>794500 SEK</g:price>
+    <price>794500 SEK</price>
     <address format="simple">
       <component name="addr1">Rejmes Halland - Halmstad</component>
       <component name="city">Halmstad</component>
       <component name="region">Halmstad</component>
       <component name="country">SE</component>
     </address>
-    <sale_price>799500 SEK</sale_price>
+    <sale_price>794500 SEK</sale_price>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>new</g:condition>
@@ -4459,52 +4413,6 @@
     <g:condition>new</g:condition>
     <condition>new</condition>
     <state_of_vehicle>NEW</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
-    </item>
-    <item>
-    <g:id>8bee371b-81fe-4a30-90a0-fc0b43c8d6cf</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>8bee371b-81fe-4a30-90a0-fc0b43c8d6cf</vehicle_id>
-    <vehicle_registration_plate>SHT40W</vehicle_registration_plate>
-    <g:title>Volvo XC60 Recharge T6 II Ultimate Bright | Dragkrok | HUD | 360-kamera</g:title>
-    <title>Volvo XC60 Recharge T6 II Ultimate Bright | Dragkrok | HUD | 360-kamera</title>
-    <g:description>Recharge T6 II Ultimate Bright | Dragkrok | HUD | 360-kamera. Utrustningsnivå: Ultimate. Miltal: 6 295 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: SHT40W. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>Recharge T6 II Ultimate Bright | Dragkrok | HUD | 360-kamera. Utrustningsnivå: Ultimate. Miltal: 6 295 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: SHT40W. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/8bee371b-81fe-4a30-90a0-fc0b43c8d6cf</g:link>
-    <link>https://www.rejmesbil.se/sok/id/8bee371b-81fe-4a30-90a0-fc0b43c8d6cf</link>
-    <url>https://www.rejmesbil.se/sok/id/8bee371b-81fe-4a30-90a0-fc0b43c8d6cf</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/56131d44-8fb1-47b7-aaf1-9ae2e65a2a39/dfcd607a-47f1-4aea-a9c4-4cae0559de47?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/56131d44-8fb1-47b7-aaf1-9ae2e65a2a39/dfcd607a-47f1-4aea-a9c4-4cae0559de47?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC60</model>
-    <year>2024</year>
-    <mileage>
-      <value>62950</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>534500 SEK</g:price>
-    <price>534500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>534500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
     </item>
     <item>
@@ -4905,15 +4813,15 @@
     <body_style>SUV</body_style>
     <fuel_type>Bensin+El</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>459500 SEK</g:price>
-    <price>459500 SEK</price>
+    <g:price>449500 SEK</g:price>
+    <price>449500 SEK</price>
     <address format="simple">
       <component name="addr1">Rejmes Halland - Halmstad</component>
       <component name="city">Halmstad</component>
       <component name="region">Halmstad</component>
       <component name="country">SE</component>
     </address>
-    <sale_price>459500 SEK</sale_price>
+    <sale_price>449500 SEK</sale_price>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
