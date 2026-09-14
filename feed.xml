@@ -5,6 +5,47 @@
     <link>https://www.rejmesbil.se</link>
     <description>Rejmes Bil Vehicle Inventory - Manufacturer Warranty</description>
     <item>
+    <g:id>99d9f0df-88d3-4fa8-82f5-fa7234566dad</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>99d9f0df-88d3-4fa8-82f5-fa7234566dad</vehicle_id>
+    <vehicle_registration_plate>XCS96R</vehicle_registration_plate>
+    <g:title>Volvo EX90 Ultra 7-sätes</g:title>
+    <title>Volvo EX90 Ultra 7-sätes</title>
+    <g:description>Ultra 7-sätes. Utrustningsnivå: Ultra. Miltal: 2 475 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: XCS96R. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>Ultra 7-sätes. Utrustningsnivå: Ultra. Miltal: 2 475 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: XCS96R. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/99d9f0df-88d3-4fa8-82f5-fa7234566dad</g:link>
+    <link>https://www.rejmesbil.se/sok/id/99d9f0df-88d3-4fa8-82f5-fa7234566dad</link>
+    <url>https://www.rejmesbil.se/sok/id/99d9f0df-88d3-4fa8-82f5-fa7234566dad</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <model>EX90</model>
+    <year>2025</year>
+    <mileage>
+      <value>24750</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>789500 SEK</g:price>
+    <price>789500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Halmstad</component>
+      <component name="city">Halmstad</component>
+      <component name="region">Halmstad</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>789500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
+    </item>
+    <item>
     <g:id>bdbaf32c-8081-434e-a90d-5c1c8af45450</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
