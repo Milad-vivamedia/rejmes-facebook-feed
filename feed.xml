@@ -5,6 +5,93 @@
     <link>https://www.rejmesbil.se</link>
     <description>Rejmes Bil Vehicle Inventory - Manufacturer Warranty</description>
     <item>
+    <g:id>1119b0be-1ca7-4206-b017-0641fab36608</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>1119b0be-1ca7-4206-b017-0641fab36608</vehicle_id>
+    <vehicle_registration_plate>WBY00J</vehicle_registration_plate>
+    <g:title>Volvo XC40 B3 FWD Bensin Plus Dark</g:title>
+    <title>Volvo XC40 B3 FWD Bensin Plus Dark</title>
+    <g:description>B3 FWD Bensin Plus Dark. Utrustningsnivå: Plus. Miltal: 5 453 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: WBY00J. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>B3 FWD Bensin Plus Dark. Utrustningsnivå: Plus. Miltal: 5 453 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: WBY00J. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/1119b0be-1ca7-4206-b017-0641fab36608</g:link>
+    <link>https://www.rejmesbil.se/sok/id/1119b0be-1ca7-4206-b017-0641fab36608</link>
+    <url>https://www.rejmesbil.se/sok/id/1119b0be-1ca7-4206-b017-0641fab36608</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <model>XC40</model>
+    <year>2025</year>
+    <mileage>
+      <value>54530</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>389500 SEK</g:price>
+    <price>389500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Halmstad</component>
+      <component name="city">Halmstad</component>
+      <component name="region">Halmstad</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>389500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
+    </item>
+    <item>
+    <g:id>dc46a587-b031-4553-a4d4-9739033c4b54</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>dc46a587-b031-4553-a4d4-9739033c4b54</vehicle_id>
+    <vehicle_registration_plate>GLX67H</vehicle_registration_plate>
+    <g:title>Volvo V90 T6 Plus Dark Nordic Edition | 360° | H/K | Dragkrok |</g:title>
+    <title>Volvo V90 T6 Plus Dark Nordic Edition | 360° | H/K | Dragkrok |</title>
+    <g:description>T6 Plus Dark Nordic Edition | 360° | H/K | Dragkrok |. Utrustningsnivå: Plus Nordic Edition. Miltal: 2 631 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: GLX67H. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>T6 Plus Dark Nordic Edition | 360° | H/K | Dragkrok |. Utrustningsnivå: Plus Nordic Edition. Miltal: 2 631 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: GLX67H. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/dc46a587-b031-4553-a4d4-9739033c4b54</g:link>
+    <link>https://www.rejmesbil.se/sok/id/dc46a587-b031-4553-a4d4-9739033c4b54</link>
+    <url>https://www.rejmesbil.se/sok/id/dc46a587-b031-4553-a4d4-9739033c4b54</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/a3a8bbb171f9457db6faa3ba833db295/f19336ee286249d7b21b3713b78a66ce?format=jpeg&amp;w=770&amp;h=514</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/a3a8bbb171f9457db6faa3ba833db295/f19336ee286249d7b21b3713b78a66ce?format=jpeg&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>V90</model>
+    <year>2026</year>
+    <mileage>
+      <value>26310</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Wagon</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>509500 SEK</g:price>
+    <price>509500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Halmstad</component>
+      <component name="city">Halmstad</component>
+      <component name="region">Halmstad</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>509500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>new</g:condition>
+    <condition>new</condition>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
+    </item>
+    <item>
     <g:id>1e59c827-8fc0-4980-bb04-ec94013c21ce</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -12,23 +99,23 @@
     <vehicle_registration_plate>WBN14T</vehicle_registration_plate>
     <g:title>Volvo EX40 Ultra</g:title>
     <title>Volvo EX40 Ultra</title>
-    <g:description>Ultra. Utrustningsnivå: Ultra. Miltal: 6 486 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: WBN14T. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>Ultra. Utrustningsnivå: Ultra. Miltal: 6 486 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: WBN14T. Kontakta oss för mer information om detta fordon.</description>
+    <g:description>Ultra. Utrustningsnivå: Ultra. Miltal: 6 487 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: WBN14T. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>Ultra. Utrustningsnivå: Ultra. Miltal: 6 487 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: WBN14T. Kontakta oss för mer information om detta fordon.</description>
     <g:link>https://www.rejmesbil.se/sok/id/1e59c827-8fc0-4980-bb04-ec94013c21ce</g:link>
     <link>https://www.rejmesbil.se/sok/id/1e59c827-8fc0-4980-bb04-ec94013c21ce</link>
     <url>https://www.rejmesbil.se/sok/id/1e59c827-8fc0-4980-bb04-ec94013c21ce</url>
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/2312c356-a973-4940-a5e4-7869322becce/50f45cda-9c5c-448c-82fa-57340697f570?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/c62d980d7f8045c4823e36b70c5b8cf7/9e11cd93e69a4a069655b929100c09fe?format=jpeg&amp;w=770&amp;h=514</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/2312c356-a973-4940-a5e4-7869322becce/50f45cda-9c5c-448c-82fa-57340697f570?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/c62d980d7f8045c4823e36b70c5b8cf7/9e11cd93e69a4a069655b929100c09fe?format=jpeg&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>EX40</model>
     <year>2025</year>
     <mileage>
-      <value>64860</value>
+      <value>64870</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Sedan</body_style>
@@ -43,6 +130,52 @@
       <component name="country">SE</component>
     </address>
     <sale_price>469500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
+    </item>
+    <item>
+    <g:id>af5109a0-b21c-428f-9fc7-17e74f387c2f</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>af5109a0-b21c-428f-9fc7-17e74f387c2f</vehicle_id>
+    <vehicle_registration_plate>SXS87P</vehicle_registration_plate>
+    <g:title>Volvo EX90 Ultra 7sätes | Bowers&amp;Wilkins | Park Pilot Assist | Ryggmassage fram</g:title>
+    <title>Volvo EX90 Ultra 7sätes | Bowers&amp;Wilkins | Park Pilot Assist | Ryggmassage fram</title>
+    <g:description>Ultra 7sätes | Bowers&amp;Wilkins | Park Pilot Assist | Ryggmassage fram. Utrustningsnivå: Ultra. Miltal: 5 363 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: SXS87P. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>Ultra 7sätes | Bowers&amp;Wilkins | Park Pilot Assist | Ryggmassage fram. Utrustningsnivå: Ultra. Miltal: 5 363 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: SXS87P. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/af5109a0-b21c-428f-9fc7-17e74f387c2f</g:link>
+    <link>https://www.rejmesbil.se/sok/id/af5109a0-b21c-428f-9fc7-17e74f387c2f</link>
+    <url>https://www.rejmesbil.se/sok/id/af5109a0-b21c-428f-9fc7-17e74f387c2f</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/c58557d001e34c72b6187d61ee286e89/e882bdc8a245477da689a4e0dfb0f9c2?format=jpeg&amp;w=770&amp;h=514</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/c58557d001e34c72b6187d61ee286e89/e882bdc8a245477da689a4e0dfb0f9c2?format=jpeg&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>EX90</model>
+    <year>2025</year>
+    <mileage>
+      <value>53630</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>738500 SEK</g:price>
+    <price>738500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Halmstad</component>
+      <component name="city">Halmstad</component>
+      <component name="region">Halmstad</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>738500 SEK</sale_price>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
@@ -66,6 +199,11 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/4c5831d392544db7abf49cef003f079f/de0ae76516404ee8b3cb9f2113468c05?format=jpeg&amp;w=770&amp;h=514</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/4c5831d392544db7abf49cef003f079f/de0ae76516404ee8b3cb9f2113468c05?format=jpeg&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
     <model>C40</model>
     <year>2023</year>
     <mileage>
@@ -329,8 +467,8 @@
     <vehicle_registration_plate>WWB23K</vehicle_registration_plate>
     <g:title>Volvo EX40 R Plus Edt</g:title>
     <title>Volvo EX40 R Plus Edt</title>
-    <g:description>R Plus Edt. Utrustningsnivå: Plus Edition. Miltal: 2 599 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: WWB23K. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>R Plus Edt. Utrustningsnivå: Plus Edition. Miltal: 2 599 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: WWB23K. Kontakta oss för mer information om detta fordon.</description>
+    <g:description>R Plus Edt. Utrustningsnivå: Plus Edition. Miltal: 2 600 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: WWB23K. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>R Plus Edt. Utrustningsnivå: Plus Edition. Miltal: 2 600 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: WWB23K. Kontakta oss för mer information om detta fordon.</description>
     <g:link>https://www.rejmesbil.se/sok/id/7c805b0d-da08-48c7-8e90-07863c8912c1</g:link>
     <link>https://www.rejmesbil.se/sok/id/7c805b0d-da08-48c7-8e90-07863c8912c1</link>
     <url>https://www.rejmesbil.se/sok/id/7c805b0d-da08-48c7-8e90-07863c8912c1</url>
@@ -345,7 +483,7 @@
     <model>EX40</model>
     <year>2025</year>
     <mileage>
-      <value>25990</value>
+      <value>26000</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Sedan</body_style>
