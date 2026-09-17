@@ -51,6 +51,52 @@
     <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
     </item>
     <item>
+    <g:id>41059b58-177f-4b99-aab5-079ac1ddcb99</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>41059b58-177f-4b99-aab5-079ac1ddcb99</vehicle_id>
+    <vehicle_registration_plate>SLX57H</vehicle_registration_plate>
+    <g:title>Volvo XC60 T8 TE R-Design</g:title>
+    <title>Volvo XC60 T8 TE R-Design</title>
+    <g:description>T8 TE R-Design. Utrustningsnivå: R-Design. Miltal: 7 326 mil. Årsmodell: 2020. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: SLX57H. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>T8 TE R-Design. Utrustningsnivå: R-Design. Miltal: 7 326 mil. Årsmodell: 2020. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: SLX57H. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/41059b58-177f-4b99-aab5-079ac1ddcb99</g:link>
+    <link>https://www.rejmesbil.se/sok/id/41059b58-177f-4b99-aab5-079ac1ddcb99</link>
+    <url>https://www.rejmesbil.se/sok/id/41059b58-177f-4b99-aab5-079ac1ddcb99</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/a9bbf34e38314e908e49928118d80eb5/922ea095553b48c3888fb6936b8fcfd2?format=jpeg&amp;w=770&amp;h=514</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/a9bbf34e38314e908e49928118d80eb5/922ea095553b48c3888fb6936b8fcfd2?format=jpeg&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC60</model>
+    <year>2020</year>
+    <mileage>
+      <value>73260</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>429500 SEK</g:price>
+    <price>429500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Halmstad</component>
+      <component name="city">Halmstad</component>
+      <component name="region">Halmstad</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>429500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
+    </item>
+    <item>
     <g:id>1119b0be-1ca7-4206-b017-0641fab36608</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -2680,8 +2726,8 @@
     <vehicle_registration_plate>NPG42B</vehicle_registration_plate>
     <g:title>Volvo XC60 B5 AWD Bensin Momentum Advanced Edt</g:title>
     <title>Volvo XC60 B5 AWD Bensin Momentum Advanced Edt</title>
-    <g:description>B5 AWD Bensin Momentum Advanced Edt. Utrustningsnivå: Momentum Advanced. Miltal: 6 712 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: NPG42B. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>B5 AWD Bensin Momentum Advanced Edt. Utrustningsnivå: Momentum Advanced. Miltal: 6 712 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: NPG42B. Kontakta oss för mer information om detta fordon.</description>
+    <g:description>B5 AWD Bensin Momentum Advanced Edt. Utrustningsnivå: Momentum Advanced. Miltal: 6 716 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: NPG42B. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>B5 AWD Bensin Momentum Advanced Edt. Utrustningsnivå: Momentum Advanced. Miltal: 6 716 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: NPG42B. Kontakta oss för mer information om detta fordon.</description>
     <g:link>https://www.rejmesbil.se/sok/id/76a905c4-82cd-4d8e-abc6-734b48b09e85</g:link>
     <link>https://www.rejmesbil.se/sok/id/76a905c4-82cd-4d8e-abc6-734b48b09e85</link>
     <url>https://www.rejmesbil.se/sok/id/76a905c4-82cd-4d8e-abc6-734b48b09e85</url>
@@ -2696,7 +2742,7 @@
     <model>XC60</model>
     <year>2021</year>
     <mileage>
-      <value>67120</value>
+      <value>67160</value>
       <unit>KM</unit>
     </mileage>
     <body_style>SUV</body_style>
@@ -4290,8 +4336,8 @@
     <vehicle_registration_plate>HEU78K</vehicle_registration_plate>
     <g:title>Volvo V60 T6 Plus Dark Nordic Edition | 360-kamera | Dragkrok | H/K</g:title>
     <title>Volvo V60 T6 Plus Dark Nordic Edition | 360-kamera | Dragkrok | H/K</title>
-    <g:description>T6 Plus Dark Nordic Edition | 360-kamera | Dragkrok | H/K. Utrustningsnivå: Plus Nordic Edition. Miltal: 1 381 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: HEU78K. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>T6 Plus Dark Nordic Edition | 360-kamera | Dragkrok | H/K. Utrustningsnivå: Plus Nordic Edition. Miltal: 1 381 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: HEU78K. Kontakta oss för mer information om detta fordon.</description>
+    <g:description>T6 Plus Dark Nordic Edition | 360-kamera | Dragkrok | H/K. Utrustningsnivå: Plus Nordic Edition. Miltal: 1 383 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: HEU78K. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>T6 Plus Dark Nordic Edition | 360-kamera | Dragkrok | H/K. Utrustningsnivå: Plus Nordic Edition. Miltal: 1 383 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: HEU78K. Kontakta oss för mer information om detta fordon.</description>
     <g:link>https://www.rejmesbil.se/sok/id/d75533b9-7702-46dd-98e3-58c517145e15</g:link>
     <link>https://www.rejmesbil.se/sok/id/d75533b9-7702-46dd-98e3-58c517145e15</link>
     <url>https://www.rejmesbil.se/sok/id/d75533b9-7702-46dd-98e3-58c517145e15</url>
@@ -4306,7 +4352,7 @@
     <model>V60</model>
     <year>2026</year>
     <mileage>
-      <value>13810</value>
+      <value>13830</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Wagon</body_style>
