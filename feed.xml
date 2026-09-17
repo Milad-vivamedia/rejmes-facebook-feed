@@ -3455,52 +3455,6 @@
     <dealer_id>cddd81a6-5031-42cd-a468-67eb1f2299c7</dealer_id>
     </item>
     <item>
-    <g:id>de2029f0-3ac1-44e7-8b70-714c177ae207</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>de2029f0-3ac1-44e7-8b70-714c177ae207</vehicle_id>
-    <vehicle_registration_plate>UEJ99P</vehicle_registration_plate>
-    <g:title>Volvo XC90 T8 Ultra Dark | Dragkrok | 360-kamera | H/K</g:title>
-    <title>Volvo XC90 T8 Ultra Dark | Dragkrok | 360-kamera | H/K</title>
-    <g:description>T8 Ultra Dark | Dragkrok | 360-kamera | H/K. Utrustningsnivå: Ultra. Miltal: 2 039 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: UEJ99P. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>T8 Ultra Dark | Dragkrok | 360-kamera | H/K. Utrustningsnivå: Ultra. Miltal: 2 039 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: UEJ99P. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/de2029f0-3ac1-44e7-8b70-714c177ae207</g:link>
-    <link>https://www.rejmesbil.se/sok/id/de2029f0-3ac1-44e7-8b70-714c177ae207</link>
-    <url>https://www.rejmesbil.se/sok/id/de2029f0-3ac1-44e7-8b70-714c177ae207</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/7e4d54f40b3d4f29bf99ef547bd53bc8/25bbcf227dbf4930a4db43651213e80d?format=jpeg&amp;w=770&amp;h=514</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/7e4d54f40b3d4f29bf99ef547bd53bc8/25bbcf227dbf4930a4db43651213e80d?format=jpeg&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC90</model>
-    <year>2026</year>
-    <mileage>
-      <value>20390</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>814500 SEK</g:price>
-    <price>814500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Falkenberg</component>
-      <component name="city">Falkenberg</component>
-      <component name="region">Falkenberg</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>814500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>new</g:condition>
-    <condition>new</condition>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <dealer_id>a19b2c7e-0d5f-4834-bf2d-a285eff2d725</dealer_id>
-    </item>
-    <item>
     <g:id>976d2c79-395a-4011-9603-dfe187e7c991</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
