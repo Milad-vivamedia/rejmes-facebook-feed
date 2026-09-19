@@ -20,9 +20,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/94430922-a28c-4875-860b-5dde3622efa1/38a6945c-fd48-440d-ba08-fce43fbed38b?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/a79c8724-fb50-4d52-a88c-3ae86a201da7/a323d740-44b2-4c36-84ec-430d7bc3715b?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/94430922-a28c-4875-860b-5dde3622efa1/38a6945c-fd48-440d-ba08-fce43fbed38b?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/a79c8724-fb50-4d52-a88c-3ae86a201da7/a323d740-44b2-4c36-84ec-430d7bc3715b?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>EX30</model>
@@ -3397,52 +3397,6 @@
       <component name="country">SE</component>
     </address>
     <sale_price>389500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
-    </item>
-    <item>
-    <g:id>976d2c79-395a-4011-9603-dfe187e7c991</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>976d2c79-395a-4011-9603-dfe187e7c991</vehicle_id>
-    <vehicle_registration_plate>OBB40F</vehicle_registration_plate>
-    <g:title>Volvo C40 Plus Edition | Parkeringskamera bak |  Förarstol elmanövrerad</g:title>
-    <title>Volvo C40 Plus Edition | Parkeringskamera bak |  Förarstol elmanövrerad</title>
-    <g:description>Plus Edition | Parkeringskamera bak |  Förarstol elmanövrerad. Utrustningsnivå: Plus. Miltal: 5 083 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: OBB40F. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>Plus Edition | Parkeringskamera bak |  Förarstol elmanövrerad. Utrustningsnivå: Plus. Miltal: 5 083 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: OBB40F. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/976d2c79-395a-4011-9603-dfe187e7c991</g:link>
-    <link>https://www.rejmesbil.se/sok/id/976d2c79-395a-4011-9603-dfe187e7c991</link>
-    <url>https://www.rejmesbil.se/sok/id/976d2c79-395a-4011-9603-dfe187e7c991</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/0ebb87b3cdd1404db0317119569a6fd6/c4a88324e1a2449dbbd003084d909a41?format=jpeg&amp;w=770&amp;h=514</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/0ebb87b3cdd1404db0317119569a6fd6/c4a88324e1a2449dbbd003084d909a41?format=jpeg&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>C40</model>
-    <year>2023</year>
-    <mileage>
-      <value>50830</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>344500 SEK</g:price>
-    <price>344500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>344500 SEK</sale_price>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
