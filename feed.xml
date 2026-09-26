@@ -3179,52 +3179,6 @@
     <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
     </item>
     <item>
-    <g:id>deccd9d5-5f90-4b0d-b294-7279ef866058</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>deccd9d5-5f90-4b0d-b294-7279ef866058</vehicle_id>
-    <vehicle_registration_plate>RAD22Y</vehicle_registration_plate>
-    <g:title>Volvo XC60 Recharge T6 Core Edition</g:title>
-    <title>Volvo XC60 Recharge T6 Core Edition</title>
-    <g:description>Recharge T6 Core Edition. Utrustningsnivå: Core. Miltal: 8 057 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: RAD22Y. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>Recharge T6 Core Edition. Utrustningsnivå: Core. Miltal: 8 057 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: RAD22Y. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/deccd9d5-5f90-4b0d-b294-7279ef866058</g:link>
-    <link>https://www.rejmesbil.se/sok/id/deccd9d5-5f90-4b0d-b294-7279ef866058</link>
-    <url>https://www.rejmesbil.se/sok/id/deccd9d5-5f90-4b0d-b294-7279ef866058</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/a70627a1e8724050b2a1fe225ae8b04a/674d5057c7ef4724ad25a795281f1219?format=jpeg&amp;w=770&amp;h=514</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/a70627a1e8724050b2a1fe225ae8b04a/674d5057c7ef4724ad25a795281f1219?format=jpeg&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC60</model>
-    <year>2023</year>
-    <mileage>
-      <value>80570</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>419500 SEK</g:price>
-    <price>419500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>419500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
-    </item>
-    <item>
     <g:id>e62e70da-df64-422b-bccd-d0a4f09d4e7c</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
