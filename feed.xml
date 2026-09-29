@@ -20,9 +20,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/124782a9-74f8-4bc5-9f4c-983cee181d2f/f0da3124-9a68-46ab-97be-507cc2f25465?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/124782a974f84bc59f4c983cee181d2f/f0da31249a6846ab97be507cc2f25465?format=jpeg&amp;w=770&amp;h=514</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/124782a9-74f8-4bc5-9f4c-983cee181d2f/f0da3124-9a68-46ab-97be-507cc2f25465?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/v3/124782a974f84bc59f4c983cee181d2f/f0da31249a6846ab97be507cc2f25465?format=jpeg&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>EX30</model>
@@ -112,6 +112,11 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/d83ab82de6804f9e826f261f8e1ba041/64011b8cb0e747f781e1591899ea415d?format=jpeg&amp;w=770&amp;h=514</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/d83ab82de6804f9e826f261f8e1ba041/64011b8cb0e747f781e1591899ea415d?format=jpeg&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
     <model>XC90</model>
     <year>2026</year>
     <mileage>
@@ -429,9 +434,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/8c8a3aa3-5a1b-4552-93c5-f8a9f3b57520/2a0c5b90-61b1-47a5-b9f9-ab27f86ff5fe?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/8c8a3aa35a1b455293c5f8a9f3b57520/2a0c5b9061b147a5b9f9ab27f86ff5fe?format=jpeg&amp;w=770&amp;h=514</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/8c8a3aa3-5a1b-4552-93c5-f8a9f3b57520/2a0c5b90-61b1-47a5-b9f9-ab27f86ff5fe?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/v3/8c8a3aa35a1b455293c5f8a9f3b57520/2a0c5b9061b147a5b9f9ab27f86ff5fe?format=jpeg&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>EX40</model>
@@ -521,9 +526,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/e24377a2-21fe-434a-9112-4601efbd9e72/0101ecac-9c17-46a3-a780-e1d3299fa9a6?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/e24377a221fe434a91124601efbd9e72/0101ecac9c1746a3a780e1d3299fa9a6?format=jpeg&amp;w=770&amp;h=514</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/e24377a2-21fe-434a-9112-4601efbd9e72/0101ecac-9c17-46a3-a780-e1d3299fa9a6?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/v3/e24377a221fe434a91124601efbd9e72/0101ecac9c1746a3a780e1d3299fa9a6?format=jpeg&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>EX30</model>
@@ -2254,52 +2259,6 @@
     <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
     </item>
     <item>
-    <g:id>765c63e2-3c14-4c44-b496-d121bc0cd416</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>765c63e2-3c14-4c44-b496-d121bc0cd416</vehicle_id>
-    <vehicle_registration_plate>WCC96R</vehicle_registration_plate>
-    <g:title>Volvo EX40 R Plus Edt | Drag | 360° |</g:title>
-    <title>Volvo EX40 R Plus Edt | Drag | 360° |</title>
-    <g:description>R Plus Edt | Drag | 360° |. Utrustningsnivå: Plus Edition. Miltal: 2 713 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: WCC96R. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>R Plus Edt | Drag | 360° |. Utrustningsnivå: Plus Edition. Miltal: 2 713 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: WCC96R. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/765c63e2-3c14-4c44-b496-d121bc0cd416</g:link>
-    <link>https://www.rejmesbil.se/sok/id/765c63e2-3c14-4c44-b496-d121bc0cd416</link>
-    <url>https://www.rejmesbil.se/sok/id/765c63e2-3c14-4c44-b496-d121bc0cd416</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/0557b42fd1ef4c3ab851cc38a0d55a41/2671192c9abf4f7d8482ea4d502ccc25?format=jpeg&amp;w=770&amp;h=514</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/0557b42fd1ef4c3ab851cc38a0d55a41/2671192c9abf4f7d8482ea4d502ccc25?format=jpeg&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>EX40</model>
-    <year>2025</year>
-    <mileage>
-      <value>27130</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>469500 SEK</g:price>
-    <price>469500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>469500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
-    </item>
-    <item>
     <g:id>ad907b55-16d5-4dfb-b25d-43f44dd474cc</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -3534,52 +3493,6 @@
       <component name="country">SE</component>
     </address>
     <sale_price>419500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
-    </item>
-    <item>
-    <g:id>8ac31e2f-3de8-4774-81be-7fe30f17db0e</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>8ac31e2f-3de8-4774-81be-7fe30f17db0e</vehicle_id>
-    <vehicle_registration_plate>MOW00X</vehicle_registration_plate>
-    <g:title>Volvo XC60 Recharge T6 Core Edition | Vinterhjul | Drag | H&amp;K |</g:title>
-    <title>Volvo XC60 Recharge T6 Core Edition | Vinterhjul | Drag | H&amp;K |</title>
-    <g:description>Recharge T6 Core Edition | Vinterhjul | Drag | H&amp;K |. Utrustningsnivå: Core. Miltal: 9 914 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: MOW00X. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>Recharge T6 Core Edition | Vinterhjul | Drag | H&amp;K |. Utrustningsnivå: Core. Miltal: 9 914 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: MOW00X. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/8ac31e2f-3de8-4774-81be-7fe30f17db0e</g:link>
-    <link>https://www.rejmesbil.se/sok/id/8ac31e2f-3de8-4774-81be-7fe30f17db0e</link>
-    <url>https://www.rejmesbil.se/sok/id/8ac31e2f-3de8-4774-81be-7fe30f17db0e</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/5fd170d6b156459daf51d9e49941a279/46ec7d129c76493584360f0bd8b697af?format=jpeg&amp;w=770&amp;h=514</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/5fd170d6b156459daf51d9e49941a279/46ec7d129c76493584360f0bd8b697af?format=jpeg&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC60</model>
-    <year>2023</year>
-    <mileage>
-      <value>99140</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>399500 SEK</g:price>
-    <price>399500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>399500 SEK</sale_price>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
