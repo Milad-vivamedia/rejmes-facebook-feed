@@ -5,6 +5,52 @@
     <link>https://www.rejmesbil.se</link>
     <description>Rejmes Bil Vehicle Inventory - Manufacturer Warranty</description>
     <item>
+    <g:id>d2055a39-5768-4fa7-8f61-d8e6fe538e90</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>d2055a39-5768-4fa7-8f61-d8e6fe538e90</vehicle_id>
+    <vehicle_registration_plate>GZW00F</vehicle_registration_plate>
+    <g:title>Volvo XC40 Recharge T4 Plus Bright</g:title>
+    <title>Volvo XC40 Recharge T4 Plus Bright</title>
+    <g:description>Recharge T4 Plus Bright. Utrustningsnivå: Plus. Miltal: 6 325 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: GZW00F. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>Recharge T4 Plus Bright. Utrustningsnivå: Plus. Miltal: 6 325 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: GZW00F. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/d2055a39-5768-4fa7-8f61-d8e6fe538e90</g:link>
+    <link>https://www.rejmesbil.se/sok/id/d2055a39-5768-4fa7-8f61-d8e6fe538e90</link>
+    <url>https://www.rejmesbil.se/sok/id/d2055a39-5768-4fa7-8f61-d8e6fe538e90</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/55cf00dc-db75-4acc-9380-bbcd96b5a3c3/eae08866-86d8-4963-ab81-2206cf5d9f05?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/55cf00dc-db75-4acc-9380-bbcd96b5a3c3/eae08866-86d8-4963-ab81-2206cf5d9f05?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC40</model>
+    <year>2023</year>
+    <mileage>
+      <value>63250</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>364500 SEK</g:price>
+    <price>364500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Halmstad</component>
+      <component name="city">Halmstad</component>
+      <component name="region">Halmstad</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>364500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
+    </item>
+    <item>
     <g:id>dc2039a7-4641-47e8-b730-572235d4c3c6</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -1109,52 +1155,6 @@
     <dealer_id>a19b2c7e-0d5f-4834-bf2d-a285eff2d725</dealer_id>
     </item>
     <item>
-    <g:id>85ed909b-eb8e-4ce6-8f4f-6af496b9f72e</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>85ed909b-eb8e-4ce6-8f4f-6af496b9f72e</vehicle_id>
-    <vehicle_registration_plate>FAX35R</vehicle_registration_plate>
-    <g:title>Volvo EX30 Plus</g:title>
-    <title>Volvo EX30 Plus</title>
-    <g:description>Plus. Utrustningsnivå: Plus. Miltal: 3 615 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: FAX35R. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>Plus. Utrustningsnivå: Plus. Miltal: 3 615 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: FAX35R. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/85ed909b-eb8e-4ce6-8f4f-6af496b9f72e</g:link>
-    <link>https://www.rejmesbil.se/sok/id/85ed909b-eb8e-4ce6-8f4f-6af496b9f72e</link>
-    <url>https://www.rejmesbil.se/sok/id/85ed909b-eb8e-4ce6-8f4f-6af496b9f72e</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/a79c8724fb504d52a88c3ae86a201da7/a323d74044b24c3684ec430d7bc3715b?format=jpeg&amp;w=770&amp;h=514</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/a79c8724fb504d52a88c3ae86a201da7/a323d74044b24c3684ec430d7bc3715b?format=jpeg&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>EX30</model>
-    <year>2025</year>
-    <mileage>
-      <value>36150</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>389500 SEK</g:price>
-    <price>389500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>389500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
-    </item>
-    <item>
     <g:id>e190b190-23a5-43b4-94c1-29e2f9e8dd88</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -1247,52 +1247,6 @@
     <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
     </item>
     <item>
-    <g:id>7d097b46-a48a-44c3-936b-712688062f29</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>7d097b46-a48a-44c3-936b-712688062f29</vehicle_id>
-    <vehicle_registration_plate>FFP25S</vehicle_registration_plate>
-    <g:title>Volvo EX40 R Core SE</g:title>
-    <title>Volvo EX40 R Core SE</title>
-    <g:description>R Core SE. Utrustningsnivå: Core Special Edition. Miltal: 3 740 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: FFP25S. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>R Core SE. Utrustningsnivå: Core Special Edition. Miltal: 3 740 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: FFP25S. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/7d097b46-a48a-44c3-936b-712688062f29</g:link>
-    <link>https://www.rejmesbil.se/sok/id/7d097b46-a48a-44c3-936b-712688062f29</link>
-    <url>https://www.rejmesbil.se/sok/id/7d097b46-a48a-44c3-936b-712688062f29</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/30f766e1-f920-4008-a112-6ab3a29b27c1/d62d0c78-e477-49c2-8de4-124f33983b42?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/30f766e1-f920-4008-a112-6ab3a29b27c1/d62d0c78-e477-49c2-8de4-124f33983b42?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>EX40</model>
-    <year>2025</year>
-    <mileage>
-      <value>37400</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>439500 SEK</g:price>
-    <price>439500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>439500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
-    </item>
-    <item>
     <g:id>656a8ee7-6549-4279-9105-649b8552de56</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -1377,52 +1331,6 @@
       <component name="country">SE</component>
     </address>
     <sale_price>429500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
-    </item>
-    <item>
-    <g:id>1119b0be-1ca7-4206-b017-0641fab36608</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>1119b0be-1ca7-4206-b017-0641fab36608</vehicle_id>
-    <vehicle_registration_plate>WBY00J</vehicle_registration_plate>
-    <g:title>Volvo XC40 B3 FWD Bensin Plus Dark</g:title>
-    <title>Volvo XC40 B3 FWD Bensin Plus Dark</title>
-    <g:description>B3 FWD Bensin Plus Dark. Utrustningsnivå: Plus. Miltal: 5 453 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: WBY00J. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>B3 FWD Bensin Plus Dark. Utrustningsnivå: Plus. Miltal: 5 453 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: WBY00J. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/1119b0be-1ca7-4206-b017-0641fab36608</g:link>
-    <link>https://www.rejmesbil.se/sok/id/1119b0be-1ca7-4206-b017-0641fab36608</link>
-    <url>https://www.rejmesbil.se/sok/id/1119b0be-1ca7-4206-b017-0641fab36608</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/5cb7e5ef519547adadc2c9ae2725d329/d4c5155108ca46f0bec21f28395ede40?format=jpeg&amp;w=770&amp;h=514</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/5cb7e5ef519547adadc2c9ae2725d329/d4c5155108ca46f0bec21f28395ede40?format=jpeg&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2025</year>
-    <mileage>
-      <value>54530</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>379500 SEK</g:price>
-    <price>379500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>379500 SEK</sale_price>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
@@ -2075,52 +1983,6 @@
     <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
     </item>
     <item>
-    <g:id>1579b133-fc8e-4f6a-922e-1ee71eb83763</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>1579b133-fc8e-4f6a-922e-1ee71eb83763</vehicle_id>
-    <vehicle_registration_plate>TER78C</vehicle_registration_plate>
-    <g:title>Volvo XC40 Core | Backkamera</g:title>
-    <title>Volvo XC40 Core | Backkamera</title>
-    <g:description>Core | Backkamera. Utrustningsnivå: Core. Miltal: 5 514 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: TER78C. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>Core | Backkamera. Utrustningsnivå: Core. Miltal: 5 514 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Registreringsnummer: TER78C. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/1579b133-fc8e-4f6a-922e-1ee71eb83763</g:link>
-    <link>https://www.rejmesbil.se/sok/id/1579b133-fc8e-4f6a-922e-1ee71eb83763</link>
-    <url>https://www.rejmesbil.se/sok/id/1579b133-fc8e-4f6a-922e-1ee71eb83763</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/905cc00a4933487a8e4e2ed01f43b2ca/303230adb00f44c0a16f779f511a8022?format=jpeg&amp;w=770&amp;h=514</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/905cc00a4933487a8e4e2ed01f43b2ca/303230adb00f44c0a16f779f511a8022?format=jpeg&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2023</year>
-    <mileage>
-      <value>55140</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>339500 SEK</g:price>
-    <price>339500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>339500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
-    </item>
-    <item>
     <g:id>bd582578-6cdb-46e4-9776-37afbc859f30</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -2397,52 +2259,6 @@
     <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
     </item>
     <item>
-    <g:id>14b494a4-0b47-4b77-9bf7-3e1e3113597b</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>14b494a4-0b47-4b77-9bf7-3e1e3113597b</vehicle_id>
-    <vehicle_registration_plate>LEE01F</vehicle_registration_plate>
-    <g:title>Volvo EX40 R Core SE | 360-kamera | Dragkrok</g:title>
-    <title>Volvo EX40 R Core SE | 360-kamera | Dragkrok</title>
-    <g:description>R Core SE | 360-kamera | Dragkrok. Utrustningsnivå: Core Special Edition. Miltal: 4 012 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: LEE01F. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>R Core SE | 360-kamera | Dragkrok. Utrustningsnivå: Core Special Edition. Miltal: 4 012 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: LEE01F. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/14b494a4-0b47-4b77-9bf7-3e1e3113597b</g:link>
-    <link>https://www.rejmesbil.se/sok/id/14b494a4-0b47-4b77-9bf7-3e1e3113597b</link>
-    <url>https://www.rejmesbil.se/sok/id/14b494a4-0b47-4b77-9bf7-3e1e3113597b</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/1d34db9d43e147549d9488b169b94da4/62a566e3ab374703b6297e52c915db40?format=jpeg&amp;w=770&amp;h=514</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/1d34db9d43e147549d9488b169b94da4/62a566e3ab374703b6297e52c915db40?format=jpeg&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>EX40</model>
-    <year>2025</year>
-    <mileage>
-      <value>40120</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>449500 SEK</g:price>
-    <price>449500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>449500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
-    </item>
-    <item>
     <g:id>2fddf22b-a942-4452-be55-97cee9016410</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -2487,6 +2303,52 @@
     <condition>new</condition>
     <state_of_vehicle>NEW</state_of_vehicle>
     <dealer_id>cddd81a6-5031-42cd-a468-67eb1f2299c7</dealer_id>
+    </item>
+    <item>
+    <g:id>8a54549d-d68e-4e45-92d8-ec3a067a55f5</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>8a54549d-d68e-4e45-92d8-ec3a067a55f5</vehicle_id>
+    <vehicle_registration_plate>UCC157</vehicle_registration_plate>
+    <g:title>Volvo XC40 Recharge T4 Ultimate Bright | 360-kamera | Drag</g:title>
+    <title>Volvo XC40 Recharge T4 Ultimate Bright | 360-kamera | Drag</title>
+    <g:description>Recharge T4 Ultimate Bright | 360-kamera | Drag. Utrustningsnivå: Ultimate. Miltal: 7 099 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: UCC157. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>Recharge T4 Ultimate Bright | 360-kamera | Drag. Utrustningsnivå: Ultimate. Miltal: 7 099 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: UCC157. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/8a54549d-d68e-4e45-92d8-ec3a067a55f5</g:link>
+    <link>https://www.rejmesbil.se/sok/id/8a54549d-d68e-4e45-92d8-ec3a067a55f5</link>
+    <url>https://www.rejmesbil.se/sok/id/8a54549d-d68e-4e45-92d8-ec3a067a55f5</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/9bffd708f12d4e359c9c5ecab344301e/bcdd971bde0249b59739935388ba6217?format=jpeg&amp;w=770&amp;h=514</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/9bffd708f12d4e359c9c5ecab344301e/bcdd971bde0249b59739935388ba6217?format=jpeg&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC40</model>
+    <year>2023</year>
+    <mileage>
+      <value>70990</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>369000 SEK</g:price>
+    <price>369000 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Falkenberg</component>
+      <component name="city">Falkenberg</component>
+      <component name="region">Falkenberg</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>369000 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>a19b2c7e-0d5f-4834-bf2d-a285eff2d725</dealer_id>
     </item>
     <item>
     <g:id>1f60c5cf-af12-44d1-9f79-08933a71ecb2</g:id>
@@ -3317,52 +3179,6 @@
     <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
     </item>
     <item>
-    <g:id>a125c273-51de-4bde-86e0-149f8751a110</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>a125c273-51de-4bde-86e0-149f8751a110</vehicle_id>
-    <vehicle_registration_plate>KWS719</vehicle_registration_plate>
-    <g:title>Volvo XC60 Recharge T6 Core Bright | Vinterhjul | Dragkrok |</g:title>
-    <title>Volvo XC60 Recharge T6 Core Bright | Vinterhjul | Dragkrok |</title>
-    <g:description>Recharge T6 Core Bright | Vinterhjul | Dragkrok |. Utrustningsnivå: Core Bright. Miltal: 10 195 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: KWS719. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>Recharge T6 Core Bright | Vinterhjul | Dragkrok |. Utrustningsnivå: Core Bright. Miltal: 10 195 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: KWS719. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/a125c273-51de-4bde-86e0-149f8751a110</g:link>
-    <link>https://www.rejmesbil.se/sok/id/a125c273-51de-4bde-86e0-149f8751a110</link>
-    <url>https://www.rejmesbil.se/sok/id/a125c273-51de-4bde-86e0-149f8751a110</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/3d075ce8977d4ffcb22d0d34d55823da/cb35a1206f9f419a90285900aef4d43e?format=jpeg&amp;w=770&amp;h=514</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/3d075ce8977d4ffcb22d0d34d55823da/cb35a1206f9f419a90285900aef4d43e?format=jpeg&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC60</model>
-    <year>2023</year>
-    <mileage>
-      <value>101950</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>389500 SEK</g:price>
-    <price>389500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>389500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
-    </item>
-    <item>
     <g:id>e62e70da-df64-422b-bccd-d0a4f09d4e7c</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -3815,52 +3631,6 @@
       <component name="country">SE</component>
     </address>
     <sale_price>414500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
-    </item>
-    <item>
-    <g:id>1b4071f8-7a5a-45f2-871d-aa33b29de184</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>1b4071f8-7a5a-45f2-871d-aa33b29de184</vehicle_id>
-    <vehicle_registration_plate>UCE80S</vehicle_registration_plate>
-    <g:title>Volvo XC60 Recharge T6 Core Edition | Vinterhjul | Dragkrok |</g:title>
-    <title>Volvo XC60 Recharge T6 Core Edition | Vinterhjul | Dragkrok |</title>
-    <g:description>Recharge T6 Core Edition | Vinterhjul | Dragkrok |. Utrustningsnivå: Core. Miltal: 11 499 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: UCE80S. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>Recharge T6 Core Edition | Vinterhjul | Dragkrok |. Utrustningsnivå: Core. Miltal: 11 499 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: UCE80S. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/1b4071f8-7a5a-45f2-871d-aa33b29de184</g:link>
-    <link>https://www.rejmesbil.se/sok/id/1b4071f8-7a5a-45f2-871d-aa33b29de184</link>
-    <url>https://www.rejmesbil.se/sok/id/1b4071f8-7a5a-45f2-871d-aa33b29de184</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/d19a4d1095054e42b8d5a326bc07b693/a66b0b218d164e44a331423ebfeb18dc?format=jpeg&amp;w=770&amp;h=514</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/d19a4d1095054e42b8d5a326bc07b693/a66b0b218d164e44a331423ebfeb18dc?format=jpeg&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC60</model>
-    <year>2023</year>
-    <mileage>
-      <value>114990</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>379500 SEK</g:price>
-    <price>379500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>379500 SEK</sale_price>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
@@ -4464,52 +4234,6 @@
     <g:condition>used</g:condition>
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
-    </item>
-    <item>
-    <g:id>77bfc8a5-0ece-468b-9ee1-5d758325abe3</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>77bfc8a5-0ece-468b-9ee1-5d758325abe3</vehicle_id>
-    <vehicle_registration_plate>KZK16C</vehicle_registration_plate>
-    <g:title>Volvo XC90 T8 Ultra Dark | Drag | 360° | H/K | HUD | Panorama |</g:title>
-    <title>Volvo XC90 T8 Ultra Dark | Drag | 360° | H/K | HUD | Panorama |</title>
-    <g:description>T8 Ultra Dark | Drag | 360° | H/K | HUD | Panorama |. Utrustningsnivå: Ultra. Miltal: 2 880 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: KZK16C. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>T8 Ultra Dark | Drag | 360° | H/K | HUD | Panorama |. Utrustningsnivå: Ultra. Miltal: 2 880 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: KZK16C. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/77bfc8a5-0ece-468b-9ee1-5d758325abe3</g:link>
-    <link>https://www.rejmesbil.se/sok/id/77bfc8a5-0ece-468b-9ee1-5d758325abe3</link>
-    <url>https://www.rejmesbil.se/sok/id/77bfc8a5-0ece-468b-9ee1-5d758325abe3</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/d17b81e24b5a4afa97aa27aca095f54e/7de1db02d89e4568a89d794c1933cc98?format=jpeg&amp;w=770&amp;h=514</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/d17b81e24b5a4afa97aa27aca095f54e/7de1db02d89e4568a89d794c1933cc98?format=jpeg&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC90</model>
-    <year>2026</year>
-    <mileage>
-      <value>28800</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>794500 SEK</g:price>
-    <price>794500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>794500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>new</g:condition>
-    <condition>new</condition>
-    <state_of_vehicle>NEW</state_of_vehicle>
     <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
     </item>
     <item>
