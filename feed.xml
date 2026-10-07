@@ -5,6 +5,98 @@
     <link>https://www.rejmesbil.se</link>
     <description>Rejmes Bil Vehicle Inventory - Manufacturer Warranty</description>
     <item>
+    <g:id>4b9b02fd-444a-4629-8f12-e4a00a93c9e6</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>4b9b02fd-444a-4629-8f12-e4a00a93c9e6</vehicle_id>
+    <vehicle_registration_plate>CEP07R</vehicle_registration_plate>
+    <g:title>Volvo V60 T6 Plus Dark Nordic Edition</g:title>
+    <title>Volvo V60 T6 Plus Dark Nordic Edition</title>
+    <g:description>T6 Plus Dark Nordic Edition. Utrustningsnivå: Plus Nordic Edition. Miltal: 4 534 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: CEP07R. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>T6 Plus Dark Nordic Edition. Utrustningsnivå: Plus Nordic Edition. Miltal: 4 534 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: CEP07R. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/4b9b02fd-444a-4629-8f12-e4a00a93c9e6</g:link>
+    <link>https://www.rejmesbil.se/sok/id/4b9b02fd-444a-4629-8f12-e4a00a93c9e6</link>
+    <url>https://www.rejmesbil.se/sok/id/4b9b02fd-444a-4629-8f12-e4a00a93c9e6</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/99a73a9260424b06b4a2d3074b4ddc70/e7b968b71c0442ddb64663125dd1dc69?format=jpeg&amp;w=770&amp;h=514</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/99a73a9260424b06b4a2d3074b4ddc70/e7b968b71c0442ddb64663125dd1dc69?format=jpeg&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>V60</model>
+    <year>2025</year>
+    <mileage>
+      <value>45340</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Wagon</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>429500 SEK</g:price>
+    <price>429500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Halmstad</component>
+      <component name="city">Halmstad</component>
+      <component name="region">Halmstad</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>429500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
+    </item>
+    <item>
+    <g:id>8fcf4eee-9b68-424a-bfb3-61d44bc72e38</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>8fcf4eee-9b68-424a-bfb3-61d44bc72e38</vehicle_id>
+    <vehicle_registration_plate>GYW01R</vehicle_registration_plate>
+    <g:title>Volvo EC40 Ultra</g:title>
+    <title>Volvo EC40 Ultra</title>
+    <g:description>Ultra. Utrustningsnivå: Ultra. Miltal: 3 151 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: GYW01R. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>Ultra. Utrustningsnivå: Ultra. Miltal: 3 151 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: GYW01R. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/8fcf4eee-9b68-424a-bfb3-61d44bc72e38</g:link>
+    <link>https://www.rejmesbil.se/sok/id/8fcf4eee-9b68-424a-bfb3-61d44bc72e38</link>
+    <url>https://www.rejmesbil.se/sok/id/8fcf4eee-9b68-424a-bfb3-61d44bc72e38</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/251d444b-e9c4-40f1-af98-45172a74f15c/be56a5ff-1643-4992-aca1-fcddb63204a0?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/251d444b-e9c4-40f1-af98-45172a74f15c/be56a5ff-1643-4992-aca1-fcddb63204a0?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>EC40</model>
+    <year>2025</year>
+    <mileage>
+      <value>31510</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>479500 SEK</g:price>
+    <price>479500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Falkenberg</component>
+      <component name="city">Falkenberg</component>
+      <component name="region">Falkenberg</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>479500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>a19b2c7e-0d5f-4834-bf2d-a285eff2d725</dealer_id>
+    </item>
+    <item>
     <g:id>7957ce8f-94b2-4e86-bdc5-277a87d6c9b2</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -66,9 +158,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/bad04e32-541e-49c8-8c17-7c3fb781e44c/90e93d08-5052-471d-84c2-6f5950c29247?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/bad04e32541e49c88c177c3fb781e44c/90e93d085052471d84c26f5950c29247?format=jpeg&amp;w=770&amp;h=514</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/bad04e32-541e-49c8-8c17-7c3fb781e44c/90e93d08-5052-471d-84c2-6f5950c29247?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/bad04e32541e49c88c177c3fb781e44c/90e93d085052471d84c26f5950c29247?format=jpeg&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>EX40</model>
@@ -204,9 +296,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/3e389e97-5fa7-4c04-a67a-44147d04a8b2/2546212a-70a2-4e74-a692-aabee394ee3f?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/3e389e975fa74c04a67a44147d04a8b2/2546212a70a24e74a692aabee394ee3f?format=jpeg&amp;w=770&amp;h=514</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/3e389e97-5fa7-4c04-a67a-44147d04a8b2/2546212a-70a2-4e74-a692-aabee394ee3f?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/3e389e975fa74c04a67a44147d04a8b2/2546212a70a24e74a692aabee394ee3f?format=jpeg&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>EX40</model>
@@ -296,9 +388,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/ca303c37-f1fb-4584-ac01-eeff72441909/8e3b1b15-247f-49e3-8706-405ab6ac7c7b?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/ca303c37f1fb4584ac01eeff72441909/8e3b1b15247f49e38706405ab6ac7c7b?format=jpeg&amp;w=770&amp;h=514</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/ca303c37-f1fb-4584-ac01-eeff72441909/8e3b1b15-247f-49e3-8706-405ab6ac7c7b?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/ca303c37f1fb4584ac01eeff72441909/8e3b1b15247f49e38706405ab6ac7c7b?format=jpeg&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>EX40</model>
@@ -1170,9 +1262,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/36edebf9-f624-47ef-9300-801a4ed333b5/411ed1e4-e699-4bae-b1fd-53bffe43ba0b?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/36edebf9f62447ef9300801a4ed333b5/411ed1e4e6994baeb1fd53bffe43ba0b?format=jpeg&amp;w=770&amp;h=514</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/36edebf9-f624-47ef-9300-801a4ed333b5/411ed1e4-e699-4bae-b1fd-53bffe43ba0b?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/36edebf9f62447ef9300801a4ed333b5/411ed1e4e6994baeb1fd53bffe43ba0b?format=jpeg&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>EC40</model>
@@ -2809,52 +2901,6 @@
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>a19b2c7e-0d5f-4834-bf2d-a285eff2d725</dealer_id>
-    </item>
-    <item>
-    <g:id>bbd5d58a-13a7-4c65-8ec3-3a3a81222344</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>bbd5d58a-13a7-4c65-8ec3-3a3a81222344</vehicle_id>
-    <vehicle_registration_plate>AKX27Z</vehicle_registration_plate>
-    <g:title>Volvo XC60 T6 Plus Dark Nordic Edition | Dragkrok | 360-kamera | H/K | 20&quot; |</g:title>
-    <title>Volvo XC60 T6 Plus Dark Nordic Edition | Dragkrok | 360-kamera | H/K | 20&quot; |</title>
-    <g:description>T6 Plus Dark Nordic Edition | Dragkrok | 360-kamera | H/K | 20&quot; |. Utrustningsnivå: Plus Nordic Edition. Miltal: 2 774 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: AKX27Z. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>T6 Plus Dark Nordic Edition | Dragkrok | 360-kamera | H/K | 20&quot; |. Utrustningsnivå: Plus Nordic Edition. Miltal: 2 774 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: AKX27Z. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/bbd5d58a-13a7-4c65-8ec3-3a3a81222344</g:link>
-    <link>https://www.rejmesbil.se/sok/id/bbd5d58a-13a7-4c65-8ec3-3a3a81222344</link>
-    <url>https://www.rejmesbil.se/sok/id/bbd5d58a-13a7-4c65-8ec3-3a3a81222344</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/a5be84ae939746a7a105c73839188ab0/355391cafee14121a3a9c22bba8925e4?format=jpeg&amp;w=770&amp;h=514</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/a5be84ae939746a7a105c73839188ab0/355391cafee14121a3a9c22bba8925e4?format=jpeg&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC60</model>
-    <year>2026</year>
-    <mileage>
-      <value>27740</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>589500 SEK</g:price>
-    <price>589500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>589500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>new</g:condition>
-    <condition>new</condition>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
     </item>
     <item>
     <g:id>1af5173d-4b3f-4764-a223-e02b3d24f8ac</g:id>
