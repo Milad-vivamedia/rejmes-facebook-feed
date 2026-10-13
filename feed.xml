@@ -5,6 +5,52 @@
     <link>https://www.rejmesbil.se</link>
     <description>Rejmes Bil Vehicle Inventory - Manufacturer Warranty</description>
     <item>
+    <g:id>cdfd21b0-8152-4413-a980-71dbd2e1281e</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>cdfd21b0-8152-4413-a980-71dbd2e1281e</vehicle_id>
+    <vehicle_registration_plate>BWR02Z</vehicle_registration_plate>
+    <g:title>Volvo V90 T6 Core Edition II</g:title>
+    <title>Volvo V90 T6 Core Edition II</title>
+    <g:description>T6 Core Edition II. Utrustningsnivå: Core Edition. Miltal: 5 748 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: BWR02Z. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>T6 Core Edition II. Utrustningsnivå: Core Edition. Miltal: 5 748 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: BWR02Z. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/cdfd21b0-8152-4413-a980-71dbd2e1281e</g:link>
+    <link>https://www.rejmesbil.se/sok/id/cdfd21b0-8152-4413-a980-71dbd2e1281e</link>
+    <url>https://www.rejmesbil.se/sok/id/cdfd21b0-8152-4413-a980-71dbd2e1281e</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/89643e94-b5dc-4766-b16a-c0f468004c22/cf36ef06-8776-406f-9aa8-4e75a56a8aac?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/89643e94-b5dc-4766-b16a-c0f468004c22/cf36ef06-8776-406f-9aa8-4e75a56a8aac?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>V90</model>
+    <year>2025</year>
+    <mileage>
+      <value>57480</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Wagon</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>424500 SEK</g:price>
+    <price>424500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Halmstad</component>
+      <component name="city">Halmstad</component>
+      <component name="region">Halmstad</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>424500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
+    </item>
+    <item>
     <g:id>a6e291bd-89eb-4f43-906e-0c3be9665b37</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
