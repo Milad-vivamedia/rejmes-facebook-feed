@@ -5,6 +5,52 @@
     <link>https://www.rejmesbil.se</link>
     <description>Rejmes Bil Vehicle Inventory - Manufacturer Warranty</description>
     <item>
+    <g:id>9d5925d9-6985-4dd5-b602-5717b08c8a80</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>9d5925d9-6985-4dd5-b602-5717b08c8a80</vehicle_id>
+    <vehicle_registration_plate>YAR42Z</vehicle_registration_plate>
+    <g:title>Volvo V60 T6 Plus Dark Nordic Edition</g:title>
+    <title>Volvo V60 T6 Plus Dark Nordic Edition</title>
+    <g:description>T6 Plus Dark Nordic Edition. Utrustningsnivå: Plus Nordic Edition. Miltal: 5 789 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: YAR42Z. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>T6 Plus Dark Nordic Edition. Utrustningsnivå: Plus Nordic Edition. Miltal: 5 789 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: YAR42Z. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/9d5925d9-6985-4dd5-b602-5717b08c8a80</g:link>
+    <link>https://www.rejmesbil.se/sok/id/9d5925d9-6985-4dd5-b602-5717b08c8a80</link>
+    <url>https://www.rejmesbil.se/sok/id/9d5925d9-6985-4dd5-b602-5717b08c8a80</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/c78109e1-a645-4809-b278-cb92ca42d83f/14843939-b2f5-4f95-bf47-8641466abd6f?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/c78109e1-a645-4809-b278-cb92ca42d83f/14843939-b2f5-4f95-bf47-8641466abd6f?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>V60</model>
+    <year>2025</year>
+    <mileage>
+      <value>57890</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Wagon</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>419500 SEK</g:price>
+    <price>419500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Halmstad</component>
+      <component name="city">Halmstad</component>
+      <component name="region">Halmstad</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>419500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
+    </item>
+    <item>
     <g:id>edb4b5c2-eb24-4b6b-b3f4-925f0f0e6485</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -20,9 +66,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/bad45bac-8571-4343-95a3-ac2bfcad88ce/53a0d39d-8eb4-441a-9871-6eff99bc0445?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/bad45bac8571434395a3ac2bfcad88ce/53a0d39d8eb4441a98716eff99bc0445?format=jpeg&amp;w=770&amp;h=514</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/bad45bac-8571-4343-95a3-ac2bfcad88ce/53a0d39d-8eb4-441a-9871-6eff99bc0445?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/v3/bad45bac8571434395a3ac2bfcad88ce/53a0d39d8eb4441a98716eff99bc0445?format=jpeg&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>V60</model>
@@ -245,9 +291,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/45de27ef89db4738bff383c5dafc9365/6bf8ed52185a4b389dac63b6564a3427?format=jpeg&amp;w=770&amp;h=514</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/156cdbacdb144cacbebd801f2b07223a/06f9a12b88b54a07a228bfcdd23603ab?format=jpeg&amp;w=770&amp;h=514</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/v3/45de27ef89db4738bff383c5dafc9365/6bf8ed52185a4b389dac63b6564a3427?format=jpeg&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/v3/156cdbacdb144cacbebd801f2b07223a/06f9a12b88b54a07a228bfcdd23603ab?format=jpeg&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>XC40</model>
@@ -4776,52 +4822,6 @@
       <component name="country">SE</component>
     </address>
     <sale_price>789500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>new</g:condition>
-    <condition>new</condition>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
-    </item>
-    <item>
-    <g:id>f0869bfc-6a2d-478b-b72f-74449daa834b</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>f0869bfc-6a2d-478b-b72f-74449daa834b</vehicle_id>
-    <vehicle_registration_plate>MUW03N</vehicle_registration_plate>
-    <g:title>Volvo V90 T6 Plus Dark Nordic Edition | Drag | 360° | H/K |</g:title>
-    <title>Volvo V90 T6 Plus Dark Nordic Edition | Drag | 360° | H/K |</title>
-    <g:description>T6 Plus Dark Nordic Edition | Drag | 360° | H/K |. Utrustningsnivå: Plus Nordic Edition. Miltal: 2 101 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: MUW03N. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>T6 Plus Dark Nordic Edition | Drag | 360° | H/K |. Utrustningsnivå: Plus Nordic Edition. Miltal: 2 101 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: MUW03N. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/f0869bfc-6a2d-478b-b72f-74449daa834b</g:link>
-    <link>https://www.rejmesbil.se/sok/id/f0869bfc-6a2d-478b-b72f-74449daa834b</link>
-    <url>https://www.rejmesbil.se/sok/id/f0869bfc-6a2d-478b-b72f-74449daa834b</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/5cd5405c-0782-42da-bb07-4c92404ba468/4bdc3f04-081b-495f-8160-482446f85ba7?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/5cd5405c-0782-42da-bb07-4c92404ba468/4bdc3f04-081b-495f-8160-482446f85ba7?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>V90</model>
-    <year>2026</year>
-    <mileage>
-      <value>21010</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Wagon</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>499500 SEK</g:price>
-    <price>499500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>499500 SEK</sale_price>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>new</g:condition>
