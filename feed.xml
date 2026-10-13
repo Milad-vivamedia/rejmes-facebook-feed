@@ -5,6 +5,139 @@
     <link>https://www.rejmesbil.se</link>
     <description>Rejmes Bil Vehicle Inventory - Manufacturer Warranty</description>
     <item>
+    <g:id>a6e291bd-89eb-4f43-906e-0c3be9665b37</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>a6e291bd-89eb-4f43-906e-0c3be9665b37</vehicle_id>
+    <vehicle_registration_plate>RBM62C</vehicle_registration_plate>
+    <g:title>Volvo EX40 R Plus Edt</g:title>
+    <title>Volvo EX40 R Plus Edt</title>
+    <g:description>R Plus Edt. Utrustningsnivå: Plus Edition. Miltal: 3 124 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: RBM62C. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>R Plus Edt. Utrustningsnivå: Plus Edition. Miltal: 3 124 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: RBM62C. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/a6e291bd-89eb-4f43-906e-0c3be9665b37</g:link>
+    <link>https://www.rejmesbil.se/sok/id/a6e291bd-89eb-4f43-906e-0c3be9665b37</link>
+    <url>https://www.rejmesbil.se/sok/id/a6e291bd-89eb-4f43-906e-0c3be9665b37</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/1db4fab6-2cbc-4afe-ba27-b2ac073477fb/2e857eb4-fe2c-4877-af8a-987b0efd9d98?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/1db4fab6-2cbc-4afe-ba27-b2ac073477fb/2e857eb4-fe2c-4877-af8a-987b0efd9d98?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>EX40</model>
+    <year>2025</year>
+    <mileage>
+      <value>31240</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>474500 SEK</g:price>
+    <price>474500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Halmstad</component>
+      <component name="city">Halmstad</component>
+      <component name="region">Halmstad</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>474500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
+    </item>
+    <item>
+    <g:id>d05a136f-fba8-42c7-9c55-5fff2603712f</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>d05a136f-fba8-42c7-9c55-5fff2603712f</vehicle_id>
+    <vehicle_registration_plate>JBT93H</vehicle_registration_plate>
+    <g:title>Volvo EX40 ExtendedRange Plus SE</g:title>
+    <title>Volvo EX40 ExtendedRange Plus SE</title>
+    <g:description>ExtendedRange Plus SE. Utrustningsnivå: Plus Special Edition. Miltal: 384 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Registreringsnummer: JBT93H. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>ExtendedRange Plus SE. Utrustningsnivå: Plus Special Edition. Miltal: 384 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Registreringsnummer: JBT93H. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/d05a136f-fba8-42c7-9c55-5fff2603712f</g:link>
+    <link>https://www.rejmesbil.se/sok/id/d05a136f-fba8-42c7-9c55-5fff2603712f</link>
+    <url>https://www.rejmesbil.se/sok/id/d05a136f-fba8-42c7-9c55-5fff2603712f</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <model>EX40</model>
+    <year>2026</year>
+    <mileage>
+      <value>3840</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>499500 SEK</g:price>
+    <price>499500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Halmstad</component>
+      <component name="city">Halmstad</component>
+      <component name="region">Halmstad</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>499500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>new</g:condition>
+    <condition>new</condition>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
+    </item>
+    <item>
+    <g:id>e2d1009d-b1e0-40ae-82e5-a8bf0b0d60b1</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>e2d1009d-b1e0-40ae-82e5-a8bf0b0d60b1</vehicle_id>
+    <vehicle_registration_plate>ZJS717</vehicle_registration_plate>
+    <g:title>Volvo EX30 Ultra</g:title>
+    <title>Volvo EX30 Ultra</title>
+    <g:description>Ultra. Utrustningsnivå: Ultra. Miltal: 3 400 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: ZJS717. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>Ultra. Utrustningsnivå: Ultra. Miltal: 3 400 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: ZJS717. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/e2d1009d-b1e0-40ae-82e5-a8bf0b0d60b1</g:link>
+    <link>https://www.rejmesbil.se/sok/id/e2d1009d-b1e0-40ae-82e5-a8bf0b0d60b1</link>
+    <url>https://www.rejmesbil.se/sok/id/e2d1009d-b1e0-40ae-82e5-a8bf0b0d60b1</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/6498db730ea1437b8d66261ab663eaef/ef98bab6c884427d84891db66cc596cd?format=jpeg&amp;w=770&amp;h=514</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/6498db730ea1437b8d66261ab663eaef/ef98bab6c884427d84891db66cc596cd?format=jpeg&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>EX30</model>
+    <year>2025</year>
+    <mileage>
+      <value>34000</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>389500 SEK</g:price>
+    <price>389500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Laholm</component>
+      <component name="city">Laholm</component>
+      <component name="region">Laholm</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>389500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>cddd81a6-5031-42cd-a468-67eb1f2299c7</dealer_id>
+    </item>
+    <item>
     <g:id>9d5925d9-6985-4dd5-b602-5717b08c8a80</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -20,9 +153,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/c78109e1-a645-4809-b278-cb92ca42d83f/14843939-b2f5-4f95-bf47-8641466abd6f?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/6a393f249b604fb69cd6ef6818ec13d2/7dc31043074d450e94408e2b6b2f3c25?format=jpeg&amp;w=770&amp;h=514</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/c78109e1-a645-4809-b278-cb92ca42d83f/14843939-b2f5-4f95-bf47-8641466abd6f?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/6a393f249b604fb69cd6ef6818ec13d2/7dc31043074d450e94408e2b6b2f3c25?format=jpeg&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>V60</model>
@@ -550,52 +683,6 @@
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>cddd81a6-5031-42cd-a468-67eb1f2299c7</dealer_id>
-    </item>
-    <item>
-    <g:id>4b9b02fd-444a-4629-8f12-e4a00a93c9e6</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>4b9b02fd-444a-4629-8f12-e4a00a93c9e6</vehicle_id>
-    <vehicle_registration_plate>CEP07R</vehicle_registration_plate>
-    <g:title>Volvo V60 T6 Plus Dark Nordic Edition | Drag | H&amp;K | 360° |</g:title>
-    <title>Volvo V60 T6 Plus Dark Nordic Edition | Drag | H&amp;K | 360° |</title>
-    <g:description>T6 Plus Dark Nordic Edition | Drag | H&amp;K | 360° |. Utrustningsnivå: Plus Nordic Edition. Miltal: 4 534 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: CEP07R. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>T6 Plus Dark Nordic Edition | Drag | H&amp;K | 360° |. Utrustningsnivå: Plus Nordic Edition. Miltal: 4 534 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: CEP07R. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/4b9b02fd-444a-4629-8f12-e4a00a93c9e6</g:link>
-    <link>https://www.rejmesbil.se/sok/id/4b9b02fd-444a-4629-8f12-e4a00a93c9e6</link>
-    <url>https://www.rejmesbil.se/sok/id/4b9b02fd-444a-4629-8f12-e4a00a93c9e6</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/bdecf2e4a1fa4e0d9b135ea461357681/296f966d5eb04eff8e7bed03ada685dd?format=jpeg&amp;w=770&amp;h=514</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/bdecf2e4a1fa4e0d9b135ea461357681/296f966d5eb04eff8e7bed03ada685dd?format=jpeg&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>V60</model>
-    <year>2025</year>
-    <mileage>
-      <value>45340</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Wagon</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>429500 SEK</g:price>
-    <price>429500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>429500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
     </item>
     <item>
     <g:id>92a33741-88c0-40df-8899-48a258496cbb</g:id>
@@ -1332,52 +1419,6 @@
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>a19b2c7e-0d5f-4834-bf2d-a285eff2d725</dealer_id>
-    </item>
-    <item>
-    <g:id>dc2039a7-4641-47e8-b730-572235d4c3c6</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>dc2039a7-4641-47e8-b730-572235d4c3c6</vehicle_id>
-    <vehicle_registration_plate>UFX91A</vehicle_registration_plate>
-    <g:title>Volvo EX30 Plus</g:title>
-    <title>Volvo EX30 Plus</title>
-    <g:description>Plus. Utrustningsnivå: Plus. Miltal: 3 654 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: UFX91A. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>Plus. Utrustningsnivå: Plus. Miltal: 3 654 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: UFX91A. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/dc2039a7-4641-47e8-b730-572235d4c3c6</g:link>
-    <link>https://www.rejmesbil.se/sok/id/dc2039a7-4641-47e8-b730-572235d4c3c6</link>
-    <url>https://www.rejmesbil.se/sok/id/dc2039a7-4641-47e8-b730-572235d4c3c6</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/124782a974f84bc59f4c983cee181d2f/f0da31249a6846ab97be507cc2f25465?format=jpeg&amp;w=770&amp;h=514</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/124782a974f84bc59f4c983cee181d2f/f0da31249a6846ab97be507cc2f25465?format=jpeg&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>EX30</model>
-    <year>2025</year>
-    <mileage>
-      <value>36540</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>379500 SEK</g:price>
-    <price>379500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>379500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
     </item>
     <item>
     <g:id>d5c1ddb4-edf0-4b2e-a8d6-f7a5d4cfb988</g:id>
