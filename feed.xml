@@ -5,6 +5,374 @@
     <link>https://www.rejmesbil.se</link>
     <description>Rejmes Bil Vehicle Inventory - Manufacturer Warranty</description>
     <item>
+    <g:id>b5aa3b0b-3ca5-5856-951f-8b02387554d8</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>b5aa3b0b-3ca5-5856-951f-8b02387554d8</vehicle_id>
+    <vehicle_registration_plate>UEJ99P</vehicle_registration_plate>
+    <g:title>Volvo XC90 T8 Ultra Dark | Dragkrok | Tonade rutor |</g:title>
+    <title>Volvo XC90 T8 Ultra Dark | Dragkrok | Tonade rutor |</title>
+    <g:description>T8 Ultra Dark | Dragkrok | Tonade rutor |. Utrustningsnivå: Ultra. Miltal: 2 048 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: UEJ99P. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>T8 Ultra Dark | Dragkrok | Tonade rutor |. Utrustningsnivå: Ultra. Miltal: 2 048 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: UEJ99P. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/b5aa3b0b-3ca5-5856-951f-8b02387554d8</g:link>
+    <link>https://www.rejmesbil.se/sok/id/b5aa3b0b-3ca5-5856-951f-8b02387554d8</link>
+    <url>https://www.rejmesbil.se/sok/id/b5aa3b0b-3ca5-5856-951f-8b02387554d8</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/aa9814b8-7cf6-48c6-b602-76f697d3f761?format=jpeg&amp;w=770&amp;h=514</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/aa9814b8-7cf6-48c6-b602-76f697d3f761?format=jpeg&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC90</model>
+    <year>2026</year>
+    <mileage>
+      <value>20480</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>789500 SEK</g:price>
+    <price>789500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Falkenberg</component>
+      <component name="city">Falkenberg</component>
+      <component name="region">Falkenberg</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>789500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>new</g:condition>
+    <condition>new</condition>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <dealer_id>a19b2c7e-0d5f-4834-bf2d-a285eff2d725</dealer_id>
+    </item>
+    <item>
+    <g:id>80d0162c-bd87-5ec5-922a-dd2e06a12824</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>80d0162c-bd87-5ec5-922a-dd2e06a12824</vehicle_id>
+    <vehicle_registration_plate>YFW04E</vehicle_registration_plate>
+    <g:title>Volvo XC40 B3 FWD Bensin Plus Dark</g:title>
+    <title>Volvo XC40 B3 FWD Bensin Plus Dark</title>
+    <g:description>B3 FWD Bensin Plus Dark. Utrustningsnivå: Plus. Miltal: 5 534 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: YFW04E. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>B3 FWD Bensin Plus Dark. Utrustningsnivå: Plus. Miltal: 5 534 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: YFW04E. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/80d0162c-bd87-5ec5-922a-dd2e06a12824</g:link>
+    <link>https://www.rejmesbil.se/sok/id/80d0162c-bd87-5ec5-922a-dd2e06a12824</link>
+    <url>https://www.rejmesbil.se/sok/id/80d0162c-bd87-5ec5-922a-dd2e06a12824</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/1a9c4820-2a21-4998-b6e0-cfb3898427db?format=jpeg&amp;w=770&amp;h=514</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/1a9c4820-2a21-4998-b6e0-cfb3898427db?format=jpeg&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC40</model>
+    <year>2025</year>
+    <mileage>
+      <value>55340</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>374500 SEK</g:price>
+    <price>374500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Falkenberg</component>
+      <component name="city">Falkenberg</component>
+      <component name="region">Falkenberg</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>374500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>a19b2c7e-0d5f-4834-bf2d-a285eff2d725</dealer_id>
+    </item>
+    <item>
+    <g:id>101c918e-61e7-538e-8ff4-06c8a891babd</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>101c918e-61e7-538e-8ff4-06c8a891babd</vehicle_id>
+    <vehicle_registration_plate>WAK24K</vehicle_registration_plate>
+    <g:title>Volvo XC60 Recharge T6 Plus Dark</g:title>
+    <title>Volvo XC60 Recharge T6 Plus Dark</title>
+    <g:description>Recharge T6 Plus Dark. Utrustningsnivå: Plus. Miltal: 8 320 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: WAK24K. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>Recharge T6 Plus Dark. Utrustningsnivå: Plus. Miltal: 8 320 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: WAK24K. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/101c918e-61e7-538e-8ff4-06c8a891babd</g:link>
+    <link>https://www.rejmesbil.se/sok/id/101c918e-61e7-538e-8ff4-06c8a891babd</link>
+    <url>https://www.rejmesbil.se/sok/id/101c918e-61e7-538e-8ff4-06c8a891babd</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/8d9ec13b-ffd5-41e6-922e-0a6894f47b02?format=jpeg&amp;w=770&amp;h=514</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/8d9ec13b-ffd5-41e6-922e-0a6894f47b02?format=jpeg&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC60</model>
+    <year>2023</year>
+    <mileage>
+      <value>83200</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>479500 SEK</g:price>
+    <price>479500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Falkenberg</component>
+      <component name="city">Falkenberg</component>
+      <component name="region">Falkenberg</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>479500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>a19b2c7e-0d5f-4834-bf2d-a285eff2d725</dealer_id>
+    </item>
+    <item>
+    <g:id>0f168e2c-6588-596b-bb95-4c566d21eb7c</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>0f168e2c-6588-596b-bb95-4c566d21eb7c</vehicle_id>
+    <vehicle_registration_plate>RGM40W</vehicle_registration_plate>
+    <g:title>Volvo V60 T6 Plus Dark Nordic Edt</g:title>
+    <title>Volvo V60 T6 Plus Dark Nordic Edt</title>
+    <g:description>T6 Plus Dark Nordic Edt. Utrustningsnivå: Plus Nordic Edition. Miltal: 6 037 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: RGM40W. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>T6 Plus Dark Nordic Edt. Utrustningsnivå: Plus Nordic Edition. Miltal: 6 037 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: RGM40W. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/0f168e2c-6588-596b-bb95-4c566d21eb7c</g:link>
+    <link>https://www.rejmesbil.se/sok/id/0f168e2c-6588-596b-bb95-4c566d21eb7c</link>
+    <url>https://www.rejmesbil.se/sok/id/0f168e2c-6588-596b-bb95-4c566d21eb7c</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/553a4be6-6089-40ee-95b9-2301400524ec?format=jpeg&amp;w=770&amp;h=514</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/553a4be6-6089-40ee-95b9-2301400524ec?format=jpeg&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>V60</model>
+    <year>2025</year>
+    <mileage>
+      <value>60370</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Wagon</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>419500 SEK</g:price>
+    <price>419500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Falkenberg</component>
+      <component name="city">Falkenberg</component>
+      <component name="region">Falkenberg</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>419500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>a19b2c7e-0d5f-4834-bf2d-a285eff2d725</dealer_id>
+    </item>
+    <item>
+    <g:id>288b218f-688e-58b5-bdb8-9ddda41b0354</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>288b218f-688e-58b5-bdb8-9ddda41b0354</vehicle_id>
+    <vehicle_registration_plate>BFP92T</vehicle_registration_plate>
+    <g:title>Volvo XC40 B3 FWD Bensin Plus Dark</g:title>
+    <title>Volvo XC40 B3 FWD Bensin Plus Dark</title>
+    <g:description>B3 FWD Bensin Plus Dark. Utrustningsnivå: Plus. Miltal: 5 634 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: BFP92T. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>B3 FWD Bensin Plus Dark. Utrustningsnivå: Plus. Miltal: 5 634 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: BFP92T. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/288b218f-688e-58b5-bdb8-9ddda41b0354</g:link>
+    <link>https://www.rejmesbil.se/sok/id/288b218f-688e-58b5-bdb8-9ddda41b0354</link>
+    <url>https://www.rejmesbil.se/sok/id/288b218f-688e-58b5-bdb8-9ddda41b0354</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/916e6fc3-a63d-4853-b6e0-ac6039083b2f?format=jpeg&amp;w=770&amp;h=514</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/916e6fc3-a63d-4853-b6e0-ac6039083b2f?format=jpeg&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC40</model>
+    <year>2025</year>
+    <mileage>
+      <value>56340</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>359500 SEK</g:price>
+    <price>359500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Falkenberg</component>
+      <component name="city">Falkenberg</component>
+      <component name="region">Falkenberg</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>359500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>a19b2c7e-0d5f-4834-bf2d-a285eff2d725</dealer_id>
+    </item>
+    <item>
+    <g:id>66f6e328-cfcc-5dd4-be24-a5b7ad940b3a</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>66f6e328-cfcc-5dd4-be24-a5b7ad940b3a</vehicle_id>
+    <vehicle_registration_plate>FRD76Z</vehicle_registration_plate>
+    <g:title>Volvo XC60 B4 AWD Diesel Mom Adv Edt</g:title>
+    <title>Volvo XC60 B4 AWD Diesel Mom Adv Edt</title>
+    <g:description>B4 AWD Diesel Mom Adv Edt. Utrustningsnivå: Momentum Advanced. Miltal: 8 621 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: FRD76Z. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>B4 AWD Diesel Mom Adv Edt. Utrustningsnivå: Momentum Advanced. Miltal: 8 621 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: FRD76Z. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/66f6e328-cfcc-5dd4-be24-a5b7ad940b3a</g:link>
+    <link>https://www.rejmesbil.se/sok/id/66f6e328-cfcc-5dd4-be24-a5b7ad940b3a</link>
+    <url>https://www.rejmesbil.se/sok/id/66f6e328-cfcc-5dd4-be24-a5b7ad940b3a</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/b37906c6-ed43-48d3-b43f-7a89632c64ca?format=jpeg&amp;w=770&amp;h=514</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/b37906c6-ed43-48d3-b43f-7a89632c64ca?format=jpeg&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC60</model>
+    <year>2021</year>
+    <mileage>
+      <value>86210</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Diesel</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>374500 SEK</g:price>
+    <price>374500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Falkenberg</component>
+      <component name="city">Falkenberg</component>
+      <component name="region">Falkenberg</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>374500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>a19b2c7e-0d5f-4834-bf2d-a285eff2d725</dealer_id>
+    </item>
+    <item>
+    <g:id>8312c21d-922d-4813-b2e2-c87639996448</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>8312c21d-922d-4813-b2e2-c87639996448</vehicle_id>
+    <vehicle_registration_plate>BOJ95G</vehicle_registration_plate>
+    <g:title>Volvo XC60 B4 AWD Diesel Mom Advanced Edt II</g:title>
+    <title>Volvo XC60 B4 AWD Diesel Mom Advanced Edt II</title>
+    <g:description>B4 AWD Diesel Mom Advanced Edt II. Utrustningsnivå: Momentum Advanced. Miltal: 7 719 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: BOJ95G. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>B4 AWD Diesel Mom Advanced Edt II. Utrustningsnivå: Momentum Advanced. Miltal: 7 719 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: BOJ95G. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/8312c21d-922d-4813-b2e2-c87639996448</g:link>
+    <link>https://www.rejmesbil.se/sok/id/8312c21d-922d-4813-b2e2-c87639996448</link>
+    <url>https://www.rejmesbil.se/sok/id/8312c21d-922d-4813-b2e2-c87639996448</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/91b78226590640e985c7cc8ebae0a438/9eed746d36c74442a94d84ba4f3237c1?format=jpeg&amp;w=770&amp;h=514</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/91b78226590640e985c7cc8ebae0a438/9eed746d36c74442a94d84ba4f3237c1?format=jpeg&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC60</model>
+    <year>2022</year>
+    <mileage>
+      <value>77190</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Diesel</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>399500 SEK</g:price>
+    <price>399500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Halmstad</component>
+      <component name="city">Halmstad</component>
+      <component name="region">Halmstad</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>399500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
+    </item>
+    <item>
+    <g:id>4b3846bd-346f-52fc-bd65-2bd95df49772</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>4b3846bd-346f-52fc-bd65-2bd95df49772</vehicle_id>
+    <vehicle_registration_plate>YAR42Z</vehicle_registration_plate>
+    <g:title>Volvo V60 T6 Plus Dark Nordic Edt</g:title>
+    <title>Volvo V60 T6 Plus Dark Nordic Edt</title>
+    <g:description>T6 Plus Dark Nordic Edt. Utrustningsnivå: Plus Nordic Edition. Miltal: 5 789 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: YAR42Z. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>T6 Plus Dark Nordic Edt. Utrustningsnivå: Plus Nordic Edition. Miltal: 5 789 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: YAR42Z. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/4b3846bd-346f-52fc-bd65-2bd95df49772</g:link>
+    <link>https://www.rejmesbil.se/sok/id/4b3846bd-346f-52fc-bd65-2bd95df49772</link>
+    <url>https://www.rejmesbil.se/sok/id/4b3846bd-346f-52fc-bd65-2bd95df49772</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/711c0058-5d3a-46ae-be68-8ae599fc40e4?format=jpeg&amp;w=770&amp;h=514</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/711c0058-5d3a-46ae-be68-8ae599fc40e4?format=jpeg&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>V60</model>
+    <year>2025</year>
+    <mileage>
+      <value>57890</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Wagon</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>419500 SEK</g:price>
+    <price>419500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Falkenberg</component>
+      <component name="city">Falkenberg</component>
+      <component name="region">Falkenberg</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>419500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>a19b2c7e-0d5f-4834-bf2d-a285eff2d725</dealer_id>
+    </item>
+    <item>
     <g:id>3506ccd8-9bb7-4c51-86bb-38950f15ef4e</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -20,9 +388,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/4b142585-9f18-4675-8afd-81b3bd03cff4/99464312-40b0-47df-945c-610060d3365b?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/4b1425859f1846758afd81b3bd03cff4/9946431240b047df945c610060d3365b?format=jpeg&amp;w=770&amp;h=514</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/4b142585-9f18-4675-8afd-81b3bd03cff4/99464312-40b0-47df-945c-610060d3365b?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/v3/4b1425859f1846758afd81b3bd03cff4/9946431240b047df945c610060d3365b?format=jpeg&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>XC90</model>
@@ -66,9 +434,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/a0449cdf-c1f2-4e93-86c4-f397ad548651/7330fb43-6c3f-4dca-b021-d49135ae50dc?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/a0449cdfc1f24e9386c4f397ad548651/7330fb436c3f4dcab021d49135ae50dc?format=jpeg&amp;w=770&amp;h=514</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/a0449cdf-c1f2-4e93-86c4-f397ad548651/7330fb43-6c3f-4dca-b021-d49135ae50dc?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/v3/a0449cdfc1f24e9386c4f397ad548651/7330fb436c3f4dcab021d49135ae50dc?format=jpeg&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>EX40</model>
@@ -204,6 +572,11 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/abb016e8-c6ed-42ae-83aa-ad55fad826fa/e6304b5a-ff41-4b8e-af2f-f4bece782d70?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/abb016e8-c6ed-42ae-83aa-ad55fad826fa/e6304b5a-ff41-4b8e-af2f-f4bece782d70?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
     <model>EX40</model>
     <year>2025</year>
     <mileage>
@@ -245,9 +618,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/2ecd1cc9356f47f9ae6d4bff57ae158c/5cd33efb405547b3a77ab9e0b6b00f9b?format=jpeg&amp;w=770&amp;h=514</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/b820a15e-e960-492c-96d4-60c6baedf4da/bbc2316b-ebe8-4a66-b1d0-6ee864c7ff15?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/v3/2ecd1cc9356f47f9ae6d4bff57ae158c/5cd33efb405547b3a77ab9e0b6b00f9b?format=jpeg&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/b820a15e-e960-492c-96d4-60c6baedf4da/bbc2316b-ebe8-4a66-b1d0-6ee864c7ff15?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>EX40</model>
@@ -1537,15 +1910,15 @@
     <body_style>SUV</body_style>
     <fuel_type>Bensin+El</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>389500 SEK</g:price>
-    <price>389500 SEK</price>
+    <g:price>384500 SEK</g:price>
+    <price>384500 SEK</price>
     <address format="simple">
       <component name="addr1">Rejmes Halland - Falkenberg</component>
       <component name="city">Falkenberg</component>
       <component name="region">Falkenberg</component>
       <component name="country">SE</component>
     </address>
-    <sale_price>389500 SEK</sale_price>
+    <sale_price>384500 SEK</sale_price>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
@@ -1951,15 +2324,15 @@
     <body_style>SUV</body_style>
     <fuel_type>Bensin+El</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>354500 SEK</g:price>
-    <price>354500 SEK</price>
+    <g:price>349500 SEK</g:price>
+    <price>349500 SEK</price>
     <address format="simple">
       <component name="addr1">Rejmes Halland - Falkenberg</component>
       <component name="city">Falkenberg</component>
       <component name="region">Falkenberg</component>
       <component name="country">SE</component>
     </address>
-    <sale_price>354500 SEK</sale_price>
+    <sale_price>349500 SEK</sale_price>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
@@ -3331,15 +3704,15 @@
     <body_style>SUV</body_style>
     <fuel_type>Bensin+El</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>809000 SEK</g:price>
-    <price>809000 SEK</price>
+    <g:price>799500 SEK</g:price>
+    <price>799500 SEK</price>
     <address format="simple">
       <component name="addr1">Rejmes Halland - Falkenberg</component>
       <component name="city">Falkenberg</component>
       <component name="region">Falkenberg</component>
       <component name="country">SE</component>
     </address>
-    <sale_price>809000 SEK</sale_price>
+    <sale_price>799500 SEK</sale_price>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>new</g:condition>
