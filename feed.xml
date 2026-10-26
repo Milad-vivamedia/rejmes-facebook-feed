@@ -5,6 +5,98 @@
     <link>https://www.rejmesbil.se</link>
     <description>Rejmes Bil Vehicle Inventory - Manufacturer Warranty</description>
     <item>
+    <g:id>01a178a2-1dce-7a89-b762-be5182929937</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>01a178a2-1dce-7a89-b762-be5182929937</vehicle_id>
+    <vehicle_registration_plate>TSS79F</vehicle_registration_plate>
+    <g:title>Volvo XC60 T6 Plus Dark Nordic Edt | 360 Kamera | H/K | Dragkrok |</g:title>
+    <title>Volvo XC60 T6 Plus Dark Nordic Edt | 360 Kamera | H/K | Dragkrok |</title>
+    <g:description>T6 Plus Dark Nordic Edt | 360 Kamera | H/K | Dragkrok |. Utrustningsnivå: Plus Nordic Edition. Miltal: 2 429 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: TSS79F. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>T6 Plus Dark Nordic Edt | 360 Kamera | H/K | Dragkrok |. Utrustningsnivå: Plus Nordic Edition. Miltal: 2 429 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: TSS79F. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/01a178a2-1dce-7a89-b762-be5182929937</g:link>
+    <link>https://www.rejmesbil.se/sok/id/01a178a2-1dce-7a89-b762-be5182929937</link>
+    <url>https://www.rejmesbil.se/sok/id/01a178a2-1dce-7a89-b762-be5182929937</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/1af41cc0-8cbd-4955-a8ce-754a4d11eef4?format=jpeg&amp;w=770&amp;h=514</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/1af41cc0-8cbd-4955-a8ce-754a4d11eef4?format=jpeg&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC60</model>
+    <year>2025</year>
+    <mileage>
+      <value>24290</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>544500 SEK</g:price>
+    <price>544500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Falkenberg</component>
+      <component name="city">Falkenberg</component>
+      <component name="region">Falkenberg</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>544500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>a19b2c7e-0d5f-4834-bf2d-a285eff2d725</dealer_id>
+    </item>
+    <item>
+    <g:id>23e69ee3-c4ef-5c8b-b563-8966c3a5004b</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>23e69ee3-c4ef-5c8b-b563-8966c3a5004b</vehicle_id>
+    <vehicle_registration_plate>WDJ11S</vehicle_registration_plate>
+    <g:title>Volvo EX40 M ExtR Plus SE</g:title>
+    <title>Volvo EX40 M ExtR Plus SE</title>
+    <g:description>M ExtR Plus SE. Utrustningsnivå: Plus Special Edition. Miltal: 1 250 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Registreringsnummer: WDJ11S. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>M ExtR Plus SE. Utrustningsnivå: Plus Special Edition. Miltal: 1 250 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Registreringsnummer: WDJ11S. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/23e69ee3-c4ef-5c8b-b563-8966c3a5004b</g:link>
+    <link>https://www.rejmesbil.se/sok/id/23e69ee3-c4ef-5c8b-b563-8966c3a5004b</link>
+    <url>https://www.rejmesbil.se/sok/id/23e69ee3-c4ef-5c8b-b563-8966c3a5004b</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/0c702cc4439b487db244e680bc0f2cd4/71ed096b01254d6da0e92fd2dea5154e?format=jpeg&amp;w=770&amp;h=514</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/0c702cc4439b487db244e680bc0f2cd4/71ed096b01254d6da0e92fd2dea5154e?format=jpeg&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>EX40</model>
+    <year>2026</year>
+    <mileage>
+      <value>12500</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>499500 SEK</g:price>
+    <price>499500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Halmstad</component>
+      <component name="city">Halmstad</component>
+      <component name="region">Halmstad</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>499500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>new</g:condition>
+    <condition>new</condition>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
+    </item>
+    <item>
     <g:id>ebbff799-ef16-5bd3-aae5-24c1835ce6eb</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -56,19 +148,19 @@
     <g:fb_product_category>173</g:fb_product_category>
     <vehicle_id>79acccb9-96df-5e4f-bed2-b80ad7ec518c</vehicle_id>
     <vehicle_registration_plate>MST85Y</vehicle_registration_plate>
-    <g:title>Volvo EX40 M ExtR Plus Edt</g:title>
-    <title>Volvo EX40 M ExtR Plus Edt</title>
-    <g:description>M ExtR Plus Edt. Utrustningsnivå: Plus Edition. Miltal: 3 312 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: MST85Y. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>M ExtR Plus Edt. Utrustningsnivå: Plus Edition. Miltal: 3 312 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: MST85Y. Kontakta oss för mer information om detta fordon.</description>
+    <g:title>Volvo EX40 M ExtR Plus Edt | Dragkrok | 360-kamera</g:title>
+    <title>Volvo EX40 M ExtR Plus Edt | Dragkrok | 360-kamera</title>
+    <g:description>M ExtR Plus Edt | Dragkrok | 360-kamera. Utrustningsnivå: Plus Edition. Miltal: 3 312 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: MST85Y. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>M ExtR Plus Edt | Dragkrok | 360-kamera. Utrustningsnivå: Plus Edition. Miltal: 3 312 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: MST85Y. Kontakta oss för mer information om detta fordon.</description>
     <g:link>https://www.rejmesbil.se/sok/id/79acccb9-96df-5e4f-bed2-b80ad7ec518c</g:link>
     <link>https://www.rejmesbil.se/sok/id/79acccb9-96df-5e4f-bed2-b80ad7ec518c</link>
     <url>https://www.rejmesbil.se/sok/id/79acccb9-96df-5e4f-bed2-b80ad7ec518c</url>
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/53a05b71888c42518d14fbad9be86722/7232c8ead1f7413b99d198f2e1228832?format=jpeg&amp;w=770&amp;h=514</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/8e3b4c7c-20cb-4bc4-aa79-4c7b2cc2bacb/b68c4644-9477-4798-bf67-144997c14d78?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/v3/53a05b71888c42518d14fbad9be86722/7232c8ead1f7413b99d198f2e1228832?format=jpeg&amp;w=770&amp;h=514</url>
+      <url>https://cdn.wayke.se/cfit/8e3b4c7c-20cb-4bc4-aa79-4c7b2cc2bacb/b68c4644-9477-4798-bf67-144997c14d78?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>EX40</model>
@@ -143,10 +235,10 @@
     <g:fb_product_category>173</g:fb_product_category>
     <vehicle_id>4abb6475-ec38-5bea-8760-fc416b7aaaa2</vehicle_id>
     <vehicle_registration_plate>KBY29D</vehicle_registration_plate>
-    <g:title>Volvo XC90 B5 AWD Diesel Inscription</g:title>
-    <title>Volvo XC90 B5 AWD Diesel Inscription</title>
-    <g:description>B5 AWD Diesel Inscription. Utrustningsnivå: Inscription. Miltal: 11 218 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: KBY29D. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>B5 AWD Diesel Inscription. Utrustningsnivå: Inscription. Miltal: 11 218 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: KBY29D. Kontakta oss för mer information om detta fordon.</description>
+    <g:title>Volvo XC90 B5 AWD Diesel Inscription | H/K | 20&quot; | Navigation</g:title>
+    <title>Volvo XC90 B5 AWD Diesel Inscription | H/K | 20&quot; | Navigation</title>
+    <g:description>B5 AWD Diesel Inscription | H/K | 20&quot; | Navigation. Utrustningsnivå: Inscription. Miltal: 11 218 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: KBY29D. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>B5 AWD Diesel Inscription | H/K | 20&quot; | Navigation. Utrustningsnivå: Inscription. Miltal: 11 218 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: KBY29D. Kontakta oss för mer information om detta fordon.</description>
     <g:link>https://www.rejmesbil.se/sok/id/4abb6475-ec38-5bea-8760-fc416b7aaaa2</g:link>
     <link>https://www.rejmesbil.se/sok/id/4abb6475-ec38-5bea-8760-fc416b7aaaa2</link>
     <url>https://www.rejmesbil.se/sok/id/4abb6475-ec38-5bea-8760-fc416b7aaaa2</url>
@@ -189,10 +281,10 @@
     <g:fb_product_category>173</g:fb_product_category>
     <vehicle_id>4c15bfe3-ccf9-5fb0-bc9c-5c89701391ec</vehicle_id>
     <vehicle_registration_plate>UNU62X</vehicle_registration_plate>
-    <g:title>Volvo EX90 M Ultra 7s</g:title>
-    <title>Volvo EX90 M Ultra 7s</title>
-    <g:description>M Ultra 7s. Utrustningsnivå: Ultra. Miltal: 1 910 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: UNU62X. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>M Ultra 7s. Utrustningsnivå: Ultra. Miltal: 1 910 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: UNU62X. Kontakta oss för mer information om detta fordon.</description>
+    <g:title>Volvo EX90 M Ultra 7s | Bowers&amp;Wilkins | Dragkrok| HUD</g:title>
+    <title>Volvo EX90 M Ultra 7s | Bowers&amp;Wilkins | Dragkrok| HUD</title>
+    <g:description>M Ultra 7s | Bowers&amp;Wilkins | Dragkrok| HUD. Utrustningsnivå: Ultra. Miltal: 1 910 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: UNU62X. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>M Ultra 7s | Bowers&amp;Wilkins | Dragkrok| HUD. Utrustningsnivå: Ultra. Miltal: 1 910 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: UNU62X. Kontakta oss för mer information om detta fordon.</description>
     <g:link>https://www.rejmesbil.se/sok/id/4c15bfe3-ccf9-5fb0-bc9c-5c89701391ec</g:link>
     <link>https://www.rejmesbil.se/sok/id/4c15bfe3-ccf9-5fb0-bc9c-5c89701391ec</link>
     <url>https://www.rejmesbil.se/sok/id/4c15bfe3-ccf9-5fb0-bc9c-5c89701391ec</url>
@@ -465,10 +557,10 @@
     <g:fb_product_category>173</g:fb_product_category>
     <vehicle_id>101c918e-61e7-538e-8ff4-06c8a891babd</vehicle_id>
     <vehicle_registration_plate>WAK24K</vehicle_registration_plate>
-    <g:title>Volvo XC60 Recharge T6 Plus Dark</g:title>
-    <title>Volvo XC60 Recharge T6 Plus Dark</title>
-    <g:description>Recharge T6 Plus Dark. Utrustningsnivå: Plus. Miltal: 8 320 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: WAK24K. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>Recharge T6 Plus Dark. Utrustningsnivå: Plus. Miltal: 8 320 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: WAK24K. Kontakta oss för mer information om detta fordon.</description>
+    <g:title>Volvo XC60 Recharge T6 Plus Dark | Dragkrok</g:title>
+    <title>Volvo XC60 Recharge T6 Plus Dark | Dragkrok</title>
+    <g:description>Recharge T6 Plus Dark | Dragkrok. Utrustningsnivå: Plus. Miltal: 8 320 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: WAK24K. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>Recharge T6 Plus Dark | Dragkrok. Utrustningsnivå: Plus. Miltal: 8 320 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: WAK24K. Kontakta oss för mer information om detta fordon.</description>
     <g:link>https://www.rejmesbil.se/sok/id/101c918e-61e7-538e-8ff4-06c8a891babd</g:link>
     <link>https://www.rejmesbil.se/sok/id/101c918e-61e7-538e-8ff4-06c8a891babd</link>
     <url>https://www.rejmesbil.se/sok/id/101c918e-61e7-538e-8ff4-06c8a891babd</url>
@@ -511,10 +603,10 @@
     <g:fb_product_category>173</g:fb_product_category>
     <vehicle_id>0f168e2c-6588-596b-bb95-4c566d21eb7c</vehicle_id>
     <vehicle_registration_plate>RGM40W</vehicle_registration_plate>
-    <g:title>Volvo V60 T6 Plus Dark Nordic Edt</g:title>
-    <title>Volvo V60 T6 Plus Dark Nordic Edt</title>
-    <g:description>T6 Plus Dark Nordic Edt. Utrustningsnivå: Plus Nordic Edition. Miltal: 6 037 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: RGM40W. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>T6 Plus Dark Nordic Edt. Utrustningsnivå: Plus Nordic Edition. Miltal: 6 037 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: RGM40W. Kontakta oss för mer information om detta fordon.</description>
+    <g:title>Volvo V60 T6 Plus Dark Nordic Edt | Dragkrok | 360-kamera | H/K</g:title>
+    <title>Volvo V60 T6 Plus Dark Nordic Edt | Dragkrok | 360-kamera | H/K</title>
+    <g:description>T6 Plus Dark Nordic Edt | Dragkrok | 360-kamera | H/K. Utrustningsnivå: Plus Nordic Edition. Miltal: 6 037 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: RGM40W. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>T6 Plus Dark Nordic Edt | Dragkrok | 360-kamera | H/K. Utrustningsnivå: Plus Nordic Edition. Miltal: 6 037 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: RGM40W. Kontakta oss för mer information om detta fordon.</description>
     <g:link>https://www.rejmesbil.se/sok/id/0f168e2c-6588-596b-bb95-4c566d21eb7c</g:link>
     <link>https://www.rejmesbil.se/sok/id/0f168e2c-6588-596b-bb95-4c566d21eb7c</link>
     <url>https://www.rejmesbil.se/sok/id/0f168e2c-6588-596b-bb95-4c566d21eb7c</url>
@@ -557,10 +649,10 @@
     <g:fb_product_category>173</g:fb_product_category>
     <vehicle_id>288b218f-688e-58b5-bdb8-9ddda41b0354</vehicle_id>
     <vehicle_registration_plate>BFP92T</vehicle_registration_plate>
-    <g:title>Volvo XC40 B3 FWD Bensin Plus Dark</g:title>
-    <title>Volvo XC40 B3 FWD Bensin Plus Dark</title>
-    <g:description>B3 FWD Bensin Plus Dark. Utrustningsnivå: Plus. Miltal: 5 634 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: BFP92T. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>B3 FWD Bensin Plus Dark. Utrustningsnivå: Plus. Miltal: 5 634 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: BFP92T. Kontakta oss för mer information om detta fordon.</description>
+    <g:title>Volvo XC40 B3 FWD Bensin Plus Dark | Dragkrok</g:title>
+    <title>Volvo XC40 B3 FWD Bensin Plus Dark | Dragkrok</title>
+    <g:description>B3 FWD Bensin Plus Dark | Dragkrok. Utrustningsnivå: Plus. Miltal: 5 634 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: BFP92T. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>B3 FWD Bensin Plus Dark | Dragkrok. Utrustningsnivå: Plus. Miltal: 5 634 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: BFP92T. Kontakta oss för mer information om detta fordon.</description>
     <g:link>https://www.rejmesbil.se/sok/id/288b218f-688e-58b5-bdb8-9ddda41b0354</g:link>
     <link>https://www.rejmesbil.se/sok/id/288b218f-688e-58b5-bdb8-9ddda41b0354</link>
     <url>https://www.rejmesbil.se/sok/id/288b218f-688e-58b5-bdb8-9ddda41b0354</url>
@@ -603,10 +695,10 @@
     <g:fb_product_category>173</g:fb_product_category>
     <vehicle_id>66f6e328-cfcc-5dd4-be24-a5b7ad940b3a</vehicle_id>
     <vehicle_registration_plate>FRD76Z</vehicle_registration_plate>
-    <g:title>Volvo XC60 B4 AWD Diesel Mom Adv Edt</g:title>
-    <title>Volvo XC60 B4 AWD Diesel Mom Adv Edt</title>
-    <g:description>B4 AWD Diesel Mom Adv Edt. Utrustningsnivå: Momentum Advanced. Miltal: 8 621 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: FRD76Z. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>B4 AWD Diesel Mom Adv Edt. Utrustningsnivå: Momentum Advanced. Miltal: 8 621 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: FRD76Z. Kontakta oss för mer information om detta fordon.</description>
+    <g:title>Volvo XC60 B4 AWD Diesel Mom Adv Edt | Drag | Parkeringskamera bak</g:title>
+    <title>Volvo XC60 B4 AWD Diesel Mom Adv Edt | Drag | Parkeringskamera bak</title>
+    <g:description>B4 AWD Diesel Mom Adv Edt | Drag | Parkeringskamera bak. Utrustningsnivå: Momentum Advanced. Miltal: 8 621 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: FRD76Z. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>B4 AWD Diesel Mom Adv Edt | Drag | Parkeringskamera bak. Utrustningsnivå: Momentum Advanced. Miltal: 8 621 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: FRD76Z. Kontakta oss för mer information om detta fordon.</description>
     <g:link>https://www.rejmesbil.se/sok/id/66f6e328-cfcc-5dd4-be24-a5b7ad940b3a</g:link>
     <link>https://www.rejmesbil.se/sok/id/66f6e328-cfcc-5dd4-be24-a5b7ad940b3a</link>
     <url>https://www.rejmesbil.se/sok/id/66f6e328-cfcc-5dd4-be24-a5b7ad940b3a</url>
@@ -659,9 +751,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/edb550e4-b045-4891-a8c5-a59557f38f0a/30fe29e7-f07e-4cdf-bd11-36bf681d9248?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/1eddff90-c157-4bf2-ad02-1c615c42d1ac/edb542a0-339f-4a4e-804e-598b78ad1228?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/edb550e4-b045-4891-a8c5-a59557f38f0a/30fe29e7-f07e-4cdf-bd11-36bf681d9248?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/1eddff90-c157-4bf2-ad02-1c615c42d1ac/edb542a0-339f-4a4e-804e-598b78ad1228?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
       <tag>Exterior</tag>
     </image>
     <model>XC60</model>
@@ -4876,10 +4968,10 @@
     <g:fb_product_category>173</g:fb_product_category>
     <vehicle_id>d6d32f30-9f32-4eb3-97c7-ed0b0f686caa</vehicle_id>
     <vehicle_registration_plate>CJA24E</vehicle_registration_plate>
-    <g:title>Volvo XC40 Recharge T4 Plus Bright</g:title>
-    <title>Volvo XC40 Recharge T4 Plus Bright</title>
-    <g:description>Recharge T4 Plus Bright. Utrustningsnivå: Plus. Miltal: 6 266 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: CJA24E. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>Recharge T4 Plus Bright. Utrustningsnivå: Plus. Miltal: 6 266 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: CJA24E. Kontakta oss för mer information om detta fordon.</description>
+    <g:title>Volvo XC40 Recharge T4 Plus Bright | Kamera |</g:title>
+    <title>Volvo XC40 Recharge T4 Plus Bright | Kamera |</title>
+    <g:description>Recharge T4 Plus Bright | Kamera |. Utrustningsnivå: Plus. Miltal: 6 266 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: CJA24E. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>Recharge T4 Plus Bright | Kamera |. Utrustningsnivå: Plus. Miltal: 6 266 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: CJA24E. Kontakta oss för mer information om detta fordon.</description>
     <g:link>https://www.rejmesbil.se/sok/id/d6d32f30-9f32-4eb3-97c7-ed0b0f686caa</g:link>
     <link>https://www.rejmesbil.se/sok/id/d6d32f30-9f32-4eb3-97c7-ed0b0f686caa</link>
     <url>https://www.rejmesbil.se/sok/id/d6d32f30-9f32-4eb3-97c7-ed0b0f686caa</url>
@@ -5145,52 +5237,6 @@
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
     <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
-    </item>
-    <item>
-    <g:id>bc7a06bc-3b04-4d45-8061-4bd58b4f782c</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>bc7a06bc-3b04-4d45-8061-4bd58b4f782c</vehicle_id>
-    <vehicle_registration_plate>HHT78Y</vehicle_registration_plate>
-    <g:title>Volvo XC60 T6 Plus Dark Nordic Edition | H/K | 360-Kamera | Dragkrok</g:title>
-    <title>Volvo XC60 T6 Plus Dark Nordic Edition | H/K | 360-Kamera | Dragkrok</title>
-    <g:description>T6 Plus Dark Nordic Edition | H/K | 360-Kamera | Dragkrok. Utrustningsnivå: Plus Nordic Edition. Miltal: 1 236 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: HHT78Y. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>T6 Plus Dark Nordic Edition | H/K | 360-Kamera | Dragkrok. Utrustningsnivå: Plus Nordic Edition. Miltal: 1 236 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: HHT78Y. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/bc7a06bc-3b04-4d45-8061-4bd58b4f782c</g:link>
-    <link>https://www.rejmesbil.se/sok/id/bc7a06bc-3b04-4d45-8061-4bd58b4f782c</link>
-    <url>https://www.rejmesbil.se/sok/id/bc7a06bc-3b04-4d45-8061-4bd58b4f782c</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/7ce129aa-a6f2-41b4-9bc0-32f1747cd864/1f6d77b6-9e91-4cba-a9cd-51dc2d669efd?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/7ce129aa-a6f2-41b4-9bc0-32f1747cd864/1f6d77b6-9e91-4cba-a9cd-51dc2d669efd?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC60</model>
-    <year>2025</year>
-    <mileage>
-      <value>12360</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>549500 SEK</g:price>
-    <price>549500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Falkenberg</component>
-      <component name="city">Falkenberg</component>
-      <component name="region">Falkenberg</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>549500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>a19b2c7e-0d5f-4834-bf2d-a285eff2d725</dealer_id>
     </item>
     <item>
     <g:id>c2d2eda5-a6b3-4a40-8112-3b9e2d0a03f3</g:id>
