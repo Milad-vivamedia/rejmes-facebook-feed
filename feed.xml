@@ -2905,8 +2905,8 @@
     <vehicle_registration_plate>CMJ381</vehicle_registration_plate>
     <g:title>Volvo V70 D4 AWD Momentum BE</g:title>
     <title>Volvo V70 D4 AWD Momentum BE</title>
-    <g:description>D4 AWD Momentum BE. Utrustningsnivå: Momentum Business Edition Pro. Miltal: 14 382 mil. Årsmodell: 2015. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: CMJ381. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>D4 AWD Momentum BE. Utrustningsnivå: Momentum Business Edition Pro. Miltal: 14 382 mil. Årsmodell: 2015. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: CMJ381. Kontakta oss för mer information om detta fordon.</description>
+    <g:description>D4 AWD Momentum BE. Utrustningsnivå: Momentum Business Edition Pro. Miltal: 14 383 mil. Årsmodell: 2015. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: CMJ381. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>D4 AWD Momentum BE. Utrustningsnivå: Momentum Business Edition Pro. Miltal: 14 383 mil. Årsmodell: 2015. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: CMJ381. Kontakta oss för mer information om detta fordon.</description>
     <g:link>https://www.rejmesbil.se/sok/id/42767a0f-b679-439f-b1a6-7284e5347956</g:link>
     <link>https://www.rejmesbil.se/sok/id/42767a0f-b679-439f-b1a6-7284e5347956</link>
     <url>https://www.rejmesbil.se/sok/id/42767a0f-b679-439f-b1a6-7284e5347956</url>
@@ -2921,7 +2921,7 @@
     <model>V70</model>
     <year>2015</year>
     <mileage>
-      <value>143820</value>
+      <value>143830</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Sedan</body_style>
@@ -3312,52 +3312,6 @@
     <dealer_id>cddd81a6-5031-42cd-a468-67eb1f2299c7</dealer_id>
     </item>
     <item>
-    <g:id>1ff368ab-f971-45d1-b87d-9e1afacb94f0</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>1ff368ab-f971-45d1-b87d-9e1afacb94f0</vehicle_id>
-    <vehicle_registration_plate>GBR02X</vehicle_registration_plate>
-    <g:title>Volvo EC40 M Ext CoreSE</g:title>
-    <title>Volvo EC40 M Ext CoreSE</title>
-    <g:description>M Ext CoreSE. Utrustningsnivå: Core Special Edition. Miltal: 3 608 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: GBR02X. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>M Ext CoreSE. Utrustningsnivå: Core Special Edition. Miltal: 3 608 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: GBR02X. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/1ff368ab-f971-45d1-b87d-9e1afacb94f0</g:link>
-    <link>https://www.rejmesbil.se/sok/id/1ff368ab-f971-45d1-b87d-9e1afacb94f0</link>
-    <url>https://www.rejmesbil.se/sok/id/1ff368ab-f971-45d1-b87d-9e1afacb94f0</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/36edebf9f62447ef9300801a4ed333b5/411ed1e4e6994baeb1fd53bffe43ba0b?format=jpeg&amp;w=770&amp;h=514</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/36edebf9f62447ef9300801a4ed333b5/411ed1e4e6994baeb1fd53bffe43ba0b?format=jpeg&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>EC40</model>
-    <year>2025</year>
-    <mileage>
-      <value>36080</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>439500 SEK</g:price>
-    <price>439500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Laholm</component>
-      <component name="city">Laholm</component>
-      <component name="region">Laholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>439500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>cddd81a6-5031-42cd-a468-67eb1f2299c7</dealer_id>
-    </item>
-    <item>
     <g:id>0673dac9-70ef-4d76-a332-e3b774780bdb</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -3457,8 +3411,8 @@
     <vehicle_registration_plate>ALM83S</vehicle_registration_plate>
     <g:title>Volvo V60 B4 AWD Diesel Adv SE | Drag | H/K</g:title>
     <title>Volvo V60 B4 AWD Diesel Adv SE | Drag | H/K</title>
-    <g:description>B4 AWD Diesel Adv SE | Drag | H/K. Utrustningsnivå: Cross Country Advanced. Miltal: 10 585 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: ALM83S. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>B4 AWD Diesel Adv SE | Drag | H/K. Utrustningsnivå: Cross Country Advanced. Miltal: 10 585 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: ALM83S. Kontakta oss för mer information om detta fordon.</description>
+    <g:description>B4 AWD Diesel Adv SE | Drag | H/K. Utrustningsnivå: Cross Country Advanced. Miltal: 10 586 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: ALM83S. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>B4 AWD Diesel Adv SE | Drag | H/K. Utrustningsnivå: Cross Country Advanced. Miltal: 10 586 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: ALM83S. Kontakta oss för mer information om detta fordon.</description>
     <g:link>https://www.rejmesbil.se/sok/id/c03bb4c5-f316-470b-8ec0-dc36f9a9bc9a</g:link>
     <link>https://www.rejmesbil.se/sok/id/c03bb4c5-f316-470b-8ec0-dc36f9a9bc9a</link>
     <url>https://www.rejmesbil.se/sok/id/c03bb4c5-f316-470b-8ec0-dc36f9a9bc9a</url>
@@ -3473,7 +3427,7 @@
     <model>V60</model>
     <year>2021</year>
     <mileage>
-      <value>105850</value>
+      <value>105860</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Wagon</body_style>
@@ -4283,10 +4237,10 @@
     <g:fb_product_category>173</g:fb_product_category>
     <vehicle_id>1f14f3d1-461f-4ee0-bdae-3a6553d0b5a0</vehicle_id>
     <vehicle_registration_plate>NSJ01L</vehicle_registration_plate>
-    <g:title>Volvo XC60 Recharge T6 Core Edt</g:title>
-    <title>Volvo XC60 Recharge T6 Core Edt</title>
-    <g:description>Recharge T6 Core Edt. Utrustningsnivå: Core. Miltal: 11 111 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: NSJ01L. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>Recharge T6 Core Edt. Utrustningsnivå: Core. Miltal: 11 111 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: NSJ01L. Kontakta oss för mer information om detta fordon.</description>
+    <g:title>Volvo XC60 Recharge T6 Core Edt | Drag | 360° | H/K |</g:title>
+    <title>Volvo XC60 Recharge T6 Core Edt | Drag | 360° | H/K |</title>
+    <g:description>Recharge T6 Core Edt | Drag | 360° | H/K |. Utrustningsnivå: Core. Miltal: 11 111 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: NSJ01L. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>Recharge T6 Core Edt | Drag | 360° | H/K |. Utrustningsnivå: Core. Miltal: 11 111 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: NSJ01L. Kontakta oss för mer information om detta fordon.</description>
     <g:link>https://www.rejmesbil.se/sok/id/1f14f3d1-461f-4ee0-bdae-3a6553d0b5a0</g:link>
     <link>https://www.rejmesbil.se/sok/id/1f14f3d1-461f-4ee0-bdae-3a6553d0b5a0</link>
     <url>https://www.rejmesbil.se/sok/id/1f14f3d1-461f-4ee0-bdae-3a6553d0b5a0</url>
@@ -4467,10 +4421,10 @@
     <g:fb_product_category>173</g:fb_product_category>
     <vehicle_id>206dbbea-643a-45fb-9d68-0a9dbe71caa3</vehicle_id>
     <vehicle_registration_plate>GHP27W</vehicle_registration_plate>
-    <g:title>Volvo XC40 Recharge T4 R-Design HK Läder Elstolar, Drag Tonade rutor</g:title>
-    <title>Volvo XC40 Recharge T4 R-Design HK Läder Elstolar, Drag Tonade rutor</title>
-    <g:description>Recharge T4 R-Design HK Läder Elstolar, Drag Tonade rutor. Utrustningsnivå: R-Design. Miltal: 6 106 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: GHP27W. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>Recharge T4 R-Design HK Läder Elstolar, Drag Tonade rutor. Utrustningsnivå: R-Design. Miltal: 6 106 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: GHP27W. Kontakta oss för mer information om detta fordon.</description>
+    <g:title>Volvo XC40 Recharge T4 R-Design | HK | Läder | Elstolar | Drag |</g:title>
+    <title>Volvo XC40 Recharge T4 R-Design | HK | Läder | Elstolar | Drag |</title>
+    <g:description>Recharge T4 R-Design | HK | Läder | Elstolar | Drag |. Utrustningsnivå: R-Design. Miltal: 6 106 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: GHP27W. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>Recharge T4 R-Design | HK | Läder | Elstolar | Drag |. Utrustningsnivå: R-Design. Miltal: 6 106 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: GHP27W. Kontakta oss för mer information om detta fordon.</description>
     <g:link>https://www.rejmesbil.se/sok/id/206dbbea-643a-45fb-9d68-0a9dbe71caa3</g:link>
     <link>https://www.rejmesbil.se/sok/id/206dbbea-643a-45fb-9d68-0a9dbe71caa3</link>
     <url>https://www.rejmesbil.se/sok/id/206dbbea-643a-45fb-9d68-0a9dbe71caa3</url>
