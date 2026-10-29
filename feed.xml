@@ -5,6 +5,47 @@
     <link>https://www.rejmesbil.se</link>
     <description>Rejmes Bil Vehicle Inventory - Manufacturer Warranty</description>
     <item>
+    <g:id>5c703678-08c2-5f72-88c9-8bdde7c3a7f4</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>5c703678-08c2-5f72-88c9-8bdde7c3a7f4</vehicle_id>
+    <vehicle_registration_plate>YXY10H</vehicle_registration_plate>
+    <g:title>Volvo XC40 B4 AWD Bensin Mom Adv Edt</g:title>
+    <title>Volvo XC40 B4 AWD Bensin Mom Adv Edt</title>
+    <g:description>B4 AWD Bensin Mom Adv Edt. Utrustningsnivå: Momentum Advanced. Miltal: 15 345 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: YXY10H. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>B4 AWD Bensin Mom Adv Edt. Utrustningsnivå: Momentum Advanced. Miltal: 15 345 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: YXY10H. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/5c703678-08c2-5f72-88c9-8bdde7c3a7f4</g:link>
+    <link>https://www.rejmesbil.se/sok/id/5c703678-08c2-5f72-88c9-8bdde7c3a7f4</link>
+    <url>https://www.rejmesbil.se/sok/id/5c703678-08c2-5f72-88c9-8bdde7c3a7f4</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <model>XC40</model>
+    <year>2021</year>
+    <mileage>
+      <value>153450</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>269500 SEK</g:price>
+    <price>269500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Halmstad</component>
+      <component name="city">Halmstad</component>
+      <component name="region">Halmstad</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>269500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
+    </item>
+    <item>
     <g:id>d75533b9-7702-46dd-98e3-58c517145e15</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -463,52 +504,6 @@
     <condition>new</condition>
     <state_of_vehicle>NEW</state_of_vehicle>
     <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
-    </item>
-    <item>
-    <g:id>ebbff799-ef16-5bd3-aae5-24c1835ce6eb</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>ebbff799-ef16-5bd3-aae5-24c1835ce6eb</vehicle_id>
-    <vehicle_registration_plate>RCU57Y</vehicle_registration_plate>
-    <g:title>Volvo XC90 T8 Ultra Dark | Dragkrok | 360-kamera | Head-up |</g:title>
-    <title>Volvo XC90 T8 Ultra Dark | Dragkrok | 360-kamera | Head-up |</title>
-    <g:description>T8 Ultra Dark | Dragkrok | 360-kamera | Head-up |. Utrustningsnivå: Ultra. Miltal: 2 101 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: RCU57Y. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>T8 Ultra Dark | Dragkrok | 360-kamera | Head-up |. Utrustningsnivå: Ultra. Miltal: 2 101 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: RCU57Y. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/ebbff799-ef16-5bd3-aae5-24c1835ce6eb</g:link>
-    <link>https://www.rejmesbil.se/sok/id/ebbff799-ef16-5bd3-aae5-24c1835ce6eb</link>
-    <url>https://www.rejmesbil.se/sok/id/ebbff799-ef16-5bd3-aae5-24c1835ce6eb</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/547593be-8b42-41a8-8007-62d274e0032d?format=jpeg&amp;w=770&amp;h=514</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/547593be-8b42-41a8-8007-62d274e0032d?format=jpeg&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC90</model>
-    <year>2026</year>
-    <mileage>
-      <value>21010</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>799500 SEK</g:price>
-    <price>799500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Laholm</component>
-      <component name="city">Laholm</component>
-      <component name="region">Laholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>799500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>new</g:condition>
-    <condition>new</condition>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <dealer_id>cddd81a6-5031-42cd-a468-67eb1f2299c7</dealer_id>
     </item>
     <item>
     <g:id>be13f83f-e10d-5d9b-845f-0d956769a453</g:id>
@@ -2854,52 +2849,6 @@
     <g:condition>used</g:condition>
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
-    </item>
-    <item>
-    <g:id>06488abd-f386-4096-96f7-aa8e29a05d22</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>06488abd-f386-4096-96f7-aa8e29a05d22</vehicle_id>
-    <vehicle_registration_plate>TBU52N</vehicle_registration_plate>
-    <g:title>Volvo XC40 B4 FWD Bensin Plus Dark</g:title>
-    <title>Volvo XC40 B4 FWD Bensin Plus Dark</title>
-    <g:description>B4 FWD Bensin Plus Dark. Utrustningsnivå: Plus. Miltal: 1 721 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: TBU52N. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>B4 FWD Bensin Plus Dark. Utrustningsnivå: Plus. Miltal: 1 721 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin. Registreringsnummer: TBU52N. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/06488abd-f386-4096-96f7-aa8e29a05d22</g:link>
-    <link>https://www.rejmesbil.se/sok/id/06488abd-f386-4096-96f7-aa8e29a05d22</link>
-    <url>https://www.rejmesbil.se/sok/id/06488abd-f386-4096-96f7-aa8e29a05d22</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/7cbf9f6493df4c33b4d0451f158208dc/82117b237047432b8e3d6a6f5576291f?format=jpeg&amp;w=770&amp;h=514</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/7cbf9f6493df4c33b4d0451f158208dc/82117b237047432b8e3d6a6f5576291f?format=jpeg&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2026</year>
-    <mileage>
-      <value>17210</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>409500 SEK</g:price>
-    <price>409500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>409500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>new</g:condition>
-    <condition>new</condition>
-    <state_of_vehicle>NEW</state_of_vehicle>
     <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
     </item>
     <item>
