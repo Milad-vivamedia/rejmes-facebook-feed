@@ -66,6 +66,11 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/fc234da6-8056-4fd8-a1eb-5dcb9756bbcf/dc09ee8a-3b76-415e-ac43-ce71696d27d7?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/fc234da6-8056-4fd8-a1eb-5dcb9756bbcf/dc09ee8a-3b76-415e-ac43-ce71696d27d7?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
     <model>EX30</model>
     <year>2024</year>
     <mileage>
@@ -687,52 +692,6 @@
     <g:condition>used</g:condition>
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
-    </item>
-    <item>
-    <g:id>d75533b9-7702-46dd-98e3-58c517145e15</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>d75533b9-7702-46dd-98e3-58c517145e15</vehicle_id>
-    <vehicle_registration_plate>HEU78K</vehicle_registration_plate>
-    <g:title>Volvo V60 T6 Plus Dark Nordic Edt | 360-kamera | Dragkrok | H/K</g:title>
-    <title>Volvo V60 T6 Plus Dark Nordic Edt | 360-kamera | Dragkrok | H/K</title>
-    <g:description>T6 Plus Dark Nordic Edt | 360-kamera | Dragkrok | H/K. Utrustningsnivå: Plus Nordic Edition. Miltal: 1 383 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: HEU78K. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>T6 Plus Dark Nordic Edt | 360-kamera | Dragkrok | H/K. Utrustningsnivå: Plus Nordic Edition. Miltal: 1 383 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: HEU78K. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/d75533b9-7702-46dd-98e3-58c517145e15</g:link>
-    <link>https://www.rejmesbil.se/sok/id/d75533b9-7702-46dd-98e3-58c517145e15</link>
-    <url>https://www.rejmesbil.se/sok/id/d75533b9-7702-46dd-98e3-58c517145e15</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/964a0bf7-4b17-4ac7-80fd-de08c741da48/32b0e19a-e551-49d7-9259-b22fbae3a9e0?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/964a0bf7-4b17-4ac7-80fd-de08c741da48/32b0e19a-e551-49d7-9259-b22fbae3a9e0?format=jpeg&amp;r=0000000&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>V60</model>
-    <year>2026</year>
-    <mileage>
-      <value>13830</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Wagon</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>479500 SEK</g:price>
-    <price>479500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>479500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>new</g:condition>
-    <condition>new</condition>
-    <state_of_vehicle>NEW</state_of_vehicle>
     <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
     </item>
     <item>
