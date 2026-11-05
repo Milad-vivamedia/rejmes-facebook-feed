@@ -5,6 +5,52 @@
     <link>https://www.rejmesbil.se</link>
     <description>Rejmes Bil Vehicle Inventory - Manufacturer Warranty</description>
     <item>
+    <g:id>350b56f9-ec2a-5ad8-bc0b-cac94819ee0e</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>350b56f9-ec2a-5ad8-bc0b-cac94819ee0e</vehicle_id>
+    <vehicle_registration_plate>WJA91U</vehicle_registration_plate>
+    <g:title>Volvo EC40 M ExtR PlusBlackE</g:title>
+    <title>Volvo EC40 M ExtR PlusBlackE</title>
+    <g:description>M ExtR PlusBlackE. Utrustningsnivå: Plus. Miltal: 7 032 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: WJA91U. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>M ExtR PlusBlackE. Utrustningsnivå: Plus. Miltal: 7 032 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Registreringsnummer: WJA91U. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/350b56f9-ec2a-5ad8-bc0b-cac94819ee0e</g:link>
+    <link>https://www.rejmesbil.se/sok/id/350b56f9-ec2a-5ad8-bc0b-cac94819ee0e</link>
+    <url>https://www.rejmesbil.se/sok/id/350b56f9-ec2a-5ad8-bc0b-cac94819ee0e</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/e0cdaee9bd5a430bbbd212e2fbd55bcf/378dcc906b2e444ebafeaa746bf1353f?format=jpeg&amp;w=770&amp;h=514</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/e0cdaee9bd5a430bbbd212e2fbd55bcf/378dcc906b2e444ebafeaa746bf1353f?format=jpeg&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>EC40</model>
+    <year>2025</year>
+    <mileage>
+      <value>70320</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>439500 SEK</g:price>
+    <price>439500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Falkenberg</component>
+      <component name="city">Falkenberg</component>
+      <component name="region">Falkenberg</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>439500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <dealer_id>a19b2c7e-0d5f-4834-bf2d-a285eff2d725</dealer_id>
+    </item>
+    <item>
     <g:id>bd1f52ac-e2d9-58d5-8550-b3966965bd49</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -402,15 +448,15 @@
     <body_style>SUV</body_style>
     <fuel_type>Bensin+El</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>499500 SEK</g:price>
-    <price>499500 SEK</price>
+    <g:price>489500 SEK</g:price>
+    <price>489500 SEK</price>
     <address format="simple">
       <component name="addr1">Rejmes Halland - Falkenberg</component>
       <component name="city">Falkenberg</component>
       <component name="region">Falkenberg</component>
       <component name="country">SE</component>
     </address>
-    <sale_price>499500 SEK</sale_price>
+    <sale_price>489500 SEK</sale_price>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
@@ -448,15 +494,15 @@
     <body_style>SUV</body_style>
     <fuel_type>Bensin+El</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>509500 SEK</g:price>
-    <price>509500 SEK</price>
+    <g:price>499500 SEK</g:price>
+    <price>499500 SEK</price>
     <address format="simple">
       <component name="addr1">Rejmes Halland - Falkenberg</component>
       <component name="city">Falkenberg</component>
       <component name="region">Falkenberg</component>
       <component name="country">SE</component>
     </address>
-    <sale_price>509500 SEK</sale_price>
+    <sale_price>499500 SEK</sale_price>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
@@ -494,15 +540,15 @@
     <body_style>SUV</body_style>
     <fuel_type>Bensin+El</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>539500 SEK</g:price>
-    <price>539500 SEK</price>
+    <g:price>529500 SEK</g:price>
+    <price>529500 SEK</price>
     <address format="simple">
       <component name="addr1">Rejmes Halland - Falkenberg</component>
       <component name="city">Falkenberg</component>
       <component name="region">Falkenberg</component>
       <component name="country">SE</component>
     </address>
-    <sale_price>539500 SEK</sale_price>
+    <sale_price>529500 SEK</sale_price>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
@@ -540,15 +586,15 @@
     <body_style>SUV</body_style>
     <fuel_type>Bensin+El</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>429500 SEK</g:price>
-    <price>429500 SEK</price>
+    <g:price>419500 SEK</g:price>
+    <price>419500 SEK</price>
     <address format="simple">
       <component name="addr1">Rejmes Halland - Falkenberg</component>
       <component name="city">Falkenberg</component>
       <component name="region">Falkenberg</component>
       <component name="country">SE</component>
     </address>
-    <sale_price>429500 SEK</sale_price>
+    <sale_price>419500 SEK</sale_price>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
@@ -816,15 +862,15 @@
     <body_style>SUV</body_style>
     <fuel_type>Bensin+El</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>499500 SEK</g:price>
-    <price>499500 SEK</price>
+    <g:price>489500 SEK</g:price>
+    <price>489500 SEK</price>
     <address format="simple">
       <component name="addr1">Rejmes Halland - Laholm</component>
       <component name="city">Laholm</component>
       <component name="region">Laholm</component>
       <component name="country">SE</component>
     </address>
-    <sale_price>499500 SEK</sale_price>
+    <sale_price>489500 SEK</sale_price>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
@@ -1523,52 +1569,6 @@
     <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
     </item>
     <item>
-    <g:id>4b3846bd-346f-52fc-bd65-2bd95df49772</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>4b3846bd-346f-52fc-bd65-2bd95df49772</vehicle_id>
-    <vehicle_registration_plate>YAR42Z</vehicle_registration_plate>
-    <g:title>Volvo V60 T6 Plus Dark Nordic Edt | Drag | 360° | H/K |</g:title>
-    <title>Volvo V60 T6 Plus Dark Nordic Edt | Drag | 360° | H/K |</title>
-    <g:description>T6 Plus Dark Nordic Edt | Drag | 360° | H/K |. Utrustningsnivå: Plus Nordic Edition. Miltal: 5 789 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: YAR42Z. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>T6 Plus Dark Nordic Edt | Drag | 360° | H/K |. Utrustningsnivå: Plus Nordic Edition. Miltal: 5 789 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: YAR42Z. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/4b3846bd-346f-52fc-bd65-2bd95df49772</g:link>
-    <link>https://www.rejmesbil.se/sok/id/4b3846bd-346f-52fc-bd65-2bd95df49772</link>
-    <url>https://www.rejmesbil.se/sok/id/4b3846bd-346f-52fc-bd65-2bd95df49772</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/711c0058-5d3a-46ae-be68-8ae599fc40e4?format=jpeg&amp;w=770&amp;h=514</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/711c0058-5d3a-46ae-be68-8ae599fc40e4?format=jpeg&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>V60</model>
-    <year>2025</year>
-    <mileage>
-      <value>57890</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Wagon</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>419500 SEK</g:price>
-    <price>419500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Falkenberg</component>
-      <component name="city">Falkenberg</component>
-      <component name="region">Falkenberg</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>419500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>a19b2c7e-0d5f-4834-bf2d-a285eff2d725</dealer_id>
-    </item>
-    <item>
     <g:id>3506ccd8-9bb7-4c51-86bb-38950f15ef4e</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -1576,8 +1576,8 @@
     <vehicle_registration_plate>MNP86E</vehicle_registration_plate>
     <g:title>Volvo XC90 Recharge T8II Ulti D | Drag | Luftfjädring | 360° | B/W |</g:title>
     <title>Volvo XC90 Recharge T8II Ulti D | Drag | Luftfjädring | 360° | B/W |</title>
-    <g:description>Recharge T8II Ulti D | Drag | Luftfjädring | 360° | B/W |. Utrustningsnivå: Ultimate. Miltal: 5 000 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: MNP86E. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>Recharge T8II Ulti D | Drag | Luftfjädring | 360° | B/W |. Utrustningsnivå: Ultimate. Miltal: 5 000 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: MNP86E. Kontakta oss för mer information om detta fordon.</description>
+    <g:description>Recharge T8II Ulti D | Drag | Luftfjädring | 360° | B/W |. Utrustningsnivå: Ultimate. Miltal: 4 962 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: MNP86E. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>Recharge T8II Ulti D | Drag | Luftfjädring | 360° | B/W |. Utrustningsnivå: Ultimate. Miltal: 4 962 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: MNP86E. Kontakta oss för mer information om detta fordon.</description>
     <g:link>https://www.rejmesbil.se/sok/id/3506ccd8-9bb7-4c51-86bb-38950f15ef4e</g:link>
     <link>https://www.rejmesbil.se/sok/id/3506ccd8-9bb7-4c51-86bb-38950f15ef4e</link>
     <url>https://www.rejmesbil.se/sok/id/3506ccd8-9bb7-4c51-86bb-38950f15ef4e</url>
@@ -1592,7 +1592,7 @@
     <model>XC90</model>
     <year>2024</year>
     <mileage>
-      <value>50000</value>
+      <value>49620</value>
       <unit>KM</unit>
     </mileage>
     <body_style>SUV</body_style>
@@ -2196,15 +2196,15 @@
     <body_style>SUV</body_style>
     <fuel_type>Bensin+El</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>319500 SEK</g:price>
-    <price>319500 SEK</price>
+    <g:price>314500 SEK</g:price>
+    <price>314500 SEK</price>
     <address format="simple">
       <component name="addr1">Rejmes Halland - Halmstad</component>
       <component name="city">Halmstad</component>
       <component name="region">Halmstad</component>
       <component name="country">SE</component>
     </address>
-    <sale_price>319500 SEK</sale_price>
+    <sale_price>314500 SEK</sale_price>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
@@ -2518,15 +2518,15 @@
     <body_style>SUV</body_style>
     <fuel_type>Bensin+El</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>379500 SEK</g:price>
-    <price>379500 SEK</price>
+    <g:price>374500 SEK</g:price>
+    <price>374500 SEK</price>
     <address format="simple">
       <component name="addr1">Rejmes Halland - Falkenberg</component>
       <component name="city">Falkenberg</component>
       <component name="region">Falkenberg</component>
       <component name="country">SE</component>
     </address>
-    <sale_price>379500 SEK</sale_price>
+    <sale_price>374500 SEK</sale_price>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
@@ -2702,15 +2702,15 @@
     <body_style>Wagon</body_style>
     <fuel_type>Diesel</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>399500 SEK</g:price>
-    <price>399500 SEK</price>
+    <g:price>389500 SEK</g:price>
+    <price>389500 SEK</price>
     <address format="simple">
       <component name="addr1">Rejmes Halland - Laholm</component>
       <component name="city">Laholm</component>
       <component name="region">Laholm</component>
       <component name="country">SE</component>
     </address>
-    <sale_price>399500 SEK</sale_price>
+    <sale_price>389500 SEK</sale_price>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
@@ -3300,15 +3300,15 @@
     <body_style>Wagon</body_style>
     <fuel_type>Gasoline</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>449500 SEK</g:price>
-    <price>449500 SEK</price>
+    <g:price>439500 SEK</g:price>
+    <price>439500 SEK</price>
     <address format="simple">
       <component name="addr1">Rejmes Halland - Laholm</component>
       <component name="city">Laholm</component>
       <component name="region">Laholm</component>
       <component name="country">SE</component>
     </address>
-    <sale_price>449500 SEK</sale_price>
+    <sale_price>439500 SEK</sale_price>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
@@ -3414,10 +3414,10 @@
     <g:fb_product_category>173</g:fb_product_category>
     <vehicle_id>c03bb4c5-f316-470b-8ec0-dc36f9a9bc9a</vehicle_id>
     <vehicle_registration_plate>ALM83S</vehicle_registration_plate>
-    <g:title>Volvo V60 B4 AWD Diesel Adv SE | Drag | H/K</g:title>
-    <title>Volvo V60 B4 AWD Diesel Adv SE | Drag | H/K</title>
-    <g:description>B4 AWD Diesel Adv SE | Drag | H/K. Utrustningsnivå: Cross Country Advanced. Miltal: 10 586 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: ALM83S. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>B4 AWD Diesel Adv SE | Drag | H/K. Utrustningsnivå: Cross Country Advanced. Miltal: 10 586 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: ALM83S. Kontakta oss för mer information om detta fordon.</description>
+    <g:title>Volvo V60 B4 AWD Diesel Adv SE | Drag | H/K | Elman. stolar |</g:title>
+    <title>Volvo V60 B4 AWD Diesel Adv SE | Drag | H/K | Elman. stolar |</title>
+    <g:description>B4 AWD Diesel Adv SE | Drag | H/K | Elman. stolar |. Utrustningsnivå: Cross Country Advanced. Miltal: 10 586 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: ALM83S. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>B4 AWD Diesel Adv SE | Drag | H/K | Elman. stolar |. Utrustningsnivå: Cross Country Advanced. Miltal: 10 586 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: ALM83S. Kontakta oss för mer information om detta fordon.</description>
     <g:link>https://www.rejmesbil.se/sok/id/c03bb4c5-f316-470b-8ec0-dc36f9a9bc9a</g:link>
     <link>https://www.rejmesbil.se/sok/id/c03bb4c5-f316-470b-8ec0-dc36f9a9bc9a</link>
     <url>https://www.rejmesbil.se/sok/id/c03bb4c5-f316-470b-8ec0-dc36f9a9bc9a</url>
@@ -3438,15 +3438,15 @@
     <body_style>Wagon</body_style>
     <fuel_type>Diesel</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>324500 SEK</g:price>
-    <price>324500 SEK</price>
+    <g:price>314500 SEK</g:price>
+    <price>314500 SEK</price>
     <address format="simple">
       <component name="addr1">Rejmes Halland - Halmstad</component>
       <component name="city">Halmstad</component>
       <component name="region">Halmstad</component>
       <component name="country">SE</component>
     </address>
-    <sale_price>324500 SEK</sale_price>
+    <sale_price>314500 SEK</sale_price>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
@@ -3622,15 +3622,15 @@
     <body_style>SUV</body_style>
     <fuel_type>Bensin+El</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>414500 SEK</g:price>
-    <price>414500 SEK</price>
+    <g:price>409500 SEK</g:price>
+    <price>409500 SEK</price>
     <address format="simple">
       <component name="addr1">Rejmes Halland - Halmstad</component>
       <component name="city">Halmstad</component>
       <component name="region">Halmstad</component>
       <component name="country">SE</component>
     </address>
-    <sale_price>414500 SEK</sale_price>
+    <sale_price>409500 SEK</sale_price>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
@@ -3852,15 +3852,15 @@
     <body_style>Wagon</body_style>
     <fuel_type>Bensin+El</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>339500 SEK</g:price>
-    <price>339500 SEK</price>
+    <g:price>334500 SEK</g:price>
+    <price>334500 SEK</price>
     <address format="simple">
       <component name="addr1">Rejmes Halland - Halmstad</component>
       <component name="city">Halmstad</component>
       <component name="region">Halmstad</component>
       <component name="country">SE</component>
     </address>
-    <sale_price>339500 SEK</sale_price>
+    <sale_price>334500 SEK</sale_price>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
@@ -3898,15 +3898,15 @@
     <body_style>SUV</body_style>
     <fuel_type>Bensin+El</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>524500 SEK</g:price>
-    <price>524500 SEK</price>
+    <g:price>514500 SEK</g:price>
+    <price>514500 SEK</price>
     <address format="simple">
       <component name="addr1">Rejmes Halland - Falkenberg</component>
       <component name="city">Falkenberg</component>
       <component name="region">Falkenberg</component>
       <component name="country">SE</component>
     </address>
-    <sale_price>524500 SEK</sale_price>
+    <sale_price>514500 SEK</sale_price>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
@@ -4220,15 +4220,15 @@
     <body_style>SUV</body_style>
     <fuel_type>Bensin+El</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>388500 SEK</g:price>
-    <price>388500 SEK</price>
+    <g:price>384500 SEK</g:price>
+    <price>384500 SEK</price>
     <address format="simple">
       <component name="addr1">Rejmes Halland - Laholm</component>
       <component name="city">Laholm</component>
       <component name="region">Laholm</component>
       <component name="country">SE</component>
     </address>
-    <sale_price>388500 SEK</sale_price>
+    <sale_price>384500 SEK</sale_price>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
@@ -4312,15 +4312,15 @@
     <body_style>SUV</body_style>
     <fuel_type>Bensin+El</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>359500 SEK</g:price>
-    <price>359500 SEK</price>
+    <g:price>357500 SEK</g:price>
+    <price>357500 SEK</price>
     <address format="simple">
       <component name="addr1">Rejmes Halland - Halmstad</component>
       <component name="city">Halmstad</component>
       <component name="region">Halmstad</component>
       <component name="country">SE</component>
     </address>
-    <sale_price>359500 SEK</sale_price>
+    <sale_price>357500 SEK</sale_price>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
@@ -4358,15 +4358,15 @@
     <body_style>Wagon</body_style>
     <fuel_type>Bensin+El</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>464500 SEK</g:price>
-    <price>464500 SEK</price>
+    <g:price>458400 SEK</g:price>
+    <price>458400 SEK</price>
     <address format="simple">
       <component name="addr1">Rejmes Halland - Falkenberg</component>
       <component name="city">Falkenberg</component>
       <component name="region">Falkenberg</component>
       <component name="country">SE</component>
     </address>
-    <sale_price>464500 SEK</sale_price>
+    <sale_price>458400 SEK</sale_price>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
@@ -4450,15 +4450,15 @@
     <body_style>Wagon</body_style>
     <fuel_type>Diesel</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>364500 SEK</g:price>
-    <price>364500 SEK</price>
+    <g:price>359500 SEK</g:price>
+    <price>359500 SEK</price>
     <address format="simple">
       <component name="addr1">Rejmes Halland - Halmstad</component>
       <component name="city">Halmstad</component>
       <component name="region">Halmstad</component>
       <component name="country">SE</component>
     </address>
-    <sale_price>364500 SEK</sale_price>
+    <sale_price>359500 SEK</sale_price>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
@@ -4680,15 +4680,15 @@
     <body_style>SUV</body_style>
     <fuel_type>Bensin+El</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>354500 SEK</g:price>
-    <price>354500 SEK</price>
+    <g:price>349500 SEK</g:price>
+    <price>349500 SEK</price>
     <address format="simple">
       <component name="addr1">Rejmes Halland - Laholm</component>
       <component name="city">Laholm</component>
       <component name="region">Laholm</component>
       <component name="country">SE</component>
     </address>
-    <sale_price>354500 SEK</sale_price>
+    <sale_price>349500 SEK</sale_price>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
@@ -4932,10 +4932,10 @@
     <g:fb_product_category>173</g:fb_product_category>
     <vehicle_id>cd95f70d-78e8-4a1b-b99f-ec4842a7ba52</vehicle_id>
     <vehicle_registration_plate>SGM41S</vehicle_registration_plate>
-    <g:title>Volvo XC90 T8 Ultra Dark | 22&quot; | Bowers&amp;Wilkins | Ryggmassage | Dragkrok</g:title>
-    <title>Volvo XC90 T8 Ultra Dark | 22&quot; | Bowers&amp;Wilkins | Ryggmassage | Dragkrok</title>
-    <g:description>T8 Ultra Dark | 22&quot; | Bowers&amp;Wilkins | Ryggmassage | Dragkrok. Utrustningsnivå: Ultra. Miltal: 3 864 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: SGM41S. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>T8 Ultra Dark | 22&quot; | Bowers&amp;Wilkins | Ryggmassage | Dragkrok. Utrustningsnivå: Ultra. Miltal: 3 864 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: SGM41S. Kontakta oss för mer information om detta fordon.</description>
+    <g:title>Volvo XC90 T8 Ultra Dark | 22&quot; | B&amp;W | Ryggmassage | Dragkrok</g:title>
+    <title>Volvo XC90 T8 Ultra Dark | 22&quot; | B&amp;W | Ryggmassage | Dragkrok</title>
+    <g:description>T8 Ultra Dark | 22&quot; | B&amp;W | Ryggmassage | Dragkrok. Utrustningsnivå: Ultra. Miltal: 3 864 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: SGM41S. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>T8 Ultra Dark | 22&quot; | B&amp;W | Ryggmassage | Dragkrok. Utrustningsnivå: Ultra. Miltal: 3 864 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: SGM41S. Kontakta oss för mer information om detta fordon.</description>
     <g:link>https://www.rejmesbil.se/sok/id/cd95f70d-78e8-4a1b-b99f-ec4842a7ba52</g:link>
     <link>https://www.rejmesbil.se/sok/id/cd95f70d-78e8-4a1b-b99f-ec4842a7ba52</link>
     <url>https://www.rejmesbil.se/sok/id/cd95f70d-78e8-4a1b-b99f-ec4842a7ba52</url>
@@ -5002,15 +5002,15 @@
     <body_style>Sedan</body_style>
     <fuel_type>Electric</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>464500 SEK</g:price>
-    <price>464500 SEK</price>
+    <g:price>462500 SEK</g:price>
+    <price>462500 SEK</price>
     <address format="simple">
       <component name="addr1">Rejmes Halland - Falkenberg</component>
       <component name="city">Falkenberg</component>
       <component name="region">Falkenberg</component>
       <component name="country">SE</component>
     </address>
-    <sale_price>464500 SEK</sale_price>
+    <sale_price>462500 SEK</sale_price>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
@@ -5140,15 +5140,15 @@
     <body_style>SUV</body_style>
     <fuel_type>Bensin+El</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>339500 SEK</g:price>
-    <price>339500 SEK</price>
+    <g:price>334500 SEK</g:price>
+    <price>334500 SEK</price>
     <address format="simple">
       <component name="addr1">Rejmes Halland - Halmstad</component>
       <component name="city">Halmstad</component>
       <component name="region">Halmstad</component>
       <component name="country">SE</component>
     </address>
-    <sale_price>339500 SEK</sale_price>
+    <sale_price>334500 SEK</sale_price>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
@@ -5278,15 +5278,15 @@
     <body_style>SUV</body_style>
     <fuel_type>Bensin+El</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>544500 SEK</g:price>
-    <price>544500 SEK</price>
+    <g:price>539500 SEK</g:price>
+    <price>539500 SEK</price>
     <address format="simple">
       <component name="addr1">Rejmes Halland - Halmstad</component>
       <component name="city">Halmstad</component>
       <component name="region">Halmstad</component>
       <component name="country">SE</component>
     </address>
-    <sale_price>544500 SEK</sale_price>
+    <sale_price>539500 SEK</sale_price>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
@@ -5324,15 +5324,15 @@
     <body_style>SUV</body_style>
     <fuel_type>Bensin+El</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>499500 SEK</g:price>
-    <price>499500 SEK</price>
+    <g:price>494500 SEK</g:price>
+    <price>494500 SEK</price>
     <address format="simple">
       <component name="addr1">Rejmes Halland - Halmstad</component>
       <component name="city">Halmstad</component>
       <component name="region">Halmstad</component>
       <component name="country">SE</component>
     </address>
-    <sale_price>499500 SEK</sale_price>
+    <sale_price>494500 SEK</sale_price>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
@@ -5385,52 +5385,6 @@
     <condition>new</condition>
     <state_of_vehicle>NEW</state_of_vehicle>
     <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
-    </item>
-    <item>
-    <g:id>e67d7b1b-50c9-4219-989d-bddeae1df744</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>e67d7b1b-50c9-4219-989d-bddeae1df744</vehicle_id>
-    <vehicle_registration_plate>TGS78F</vehicle_registration_plate>
-    <g:title>Volvo XC60 T6 Plus Dark Edition | 21&quot; | H/K | HUD | Dragkrok |</g:title>
-    <title>Volvo XC60 T6 Plus Dark Edition | 21&quot; | H/K | HUD | Dragkrok |</title>
-    <g:description>T6 Plus Dark Edition | 21&quot; | H/K | HUD | Dragkrok |. Utrustningsnivå: Plus Edition. Miltal: 2 369 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: TGS78F. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>T6 Plus Dark Edition | 21&quot; | H/K | HUD | Dragkrok |. Utrustningsnivå: Plus Edition. Miltal: 2 369 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: TGS78F. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/e67d7b1b-50c9-4219-989d-bddeae1df744</g:link>
-    <link>https://www.rejmesbil.se/sok/id/e67d7b1b-50c9-4219-989d-bddeae1df744</link>
-    <url>https://www.rejmesbil.se/sok/id/e67d7b1b-50c9-4219-989d-bddeae1df744</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/b45711b9b4404cbf8913217228e0c8fe/27e5af4543214c138c1e274ae5c7f6f6?format=jpeg&amp;w=770&amp;h=514</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/b45711b9b4404cbf8913217228e0c8fe/27e5af4543214c138c1e274ae5c7f6f6?format=jpeg&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC60</model>
-    <year>2025</year>
-    <mileage>
-      <value>23690</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>549500 SEK</g:price>
-    <price>549500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Laholm</component>
-      <component name="city">Laholm</component>
-      <component name="region">Laholm</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>549500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>cddd81a6-5031-42cd-a468-67eb1f2299c7</dealer_id>
     </item>
   </channel>
 </rss>
