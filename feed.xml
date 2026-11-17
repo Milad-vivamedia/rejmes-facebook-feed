@@ -5,6 +5,52 @@
     <link>https://www.rejmesbil.se</link>
     <description>Rejmes Bil Vehicle Inventory - Manufacturer Warranty</description>
     <item>
+    <g:id>c3f9a3d2-bf49-5c66-b930-701ff52316d8</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>c3f9a3d2-bf49-5c66-b930-701ff52316d8</vehicle_id>
+    <vehicle_registration_plate>UXN89Z</vehicle_registration_plate>
+    <g:title>Volvo XC90 T8 Ultra Dark | Dragkrok | 360-kamera | HUD</g:title>
+    <title>Volvo XC90 T8 Ultra Dark | Dragkrok | 360-kamera | HUD</title>
+    <g:description>T8 Ultra Dark | Dragkrok | 360-kamera | HUD. Utrustningsnivå: Ultra. Miltal: 1 244 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: UXN89Z. Kontakta oss för mer information om detta fordon.</g:description>
+    <description>T8 Ultra Dark | Dragkrok | 360-kamera | HUD. Utrustningsnivå: Ultra. Miltal: 1 244 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: UXN89Z. Kontakta oss för mer information om detta fordon.</description>
+    <g:link>https://www.rejmesbil.se/sok/id/c3f9a3d2-bf49-5c66-b930-701ff52316d8</g:link>
+    <link>https://www.rejmesbil.se/sok/id/c3f9a3d2-bf49-5c66-b930-701ff52316d8</link>
+    <url>https://www.rejmesbil.se/sok/id/c3f9a3d2-bf49-5c66-b930-701ff52316d8</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/4f04d3a5-88e1-48a7-af41-7cd0807d7cab?format=jpeg&amp;w=770&amp;h=514</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/4f04d3a5-88e1-48a7-af41-7cd0807d7cab?format=jpeg&amp;w=770&amp;h=514</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC90</model>
+    <year>2026</year>
+    <mileage>
+      <value>12440</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>809500 SEK</g:price>
+    <price>809500 SEK</price>
+    <address format="simple">
+      <component name="addr1">Rejmes Halland - Laholm</component>
+      <component name="city">Laholm</component>
+      <component name="region">Laholm</component>
+      <component name="country">SE</component>
+    </address>
+    <sale_price>809500 SEK</sale_price>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>new</g:condition>
+    <condition>new</condition>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    <dealer_id>cddd81a6-5031-42cd-a468-67eb1f2299c7</dealer_id>
+    </item>
+    <item>
     <g:id>3b067e2b-3f67-5be7-858e-3d8cfb132b6b</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -4237,52 +4283,6 @@
     <dealer_id>a19b2c7e-0d5f-4834-bf2d-a285eff2d725</dealer_id>
     </item>
     <item>
-    <g:id>f521445f-267c-49fd-a019-7c4952ee613b</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>f521445f-267c-49fd-a019-7c4952ee613b</vehicle_id>
-    <vehicle_registration_plate>UXN89Z</vehicle_registration_plate>
-    <g:title>Volvo XC90 T8 Ultra Dark | Dragkrok | 360-kamera | HUD</g:title>
-    <title>Volvo XC90 T8 Ultra Dark | Dragkrok | 360-kamera | HUD</title>
-    <g:description>T8 Ultra Dark | Dragkrok | 360-kamera | HUD. Utrustningsnivå: Ultra. Miltal: 1 244 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: UXN89Z. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>T8 Ultra Dark | Dragkrok | 360-kamera | HUD. Utrustningsnivå: Ultra. Miltal: 1 244 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Registreringsnummer: UXN89Z. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/f521445f-267c-49fd-a019-7c4952ee613b</g:link>
-    <link>https://www.rejmesbil.se/sok/id/f521445f-267c-49fd-a019-7c4952ee613b</link>
-    <url>https://www.rejmesbil.se/sok/id/f521445f-267c-49fd-a019-7c4952ee613b</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/da71fa300ea54b88b77283574f9cee2c/f5b12057ecbe4eefad18637b24eb856a?format=jpeg&amp;w=770&amp;h=514</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/da71fa300ea54b88b77283574f9cee2c/f5b12057ecbe4eefad18637b24eb856a?format=jpeg&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC90</model>
-    <year>2026</year>
-    <mileage>
-      <value>12440</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>809500 SEK</g:price>
-    <price>809500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>809500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>new</g:condition>
-    <condition>new</condition>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
-    </item>
-    <item>
     <g:id>0f53fa93-4abf-4207-a65b-b3800ac8b98c</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -4597,52 +4597,6 @@
       <component name="country">SE</component>
     </address>
     <sale_price>274500 SEK</sale_price>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <dealer_id>81e8dd8a-5822-455c-aa41-e4a9420a2a5b</dealer_id>
-    </item>
-    <item>
-    <g:id>8016816f-5f67-41c2-8e38-a2ebbd6cd807</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>8016816f-5f67-41c2-8e38-a2ebbd6cd807</vehicle_id>
-    <vehicle_registration_plate>JGU153</vehicle_registration_plate>
-    <g:title>Volvo V60 B4 AWD Diesel Core | Dragkrok | Backkamera</g:title>
-    <title>Volvo V60 B4 AWD Diesel Core | Dragkrok | Backkamera</title>
-    <g:description>B4 AWD Diesel Core | Dragkrok | Backkamera. Utrustningsnivå: Core. Miltal: 5 771 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: JGU153. Kontakta oss för mer information om detta fordon.</g:description>
-    <description>B4 AWD Diesel Core | Dragkrok | Backkamera. Utrustningsnivå: Core. Miltal: 5 771 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Diesel. Registreringsnummer: JGU153. Kontakta oss för mer information om detta fordon.</description>
-    <g:link>https://www.rejmesbil.se/sok/id/8016816f-5f67-41c2-8e38-a2ebbd6cd807</g:link>
-    <link>https://www.rejmesbil.se/sok/id/8016816f-5f67-41c2-8e38-a2ebbd6cd807</link>
-    <url>https://www.rejmesbil.se/sok/id/8016816f-5f67-41c2-8e38-a2ebbd6cd807</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/9131ec9eb591448da715a101f594884a/e5c67898f9f64df2ad84c28202c5cefc?format=jpeg&amp;w=770&amp;h=514</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/9131ec9eb591448da715a101f594884a/e5c67898f9f64df2ad84c28202c5cefc?format=jpeg&amp;w=770&amp;h=514</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>V60</model>
-    <year>2023</year>
-    <mileage>
-      <value>57710</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Wagon</body_style>
-    <fuel_type>Diesel</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>354500 SEK</g:price>
-    <price>354500 SEK</price>
-    <address format="simple">
-      <component name="addr1">Rejmes Halland - Halmstad</component>
-      <component name="city">Halmstad</component>
-      <component name="region">Halmstad</component>
-      <component name="country">SE</component>
-    </address>
-    <sale_price>354500 SEK</sale_price>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
